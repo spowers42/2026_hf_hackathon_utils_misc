@@ -68,13 +68,31 @@
       "type": "scramble-fall-risk",
       "hazard_category": "terrain-and-fall",
       "description": "The upper 0.8 miles of the Holt Trail involve Class 3 scrambling on exposed granite with a notorious 'crack-wedge' crux: two angled slabs side-by-side, one overhanging the other, requiring committing hand-and-foot moves over an exposed rock face with a very dangerous drop. This section has been described as among the most technically demanding trails of its length in New England, comparable to the first rock scramble on Huntington Ravine Trail. Hands are required; trekking poles must be stowed before this section. A slip or misread sequence on the crux has serious or fatal fall consequence. The descent is harder than the ascent — downclimbing steep slab with reduced foothold visibility requires more care and experience than the ascent. Not appropriate for children without scrambling experience, anyone uncomfortable with Class 3 terrain, or anyone with a fear of heights.",
-      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+      "months_active": [
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November"
+      ]
     },
     {
       "type": "wet-conditions-trail-restriction",
       "hazard_category": "terrain-and-fall",
       "description": "AMC explicitly states the Holt Trail should not be climbed in rainy and/or cold temperatures. Wet granite exponentially increases fall risk on the upper slabs and crux section: what requires careful deliberate movement on dry rock becomes severely dangerous when wet. Unlike Welch-Dickey where a wet-day warning is advisory, the Holt Trail's steeper gradient and greater vertical consequence make wet-rock conditions effectively prohibitive. Do not start the upper trail if it has rained recently, if rain is in the forecast, or if temperatures are near freezing. Retreat immediately if the upper granite becomes wet while you are on it.",
-      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+      "months_active": [
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November"
+      ]
     },
     {
       "type": "lightning",
@@ -86,7 +104,14 @@
       "type": "ice-and-snow",
       "hazard_category": "terrain-and-fall",
       "description": "The open granite slabs of the upper Holt Trail accumulate ice in winter and early spring, and can hold ice late into April. Icy conditions on the crux section — already the trail's most dangerous terrain in dry conditions — create extreme fall risk. Microspikes provide limited protection on steep iced slabs requiring Class 3 moves; crampons are more appropriate but require compatible footwear and technique. The bald summit also accumulates rime ice in late fall and winter, making the approach rock unpredictably slick. Confirm upper trail conditions before any April or November visit — retreat is appropriate if ice is present on the crux section.",
-      "months_active": ["November", "December", "January", "February", "March", "April"]
+      "months_active": [
+        "November",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ]
     }
   ],
   "gear_tiers": {
@@ -116,7 +141,7 @@
     "name": "AMC Cardigan Lodge",
     "lat": 43.6498,
     "lon": -71.8779,
-    "parking": "VERIFY parking fee — day hiker parking available at the lodge main lot (shared with overnight guests). Lot is limited and fills on busy summer and fall weekends; arrive early or carpool. Exit 23 Park & Ride on I-93 is the recommended carpool staging point. No designated overflow lots; no roadside parking on Shem Valley Road; no turnaround areas. Do not block the lodge driveway or attempt roadside parking.",
+    "parking": "day hiker parking available at the lodge main lot (shared with overnight guests). Lot is limited and fills on busy summer and fall weekends; arrive early or carpool. Exit 23 Park & Ride on I-93 is the recommended carpool staging point. No designated overflow lots; no roadside parking on Shem Valley Road; no turnaround areas. Do not block the lodge driveway or attempt roadside parking.",
     "access_road": "AMC Cardigan Lodge, 774 Shem Valley Rd, Alexandria, NH 03222. From I-93: take Exit 23 to NH-104 west; follow directional signs for Alexandria and AMC Cardigan Lodge; turn onto Shem Valley Rd. The road is narrow and unpaved near the lodge. GPS may route incorrectly — follow AMC directional signs from the highway. The Manning Trail begins at the lodge trailhead kiosk; the Holt Trail junction is 0.2 miles in.",
     "nearest_town": "Bristol, NH (approximately 12 miles southeast)",
     "amenities": [
@@ -124,7 +149,7 @@
       "AMC gear demo center during full-service season: Deuter packs and LEKI poles",
       "Retail store (AMC gear and provisions) during full-service season",
       "Self-service cabin and bunk space available outside full-service season (verify with AMC before visiting)",
-      "No dogs in lodge at any time (AMC policy); VERIFY dog policy for trails"
+      "No dogs in lodge at any time (AMC policy); this trail is inappropriate for dogs."
     ],
     "special_notes": "AMC Cardigan Lodge is a full AMC reservation lodge, not a roadside trailhead — be aware of three things: (1) parking is limited and fills on busy days; carpooling and early starts are strongly encouraged; (2) the lodge services (meals, showers, overnight) are available by reservation and worth considering given the lodge is the trailhead; (3) the west side of Cardigan (NH State Park, Orange NH) is a completely separate trailhead with different trails and fee structure — confirm you are navigating to the AMC Lodge east-side approach for the Holt Trail."
   },
@@ -151,7 +176,7 @@
       "type": "weather-forecast",
       "label": "NWS Point Forecast — Mt. Cardigan Summit Area",
       "url": "https://forecast.weather.gov/MapClick.php?lon=-71.8879&lat=43.6525",
-      "notes": "VERIFY — coordinates are approximate summit estimate. Surface when user asks about conditions or weather on this route. No AMC Higher Summits Forecast equivalent for Cardigan; use this NWS point forecast."
+      "notes": "Surface when user asks about conditions or weather on this route. No AMC Higher Summits Forecast equivalent for Cardigan; use this NWS point forecast."
     },
     {
       "type": "trail-conditions",
@@ -161,10 +186,7 @@
     }
   ],
   "progression": {
-    "good_next_step_after": [
-      "mt-chocorua-piper-trail",
-      "welch-dickey-loop"
-    ],
+    "good_next_step_after": ["mt-chocorua-piper-trail", "welch-dickey-loop"],
     "leads_naturally_to": [
       "mt-moosilauke-gorge-brook",
       "mt-eisenhower-edmands-path"
