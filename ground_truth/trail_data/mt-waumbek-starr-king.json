@@ -1,0 +1,136 @@
+{
+  "id": "mt-waumbek-starr-king",
+  "name": "Mt. Waumbek and Mt. Starr King via Starr King Trail",
+  "peaks": [
+    {
+      "name": "Mt. Starr King",
+      "elevation_ft": 3907,
+      "is_4k_footer": false
+    },
+    {
+      "name": "Mt. Waumbek",
+      "elevation_ft": 4006,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Northern Presidentials",
+  "stats": {
+    "distance_rt_miles": 7.2,
+    "elevation_gain_ft": 2550,
+    "highest_point_ft": 4006,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 7.5,
+      "average": 5.5,
+      "experienced": 4.0
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 1,
+    "overall_label": "moderate",
+    "notes": "Fitness challenge is steady rather than relentless: ~2,300 ft of gain in the first 2.6 miles to Starr King, then a short dip into a col before a final 250 ft rise to Waumbek. Less steep per mile than Tecumseh and less concentrated in a single brutal push. Technical demand is minimal — the Starr King Trail is a well-maintained, forested path with no scrambling, no exposed drops, and no hands-required sections. This is one of the least technically demanding NH 4K footers. The route is entirely below treeline; all challenge is cardiovascular."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "none",
+      "description": "The route is entirely below the ~4,400 ft White Mountains treeline. Both summits (Starr King at 3,907 ft and Waumbek at 4,006 ft) are forested. There is no above-treeline terrain, no exposed ridge, and no wind exposure beyond what any forested mountain hike experiences. Standard mountain weather awareness — afternoon thunderstorms in summer — applies but there is no amplified exposure on this route.",
+      "mitigation": "Check a standard weather forecast before departure. No specific above-treeline gear required. Carry rain gear for afternoon summer thunderstorms as with any mountain hike."
+    },
+    "fall_risk": {
+      "rating": "none",
+      "description": "No cliff-consequence terrain on this route. The Starr King Trail is a well-maintained forested path without significant drop-offs, exposed edges, or scrambling. The lower section can be rocky underfoot when wet, but a slip results in a stumble on a forested hillside, not a dangerous fall.",
+      "mitigation": "Standard hiking footwear. Trekking poles helpful for the knee impact on descent. Microspikes in icy conditions."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "December", "January", "February", "March", "May"],
+    "avoid": ["April"],
+    "seasonal_notes": "Mud season (April) is particularly problematic on the lower Starr King Trail, which drains poorly after snowmelt. The trail is a good shoulder-season and winter option because both summits are sheltered below treeline — no exposure risk on a day when other 4K footers are dangerous. Microspikes are typically needed November through April on the rocky upper sections. The trailhead is accessible year-round from Route 2; the access road (Starr King Road) can be rough in mud season. Important note: the Waumbek summit is wooded and viewless. All the views on this route come from the open clearing at the Starr King summit, 1 mile below Waumbek — do not skip this landmark on your way through."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "dog-friendly",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The steep lower 2.6 miles of the Starr King Trail accumulate ice and compacted snow from November through April. The trail is in the forest and the icy sections do not have fall-consequence drops, but traction devices significantly reduce the effort and risk of the ascent and descent.",
+      "months_active": ["November", "December", "January", "February", "March", "April"]
+    },
+    {
+      "type": "navigation",
+      "hazard_category": "weather-and-environment",
+      "description": "The trailhead access from Route 2 involves navigating private land along Starr King Road. Hikers must stay on the designated road and park only in the provided area to respect private landowners. The trail itself is straightforward and well-marked. The Waumbek-Kilkenny Ridge Trail junction at the Starr King summit area is the only navigation decision point; stay on trail toward Waumbek rather than continuing on Kilkenny Ridge.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots or trail runners",
+      "Trekking poles (helpful on the descent)",
+      "Rain jacket and light wind layer",
+      "1.5–2 liters water — no water sources on trail",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required November–April when icy)",
+      "Insulating mid-layer",
+      "Warmer gloves and hat"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Crampons for hard ice conditions on the lower trail",
+      "Snowshoes for unbroken post-storm snow",
+      "Full winter insulation system",
+      "Note: Starr King Road can be rough in winter — check access conditions"
+    ]
+  },
+  "trailhead": {
+    "name": "Starr King Trailhead — Jefferson, NH",
+    "lat": 44.41954,
+    "lon": -71.46572,
+    "parking": "Small parking area at the dead end of Starr King Road. No fee. Additional overflow spots just before the main lot. Hikers must stay within the designated parking area and respect private landowners along the access road. Winter parking on Route 2 shoulder at the base of Starr King Road when the access road is impassable.",
+    "access_road": "From Route 2 in Jefferson, NH, turn onto Starr King Road (north side of Rt. 2, 0.2 miles southeast of the Rt. 115A junction — look for a hiker sign). Drive 0.1 miles up a steep, sometimes-rough dirt road, bear left past Cottage Road, continue 0.2 miles to the parking area. Road can be rough in mud season.",
+    "nearest_town": "Jefferson, NH",
+    "amenities": ["No restrooms", "No potable water"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "USFS White Mountain NF — Starr King Trailhead",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/starr-king-trailhead",
+      "notes": "Trailhead access, parking rules, and current advisories"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mt. Waumbek and Mt. Starr King via Starr King Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-waumbek-and-mount-starr-king-trail",
+      "notes": "Current conditions, user-reported trail state, GPS track"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "welch-dickey-loop",
+      "lonesome-lake-loop",
+      "mt-tecumseh"
+    ],
+    "leads_naturally_to": [
+      "mt-cabot-kilkenny-ridge",
+      "mt-adams-airline",
+      "mt-isolation-glen-boulder"
+    ],
+    "progression_notes": "Mt. Waumbek is one of the most approachable NH 4K footers — similar total effort to Tecumseh but slightly less steep, entirely below treeline, and with no technical demands. It's an excellent early-list peak for hikers building toward the NH 48, particularly for those who want to gain confidence before attempting Presidential Range or above-treeline routes. The route also links naturally to the Kilkenny Ridge Trail system for those interested in exploring the less-traveled northern Whites. Completing Waumbek alongside Mt. Cabot (the other Kilkenny 4K footer) in a single trip or weekend is a common strategy for list-baggers visiting this area."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Waumbek is one of the most beginner-friendly peaks on the NH 4,000-footer list — and a bit of a hidden gem in the northern Whites. The Starr King Trail is well-maintained, fully forested, and has no technical sections or above-treeline exposure to worry about. You'll earn sweeping views from the open clearing on Mt. Starr King (about 2.6 miles in), then continue another mile through the woods to bag the actual 4K footer at Waumbek. Fair warning: the Waumbek summit itself is wooded and viewless — but you'll have already gotten the views, so don't let that be a surprise. The steady 2,300-foot climb to Starr King is the main workout. Expect 5–6 hours for a comfortable pace.",
+    "expert_framing": "Waumbek is a clean, efficient list-check: 7.2 miles, 2,550 ft, entirely below treeline, no technical interest. Best paired with Cabot via a Kilkenny Ridge traverse if you're making the drive north. The Starr King clearing is genuinely worth the stop for northern White Mountain views. Trail is well-maintained and sees moderate traffic — far quieter than the Franconia or Presidential peaks. Good winter option when above-treeline routes are committed — the shelter of the trees keeps this manageable in most conditions with microspikes.",
+    "safety_callout": "No weather exposure hazard (entirely below treeline) and no fall-consequence terrain. The main practical concerns are icy trail conditions in shoulder season (microspikes required November–April) and respecting the private land access — park only in the designated area on Starr King Road."
+  }
+}

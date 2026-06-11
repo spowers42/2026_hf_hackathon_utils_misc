@@ -1,0 +1,200 @@
+{
+  "id": "mt-monroe-ammonoosuc-ravine",
+  "name": "Mt. Monroe via Ammonoosuc Ravine Trail",
+  "peaks": [
+    {
+      "name": "Mt. Monroe",
+      "elevation_ft": 5372,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Presidential Range",
+  "stats": {
+    "distance_rt_miles": 7.0,
+    "elevation_gain_ft": 2900,
+    "highest_point_ft": 5372,
+    "above_treeline_miles": 1.5,
+    "typical_time_hrs": {
+      "beginner": 8.0,
+      "average": 6.0,
+      "experienced": 4.5
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 3,
+    "overall_label": "hard",
+    "notes": "Fitness demand is solid-moderate: 2,900 ft of gain over 7 miles, but the gain distribution is dramatically uneven — the lower 2.1 miles gain only ~1,100 ft at a gentle grade, then the ravine above Gem Pool climbs ~1,400 ft in under a mile. Hikers should expect a gentle warm-up followed by a sustained steep push. The technical challenge is split between two distinct sections: (1) the upper ravine slabs above Gem Pool — steep granite slabs requiring careful footwork and occasional hands, extremely slippery when wet; and (2) the Monroe Loop summit approach, a rough boulder field requiring hand-and-foot contact. Both technical sections are confined to less than a mile combined. The lower trail and the above-treeline Crawford Path approach to Monroe are non-technical."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "high",
+      "description": "The route is above treeline for approximately 1.5 miles near the Lakes of the Clouds col and Monroe summit. The Lakes of the Clouds col (5,050 ft) is a broad, wind-swept plateau between Mt. Monroe and Mt. Washington — one of the most exposed terrain features on the Southern Presidential Range. Monroe's summit (5,372 ft) is fully open with views in all directions. The LOC hut is directly on the route at mile 3.1 and provides critical wind/rain shelter, but the summit is 0.4 miles beyond it with no further protection. Presidential weather norms apply: rapid deterioration, high winds, lightning, and hypothermia risk are real concerns. The route is shorter above treeline than most other Presidential approaches, and the LOC hut mitigates commitment risk significantly compared to routes without mid-route shelter.",
+      "mitigation": "Check the Mt. Washington Observatory Higher Summits Forecast before departing. The LOC hut is an excellent bailout point: conditions at the hut are a reliable proxy for what you will face on Monroe's summit. If the hut looks ominous, turn around there. Start early to avoid afternoon thunderstorms. Carry full rain gear and insulation even on clear trailhead mornings."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "The primary fall hazard is the steep rock slab section in the upper ravine, roughly from Gem Pool (mile 2.1) to just below the Lakes of the Clouds Hut — approximately 1 mile of terrain. This section climbs ~1,400 ft on exposed granite slabs that become very slippery when wet or icy. SummitPost describes this section as a hike 'with some scrambles'; multiple sources note hikers may find themselves sliding on their backside on the descent when conditions are poor. The Monroe Loop summit approach adds a short section of hand-and-foot boulder scrambling (Class 2-3) to reach the high point. Falls on the slab section are more likely to result in injury from uncontrolled sliding than fatal falls, but broken ankles and sprains are real risks.",
+      "mitigation": "Stiff-soled boots with good traction are particularly important on the granite slabs. Trekking poles help on descent through the steep slab section. Turn around at Gem Pool if conditions are wet and the slabs look slick — the LOC hut goal is not worth a fall. On the Monroe Loop, move deliberately over the boulders; the summit cairn is small and easily missed in fog."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September"],
+    "viable_with_gear": ["May", "October"],
+    "avoid": ["November", "December", "January", "February", "March", "April"],
+    "seasonal_notes": "Recommended season aligns with the Lakes of the Clouds Hut's open period (late May through mid-September), which provides significant safety margin. The upper ravine slabs hold ice into early May and pick up ice again in October; microspikes are strongly recommended outside the June-September window. Spring snowmelt (April-May) raises brook crossing difficulty in the lower trail. In winter, the trailhead is accessible year-round (Base Station Road is plowed), and this is a popular winter 4K footer route, but the upper ravine slabs require crampons and ice axe — do not attempt without appropriate winter mountaineering skills. LOC hut operates as emergency-only shelter in winter. December through March should be treated as a serious mountaineering objective."
+  },
+  "tags": [
+    "above-treeline-weather-exposure",
+    "fall-exposure-moderate",
+    "scrambling",
+    "water-crossings",
+    "4k-footer",
+    "out-and-back",
+    "parking-fee",
+    "amc-hut-nearby"
+  ],
+  "hazards": [
+    {
+      "type": "steep-terrain-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The upper ravine above Gem Pool (~mile 2.1 to the LOC hut at mile 3.1) climbs ~1,400 ft on steep exposed granite slabs. The slabs are the technical crux of the route and become dangerously slippery when wet. Multiple trip reports describe controlled slides on descent when conditions are poor. This section is entirely below treeline but is the most consequential hazard on the route.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "scrambling-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Monroe Loop summit approach from the Crawford Path is a rough, Class 2-3 boulder field described as requiring 'hand-and-foot contact climbing.' The summit cone is rocky and loose in places. The actual high point of Monroe is a small cairn that is easy to walk past in fog, and getting off-route near the summit edges carries fall risk.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "waterfall-proximity-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Ammonoosuc Ravine contains multiple waterfalls and cascades, including a large ~600 ft double waterfall above Gem Pool. Trail spur paths lead to overlooks above significant drops. The trail itself crosses near waterfall edges in the upper ravine. Slipping near these sections can have fatal consequences.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "weather-exposure",
+      "hazard_category": "weather-and-environment",
+      "description": "The Lakes of the Clouds col and Monroe summit are above treeline on the Southern Presidential Range, exposed to full Presidential weather: rapid deterioration, high winds, lightning, and temperature swings. The LOC col is a notorious wind funnel. Monroe's summit (5,372 ft) is exposed on all sides. While the LOC hut provides mid-route shelter, the summit push beyond the hut leaves hikers fully exposed.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The LOC col, Monroe summit, and Crawford Path above treeline are fully exposed to lightning. Afternoon thunderstorms are common July-August and can develop rapidly. The upper ravine approach means that if a storm develops while hikers are in the slab section, escape to below treeline requires navigating the same slippery slabs while also avoiding lightning.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "hypothermia-risk",
+      "hazard_category": "weather-and-environment",
+      "description": "The LOC col is one of the windiest terrain features in the Southern Presidentials, and wind chill at 5,000+ ft is severe in any season. Monroe's summit adds additional elevation exposure. Even hikers who start at the trailhead in warm conditions can encounter near-freezing windchills on the col and summit.",
+      "months_active": ["September", "October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The granite slabs in the upper ravine become treacherous with ice. In spring, ice lingers on the north-facing slab sections well into May. In fall, first ice on the slabs can appear in October. The Monroe summit cone and LOC col also accumulate ice, requiring microspikes or crampons outside the June-September window.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "stream-crossing",
+      "hazard_category": "weather-and-environment",
+      "description": "The lower Ammonoosuc Ravine Trail has several brook crossings that are typically easy rock-hops in summer. During spring snowmelt (April-May) or after heavy rainfall, crossings can be calf-deep with significant current. Gem Pool itself is formed by the brook; the trail passes close to it. Brook levels are highest in May and can be dangerous if water covers the stepping rocks.",
+      "months_active": ["April", "May", "June"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with good sole grip — essential for the upper ravine granite slabs",
+      "Trekking poles (stow for Monroe Loop boulder scramble, very helpful on ravine descent)",
+      "Rain shell and insulating mid-layer (LOC col is windy even on clear days)",
+      "Warm hat and gloves (summit and col significantly colder than trailhead)",
+      "Headlamp",
+      "Map and compass or GPS with downloaded topo (AMC Map 1, Presidential Range)",
+      "Extra water: 2-3 liters (ravine brook water is available but should be filtered; summit rocks absorb heat)",
+      "Sun protection (sustained UV above treeline)"
+    ],
+    "shoulder_season": [
+      "All three-season gear plus:",
+      "Microspikes (upper ravine slabs and Monroe summit can ice in October and May)",
+      "Crampons if significant ice is reported on slabs",
+      "Insulated mid-layer and wind shell",
+      "Waterproof insulated gloves",
+      "Extra insulation layer — LOC col is cold and windy even in shoulder season"
+    ],
+    "winter": [
+      "All shoulder-season gear plus:",
+      "Technical crampons (mandatory for upper ravine slabs)",
+      "Ice axe (recommended for self-arrest on steep slabs)",
+      "Full 4-season insulated shell and pants",
+      "Wind-resistant insulated gloves with overmitts",
+      "Balaclava and goggles",
+      "Emergency bivy (LOC hut is emergency-only in winter — no services or meals)",
+      "Know: LOC hut is staffed in winter on a limited basis; do not count on it for rescue"
+    ]
+  },
+  "trailhead": {
+    "name": "Ammonoosuc Ravine Trailhead (Base Station Road)",
+    "lat": 44.266947,
+    "lon": -71.361317,
+    "parking": "WMNF parking area on Base Station Road; fee required (WMNF Recreation Pass: $3/day, $5/week, or annual). Vault toilet on site. Alternatively, park at the Cog Railway Base Station for ~$5 (saves ~0.25 miles each way but is a private lot — fee paid at Cog). Main WMNF lot fills on summer weekends.",
+    "access_road": "Base Station Road off NH Route 302 in Fabyan/Carroll. From the junction of US Route 3 and Route 302, head east on Route 302 for 5 miles; turn left onto Base Station Road. Drive 5 miles and turn right into the WMNF parking area just before the Cog Railway complex.",
+    "nearest_town": "Twin Mountain / Carroll, NH (approximately 5 miles west on Route 302)",
+    "amenities": ["Vault toilet", "Trailhead kiosk", "No potable water"]
+  },
+  "amc_hut": {
+    "name": "Lakes of the Clouds Hut",
+    "distance_miles_from_route": 0.0,
+    "services": "Full-service AMC hut at 5,050 ft, directly on the Ammonoosuc Ravine Trail at mile 3.1 — the trail ends at the hut. Highest of the eight AMC White Mountains huts. Sleeps 90 in bunk rooms; serves dinner and breakfast. Open late May through mid-September. Reservations required well in advance — this is the most popular hut in the system. In winter, operated on emergency-only basis with no meals or staff. The Lakes of the Clouds tarns are a short walk from the hut.",
+    "link": "https://www.outdoors.org/destinations/new-hampshire/lakes-of-the-clouds-hut/"
+  },
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "Ammonoosuc Ravine Trailhead — USFS White Mountain National Forest",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/ammonoosuc-ravine-trailhead",
+      "notes": "Surface when user asks about parking, fees, or trailhead access"
+    },
+    {
+      "type": "alltrails",
+      "label": "Mt. Monroe via Ammonoosuc Ravine Trail — AllTrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/monroe",
+      "notes": "Surface for current user conditions and reviews; 744+ reviews with good trip report coverage"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "Surface every time a user mentions conditions, weather, or plans this route — mandatory check before any Presidential summit day"
+    },
+    {
+      "type": "amc-hut-reservation",
+      "label": "Lakes of the Clouds Hut Reservations — AMC",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/lakes-of-the-clouds-hut/",
+      "notes": "Surface proactively for any user planning this route — hut fills far in advance and is directly on the trail; surface for both overnight and day-hike planning (hut sells lunch to day hikers when available)"
+    },
+    {
+      "type": "map-download",
+      "label": "AMC White Mountains Map — Presidential Range (Map 1)",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/",
+      "notes": "Surface when user asks about maps; AMC Map 1 covers the full Ammonoosuc Ravine Trail and Monroe"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-eisenhower-loop",
+      "mt-pierce-crawford-path"
+    ],
+    "leads_naturally_to": [
+      "mt-washington-ammonoosuc-ravine",
+      "mt-monroe-loop"
+    ],
+    "progression_notes": "The Ammonoosuc Ravine Trail to Monroe is a natural step up from the gentler Southern Presidential routes (Pierce via Crawford Path, Eisenhower via Edmands Path). It introduces the steep granite slab terrain that characterizes the harder Presidential approaches, while offering the LOC hut as a mid-route shelter — a significant safety margin for hikers building toward bigger objectives. The natural extension from this exact route is Mt. Washington via the same trail: from the LOC hut, continue 1.5 miles up the Crawford Path to Washington's summit, adding ~1,200 ft and ~3 hours. This extended route (mt-washington-ammonoosuc-ravine) is the next step in the progression ladder for hikers using the Base Station trailhead."
+  },
+  "response_hints": {
+    "beginner_framing": "This is one of the best 'step-up' hikes in the White Mountains if you've done Pierce or Eisenhower and are ready for more. The lower trail through the ravine is genuinely beautiful — waterfalls, a stunning emerald pool, and dramatic gorge views — and feels like an adventure even before the climbing gets serious. The hard part is a steep mile of granite slabs above the Gem Pool; it's not technical climbing, but it demands respect, especially in wet conditions. The big reward at the top (besides Monroe's summit) is the Lakes of the Clouds Hut, where you can refuel and look across at Mt. Washington. Be honest about the weather: if it's raining, those slabs are dangerous, and the hut is worth saving for a clear day.",
+    "expert_framing": "Ammonoosuc from Base Station: 3.1 mi to LOC hut, 2,500 ft, then Crawford Path 0.1 mi and Monroe Loop 0.3 mi to summit — 3.5 mi / ~2,900 ft total. First 2.1 mi easy; slab crux from Gem Pool to hut is ~1 mi / ~1,400 ft, wet-rock danger here is real. LOC hut at 5,050 ft, then easy above-treeline walk to Monroe. Loop variant possible: descend Monroe's south ridge on the lower Monroe Loop branch back to Crawford Path, then retrace. Common extension: continue Crawford Path 1.5 mi NE to Washington summit (mt-washington-ammonoosuc-ravine, adds ~1,200 ft / 3 hrs). LOC hut books up — confirm before planning an overnight. Slabs are the only genuine hazard; weather exposure is real but the hut is outstanding shelter at the critical juncture.",
+    "safety_callout": "Two distinct hazards. Fall risk: the granite slabs in the upper ravine above Gem Pool become dangerous on wet rock — this is the technical crux, located below treeline, and the primary cause of accidents on this trail. Check conditions and turn around at Gem Pool if slabs look slick. Weather exposure: Monroe's summit and the LOC col are fully exposed on the Southern Presidentials at 5,000+ ft — check the Observatory Higher Summits Forecast without exception, and use the Lakes of the Clouds Hut as your turnaround barometer if conditions are deteriorating."
+  }
+}

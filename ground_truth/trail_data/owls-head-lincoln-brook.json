@@ -1,0 +1,166 @@
+{
+  "id": "owls-head-lincoln-brook",
+  "name": "Owl's Head via Lincoln Brook Trail",
+  "peaks": [
+    {
+      "name": "Owl's Head",
+      "elevation_ft": 4025,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Pemigewasset Wilderness",
+  "stats": {
+    "distance_rt_miles": 18.2,
+    "elevation_gain_ft": 2950,
+    "highest_point_ft": 4025,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 13.0,
+      "average": 10.5,
+      "experienced": 8.5
+    }
+  },
+  "difficulty": {
+    "fitness": 5,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "Owl's Head is the longest single-day 4K footer on the NH list, and the most commonly cited 'last' peak for hikers finishing the 48. At 18.2 miles round trip, fitness demand is the primary challenge — not technical terrain. The approach is a 9-mile journey deep into the Pemigewasset Wilderness: 2.9 miles on the flat Lincoln Woods Trail (former railroad grade), 1.7 miles on the Franconia Brook Trail, and 3.4 miles on the Lincoln Brook Trail with multiple stream crossings before reaching the base of the Owl's Head Path. The crux is the Owl's Head Slide: an unofficial, unmaintained herd path ascending a steep avalanche path of loose rocks and scree, gaining roughly 1,500 feet in approximately 1.1 miles to the summit. The slide is the route's only open terrain — the approach is entirely forested — and provides the only views on the entire route (Franconia Ridge: Lafayette, Lincoln, Little Haystack). The summit itself is wooded, viewless, and reached after navigating a maze of narrow herd paths. The true summit (rediscovered 2005) is 0.2 miles north of the historic false summit cairn; both count for the AMC 4K footer list. There is no maintained trail above the Lincoln Brook Trail junction — the Owl's Head Path is an unofficial herd path with no blazes, no maintenance, and no guarantee of accurate route-finding in poor visibility. The USFS Pemigewasset Wilderness food storage regulation applies to overnight camping on this route. The remoteness of this route is its defining characteristic: 9+ miles from the trailhead, no hut, no shelter, and no maintained trail to the summit — a slow or injured party faces a very long return under any conditions."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "low",
+      "description": "The route is entirely below the ~4,400 ft treeline. The Owl's Head Slide has some open sections providing brief weather exposure during the steep ascent, but these are below treeline (the summit is only 4,025 ft) and not the sustained ridge exposure of Presidential or Franconia routes. The true weather hazard on this route is not altitude but commitment: 9+ miles one way means any significant weather deterioration — afternoon thunderstorm, cold front, early-season snowfall — traps a party deep in a remote wilderness with a very long exit. The Pemi interior amplifies weather consequences that would be minor on a shorter, closer route.",
+      "mitigation": "Check mountain forecast before departure. Start by 5–6am for a day-hike attempt — afternoon turnaround at the summit still leaves a 9-mile return. Carry full rain gear and an insulating layer regardless of morning conditions. Assess turnaround time conservatively: the 9-mile return from the summit takes 3.5–4.5 hours for most parties."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Owl's Head Slide — the herd path up the avalanche scar — is steep and covered in loose, unstable rock. A slip on the slide could result in a slide of 20–50 feet on loose scree before stopping; the terrain is not a sheer cliff, but the sustained steepness means an uncontrolled fall gains momentum before the loose rock arrests it. The USFS and hiking guides note the slide as 'very loose rocks — very dangerous,' reflecting real injury potential if footing is not deliberate. The slide represents a materially higher fall risk than standard maintained trail but does not reach the cliff-consequence level of scrambling routes like Blueberry Ledge. The remainder of the route — Lincoln Woods Trail, Franconia Brook Trail, Lincoln Brook Trail — is standard maintained trail with no fall-consequence terrain.",
+      "mitigation": "Descend the slide slowly and deliberately; loose scree is more hazardous on descent than ascent. Trekking poles provide meaningful stability on the slide. Avoid the slide in wet conditions when loose rocks are slick. In icy conditions the slide becomes genuinely dangerous — turn back if ice is present without appropriate traction devices."
+    }
+  },
+  "seasons": {
+    "recommended": ["July", "August", "September", "October"],
+    "viable_with_gear": ["June", "November"],
+    "avoid": ["December", "January", "February", "March", "April", "May"],
+    "seasonal_notes": "Owl's Head is best attempted in dry, settled summer and fall weather (July–October). The 18-mile distance demands a full dry day with predictable afternoon conditions. June is viable but the Lincoln Brook Trail stream crossings can be thigh-deep during late snowmelt, and the lower Pemi trails remain muddy. The slide ices in late fall and winter, becoming genuinely dangerous — a slip on iced scree could send a hiker sliding hundreds of feet. In winter, the route is a serious multi-day backcountry objective requiring full winter camping capability and careful assessment of the slide conditions; the slide section in typical winter conditions requires crampons and ice axe. Mud season (April–May) renders the Lincoln Brook Trail's lower sections a muddy slog and stream crossings potentially dangerous. Important: the Lincoln Woods Trail has had closure history (most recently reopened March 2026) — check USFS alerts before departure. The summit is completely wooded and viewless in all seasons; the open slide provides the only views. The open-sky views of Franconia Ridge (Lafayette, Lincoln, Little Haystack) from the slide are the route's payoff — they are most striking in fall foliage and in the slanted golden light of a clear morning."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "parking-fee"
+  ],
+  "hazards": [
+    {
+      "type": "steep-loose-slide",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Owl's Head Slide (herd path from Lincoln Brook Trail to summit) ascends very steep, loose scree and unstable rock with approximately 1,500 feet of gain in just over a mile. There is no maintained trail, no blazes, and no anchoring to control a slip. The USFS and hiking guides characterize the slide as 'very loose rocks — very dangerous.' A slip on the slide can result in a 20–50 foot slide on loose rock before stopping; consequence is injury, not typically fatal, but the remoteness of the location (9+ miles from the trailhead) means even a moderate ankle injury is a serious evacuation problem. Wet or icy rock significantly amplifies risk. Descent is more hazardous than ascent — loose footing is harder to control going down a steep slope.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "stream-crossing",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Lincoln Brook Trail crosses Lincoln Brook multiple times over its 3.4-mile length. In spring snowmelt (May–mid June) and after significant rain, crossings can be knee- to thigh-deep with real current — stepping stones are submerged and balance is required. Trail maintenance has improved this section in recent years, but the crossings remain the most weather-dependent hazard on the approach. In summer and fall, most crossings are hop-across or easy wades. Trekking poles are strongly recommended for balance in higher water.",
+      "months_active": ["March", "April", "May", "June"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The Owl's Head Slide accumulates ice and snow from late October through May. In icy conditions, the very steep, loose surface becomes dramatically more dangerous — a slip on iced scree or ice-over-rock is difficult to self-arrest and can send a hiker sliding a long distance. Crampons and ice axe are required for any slide attempt in icy conditions; microspikes are insufficient on the steepest sections. The slide in full winter conditions should be treated as a serious technical objective.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "navigation",
+      "hazard_category": "weather-and-environment",
+      "description": "The summit area of Owl's Head is a maze of narrow herd paths through dense forest. Multiple trails split and reconverge near the top, and the true summit (0.2 miles north of the historic false summit cairn) requires following the correct fork. In poor visibility, fog, or low light, route-finding at the summit is genuinely confusing. Multiple parties have navigated to the historic false summit and turned back without reaching the true summit — both count for the AMC list, but the navigation challenge is worth noting. The Owl's Head Path from Lincoln Brook Trail to summit has no blazes and no USFS maintenance — track your position with GPS.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "hypothermia-and-exhaustion",
+      "hazard_category": "weather-and-environment",
+      "description": "The 18.2-mile round trip through remote wilderness creates a serious commitment problem: any slowdown from injury, weather, fatigue, or navigation difficulty compounds over 9+ miles from the trailhead. Hikers who underestimate the distance or start too late face the real risk of finishing in the dark or in deteriorating weather with limited energy reserves. This is not a 'gut it out' situation — a party that exhausts itself at the summit still has a full 9-mile return. The Pemi Wilderness has no huts, no emergency shelters, and no cell service on this route. The USFS Pemigewasset Wilderness food storage regulation applies to overnight camping here.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots or trail runners with excellent grip — the slide requires sole friction on loose rock",
+      "Trekking poles (mandatory — essential for Lincoln Brook stream crossings and slide stability)",
+      "Full rain gear — 18+ mile day in remote wilderness; no shelter on route",
+      "3 liters water or filtration capability (Lincoln Brook and Franconia Brook provide water for filtering)",
+      "High-calorie food for a 9–13 hour day",
+      "Headlamp — this is an all-day route that can run past dark",
+      "GPS or downloaded offline map — no blazes on the Owl's Head Path",
+      "Emergency bivy/space blanket — evacuation from 9 miles out is a multi-hour rescue",
+      "First aid kit with blister and ankle wrap capability",
+      "Bear canister or approved food storage if overnight camping in Pemi Wilderness (USFS requirement)"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required on the slide and lower trails when icy — October through May)",
+      "Gaiters for mud season (spring) and post-trail-breaking snow",
+      "Insulating mid-layer and warmer gloves and hat",
+      "Extra food for cold-weather metabolic demand"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Crampons — the slide in winter/ice conditions requires full crampons; microspikes insufficient on the steepest sections",
+      "Ice axe — required for slide attempt in hard ice conditions",
+      "Full winter insulation system including vapor barrier socks for cold stream crossings",
+      "Snowshoes for post-storm lower trail conditions",
+      "Overnight camping gear — winter parties should plan for a two-day approach (Thirteen Falls Tent Site) rather than a day hike",
+      "USFS Pemi Wilderness food storage compliance in winter camping"
+    ]
+  },
+  "trailhead": {
+    "name": "Lincoln Woods Trailhead — Lincoln, NH",
+    "lat": 44.063906,
+    "lon": -71.588274,
+    "parking": "Large paved USFS parking area on the Kancamagus Highway (NH Route 112), approximately 5 miles east of I-93 Exit 32 in Lincoln. USFS recreational pass required — $5/vehicle/day or annual America the Beautiful pass. One of the larger and better-equipped WMNF trailheads: flush toilets and potable water available on site, unusual for the 4K footer trailhead list. Fills on summer and fall weekends — early arrival (pre-7am) strongly recommended for an 18-mile day hike. A suspension footbridge crosses the East Branch Pemigewasset River at the trailhead; the Lincoln Woods Trail begins on the far bank.",
+    "access_road": "From I-93 Exit 32 (Lincoln/North Woodstock), head east on the Kancamagus Highway (NH Route 112) for approximately 5 miles. Lincoln Woods Trailhead is on the left (north) side of the highway at a large paved parking area. Road is paved and open year-round; check for seasonal closures in winter. Note: trailhead closure alerts have occurred (most recently in early 2026 — Lincoln Woods Trail closed and reopened March 11, 2026) — verify current status with USFS before departure.",
+    "nearest_town": "Lincoln, NH",
+    "amenities": ["Flush toilets (seasonal)", "Potable water (seasonal)", "Suspension bridge over East Branch Pemi"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "USFS White Mountain NF — Lincoln Woods Trailhead",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/lincoln-woods-trailhead",
+      "notes": "Current trailhead alerts, parking, and Pemigewasset Wilderness regulations including food storage requirements"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Owl's Head Mountain via Lincoln Brook Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/owls-head-mountain-via-lincoln-brook-trail",
+      "notes": "Current conditions, user-reported trail state, GPS track for the herd path section"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory — Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "Best available mountain weather resource for the Pemi area — Owl's Head is below the forecast zone but the regional pattern applies"
+    },
+    {
+      "type": "trip-report",
+      "label": "NH 4000 Footers — Owl's Head",
+      "url": "https://www.4000footers.com/owl.shtml",
+      "notes": "Authoritative route description including true summit location, slide description, and updated distance information"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-galehead-gale-river",
+      "mt-isolation-glen-boulder"
+    ],
+    "leads_naturally_to": [
+      "mt-bond-bondcliff-loop",
+      "pemi-loop"
+    ],
+    "progression_notes": "Owl's Head is not a natural stepping stone — it is typically a terminus. Its distance and remoteness make it one of the most deferred peaks on the NH 48 list; most hikers save it for last or near-last. The prerequisite is not technical ability but proven endurance: hikers should have completed multiple 10–12 mile days (Galehead, Isolation, Passaconaway loop) before attempting an 18-mile Pemi Wilderness commitment. The route itself teaches nothing about above-treeline weather management or technical scrambling — those skills come from other routes. What Owl's Head teaches is pure distance endurance and remote-terrain judgment. Completing it naturally opens the Pemi Loop as a logical next-level objective: if you can do Owl's Head as a day hike, you have the base fitness for the Pemi Loop's 32-mile challenge as an overnight."
+  },
+  "response_hints": {
+    "beginner_framing": "Owl's Head is one of the most remote 4,000-footers on the NH list, and the longest single-day hike of the bunch. Most hikers save it for last — and there's a reason for that. The route starts with 6+ miles of forest hiking along flat old railroad grades and stream-side trails through the Pemigewasset Wilderness, then climbs steeply up the Owl's Head Slide — an unofficial herd path up a steep avalanche scar — to a wooded summit with no views. The only views on the entire 18-mile round trip are from the open slide itself: a sweeping look at Franconia Ridge (Mt. Lafayette, Mt. Lincoln, Little Haystack). Budget a full day — most hikers take 10–11 hours. Start very early (5–6am), bring more food and water than you think you need, and download an offline GPS map because the herd path above the Lincoln Brook Trail has no blazes. The trailhead has flush toilets and running water, which is unusually nice for a hike of this commitment level.",
+    "expert_framing": "Owl's Head via Lincoln Brook is the Pemi's most demanding single-day objective — 18.2 miles, 2,950 ft gain, entirely below treeline but as committing as any route on the 48 by virtue of distance and remoteness. The approach is monotonous by design (railroad grade + river trail) and worth embracing for what it is: a long warm-up before the slide. The Lincoln Brook Trail is in considerably better shape than its historical reputation after recent USFS maintenance — the 'notorious mud trap' of prior years is meaningfully improved. The slide is the crux: loose, steep, and unforgiving in wet or icy conditions. Summit navigation is the secondary technical challenge — the 2005 rediscovery of the true summit (0.2 mi north of the historic cairn) is real, and the herd-path maze near the top is genuinely confusing in poor visibility. Both summit locations count for AMC purposes. The Black Pond approach exists as an alternative but the USFS discourages it heavily due to erosion, and licensed outfitter organizations are explicitly prohibited from using it. Standard route only. Pemi Wilderness food storage regulations apply for camping. The views from the slide looking at Franconia Ridge are outstanding in fall — the only real payoff on the route, and worth spending time on before continuing to the wooded summit.",
+    "safety_callout": "The dominant hazard on this route is commitment: 9+ miles from the trailhead means any injury, weather deterioration, or pace problem is a serious evacuation challenge with no shelter and no assistance available. Start early (5–6am), set a firm turnaround time (summit by 1pm or turn around at 4.5 miles), and carry full emergency gear including headlamp, emergency bivy, and extra food. The Owl's Head Slide is steep loose scree — a fall is painful and consequential at this distance from help. Avoid in wet or icy conditions. Check USFS alerts for Lincoln Woods Trail closures before departure (the trail was closed briefly in early 2026). Pemi Wilderness food storage regulations are in effect for overnight parties."
+  }
+}

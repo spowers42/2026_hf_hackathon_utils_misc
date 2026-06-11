@@ -1,0 +1,152 @@
+{
+  "id": "wildcat-d-wildcat-ridge",
+  "name": "Wildcat D via Wildcat Ridge Trail",
+  "peaks": [
+    {
+      "name": "Wildcat D",
+      "elevation_ft": 4062,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Carter Range",
+  "stats": {
+    "distance_rt_miles": 4.7,
+    "elevation_gain_ft": 2000,
+    "highest_point_ft": 4062,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 5.5,
+      "average": 4.0,
+      "experienced": 3.0
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 3,
+    "overall_label": "hard",
+    "notes": "Wildcat D (4,062 ft) is among the most technically demanding of the lower NH 4K footers. The route covers 4.7 miles round trip with 2,000 feet of gain from the Glen Ellis Falls parking area — compact stats that belie the genuine difficulty. The first mile is the hardest section of the hike: the Wildcat Ridge Trail wastes no time and immediately begins climbing very steeply, transitioning from manageable grades to a rocky cliff-side ascent up a series of rock steps and scrambling moves on exposed ledge. Multiple sources explicitly warn that there is essentially nothing to arrest a fall on the left side of this cliff-face section, making it the defining technical and fall-hazard section of the route. Scrambling with hands is involved in places. The reward for pushing through this steep initial mile is gaining the ridge between Wildcat E (4,046 ft) and the top of the Wildcat Ski Area. From there a short additional push leads to Wildcat D's summit — the top of the ski area — where a viewing deck delivers outstanding views of Mt. Washington and the Presidential Range. The summit at 4,062 ft is below natural alpine treeline; the views exist because the ski area has cleared the trees. The Wildcat Ridge Trail is part of the Appalachian Trail; AT thru-hikers frequently pass through. An alternative (and more gradual) approach adds 1.0 mile each way via the Lost Pond Trail from the Pinkham Notch Visitor Center, bypassing the initial steep section's lower portion. Dogs are allowed but the steep exposed sections near the start make this a poor choice for most dogs."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "none",
+      "description": "Wildcat D sits at 4,062 ft, which is below the natural treeline threshold (~4,400 ft) for the White Mountains. The summit views come from a cleared ski area platform, not natural alpine terrain. The route does not involve sustained above-treeline travel. However, the initial steep open rock face section and the summit deck are exposed to afternoon weather, and the nearby Presidential Range drives aggressive convective patterns — afternoon thunderstorms should be respected and hikers should leave the summit area by early afternoon in summer.",
+      "mitigation": "Check the Mt. Washington Observatory Higher Summits Forecast before departure — the Pinkham Notch area is directly affected by Presidential Range weather systems. Start early to summit by mid-morning and avoid being on the steep exposed rock face sections during afternoon storms. The open rock face near the start of the climb is the most exposed section to lightning due to its open character."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "The defining fall hazard on this route is the steep cliff-side rock face and rock step section on the initial climb, approximately 0.5–1 mile from the trailhead. Multiple sources describe this as a rocky, cliff-side ascent where 'there is nothing to stop you tumbling off the cliff if you fall to your left.' The terrain involves steep rock steps cut into the cliff face, open ledge with limited guard terrain, and scrambling moves that require hands-on-rock engagement. This is not a vertical cliff in the mountaineering sense, but the combination of steep grade, hard rock surface, and unguarded exposure to the left creates meaningful consequence if a hiker loses their footing — a fall here could result in a serious tumbling fall on hard rock. In dry conditions with proper footwear and careful movement, the section is manageable for fit hikers comfortable with scrambling. In wet, icy, or snowy conditions, this section becomes significantly more hazardous.",
+      "mitigation": "Use three points of contact on the rock step and scramble sections — do not rely on two-foot balance on the steeper moves. Wear hiking boots with Vibram or high-friction soles; trail runners acceptable in dry conditions but marginal on steep wet rock. Trekking poles should be stowed or collapsed for the scrambling sections where hands are needed. Descend facing the rock face on the steepest steps; do not attempt to descend facing outward on the cliff-side section. In wet conditions or with ice present, strongly reconsider this route — the cliff-side section with wet rock or ice becomes a serious hazard. Do not attempt with dogs who cannot handle steep exposed rock steps."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "The Wildcat Ridge Trail is a strong three-season hike with excellent summit views in all conditions. Summer (June through August) is ideal — the initial steep rock face section is manageable in dry conditions, and the views from the summit deck and the open rock face sections are excellent on clear days. The Presidential Range panorama from the summit deck facing Mt. Washington is one of the best single-summit views in the Carter Range. Fall (September–October) is outstanding, with foliage views from the exposed initial climb section and crisp clear days that deliver exceptional Presidential panoramas. The technical initial section makes this hike weather-dependent: do not attempt in rain or immediately after significant rain — the steep cliff-face steps and ledge become extremely slippery and the fall hazard escalates materially. The upper mountain receives ice from late October and the steep rock steps require microspikes in icy conditions. In full winter the cliff-side initial section is a genuine hazard: crampons or aggressive traction is required on the rock steps, and the descent of the iced face section requires careful technique. Several sources note the hike is 'extra challenging in winter' and it should be treated as a serious winter objective for experienced hikers only. The Wildcat gondola operates seasonally and provides summer/fall access to the Wildcat E area for those who want to skip the most challenging section — but the gondola approach does not count for peak bagging purposes and is not part of this route description. Spring (April–May) brings ice on the steep upper sections and mud on the lower trail."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "scrambling",
+    "fall-exposure-moderate",
+    "parking-fee",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "steep-cliff-side-rock-steps",
+      "hazard_category": "terrain-and-fall",
+      "description": "The first mile of the Wildcat Ridge Trail features what multiple sources describe as a 'rocky, cliff-side ascent up a series of rock steps' with documented language that 'there is nothing to stop you tumbling off the cliff if you fall to your left.' This section transitions from steep forest hiking to exposed ledge scrambling, with rock steps cut into the cliff face and open, unguarded exposure on the left side. Hands-on-rock scrambling is required in places. The rock face is manageable in dry conditions for hikers comfortable with technical terrain, but the unguarded nature of the left-side exposure means that a loss of footing could result in a serious tumbling fall on hard rock — unlike a pure trail stumble, the consequence here is meaningfully elevated. This is the defining fall-risk section of the entire Wildcat Ridge Trail route.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "wet-rock-on-steep-initial-section",
+      "hazard_category": "terrain-and-fall",
+      "description": "The same steep cliff-side rock steps and ledge on the initial climb that are manageable in dry conditions become a significantly more serious hazard when wet. The smooth rock surfaces offer excellent grip when dry but lose friction rapidly when wet or covered with moisture from rain, fog, or morning dew. On the steep sections adjacent to the unguarded cliff exposure, wet rock substantially elevates the probability of a slip — and the consequence of that slip is a fall on hard exposed terrain. This trail should not be attempted in rain or immediately after significant rain. The sections of exposed ledge and carved rock steps on the initial climb are the primary concern.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "ice-and-snow-on-steep-technical-terrain",
+      "hazard_category": "weather-and-environment",
+      "description": "The rock steps and cliff-side ledge sections of the initial Wildcat Ridge Trail climb accumulate ice and snow from late October through May. The technical nature of this section — steep carved rock steps with cliff exposure — means that ice here is qualitatively more dangerous than ice on a standard forest trail. A slip on iced rock steps adjacent to cliff-side exposure is a serious fall hazard. Microspikes alone may be insufficient on the steepest and most exposed sections in full winter; crampons provide better security. Multiple sources note the trail is 'extra challenging in winter' specifically because the cliff-side section becomes significantly more technical with ice. The open upper mountain also receives icing on the ski-area terrain around the summit.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "afternoon-lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The steep open rock face section on the initial climb and the exposed summit deck at Wildcat D sit directly across from Mt. Washington and the Presidential Range — the primary driver of convective afternoon thunderstorm activity in this part of the White Mountains. During summer, fast-moving afternoon thunderstorms can develop quickly. The open rock sections on the initial cliff-side climb and the exposed summit deck have no tree cover and represent elevated lightning risk during electrical storms. Hikers caught on the cliff-side rock face section during a storm are exposed on hard rock with limited options for shelter. The AMC Pinkham Notch Visitor Center is a reliable weather information source nearby.",
+      "months_active": ["May", "June", "July", "August", "September"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with Vibram or high-friction soles — mandatory for the cliff-side rock step section; worn soles are a serious hazard on the steep exposed ledge",
+      "Trekking poles — stow or collapse them before the scrambling sections on the initial climb where hands are needed on rock",
+      "Rain jacket and full rain gear — do not attempt in wet conditions; carry it in case afternoon weather develops",
+      "1.5–2 liters water (no reliable water sources on the trail; the initial steep section offers no side trips to streams)",
+      "Gloves useful on the scrambling section in cooler temperatures",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required on the rock step section and upper trail when icy — late October through May)",
+      "Extra insulating layer — the summit deck at 4,062 ft is wind-exposed and significantly cooler than the trailhead",
+      "Gaiters for mud on the lower trail (spring) or snow on upper terrain"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Crampons — the cliff-side rock steps with ice are beyond what microspikes handle safely; crampons provide far better security on the steep iced sections",
+      "Consider facing the slope when descending the steepest iced sections rather than descending facing out",
+      "Full winter insulation system — the summit deck is exposed to Presidential-adjacent wind",
+      "Balaclava and expedition gloves",
+      "Communicate plans and carry emergency shelter — the steep technical terrain in winter is serious and a slip on the initial section has meaningful consequences"
+    ]
+  },
+  "trailhead": {
+    "name": "Glen Ellis Falls Trailhead — Route 16, Pinkham Notch, NH",
+    "lat": 44.2523,
+    "lon": -71.2527,
+    "parking": "Glen Ellis Falls parking lot on the west side of Route 16, approximately 0.5 miles south of the AMC Pinkham Notch Visitor Center. WMNF recreational pass ($5/day or America the Beautiful) required. Vault toilets on site. High-demand area — the lot serves both the Glen Ellis Falls short trail and the Wildcat Ridge Trail. Fills quickly on summer and fall weekends; arrive by 7–8am. Alternative: Pinkham Notch Visitor Center parking (larger lot, ~0.5 miles north on Route 16); from here take the Lost Pond Trail 1.0 mile to the Wildcat Ridge Trail junction — this adds 2.0 miles RT to the hike but is the only option when Glen Ellis is full.",
+    "access_road": "From North Conway: take NH Route 16 north approximately 15 miles through Jackson to Pinkham Notch. The Glen Ellis Falls parking lot is on the left (west) side of Route 16, well-signed, about 0.5 miles south of the AMC Pinkham Notch Visitor Center. Cross Route 16 via the foot tunnel under the road to reach the trail. From the tunnel, turn left immediately for the Wildcat Ridge Trail (or right for the short detour to Glen Ellis Falls). GPS: 'Glen Ellis Falls, Pinkham Notch, NH.'",
+    "nearest_town": "Jackson, NH",
+    "amenities": ["Vault toilets", "WMNF pass required"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "USFS White Mountain NF — Pinkham Notch / Wildcat Ridge Trailhead",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/pinkhamnotch-trailhead",
+      "notes": "Official WMNF trailhead page for the Pinkham Notch / Glen Ellis area — parking, facilities, Androscoggin Ranger District advisories"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Wildcat Ridge Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/wildcat-ridge-trail--3",
+      "notes": "Current conditions, user-reported trail state, GPS track; high review volume makes this the best source for real-time condition updates on the cliff-face section and upper trail"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory — Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "Primary weather source — Wildcat is directly across from Mt. Washington; this forecast captures the convective afternoon storm patterns that affect the exposed sections of this trail"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-moriah-carter-moriah",
+      "mt-isolation-glen-boulder"
+    ],
+    "leads_naturally_to": [
+      "wildcat-mountain-wildcat-ridge",
+      "carter-dome-19-mile-brook",
+      "middle-south-carter-imp-loop"
+    ],
+    "progression_notes": "Wildcat D introduces the Carter Range via a short but technically demanding route that punches above its distance statistics. The cliff-side rock step section on the initial climb is genuinely different from the steep forest hiking or wet-slab routes that precede it in most progression paths — it requires comfort with hands-on scrambling and fall-consequence awareness on exposed rock. Hikers who have done Moriah (steep slab) and have some experience on rocky terrain are ready for Wildcat D; those who have not done any scrambling-character routes should find a preparatory route first. The natural next step after Wildcat D is completing the full Wildcat ridge to Wildcat A (4,422 ft) — which extends the hike to 8.4 miles with additional ups and downs along the ridge — or pivoting to Carter Dome via the 19 Mile Brook Trail, which is a completely different character (sustained but less technical). The Carter Range as a whole rewards sequential exploration; completing D and A together (the classic traverse with a shuttle from 19 Mile Brook to Glen Ellis) is the canonical way to finish this mountain."
+  },
+  "response_hints": {
+    "beginner_framing": "Wildcat D is a compact but genuinely challenging 4K footer in the Carter Range near Pinkham Notch. At 4.7 miles round trip and 2,000 feet of gain, the numbers look modest — but the first mile is one of the steeper and more exposed sections you'll encounter on any NH 4K footer below 4,500 feet. The trail immediately starts climbing very steeply after you cross under Route 16 via the tunnel, and about halfway up the initial steep section you hit a cliff-side rock face with steps carved into the rock and some scrambling moves that require using your hands. Multiple people who've hiked this describe it as a section where you don't want to slip to your left. Once you get through that section and gain the ridge, the hard part is over — you'll pass through the top of the Wildcat Ski Area and then up to Wildcat D's summit, where there's a viewing deck with the best direct view of Mt. Washington you'll find in the Carter Range. Key requirements: hiking boots with serious grip (non-negotiable on the rock steps), and pick a dry day — those rock faces become much more dangerous when wet. Trekking poles are helpful but stow them when your hands need to be on rock.",
+    "expert_framing": "Wildcat D is the most technically honest of the shorter NH 4K footers — it earns its 'hard' rating through terrain character rather than sheer distance. The initial cliff-side rock step section is real scrambling terrain with genuine fall consequence; it reads closer to a low-grade rock route than a hiking trail in places, and the unguarded left-side exposure is explicitly noted in multiple trip reports. This is the route to use when introducing hikers to scrambling consequence before moving them to the higher-commitment routes like Bondcliff or Franconia Ridge. In dry summer conditions, a fit party moves through the route efficiently (3–4 hours RT) and can extend to Wildcat A (another 1.8 miles one way along the ridge) or complete the classic traverse to Carter Notch with a shuttle on 19 Mile Brook Trail (~10 miles, 3,000 ft if done from Pinkham to 19 Mile Brook). The summit deck directly faces the entire Presidential Range — exceptional photography and one of the cleaner views of the Washington summit cone available from a Carter Range trailhead. Winter: the cliff-side section requires crampons (not just microspikes) and solid ice-climbing confidence on descent; this route has injured winter hikers who underestimated the iced rock steps. Be explicit about this with your party before committing.",
+    "safety_callout": "The defining hazard on this route is the steep cliff-side rock face and steps on the first mile — multiple trip reports explicitly note there is 'nothing to stop you from tumbling off the cliff' on the left side of this section. This is the part where hikers need to slow down, use three points of contact, and stow their trekking poles for the scrambling moves. Do not attempt in wet conditions or after significant rain — the rock steps become extremely slippery and the fall consequence at that section is real. In any season: correct footwear (boots with real grip) is mandatory, not optional. In icy conditions, crampons (not just microspikes) are the appropriate tool for the cliff-face section. And if you're bringing a dog, consider whether your dog can navigate steep exposed rock steps with cliff exposure on one side — multiple sources note this trail is not dog-friendly."
+  }
+}

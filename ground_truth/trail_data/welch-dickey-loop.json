@@ -1,0 +1,177 @@
+{
+  "id": "welch-dickey-loop",
+  "name": "Welch and Dickey Mountains Loop",
+  "peaks": [
+    {
+      "name": "Welch Mountain",
+      "elevation_ft": 2605,
+      "is_4k_footer": false,
+      "notes": "VERIFY elevation — sources range from 2,598 to 2,605 ft. Not a NH 4,000-footer. Located in Thornton, NH within the White Mountain National Forest (Pemigewasset Ranger District). The summit is extensively open granite ledge with sub-alpine vegetation."
+    },
+    {
+      "name": "Dickey Mountain",
+      "elevation_ft": 2743,
+      "is_4k_footer": false,
+      "notes": "VERIFY elevation — sources range from 2,722 to 2,743 ft. Not a NH 4,000-footer. Higher of the two Welch-Dickey summits. Exposed rocky summit with long cliff sections on the northeast descent and commanding views of the Mad River Valley and Sandwich Range."
+    }
+  ],
+  "region": "Sandwich Range / Waterville Valley",
+  "stats": {
+    "distance_rt_miles": 4.4,
+    "elevation_gain_ft": 1800,
+    "highest_point_ft": 2743,
+    "above_treeline_miles": 0.0,
+    "above_treeline_notes": "Schema uses 4,400 ft threshold; both summits are well below it. However, the Welch-Dickey Loop traverses extensive open granite ledge sections on both Welch and Dickey — the defining terrain of this trail — with sub-alpine vegetation and full weather and lightning exposure. USFS specifically warns the trail 'can be difficult in wet conditions' due to these ledge sections. The 0.0 value reflects the schema threshold; actual weather and fall exposure is documented in the exposure and hazard fields.",
+    "typical_time_hrs": {
+      "beginner": 4.0,
+      "average": 3.0,
+      "experienced": 2.5
+    }
+  },
+  "difficulty": {
+    "fitness": 2,
+    "technical": 2,
+    "overall_label": "moderate",
+    "notes": "The Welch-Dickey Loop is moderate in fitness demand — 4.4 miles and 1,800 ft of gain is achievable for most active hikers. The gain is well-distributed across both summits, with no single grinding slog. The technical rating of 2 applies specifically to dry conditions: the open granite ledge sections require careful footwork and comfortable movement on bare rock, but do not involve scrambling or hands-and-feet climbing. In wet conditions, the technical demand increases significantly — the polished granite slabs become extremely slippery and the trail is substantially more hazardous. USFS advises against attempting the loop in wet conditions. The trail should be treated as fitness 2 / technical 3-4 in rain or recent-rain conditions. Recommended direction: counterclockwise (right fork from trailhead, ascending Welch first). This ascends the steeper slab sections of Welch Mountain and descends the longer, more gradual Dickey side — safer than the reverse. The trail is also not recommended for those with a significant fear of heights; open cliff-edge exposure on the Dickey descent is sustained and unnerving for vertigo-prone hikers."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "moderate",
+      "description": "The Welch-Dickey Loop traverses sustained open granite ledge on both Welch Mountain and Dickey Mountain — unlike most sub-3,000 ft trails in the Whites which are entirely forested. These exposed ledge sections constitute a meaningful portion of the loop and are fully open to wind, rain, and lightning. Welch Mountain's open ledges begin partway up the summit cone and continue to the top; Dickey Mountain's upper terrain and the cliff section on its northeast side are open rock with direct weather exposure. At 2,600-2,700 ft the temperature and wind differentials are milder than Presidential routes, and the forest provides rapid shelter at the base of each summit, but the committed open-ledge sections are the reason this trail carries a 'moderate' weather rating rather than 'low.'",
+      "mitigation": "Check the NWS point forecast before departing. The most critical weather concern is rain — the slabs become treacherous when wet and the trail should not be started if rain is falling or forecast. Turn around immediately if rain begins while on the ledges; wet granite is extremely slippery and there is real fall consequence. Lightning: the open ledge sections on both summits are exposed — get off the slabs and into the forest quickly if lightning is audible or the sky is active. Afternoon convective storms are most common June–August."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "The defining fall hazard of the Welch-Dickey Loop is the extensive open granite slab terrain on both summits. These slabs are smooth, polished, and steeply angled in sections — in dry conditions they require careful footwork but are manageable for most hikers; in wet conditions they become extremely slippery and have caused falls and injuries. Multiple authoritative sources (including USFS) explicitly recommend against attempting this loop in wet weather. A second distinct fall hazard is the cliff section on Dickey Mountain's northeast side, where the trail runs alongside a significant cliff edge — this section provides spectacular views back at both mountains and the Mad River Valley, but the exposure to the cliff edge is sustained and a misstep carries serious consequence. The 'moderate' rating reflects real and documented risk: this trail has a higher wet-weather accident rate than most trails of similar elevation because of the slab character.",
+      "mitigation": "Avoid this trail entirely in rain, or within 24 hours of significant rain — wet slabs are extremely slippery and there is no safe way to navigate them when conditions are poor. Wear stiff-soled boots with good grip; trail runners may be adequate in dry conditions but are marginal on wet granite. Trekking poles add stability, especially on slab descent sections. On the cliff section of Dickey Mountain, stay on the marked trail and away from the edge. Take the recommended counterclockwise direction — ascending the Welch slabs is safer than descending them. In shoulder season, ice on the slabs requires microspikes or crampons."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["May", "November"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "The Welch-Dickey Loop is best in full summer and early fall. The open ledge sections make for spectacular views in any good weather, and fall foliage from the granite slabs is outstanding in late September–early October. May and November are viable with appropriate gear (microspikes) but the slabs can hold ice in these months and the hazard is significantly elevated. April: ice typically persists on the north-facing slab sections — treat as a serious shoulder-season objective requiring microspikes and careful assessment. Winter: the granite slabs become a serious technical challenge with ice and snow — crampons and ice axe experience recommended; the cliff section on Dickey is particularly hazardous in winter. This trail is extremely popular and the trailhead can fill on summer and fall weekends; arrive early or mid-week for a parking spot. The WMNF $5/day fee applies year-round when the kiosk is staffed."
+  },
+  "tags": [
+    "weather-exposure-moderate",
+    "fall-exposure-moderate",
+    "granite-slabs",
+    "cliff-exposure",
+    "loop",
+    "parking-fee",
+    "wmnf",
+    "non-4k-footer",
+    "sub-alpine-vegetation",
+    "no-amc-hut",
+    "dog-friendly",
+    "very-popular",
+    "wet-weather-avoid"
+  ],
+  "hazards": [
+    {
+      "type": "wet-granite-slab-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Welch-Dickey Loop's defining feature is extensive open granite slab terrain on both Welch and Dickey Mountains. These slabs are polished by heavy foot traffic and natural weathering and become extremely slippery when wet. USFS explicitly states the trail 'can be difficult in wet conditions.' Multiple hiking sources warn against attempting this loop in rain or within 24 hours of significant rainfall. In dry conditions the slabs require careful footwork but are not technically demanding; in wet conditions they have caused documented falls and injuries at all experience levels. This is the primary safety hazard on the route and should be taken seriously regardless of hiker experience.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "cliff-proximity-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "On the northeast descent from Dickey Mountain's summit, the trail traverses alongside a long cliff edge that provides exceptional views back at both Welch and Dickey and across the Mad River Valley. This exposed cliff-edge section is a trail highlight but also a significant fall hazard — the drop is substantial and a misstep near the edge has serious consequences. The exposure is sustained for a notable stretch of the descent and is not easily avoided. This section is specifically noted as challenging for hikers with fear of heights or vertigo. The hazard is heightened in wet conditions when the rock along the cliff edge is slippery.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "Both Welch and Dickey Mountains have extensive open granite ledge sections that create meaningful lightning exposure — more so than a typical sub-3,000 ft White Mountains trail. The open slabs and summit rocks are fully exposed, and getting off the ledges and into forest below requires descending the same slab terrain that creates the hazard. Afternoon convective thunderstorms are common June–August. If thunder is audible from anywhere on the open ledges, descend immediately; waiting on the slabs for a storm to pass is not a safe strategy.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The granite slabs on Welch and Dickey Mountains become extremely hazardous with ice — more so than typical forested trail because there is no cover and the slab angles are significant. Ice forms on the slabs in October and lingers into May, with north-facing sections retaining ice longest. In winter the slabs are typically ice-covered and require crampons (not just microspikes) for safe travel. The cliff section on Dickey's northeast side is particularly hazardous under icy conditions. This trail should not be attempted in icy conditions without appropriate traction and skills.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "sub-alpine-vegetation-trampling",
+      "hazard_category": "weather-and-environment",
+      "description": "The open ledge sections of Welch and Dickey Mountains support rare sub-alpine vegetation communities — hardy plants growing in rock crevices and thin soils that are extremely vulnerable to trampling. USFS specifically calls out that 'it is vital to the health and vitality of this ecosystem to remain on the trail at all times.' Hikers who step off marked trail onto adjacent rock, shortcut switchbacks, or scramble on open ledges off-route contribute to long-term damage of these plant communities. This is a conservation hazard rather than a personal safety hazard.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Stiff-soled hiking boots with good traction — essential on granite slabs; trail runners are marginal on slab in dry conditions and inadequate when wet",
+      "Rain shell — carry even on clear days; if it starts raining while you are on the slabs, you need to descend immediately and the descent will be wet",
+      "Trekking poles — helpful for stability on slab descent sections and the cliff section",
+      "Water: 1.5-2 liters — no water sources on the route",
+      "Leash for dogs — permitted in WMNF",
+      "AMC White Mountains map covering the Waterville Valley / Sandwich Range area",
+      "Do not start this hike if rain is forecast or falling — wet slabs are the primary accident cause on this trail"
+    ],
+    "shoulder_season": [
+      "All three-season gear plus:",
+      "Microspikes — granite slabs hold ice in April-May and October-November; required when ice is present",
+      "Extra warm layers — exposed ledges are cold and windy in shoulder season"
+    ],
+    "winter": [
+      "All shoulder-season gear plus:",
+      "Crampons — the slabs and cliff section require full crampons, not just microspikes, when iced",
+      "Ice axe (recommended for self-arrest potential on steep iced slabs)",
+      "Full insulated winter clothing",
+      "Note: winter Welch-Dickey is a significantly more serious objective than the summer rating suggests — the iced slabs and cliff section raise the technical bar substantially"
+    ]
+  },
+  "trailhead": {
+    "name": "Welch-Dickey Trailhead (Orris Road, Thornton NH)",
+    "lat": 43.90459033,
+    "lon": -71.58896711,
+    "parking": "WMNF day use fee: $5 per vehicle per day. WMNF Recreation Pass (annual) accepted. No fee envelopes may be available at the trailhead for cash payment when the kiosk is not staffed. This is one of the most popular trailheads in the Pemigewasset Ranger District — lot fills early on summer and fall weekends. Arrive by 8 am on peak days or plan a mid-week visit.",
+    "access_road": "From I-93, take Exit 28 and head east on NH-49 toward Waterville Valley. At 5.6 miles, turn left onto Upper Mad River Road. After 0.6 miles, turn right onto Orris Road. After 0.6 miles, turn right onto a short gravel road (50 yards) to the parking area. The trailhead kiosk and both trail forks are at the far end of the lot.",
+    "nearest_town": "Waterville Valley, NH (approximately 6 miles east on NH-49)",
+    "amenities": ["Vault toilet", "Trailhead kiosk", "No potable water"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "Welch-Dickey Trailhead — USFS White Mountain National Forest",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/welch-dickey-trailhead",
+      "notes": "Surface for fee information, conditions, and official trail description; page last updated March 2026"
+    },
+    {
+      "type": "alltrails",
+      "label": "Welch-Dickey Loop Trail — AllTrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/welch-and-dickey-loop-trail--4",
+      "notes": "Surface for current conditions and trip reports; 10,200+ reviews — one of the most-reviewed trails in the White Mountains; especially useful for checking recent wet-weather slab conditions"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "NWS Point Forecast — Welch-Dickey Summit Area",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=43.904&lon=-71.589",
+      "notes": "Surface when user asks about conditions or weather. No AMC Higher Summits Forecast for this area — use this NWS point forecast. Most critical weather question: is rain forecast? If yes, this hike should be postponed."
+    },
+    {
+      "type": "map-download",
+      "label": "AMC White Mountains Map — Pemigewasset Wilderness Area",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/",
+      "notes": "VERIFY: confirm which AMC map covers the Welch-Dickey area (likely Map 2 or Map 3 — Pemigewasset/Sandwich Range); surface when user asks about maps"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-pack-monadnock-marion-davis-trail",
+      "mt-monadnock-pumpelly-trail"
+    ],
+    "leads_naturally_to": [
+      "mt-tecumseh-ski-area",
+      "mt-moosilauke-gorge-brook"
+    ],
+    "progression_notes": "The Welch-Dickey Loop is one of the most important stepping-stone hikes in the White Mountains system — it bridges beginner-accessible peaks (Pack Monadnock, Grand Monadnock) and the serious 4K footer list. Its defining value in a progression is introducing open granite slab terrain and cliff-edge exposure at relatively low commitment (4.4 miles, 2,743 ft highest point, no Presidential weather risk). Hikers who complete Welch-Dickey in good conditions have demonstrated they can handle open-rock technical terrain without triggering excessive fear or risk, and are ready to attempt trails with similar or greater technical demand — Mt. Tecumseh and Mt. Moosilauke are natural next steps in the same geographic area. Welch-Dickey is also a reliable 'weather test' for hikers: someone who turns around appropriately when rain arrives on the slabs shows good mountain judgment for tackling bigger objectives. Note: the slab-wet-weather hazard makes Welch-Dickey harder than its elevation and distance suggest; do not underestimate it for hikers new to granite slab terrain."
+  },
+  "response_hints": {
+    "beginner_framing": "The Welch-Dickey Loop is one of the most rewarding hikes in the White Mountains for the effort — the 4.4-mile loop takes you over two open summits with huge views, and you spend a good chunk of the hike walking on bare granite ledge instead of forest trail. The catch: those granite slabs are the hike's main safety concern. In dry weather they're manageable with good boots and careful footing. In wet weather they're very slippery and the hike should be skipped entirely — this is one of the few trails in the Whites where the official advice is 'don't go if it's raining.' The recommended direction is counterclockwise (take the right fork from the trailhead), which puts you going up the steeper slabs rather than down them. Dogs are welcome.",
+    "expert_framing": "Welch-Dickey Loop: 4.4 mi, ~1,800 ft, trailhead at 43.9046°N / 71.5890°W (Orris Rd, Thornton). Counterclockwise: Welch summit (2,605 ft) → Dickey summit (2,743 ft) → cliff traverse section → forest descent. The open granite ledge sections are the defining terrain — USFS explicitly calls out wet-condition difficulty; treat this as a no-go in rain or within ~24 hrs of significant rain. Cliff section on Dickey NE side: sustained exposure, real fall consequence. Sub-alpine vegetation on ledges — stay on marked trail. Pemigewasset RD, WMNF; $5/day fee; vault toilet. No hut. Shoulder seasons: microspikes; winter requires crampons + ice axe for safe slab travel. 10,200+ AllTrails reviews — crowded on summer/fall weekends.",
+    "safety_callout": "Two distinct but closely related hazards. Fall risk is moderate and weather-dependent: the open granite slabs on both Welch and Dickey Mountains are this trail's defining character and its primary danger — in dry conditions they require careful footwork; in wet conditions they are extremely slippery and the trail should not be attempted. Check the forecast before going; turn around immediately if rain begins while you are on the slabs. A separate fall hazard is the cliff-edge traverse on Dickey Mountain's northeast side — sustained exposure with real drop consequence; stay on the marked trail and away from the edge. Weather exposure is moderate: the open ledge sections on both summits create real lightning exposure despite the modest elevation — descend off the slabs immediately if lightning is in the forecast."
+  }
+}

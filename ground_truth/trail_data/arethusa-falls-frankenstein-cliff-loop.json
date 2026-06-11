@@ -1,0 +1,167 @@
+{
+  "id": "arethusa-falls-frankenstein-cliff-loop",
+  "name": "Arethusa Falls & Frankenstein Cliff Loop",
+  "peaks": [
+    {
+      "name": "Frankenstein Cliff (viewpoint)",
+      "elevation_ft": 2150,
+      "is_4k_footer": false
+    }
+  ],
+  "region": "Crawford Notch",
+  "stats": {
+    "distance_rt_miles": 5.0,
+    "elevation_gain_ft": 1400,
+    "highest_point_ft": 2420,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 5.0,
+      "average": 3.5,
+      "experienced": 2.5
+    }
+  },
+  "difficulty": {
+    "fitness": 2,
+    "technical": 2,
+    "overall_label": "moderate",
+    "notes": "The Arethusa Falls and Frankenstein Cliff Loop is one of Crawford Notch's signature hikes, combining New Hampshire's highest waterfall with striking cliff-top views — and doing so in a compact 5.0-mile loop that makes it accessible to a wide range of hikers. The route is best done counterclockwise: up the Frankenstein Cliff Trail, down the Arethusa Falls Trail. All sources agree on this direction because the Frankenstein Cliff Trail's steepest sections, which switchback aggressively through and beside the cliff faces, are considerably safer to climb than to descend. The trail is well-constructed — rare switchbacks by White Mountains standards — and passes under the historic Conway Scenic Railroad trestle early in the climb, providing an unusual industrial-wilderness juxtaposition. The cliff section is steep and rocky with loose footing in places and is genuinely slippery when wet. At 1.3 miles from the trailhead, the trail reaches the main Frankenstein Cliff viewpoint (2,150 ft), an open ledge with sweeping views down Crawford Notch to Mt. Bemis and across the Saco River valley. A 0.2-mile spur to Falcon Cliff offers a second viewpoint. From the high point of the loop (~2,420 ft at the Arethusa-Ripley Falls Trail junction), the route descends to the Arethusa Falls spur: a short 0.2-mile drop of 100 feet to the base of the falls. Arethusa Falls drops nearly 200 feet in a single curtain — the highest single-drop waterfall in New Hampshire — and the pool at the base invites wading in summer. Reaching the best view of the falls requires a rock-hop crossing of Bemis Brook, which can be difficult at high water. The final 1.6 miles back to the upper lot via the Arethusa Falls Trail and Bemis Brook Trail passes several brook-side cascades and pools. For those wanting a simpler outing, the Arethusa Falls Trail alone as an out-and-back (approximately 3.0 miles round trip, ~900 feet of gain) is one of the more popular family hikes in the White Mountains. The falls are spectacular even without completing the full loop."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "none",
+      "description": "The loop tops out at approximately 2,420 feet — well below the natural treeline of the White Mountains (~4,400 feet). There is no above-treeline weather exposure. The Frankenstein Cliff viewpoint and Falcon Cliff spur are open ledge areas briefly exposed to wind and rain but these sections are short and the trail returns quickly to forest.",
+      "mitigation": "Standard rain gear. The trail's rocky switchback sections become dangerously slippery in rain; if precipitation is expected, consider waiting for dry conditions or choosing an easier route. The Frankenstein Cliff area is exposed to lightning at the open viewpoint during thunderstorms — avoid this section in approaching storms."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Frankenstein Cliff Trail has steep, rocky, and in places slippery sections where a slip could result in a hard tumble and injury — particularly on the switchback ascent in the cliff area. The trail runs beside and through the cliff faces via switchbacks rather than along the exposed cliff edge, but the Frankenstein Cliff viewpoint itself sits atop open ledge with a genuine drop to Crawford Notch below. The view is dramatic and the ledge is real; hikers who approach the outer edge for views are adding meaningful exposure. Wet rock and autumn leaves substantially increase slip risk on the steep sections. The steep descent of the Arethusa Falls Trail and Bemis Brook Trail is considerably less exposed but footing on wet rock near the brook requires attention. The Bemis Brook crossing to reach the best view of the falls can be slippery on wet or mossy rocks.",
+      "mitigation": "Hike the loop counterclockwise — up Frankenstein Cliff Trail, down Arethusa Falls Trail — so that the steep rocky cliff sections are climbed rather than descended. Move carefully and slowly on the rocky switchback sections, which are the primary injury risk. At the Frankenstein Cliff viewpoint, enjoy the view without pressing to the outer ledge edge. In wet conditions, use trekking poles on the steep sections and exercise particular caution; the rock holds water and leaf litter that dramatically reduces friction."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["April", "May", "November", "December"],
+    "avoid": ["January", "February", "March"],
+    "seasonal_notes": "Arethusa Falls is a four-season destination, but each season has its character and hazards. Summer (June–August) is peak season: the falls are flowing well and the brook is warm enough for wading. The Frankenstein railroad trestle operates in summer, which adds a train-watching element. Fall foliage (late September–October) makes this one of the most scenic loops in Crawford Notch, with the cliff-top views of autumn color across the notch outstanding. Spring (April–May) brings high water and snowmelt that makes Arethusa Falls spectacular but also makes the Bemis Brook crossing potentially difficult and the trail muddy. Winter is viable with microspikes for the lower sections, but the Frankenstein Cliff area becomes an ice climbing zone — the area is one of the most popular ice climbing venues in New England. Falling ice from the cliffs is a real hazard in late winter and early spring; signage warns of this. January through March the trail ices significantly on the steep rocky sections; crampons are appropriate for the Frankenstein Cliff Trail ascent in serious winter conditions. The Conway Scenic Railroad does not operate in winter, so the trestle will be quiet. The parking area on Arethusa Falls Road may not be plowed in deep winter."
+  },
+  "tags": [
+    "loop",
+    "dog-friendly",
+    "parking-fee",
+    "winter-viable",
+    "snowshoe-route"
+  ],
+  "hazards": [
+    {
+      "type": "steep-rocky-sections-frankenstein-cliff-trail",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Frankenstein Cliff Trail has sustained steep rocky sections with loose footing, particularly in the switchback area ascending through the cliff faces. A slip on these sections — especially when wet or leaf-covered — can result in a hard tumble and injury. The trail is steep enough that descending is considerably more hazardous than ascending; always hike the loop counterclockwise so these sections are climbed rather than descended.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "cliff-viewpoint-exposure-frankenstein-cliff",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Frankenstein Cliff viewpoint at 2,150 feet sits atop open ledge with a genuine drop to Crawford Notch below. The viewpoint is spectacular and the cliff is real. Hikers who approach the outer edge of the viewpoint are adding meaningful fall exposure. This is not a mandatory cliff-edge traverse (the trail runs beside and through the cliffs, not along the edge), but the viewpoint ledge requires awareness.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "falling-ice-frankenstein-cliff-area",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Frankenstein Cliff area is one of New England's premier ice climbing venues. In late winter and early spring, large ice formations develop on the cliff faces, and falling ice is a documented hazard. State park signage warns of falling ice in this area seasonally. The risk is highest February through April as ice melts and fractures.",
+      "months_active": ["January", "February", "March", "April"]
+    },
+    {
+      "type": "bemis-brook-crossing-high-water",
+      "hazard_category": "terrain-and-fall",
+      "description": "Reaching the best view of Arethusa Falls requires a rock-hop crossing of Bemis Brook at the base. In high water conditions (spring runoff, after heavy rain), this crossing can be difficult or impassable. The rocks can be mossy and slippery. Additional crossings on the Bemis Brook Trail return route are generally easier but also warrant attention in high water.",
+      "months_active": ["March", "April", "May", "June"]
+    },
+    {
+      "type": "slippery-rock-wet-conditions",
+      "hazard_category": "terrain-and-fall",
+      "description": "The trail is rocky throughout and passes through a moist brook corridor. Wet rock, mossy stone, and wet leaf cover significantly increase slip risk across all sections. This is particularly consequential on the steep Frankenstein Cliff Trail switchbacks. The trail should be treated with extra care on rainy days and after overnight precipitation.",
+      "months_active": ["March", "April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "afternoon-thunderstorms-cliff-viewpoints",
+      "hazard_category": "weather-and-environment",
+      "description": "The Frankenstein Cliff viewpoint and Falcon Cliff spur are open ledge areas with no shelter. Afternoon convective thunderstorms in summer can arrive at these exposed sections with limited warning. Plan the cliff section for morning.",
+      "months_active": ["June", "July", "August", "September"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots or trail shoes with good tread — the steep rocky sections are hard on footing; ankle support is beneficial on the rocky Frankenstein Cliff Trail",
+      "Trekking poles — highly useful on the steep rocky descent of the Arethusa Falls Trail section and for balance at the brook crossing",
+      "1.5 liters water minimum — no reliable on-trail water source above the lower brook section; Bemis Brook is not treated",
+      "Rain gear — brief cliff-top exposure and moist trail conditions throughout",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes — recommended from October through May for icy sections on the steep rocky trail; carry even on dry days as shaded rocky sections hold ice longer than lower ground",
+      "Gaiters — helpful for spring mud on the brook-side sections",
+      "Extra insulating layer — moist valley setting with cold brook air; temperature feels lower than forecast"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Crampons — appropriate for the Frankenstein Cliff Trail in serious icy conditions; the steep rocky switchbacks require secure footing and microspikes may be insufficient on steep glassy ice",
+      "Awareness of falling ice — the Frankenstein Cliff area is a major ice climbing zone; avoid the cliff section in late winter and early spring when warm temperatures loosen ice formations",
+      "Headlamp — short winter days and a slow icy ascent can result in finishing in the dark",
+      "Check whether Arethusa Falls Road is plowed before departure"
+    ]
+  },
+  "trailhead": {
+    "name": "Arethusa Falls Trailhead, Crawford Notch State Park",
+    "lat": 44.1482,
+    "lon": -71.3664,
+    "parking": "Two parking areas off Arethusa Falls Road. The upper lot (at the road end, where the Arethusa Falls Trail kiosk is located) is smaller but directly at the trailhead. The lower lot (where the Frankenstein Cliff Trailhead is also signed) is larger and accommodates more vehicles. For the counterclockwise loop, starting from either lot works — a short connector trail links them. NH State Parks day-use fee applies; NH State Park Annual Pass or America the Beautiful Pass accepted. Overnight parking not permitted.",
+    "access_road": "From Route 302 in Crawford Notch State Park (Harts Location, NH): watch for the signed 'Arethusa Falls' spur road on the west side of Route 302. Coming from the west (from Route 3 / Bretton Woods), the turnoff is approximately 14.4 miles east of the Route 3/302 junction. Coming from the east (from North Conway), it is approximately 14.5 miles west of the Route 16/302 junction. Follow the spur road past the lower parking lot to the upper lot at road end. GPS: 44.1482, -71.3664.",
+    "nearest_town": "Harts Location / Bartlett, NH",
+    "amenities": ["Restrooms at upper parking area", "NH State Parks fee station", "Trail register and kiosk at upper lot", "Conway Scenic Railroad trestle viewable on route (seasonal train operation)"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "NH State Parks — Crawford Notch State Park",
+      "url": "https://www.nhstateparks.org/visit/state-parks/crawford-notch-state-park"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Arethusa Falls and Frankenstein Cliff Loop",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/arethusa-falls-and-frankenstein-cliff-trail"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Arethusa Falls via Bemis Brook (out-and-back)",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/arethusa-falls-via-bemis-brook-and-arethusa-falls-trails"
+    },
+    {
+      "type": "trip-report",
+      "label": "SectionHiker — Hiking an Arethusa Falls Loop",
+      "url": "https://sectionhiker.com/arethusa-falls-and-the-frankenstein-cliff-trail/"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "NWS Forecast — Crawford Notch / Bartlett NH",
+      "url": "https://forecast.weather.gov/MapClick.php?CityName=Bartlett&state=NH&site=GYX&textField1=44.0853&textField2=-71.2961"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-willard-avalon-trail",
+      "mt-crawford-davis-path"
+    ],
+    "leads_naturally_to": [
+      "mt-hale-hale-brook",
+      "cannon-mountain-kinsman-ridge"
+    ],
+    "progression_notes": "Arethusa Falls is one of the classic 'gateway' hikes in the White Mountains — compact, varied, rewarding, and accessible to a broad range of hikers while still being genuinely interesting for experienced hikers returning with family or friends. The combination of a historic railroad trestle, dramatic cliff-top views of Crawford Notch, and NH's highest waterfall in a single 5-mile loop is hard to match for the effort level. This is an excellent hike for introducing new hikers to the White Mountains: the terrain is more interesting and varied than a straightforward forested 4K footer approach, the exposure is present but not overwhelming, and the waterfall reward is guaranteed regardless of weather. Hikers who complete this and want to build toward the NH 4K list should look to Mt. Willard (entirely above treeline, stunning views of Crawford Notch from open ledge) as the nearby next step — shorter distance but more open-summit exposure. Mt. Hale (Hale Brook Trail) or the Kinsmans are natural next steps in the longer-distance 4K footer direction."
+  },
+  "response_hints": {
+    "beginner_framing": "Arethusa Falls is one of the best hikes in the White Mountains for people who are new to the area or want a memorable day without a huge commitment. The full loop (5 miles) takes most people 3–4 hours and includes a dramatic waterfall — the highest single-drop falls in New Hampshire, nearly 200 feet — plus great views of Crawford Notch from the top of the Frankenstein Cliff area. The trail passes under an old railroad trestle early on, which is pretty cool. The key thing to know: hike the loop counterclockwise (follow the Frankenstein Cliff Trail up first, then come down to the falls). The cliff section is steep and rocky and much easier going up than down. If you just want to see the falls and skip the cliff, the Arethusa Falls Trail out-and-back is about 3 miles round trip — a great family hike. Bring good footwear with grip (the rocky sections get slippery when wet) and trekking poles are helpful on the steep parts.",
+    "expert_framing": "Crawford Notch classic: 5.0 mi loop, 1,400 ft gain, fitness-2, technical-2, moderate. Primary draws are Frankenstein Cliff viewpoints (Crawford Notch panorama, Dry River Valley toward Washington) and Arethusa Falls (~200 ft curtain, highest in NH). Counterclockwise mandatory — steep rocky switchbacks on Frankenstein Cliff Trail are a climb problem, not a descent problem. Highest point ~2,420 ft at Arethusa-Ripley Falls Trail junction; max treeline is ~4,400 ft so zero above-treeline exposure. State Park land (NH State Parks fee, not WMNF pass). No AMC hut. Winter: Frankenstein Cliff area is a major ice climbing venue — avoid late Feb–April for falling ice hazard. Bemis Brook crossing at falls base is high-water risk in May. Simple out-and-back to falls only: ~3.0 mi RT, ~900 ft, 30 min faster.",
+    "safety_callout": "Hike the loop counterclockwise — up the Frankenstein Cliff Trail, down the Arethusa Falls Trail. The cliff trail's steep rocky switchbacks are significantly safer to climb than descend. In wet conditions, the steep sections are very slippery; slow down and use trekking poles. The Frankenstein Cliff area is a major ice climbing venue in winter — falling ice is a documented hazard from January through April. At the Arethusa Falls viewpoint, the Bemis Brook crossing on wet or mossy rocks requires care."
+  }
+}

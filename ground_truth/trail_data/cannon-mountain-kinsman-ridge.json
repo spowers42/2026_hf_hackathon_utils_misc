@@ -1,0 +1,158 @@
+{
+  "id": "cannon-mountain-kinsman-ridge",
+  "name": "Cannon Mountain via Kinsman Ridge Trail",
+  "peaks": [
+    {
+      "name": "Cannon Mountain",
+      "elevation_ft": 4080,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Kinsman Ridge",
+  "stats": {
+    "distance_rt_miles": 4.0,
+    "elevation_gain_ft": 2100,
+    "highest_point_ft": 4080,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 4.0,
+      "average": 3.25,
+      "experienced": 2.5
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "Cannon Mountain via the Kinsman Ridge Trail is one of the most deceptive hikes on the NH 4K footer list — short on paper (4.0 miles round trip, 2,100 feet of gain) but relentlessly steep from the first steps out of the tramway parking lot. Unlike many 4K footers that begin with a gradual warm-up section before the real climbing starts, the Kinsman Ridge Trail pitches upward immediately and does not let up. The grade is sustained and unforgiving on both ascent and descent, earning this peak its reputation as considerably harder than its mileage suggests. Multiple experienced hikers who have completed the full NH 48 list rank Cannon as harder than many peaks with similar or greater statistics, and the phrase 'harder than you'd think' appears in multiple independent trip reports. The trail is rocky and rough throughout, with loose footing on steeper sections in the lower half. At approximately 1.5 miles the trail bears left and emerges onto the bare rock ledges atop the famous Cannon Cliffs — a dramatic transition from forest to open rock with sweeping views down into Franconia Notch and across to Franconia Ridge. This false summit area requires careful navigation across bare sloping rock, and the exposure here is significant: the Cannon Cliffs drop roughly 800 feet on the east face. From the ledge area the trail continues southwest on rough rocky terrain to the actual summit at 4,080 feet, where the Cannon Mountain Tramway terminal, a cafeteria, and an observation deck are located. A short spur (the Rim Trail) extends from the summit area and provides panoramic views of Franconia Notch, Lafayette and Lincoln across the notch, Lonesome Lake below, and the Kinsman Range to the south. The summit infrastructure is a mixed experience for hikers — the tram brings sightseers directly to the top, so the summit feels significantly less remote than it did on the climb up. The aerial tramway ($20–25 fare) is available for descent — a popular option with tired legs — though hikers must factor in the tram schedule. Cannon is a ski mountain and the summit is shaped by that history, but the Kinsman Ridge Trail itself provides an authentic wilderness climb with real technical terrain."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "none",
+      "description": "Cannon Mountain's summit at 4,080 feet sits below the natural treeline of the White Mountains (approximately 4,400 feet). The open terrain near the summit is entirely a product of ski area clearing and the bare Cannon Cliffs ledge area — not natural alpine zone. There is no extended above-treeline weather exposure on this route. The Cannon Cliffs ledge area at ~1.5 miles is open to wind and has no overhead shelter, but this section is brief. The summit plateau with its tram terminal and observation deck provides windbreak structures. In strong weather the short exposed sections on the ledges and summit plateau can feel significant, but the route does not have the extended ridge exposure characteristic of true alpine terrain like Franconia Ridge or the Presidential Range.",
+      "mitigation": "Standard layering system for White Mountains hiking. The brief open sections on the Cannon Cliffs ledges can feel cold and windy even on otherwise pleasant days — carry a wind shell. Check conditions at the summit via the Cannon Mountain webcam before heading out, especially in spring and fall when summit conditions diverge sharply from valley conditions. If thunderstorms are forecast, the ledge area is exposed metal-free rock and should be avoided — though the route's short duration makes it easier to time around storms than longer ridge objectives."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "The Kinsman Ridge Trail has two distinct fall-risk zones. The lower trail is steep and rocky with loose footing — a slip here would likely result in a slide and injury rather than a cliff-consequence fall, and falls in the lower section fall into the 'low' category. The significant fall risk comes at the Cannon Cliffs ledge area (~1.5 miles), where the trail emerges onto bare sloping rock at the top of an approximately 800-foot cliff face. The trail traverses these ledges en route to the summit, and the drop-off on the east side is severe. A fall off the outer edge of the ledge area carries fatal-fall consequence. The rock is bare granite — excellent grip when dry, dangerously slippery when wet. Multiple hikers describe the ledge views as 'vertigo-inducing,' which reflects the genuine height and exposure of the cliff top. The Cannon Cliffs are the most popular technical rock-climbing area in New Hampshire; the drop is not theoretical. The ledge traverse is not a knife-edge with unavoidable exposure, but straying off-trail or moving carelessly on wet rock near the outer edge of the false summit has serious consequence.",
+      "mitigation": "Stay on the marked trail on the ledge section — do not approach the outer cliff edge to look down. The views are excellent without needing to stand at the edge. Wet conditions significantly increase risk on the bare rock ledges; if the rock is wet from rain, move slowly and test footing before committing. The sloping granite can hold a film of water that is nearly invisible but extremely slick. Do not attempt the ledge section in thunderstorm conditions. Trekking poles help with balance on the descent through the rocky lower sections but are less useful on the bare ledge slabs — stow them when traversing the ledge area if they feel awkward. On the descent, the steep rocky lower section with fatigued legs demands slow, deliberate stepping."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["April", "May", "November"],
+    "avoid": ["December", "January", "February", "March"],
+    "seasonal_notes": "Cannon Mountain is a four-season hiking destination with distinct character across the year. Summer (June–September) is the primary hiking season; the trail is well-traveled and the summit infrastructure (tram, cafeteria) is operational. The Cannon Cliffs ledge area is spectacular on clear days and provides some of the best views of Franconia Ridge in the notch. Early July brings some biting insects in the lower forested section but nothing as severe as peaks deeper in the Pemi Wilderness. Late September and October offer brilliant foliage — the elevated position and views down into the notch make Cannon one of the better foliage viewpoints in the region. Avoid the ledge area in rain or wet fog: the bare granite becomes extremely slippery and the fall-consequence exposure is unforgiving. Spring (April–May) is viable with microspikes for icy sections on the steep rocky trail; the Kinsman Ridge Trail parking lot at the tramway is plowed and accessible year-round (unlike many White Mountain trailheads with seasonal road closures), which makes this technically feasible in winter. Winter (December–March) is not recommended for most hikers — the trail is steep, the Cannon Cliffs ledge section is icy and dangerous, and the sustained grade demands crampons and significant winter mountaineering experience. Cannon is one of the more technically demanding 4K footers in winter precisely because the steep relentless grade becomes a significant icing and crampon-navigation problem. Experienced winter hikers rate Cannon harder than many lower-mileage NH 4000-footers in winter conditions. The parking lot is accessible year-round (ski area operation), and the tram runs year-round, but the trail itself demands a full winter skill set in the December–March window."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "fall-exposure-moderate",
+    "parking-fee",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "cannon-cliffs-ledge-exposure",
+      "hazard_category": "terrain-and-fall",
+      "description": "At approximately 1.5 miles from the tramway trailhead, the Kinsman Ridge Trail emerges onto the bare rock ledges at the top of the Cannon Cliffs — a roughly 800-foot vertical rock face and New Hampshire's premier technical rock climbing area. The trail traverses these ledges en route to the summit. The outer edge of the ledge area carries fatal-fall consequence if a hiker slips or wanders off-trail. The bare granite ledges are excellent footing when dry but extremely slippery when wet — the rock holds a thin film of water that is nearly invisible but drastically reduces friction. This section is the primary hazard on the route and the reason Cannon carries a 'moderate' fall risk rating despite its short distance.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "steep-rocky-descent",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Kinsman Ridge Trail is steep and rocky from the trailhead to the summit — there is no flat or gradual section. The descent is particularly demanding because the sustained steep grade, loose rocky footing, and fatigued leg muscles combine at the same time. Ankle rolls and knee stress are the primary injury mechanisms on the descent. The trail does not have cliff-consequence in the lower section but a fall on the steep rocky sections can result in a hard tumble. Multiple trip reports specifically note that the descent on Cannon is more physically demanding than the ascent because the grade is so relentless.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "icy-ledges-and-steep-trail-in-winter",
+      "hazard_category": "terrain-and-fall",
+      "description": "In winter conditions the Cannon Cliffs ledge section becomes an ice-coated slab with fatal-fall exposure — crampons (not just microspikes) are strongly recommended for the ledge traverse in icy conditions. The sustained steep grade on the lower trail also ices significantly; the combination of a relentless grade, rocky footing, and ice makes Cannon one of the more technically demanding NH 4K footers in winter despite its short mileage. The ski area operation keeps the parking lot clear but does not affect trail conditions.",
+      "months_active": ["November", "December", "January", "February", "March", "April"]
+    },
+    {
+      "type": "sudden-weather-change-on-ledges",
+      "hazard_category": "weather-and-environment",
+      "description": "The Cannon Cliffs ledge area and summit plateau are open to rapidly changing weather. Thunderstorms building over Franconia Notch in summer afternoons can reach the exposed ledge area with minimal warning. The brief but real exposure on the ledges and summit plateau means that a fast-moving storm or sudden temperature drop can create dangerous conditions quickly. The tram summit infrastructure provides emergency shelter at the top, but the ledge traverse below the summit has no shelter options.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with ankle support and good lug tread — the rocky trail is hard on ankles and the descent is sustained steep; trail runners are not recommended for first-timers",
+      "Trekking poles (particularly useful for the steep rocky descent; stow during the Cannon Cliffs ledge traverse if they feel awkward on bare rock)",
+      "1.5 liters water minimum (no reliable water sources on route; carry all water from the trailhead)",
+      "Rain shell — the brief open ledge section and summit plateau are exposed; carry a shell even on clear days since conditions can shift quickly",
+      "Standard 10 essentials",
+      "Check the Cannon Mountain webcam before departure — summit conditions are visible in real time"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (carry from October through May; the rocky trail ices before lower elevations and the ledge section can be extremely dangerous with any ice)",
+      "Insulating mid-layer (the summit plateau with its open exposure and wind can be significantly colder than the valley)",
+      "Gaiters for mud season and spring snowmelt conditions"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Crampons (full crampons strongly recommended for the Cannon Cliffs ledge section in icy conditions — microspikes may be insufficient on the steep icy slab of the cliff top)",
+      "Ice axe for steep icy approach sections in full winter conditions",
+      "Full cold-weather layering (wind at the exposed summit plateau and ledges is severe in winter)",
+      "Avalanche awareness (the ski area operation creates packed slope conditions near the summit plateau; the hiking trail itself is generally low avalanche risk but ski area runout zones are a consideration near the base)",
+      "Headlamp — short winter daylight and a slow ascent in winter conditions can result in a descent in the dark"
+    ]
+  },
+  "trailhead": {
+    "name": "Kinsman Ridge Trailhead at Cannon Mountain Tramway Parking, Exit 34B",
+    "lat": 44.1692,
+    "lon": -71.6868,
+    "parking": "Franconia Notch State Park parking at the Cannon Mountain Tramway base station. State park fee applies (no WMNF Recreational Pass required — this is NH State Parks land, not WMNF). The parking lot is plowed and accessible year-round due to the ski area and tram operation. The Kinsman Ridge Trailhead is signed from the parking lot — look for 'hiker parking' signs at the south end of the lot. The aerial tramway ($20–25 fare) is located at the same parking area and runs year-round, making descent by tram an option when legs are spent.",
+    "access_road": "From I-93 / Franconia Notch Parkway northbound: take Exit 34B (Cannon Mountain / Franconia Notch Tramway). Turn left at the bottom of the ramp and park in the tramway base station lot. From I-93 southbound: take Exit 34C to Echo Lake, then follow signs south to the tramway area. The parking lot is off the Franconia Notch Parkway in Franconia Notch State Park. GPS: 'Cannon Mountain Tramway, Franconia NH' or use coordinates 44.1692, -71.6868.",
+    "nearest_town": "Franconia, NH",
+    "amenities": ["Restrooms at tramway base station", "Cafeteria / gift shop at summit (tram-accessible)", "Aerial tramway for descent (fee)", "New England Ski Museum adjacent to parking area", "State park fee required", "Year-round parking (ski area plowing)"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "Franconia Notch State Park — Cannon Mountain Hiking",
+      "url": "https://www.nhstateparks.org/visit/state-parks/franconia-notch-state-park"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Cannon Mountain via Hi-Cannon Trail to Kinsman Ridge",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/hi-cannon-trail-to-kinsman-ridge-trail"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "NWS Forecast — Cannon Mountain / Franconia Notch",
+      "url": "https://forecast.weather.gov/MapClick.php?CityName=Franconia&state=NH&site=GYX&textField1=44.2145&textField2=-71.7201"
+    },
+    {
+      "type": "trip-report",
+      "label": "bmhatfield — Kinsman Ridge routes summary",
+      "url": "https://bmhatfield.github.io/white-mountains/kinsman.html#Cannon"
+    },
+    {
+      "type": "summit-conditions",
+      "label": "Cannon Mountain webcam",
+      "url": "https://www.cannonmt.com/webcam"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-tecumseh-tecumseh-trail",
+      "mt-hale-hale-brook",
+      "mt-waumbek-starr-king"
+    ],
+    "leads_naturally_to": [
+      "kinsman-ridge-north-south-kinsman",
+      "franconia-ridge-loop-lafayette-lincoln"
+    ],
+    "progression_notes": "Cannon Mountain is a short but genuinely demanding 4K footer that punches above its weight class. At 4.0 miles round trip and 2,100 feet of gain it looks approachable on paper, but the relentless grade, rocky terrain, and Cannon Cliffs ledge exposure make it a meaningful step up from gentle wooded 4K footers like Hale or Waumbek. It is an excellent 'bridge peak' for hikers who have completed a few forested 4K footers and are ready for their first taste of real exposed rocky terrain before tackling full above-treeline ridges like Franconia Ridge. The Cannon Cliffs ledge area provides genuine moderate fall-exposure experience in a relatively controlled context — the ledge traverse is brief and the consequences of careful travel are good views, not disaster. This makes it good preparation for understanding how to move on exposed terrain. Cannon pairs naturally with the Kinsman traverse (North and South Kinsman) for hikers building toward the Kinsman Ridge as a multi-peak objective — the standard Lonesome Lake / Hi-Cannon / Kinsman Ridge route takes all three in one longer day (13.0 miles, 4,700 feet). Franconia Ridge (Lafayette-Lincoln loop) is the natural next step in scale and above-treeline commitment from Cannon — Franconia Ridge offers ~1.5 miles of true alpine ridge that Cannon's ski-area summit does not."
+  },
+  "response_hints": {
+    "beginner_framing": "Cannon Mountain is one of New Hampshire's 4,000-foot peaks and a good choice for hikers ready to step up from easier wooded summits — but it's important to know that Cannon is considerably harder than its mileage suggests. The Kinsman Ridge Trail from the tramway parking lot is only 4 miles round trip, but it climbs steeply from the very first steps and doesn't ease off. Many hikers who've done most of the NH 48 list rank Cannon as harder than peaks with similar numbers. About 1.5 miles up, the trail comes out onto open rock ledges at the top of the famous Cannon Cliffs — the views here are spectacular and a little vertigo-inducing (the cliffs drop roughly 800 feet). This section requires careful footing, especially if the rock is wet. The summit at 4,080 feet has the tramway terminal, a cafeteria, and an observation deck with panoramic views of Franconia Notch and the Franconia Ridge peaks across the notch. One nice option: you can descend by the aerial tramway (about $20–25) instead of hiking back down — your legs will thank you. Bring real hiking boots with ankle support, carry all your water from the trailhead (there's none on the route), and do not hike the ledge section if rain is making the rock wet — the granite becomes very slippery.",
+    "expert_framing": "Cannon Mountain via Kinsman Ridge Trail: 4.0 mi RT, 2,100 ft, fitness-3, technical-2, 'hard.' Deceptively demanding for its stats — relentless grade from lot to summit with no easy warm-up section, making it harder on the legs than the numbers suggest. The key technical feature is the Cannon Cliffs ledge traverse at ~1.5 mi: bare granite slab atop an ~800-ft cliff face, excellent dry but extremely slippery wet, moderate fall-consequence exposure. Summit has ski area infrastructure (tram terminal, cafeteria, Rim Trail spur) — not a remote summit experience, but the Kinsman Ridge Trail approach earns the summit. Region: Kinsman Ridge per bmhatfield (not Franconia Ridge despite geographic proximity). AMC hut: null. Above-treeline miles: 0.0 (4,080 ft below natural treeline; summit clearing is ski area, not alpine zone). Winter: parking accessible year-round via ski area, but trail is serious — crampons warranted for icy ledges, steep icy grade is harder than Cannon's mileage implies; ranked by experienced winter hikers as harder than several higher-mileage NH 4K footers in winter. Natural pairing: Kinsman traverse for adding North/South Kinsman (13.0 mi, 4,700 ft from Lonesome Lake approach). Tram descent is a genuine option on tired legs.",
+    "safety_callout": "The Cannon Cliffs ledge area (~1.5 miles from the trailhead) is the primary safety concern on this route. The ledge traversal sits atop an ~800-foot cliff face — the Cannon Cliffs are New Hampshire's premier technical rock climbing wall. A fall off the outer edge of the ledge has fatal consequence. Stay on the marked trail in this section and do not approach the outer edge. If the rock is wet from rain or dew, reduce speed significantly — the granite becomes extremely slippery with moisture and the sloped slab nature of the rock makes a slide difficult to arrest. Do not attempt the ledge section in thunderstorm conditions; build in a weather margin and turn around if storms are building. In winter, the combination of icy ledges and a steep icy descent demands crampons, not just microspikes — Cannon is harder in winter than its mileage suggests and this is one of the routes where microspike-only hikers have gotten into serious trouble on the ledge section."
+  }
+}

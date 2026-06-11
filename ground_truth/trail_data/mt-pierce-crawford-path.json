@@ -1,0 +1,119 @@
+{
+  "id": "mt-pierce-crawford-path",
+  "name": "Mount Pierce via Crawford Path",
+  "region": "Presidential Range",
+  "summary": "America's oldest continuously maintained hiking trail (est. 1819) offers the most direct and popular route to Mt. Pierce — a broad open summit with commanding views of Mt. Washington and the Southern Presidentials. The ideal first NH 4K footer: manageable distance, well-signed, and a genuine above-treeline experience.",
+  "tags": ["4k-footer", "out-and-back", "above-treeline-weather-exposure", "hut-access", "dog-friendly", "parking-fee", "winter-viable", "snowshoe-route", "alpine-zone"],
+  "stats": {
+    "distance_rt_miles": 5.9,
+    "elevation_gain_ft": 2398,
+    "highest_point_ft": 4310,
+    "above_treeline_miles": 0.3,
+    "typical_time_hrs": {
+      "beginner": 6.0,
+      "average": 4.5,
+      "experienced": 3.5
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "Moderate distance with sustained steep climbing makes this a hard day for beginners. Trail is rocky and rooted but non-technical. Brief above-treeline summit exposure adds weather risk that elevates the seriousness beyond the numbers alone."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "moderate",
+      "description": "Pierce's open summit sits on the Southern Presidential ridge and is fully exposed to wind and weather. Conditions at the summit regularly differ dramatically from the valley — cold, wind, and fog can arrive within minutes even on clear summer days.",
+      "mitigation": "Check the Mt. Washington Observatory summit forecast before departing. Bring insulating layers and a wind/rain shell regardless of valley conditions. If clouds are building rapidly on the ridge, descend before the summit rather than pressing through."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "Trail is rocky and rooted throughout with some steep pitches, but no significant drop-offs requiring scrambling. The primary hazard is slipping on wet rocks and roots, especially on the steep upper mile.",
+      "mitigation": "Waterproof boots with solid grip recommended. Trekking poles help on the descent. In wet or icy conditions, slow down on the upper rocky sections."
+    }
+  },
+  "trailhead": {
+    "name": "Crawford Connector Trailhead",
+    "lat": 44.2239,
+    "lon": -71.4114,
+    "parking": "Large gravel lot off Mt. Clinton Road. WMNF Recreation Pass required ($5/day or America the Beautiful annual pass). Alternative: AMC Highland Center lot on Route 302 (44.2196, -71.4108) — adds ~0.1 mi via Crawford Connector.",
+    "access_road": "Mount Clinton Road off Route 302 in Crawford Notch. Road is plowed in winter.",
+    "nearest_town": "Bretton Woods",
+    "amenities": ["WMNF vault toilet at trailhead", "AMC Highland Center lodge and cafe 0.1 mi south on Route 302 with restrooms and food"]
+  },
+  "route_description": "From the Crawford Connector Trailhead, follow the Crawford Connector 0.3 mi northeast to a junction just after crossing the bridge over Gibbs Brook. Bear left onto the Crawford Path (also the Appalachian Trail). A brief spur on the left leads to Gibbs Falls — worth the stop. Continue up Crawford Path for ~2.6 mi of sustained climbing through birch and spruce forest. At 1.7 mi, the Mizpah Cutoff branches right — Mizpah Spring Hut is 0.3 mi off-route and worth noting for emergencies or overnight stays. The trail steepens on the upper mile before emerging onto Pierce's open summit plateau at 4,310 ft with near-360-degree views. Return the same way. Optional extension: continue 1.6 mi north on Crawford Path to Mt. Eisenhower (4,760 ft), adding ~3.2 mi RT and ~850 ft gain.",
+  "peaks": [
+    {
+      "name": "Mount Pierce",
+      "elevation_ft": 4310,
+      "is_4k_footer": true,
+      "nh_48_rank": 27,
+      "views": "Near-360-degree panorama including Mt. Washington and the full Southern Presidential ridge, Crawford Notch, Mt. Willey, and Mt. Rosebrook. On clear days one of the most rewarding views-per-effort summits in the White Mountains."
+    }
+  ],
+  "amc_hut": "Mizpah Spring Hut",
+  "hazards": [
+    {
+      "type": "Summit wind and cold",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "Open Presidential summit generates its own micro-weather. Hikers regularly encounter wind and cold at the top even on warm, sunny valley days. June sunset hikers have reported dangerously cold and windy conditions they were unprepared for."
+    },
+    {
+      "type": "Ice and rime on upper trail",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"],
+      "description": "The upper trail and summit rocks ice over heavily by late October and can remain icy into mid-May. Microspikes or crampons are mandatory from the trailhead up during this window — not just for the summit."
+    },
+    {
+      "type": "Slippery roots and rocks",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October"],
+      "description": "Trail is laced with wet exposed roots and rocks, particularly on the steep upper mile. Primary cause of slips and twisted ankles in three-season conditions."
+    }
+  ],
+  "seasons": {
+    "recommended": ["June", "July", "August", "September"],
+    "viable_with_gear": ["October", "November", "December", "January", "February", "March", "April", "May"],
+    "avoid": [],
+    "seasonal_notes": "Pierce is one of the best year-round hikes in the White Mountains. Winter conditions are excellent — hikers remain sheltered in the forest for most of the route with only a brief open summit push. Microspikes or crampons required roughly October through May. Mud season (late April through mid-May) makes the trail messy but passable. Mizpah Spring Hut is open year-round as a full-service destination in summer and self-service in winter with a caretaker."
+  },
+  "gear_tiers": {
+    "three_season": ["broken-in hiking boots with ankle support", "trekking poles", "insulating mid-layer", "wind and rain shell", "2L water", "snacks", "map or GPS", "headlamp"],
+    "shoulder_season": ["waterproof hiking boots", "microspikes (October and May)", "insulating fleece or puffy", "wind shell", "hat and gloves", "extra food"],
+    "winter": ["crampons or aggressive microspikes", "insulated waterproof boots (rated to -20°F)", "hardshell jacket and pants", "balaclava and warm hat", "liner and insulating gloves", "snowshoes (for deep snow approaches)", "extra insulating layers", "thermos with hot liquid"]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-pierce-via-crawford-path",
+      "label": "AllTrails: Mt. Pierce via Crawford Path"
+    },
+    {
+      "type": "weather-forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.4107&lat=44.2244",
+      "label": "NWS Forecast — Mt. Pierce summit area"
+    },
+    {
+      "type": "summit-conditions",
+      "url": "https://www.mountwashington.org/experience-the-weather/current-conditions/",
+      "label": "Mt. Washington Observatory — Summit Conditions"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.fs.usda.gov/recarea/whitemountain/recarea/?recid=74677",
+      "label": "WMNF — Crawford Path"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["Mt. Willard", "Mt. Tecumseh via Tripoli Road", "Welch-Dickey Loop"],
+    "leads_naturally_to": ["Mt. Eisenhower via Crawford Path extension", "Pierce-Jackson-Webster loop via Webster Cliff Trail", "Mt. Monroe and Lakes of the Clouds via Presidential traverse"],
+    "progression_notes": "Pierce is the canonical first NH 4K footer — short enough to be achievable, rewarding enough to feel like a real alpine summit. After Pierce, most hikers return to add Eisenhower on the same approach or come back for the Pierce-Jackson-Webster loop. It also serves as the natural gateway to longer Presidential ridge traverses."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Pierce via Crawford Path is the best first NH 4K footer in the White Mountains. At under 6 miles round trip, it's achievable for a fit hiker without prior White Mountains experience. You'll get a real above-treeline Presidential summit with views of Mt. Washington. The trail is well-signed and heavily traveled. Just know the summit will feel much colder and windier than the parking lot — pack extra layers even in summer.",
+    "expert_framing": "Crawford Path is the most efficient approach to Pierce as a standalone peak and the natural launching pad for Southern Presidential ridge traverses. Mizpah Spring Hut makes Pierce a great base for multi-day itineraries. Winter is outstanding here — the forested approach keeps the trail enjoyable until the final summit push, making it one of the better winter 4K footers when you want exposed views without a brutal above-treeline slog.",
+    "safety_callout": "Presidential weather doesn't exempt Pierce because it's the lowest Southern Presidential. Hikers are regularly caught underprepared by summit wind and cold even in summer — insulating layers and a rain shell are non-negotiable. In winter and shoulder season, microspikes or crampons are required from the trailhead up, not just the summit. Check the Mt. Washington Observatory forecast for summit wind speed and temperature before every trip."
+  }
+}

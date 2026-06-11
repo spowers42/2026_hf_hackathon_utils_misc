@@ -1,0 +1,301 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "WhiteMountainsTrail",
+  "description": "Authoritative fact sheet for a single White Mountains trail or hike",
+  "type": "object",
+  "required": [
+    "id", "name", "peaks", "region", "stats",
+    "difficulty", "seasons", "tags", "hazards",
+    "gear_tiers", "trailhead", "links"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Slug-style unique ID, e.g. mt-washington-lions-head"
+    },
+    "name": {
+      "type": "string",
+      "description": "Common name for the hike/route (not just the peak)"
+    },
+    "peaks": {
+      "type": "array",
+      "description": "Peaks summited on this route. Empty array if no true summit.",
+      "items": {
+        "type": "object",
+        "required": ["name", "elevation_ft", "is_4k_footer"],
+        "properties": {
+          "name":         { "type": "string" },
+          "elevation_ft": { "type": "integer" },
+          "is_4k_footer": { "type": "boolean" }
+        }
+      }
+    },
+    "region": {
+      "type": "string",
+      "description": "Sub-region within the Whites",
+      "enum": [
+        "Presidential Range",
+        "Franconia Ridge",
+        "Pemigewasset Wilderness",
+        "Carter-Moriah Range",
+        "Sandwich Range",
+        "Cannon-Kinsman",
+        "Mahoosuc Range",
+        "Northern Presidentials",
+        "Southern Whites"
+      ]
+    },
+    "stats": {
+      "type": "object",
+      "required": ["distance_rt_miles", "elevation_gain_ft", "above_treeline_miles", "typical_time_hrs"],
+      "properties": {
+        "distance_rt_miles":    { "type": "number",  "description": "Round trip miles" },
+        "elevation_gain_ft":    { "type": "integer", "description": "Total gain on the ascent" },
+        "highest_point_ft":     { "type": "integer" },
+        "above_treeline_miles": {
+          "type": "number",
+          "description": "Miles of terrain above treeline (~4,400 ft in the Whites). This is WEATHER exposure — the distance a hiker is without tree shelter from wind, rain, and lightning."
+        },
+        "typical_time_hrs": {
+          "type": "object",
+          "required": ["beginner", "average", "experienced"],
+          "properties": {
+            "beginner":    { "type": "number" },
+            "average":     { "type": "number" },
+            "experienced": { "type": "number" }
+          }
+        }
+      }
+    },
+    "difficulty": {
+      "type": "object",
+      "description": "Fitness and technical demands rated separately on a 1-5 scale",
+      "required": ["fitness", "technical", "overall_label"],
+      "properties": {
+        "fitness": {
+          "type": "integer", "minimum": 1, "maximum": 5,
+          "description": "Cardiovascular and muscular demand: distance, elevation gain, pack weight"
+        },
+        "technical": {
+          "type": "integer", "minimum": 1, "maximum": 5,
+          "description": "Skill demand: route-finding, scrambling, exposure to fall risk, use of hands"
+        },
+        "overall_label": {
+          "type": "string",
+          "enum": ["easy", "moderate", "hard", "very hard", "expert only"]
+        },
+        "notes": {
+          "type": "string",
+          "description": "Free-text difficulty nuance. Distinguish fitness challenges from technical ones clearly."
+        }
+      }
+    },
+    "exposure": {
+      "type": "object",
+      "description": "The two distinct types of exposure on this trail, assessed separately. These are different hazards requiring different mitigations and should never be conflated.",
+      "required": ["weather", "fall_risk"],
+      "properties": {
+        "weather": {
+          "type": "object",
+          "description": "Weather exposure: vulnerability to wind, rain, lightning, cold, and rapid condition changes due to above-treeline terrain or long approach distances from shelter.",
+          "required": ["rating", "description"],
+          "properties": {
+            "rating": {
+              "type": "string",
+              "enum": ["none", "low", "moderate", "high", "severe"],
+              "description": "none = fully sheltered below treeline. severe = Presidential-level full commitment above treeline."
+            },
+            "description": {
+              "type": "string",
+              "description": "What specifically creates weather exposure on this route: how long above treeline, distance from shelter, prevailing wind direction, historical weather patterns."
+            },
+            "mitigation": {
+              "type": "string",
+              "description": "What the hiker can do to manage weather exposure: turnaround rules, gear minimums, forecast sources to check."
+            }
+          }
+        },
+        "fall_risk": {
+          "type": "object",
+          "description": "Fall exposure: the consequence of a slip or stumble due to steep terrain, drop-offs, wet rock, scrambling sections, or narrow ridges with significant falls on one or both sides.",
+          "required": ["rating", "description"],
+          "properties": {
+            "rating": {
+              "type": "string",
+              "enum": ["none", "low", "moderate", "high", "severe"],
+              "description": "none = well-graded trail, no drops. severe = sustained scrambling with fatal-consequence drops (e.g. Huntington Ravine direct)."
+            },
+            "description": {
+              "type": "string",
+              "description": "Where specifically fall risk exists on this route: which sections, what terrain, whether the consequence of a fall is injury vs. fatal, and whether it's worse when wet or icy."
+            },
+            "mitigation": {
+              "type": "string",
+              "description": "What the hiker can do to manage fall risk: footwear, trekking poles, turning around if wet, sections to be especially cautious on."
+            }
+          }
+        }
+      }
+    },
+    "seasons": {
+      "type": "object",
+      "required": ["recommended", "viable_with_gear", "avoid"],
+      "properties": {
+        "recommended":      { "type": "array", "items": { "type": "string" } },
+        "viable_with_gear": { "type": "array", "items": { "type": "string" } },
+        "avoid":            { "type": "array", "items": { "type": "string" } },
+        "seasonal_notes":   { "type": "string" }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "description": "Searchable capability and feature tags",
+      "items": {
+        "type": "string",
+        "enum": [
+          "above-treeline-weather-exposure",
+          "fall-exposure-moderate",
+          "fall-exposure-high",
+          "scrambling",
+          "water-crossings",
+          "winter-viable",
+          "snowshoe-route",
+          "family-friendly",
+          "dog-friendly",
+          "amc-hut-nearby",
+          "lean-to-available",
+          "4k-footer",
+          "ridge-walk",
+          "loop-route",
+          "out-and-back",
+          "requires-permit",
+          "parking-fee",
+          "trail-running-popular",
+          "bushwhack-sections"
+        ]
+      }
+    },
+    "hazards": {
+      "type": "array",
+      "description": "Discrete hazards on this trail. Each entry must have a type that makes clear whether it is a weather/environmental hazard or a terrain/fall hazard.",
+      "items": {
+        "type": "object",
+        "required": ["type", "hazard_category", "description", "months_active"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "weather-exposure",
+              "hypothermia-risk",
+              "lightning",
+              "ice-and-snow",
+              "stream-crossing",
+              "rockfall",
+              "navigation",
+              "crowd-congestion",
+              "steep-terrain-fall-risk",
+              "exposed-ridge-fall-risk",
+              "scrambling-fall-risk",
+              "waterfall-proximity-fall-risk"
+            ]
+          },
+          "hazard_category": {
+            "type": "string",
+            "enum": ["weather-and-environment", "terrain-and-fall"],
+            "description": "Top-level category so agent can clearly separate the two types when explaining hazards to users."
+          },
+          "description": { "type": "string" },
+          "months_active": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "gear_tiers": {
+      "type": "object",
+      "description": "Minimum recommended gear per season/condition",
+      "required": ["three_season", "shoulder_season", "winter"],
+      "properties": {
+        "three_season":    { "type": "array", "items": { "type": "string" } },
+        "shoulder_season": { "type": "array", "items": { "type": "string" } },
+        "winter":          { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "trailhead": {
+      "type": "object",
+      "required": ["name", "lat", "lon", "parking"],
+      "properties": {
+        "name":         { "type": "string" },
+        "lat":          { "type": "number" },
+        "lon":          { "type": "number" },
+        "parking":      { "type": "string", "description": "Lot size, fee, reservation notes" },
+        "access_road":  { "type": "string" },
+        "nearest_town": { "type": "string" },
+        "amenities":    { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "amc_hut": {
+      "type": "object",
+      "description": "Nearest AMC hut if within reasonable range of the route",
+      "properties": {
+        "name":                         { "type": "string" },
+        "distance_miles_from_route":    { "type": "number" },
+        "services":                     { "type": "string" },
+        "link":                         { "type": "string", "format": "uri" }
+      }
+    },
+    "links": {
+      "type": "array",
+      "description": "Authoritative and useful external references",
+      "items": {
+        "type": "object",
+        "required": ["type", "label", "url"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "official-trail-page",
+              "alltrails",
+              "weather-forecast",
+              "permit-reservation",
+              "trip-report",
+              "map-download",
+              "amc-hut-reservation",
+              "summit-conditions"
+            ]
+          },
+          "label": { "type": "string" },
+          "url":   { "type": "string", "format": "uri" },
+          "notes": { "type": "string", "description": "When the agent should surface this link" }
+        }
+      }
+    },
+    "progression": {
+      "type": "object",
+      "properties": {
+        "good_next_step_after": {
+          "type": "array", "items": { "type": "string" },
+          "description": "Trail IDs that are good prerequisites for this hike"
+        },
+        "leads_naturally_to": {
+          "type": "array", "items": { "type": "string" },
+          "description": "Trail IDs this hike prepares you well for"
+        },
+        "progression_notes": {
+          "type": "string",
+          "description": "Narrative on where this trail sits in a build-up ladder"
+        }
+      }
+    },
+    "response_hints": {
+      "type": "object",
+      "description": "Guidance for the model on how to present this trail to different audiences",
+      "properties": {
+        "beginner_framing": { "type": "string" },
+        "expert_framing":   { "type": "string" },
+        "safety_callout":   {
+          "type": "string",
+          "description": "The single most important safety point for this specific trail. Must specify whether it is a weather hazard, a fall hazard, or both."
+        }
+      }
+    }
+  }
+}

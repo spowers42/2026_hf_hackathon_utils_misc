@@ -1,0 +1,181 @@
+{
+  "id": "mt-chocorua-piper-trail",
+  "name": "Mt. Chocorua via Piper Trail",
+  "peaks": [
+    {
+      "name": "Mt. Chocorua",
+      "elevation_ft": 3478,
+      "is_4k_footer": false,
+      "notes": "Mt. Chocorua is not a NH 4,000-footer (summit is 3,478 ft — USFS rounds to 3,500 ft but the accurate survey elevation is 3,478 ft). It is one of the most climbed and photographed mountains in all of New England; the bare rocky pyramid summit is instantly recognizable and visible from the NH Lakes Region for miles. Despite not making the 4K footer list, the mountain has open rocky above-vegetation character starting well below the summit and its exposed summit cone requires genuine scrambling. Located in Tamworth/Madison, NH within the WMNF Saco Ranger District."
+    }
+  ],
+  "region": "Sandwich Range",
+  "stats": {
+    "distance_rt_miles": 8.6,
+    "elevation_gain_ft": 2700,
+    "highest_point_ft": 3478,
+    "above_treeline_miles": 0.0,
+    "above_treeline_notes": "Schema uses 4,400 ft threshold; Chocorua's summit at 3,478 ft is below it. However, Chocorua is notable for its unusually low ecological treeline — the rocky summit cone and open ledges begin around 3,100-3,200 ft (roughly mile 3.5+ on the Piper Trail), providing approximately 0.5-0.8 miles of exposed sub-alpine travel before reaching the summit. This is significantly more open-summit character than most sub-4,000 ft NH peaks. The actual weather and fall exposure is documented in the exposure and hazard fields; the 0.0 value reflects only the strict schema threshold.",
+    "typical_time_hrs": {
+      "beginner": 7.0,
+      "average": 5.5,
+      "experienced": 4.5
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 3,
+    "overall_label": "hard",
+    "notes": "The Piper Trail to Chocorua is a solid 'hard' hike: 2,700 ft of gain over 8.6 miles RT is comparable to Monroe via Ammonoosuc Ravine in fitness demand, and the upper mountain's open rocky ledges and summit cone scramble place the technical rating at 3. The trail is a forest walk for the first ~3 miles with moderate grade, transitions to increasingly rocky and open terrain, then culminates in the summit cone — a rocky knob requiring Class 2-3 scrambling over open rock faces to reach the true highest point. A short bypass exists at the base of the final rocky knob that avoids the most exposed scrambling and accesses the summit via a slightly less direct route; hikers uncomfortable with the main scramble should use the bypass. With the bypass, technical demand is closer to 2. Open ledge sections on the approach (roughly mile 3.5 to the summit) are hazardous when wet, and the full summit scramble requires confident movement on rock. The mountain is suitable for experienced hikers and strong intermediate hikers in dry conditions; less experienced hikers or those uncomfortable with exposed rock should either attempt the bypass or choose a different route. Camp Penacook Shelter (WMNF lean-to, not AMC hut) is located at mile 2.8 via a spur trail."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "moderate",
+      "description": "Mt. Chocorua's rocky summit and open upper ledge sections provide meaningful weather exposure despite the sub-4,000 ft elevation. The ecological treeline on Chocorua arrives lower than on most neighboring peaks, and the bare rocky summit cone has a sub-alpine character — fully exposed to wind, rain, and lightning for the final 0.5+ miles of the approach and on the summit itself. Sources describe the summit as 'severely exposed to lightning during electrical storms.' The 360° open summit views confirm the lack of shelter once hikers are on the upper mountain. Weather exposure is less severe than the Presidential Range or Franconia Ridge, but more significant than Welch-Dickey or Grand Monadnock due to the commitment required to reach the summit and the sustained rocky open terrain on the approach.",
+      "mitigation": "Check the NWS point forecast before departing. Afternoon thunderstorms are common June–August; plan to be off the open summit and upper ledges before early afternoon. If lightning is audible while on the open upper section or summit cone, descend to the forest immediately — the rocky summit knob is an elevated lightning conductor. The summit cone has no shelter. Start early to build in weather margin and for cooler temperatures on the exposed upper section."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "Two distinct fall-risk zones on the Piper Trail. First, the open ledge sections on the upper approach (roughly mile 3.5 to the base of the summit cone) are exposed granite that becomes slippery when wet — similar in character to Welch-Dickey slabs but less extensive. Second and more consequential, the summit cone scramble: the rocky knob requires Class 2-3 movement over steeply angled open rock faces with real exposure on multiple sides. A fall from the upper scramble section carries serious consequence. A bypass trail at the base of the summit knob avoids the most exposed scramble moves. In wet conditions, both the approach ledges and the scramble zone are significantly more hazardous. The combination of lengthy approach (meaning hikers arrive at the summit cone already tired) and genuine exposed scramble elevates the fall-risk rating compared to simpler rocky summits.",
+      "mitigation": "In wet conditions, the approach ledges are slippery and the summit cone scramble should be skipped in favor of the bypass — the bypass reaches the summit without the most exposed moves. Wear stiff-soled hiking boots; trekking poles are useful on approach ledges but should be stowed or shortened for the scramble. Move deliberately on the summit cone; the rock is generally solid but exposed. Start down early — tired legs on the scramble descent are a primary accident cause. Do not attempt the direct summit scramble in ice or snow without appropriate traction and skills."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["May", "November"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "June through October is the primary hiking season. The open rocky summit with 360° views is exceptional in clear weather at any time of year. Fall foliage from the summit and upper ledges is outstanding late September–early October, and this is one of the most spectacular fall foliage viewpoints in the Sandwich Range — popular and crowded on foliage weekends. May: the upper ledges and summit cone can hold snow and ice through mid-May; microspikes are strongly recommended. November: rapidly deteriorating conditions with early snowfall and ice; treat as shoulder season with full winter awareness. Winter: the summit cone scramble becomes a technical mountaineering objective under snow and ice — crampons and ice axe are necessary, and the summit cone bypass becomes the only reasonable route; wind exposure is significant; the Piper Trail is a popular winter 4K-footer-adjacent objective but should be taken seriously. Camp Penacook Shelter (mile 2.8 spur) is available as emergency overnight or quick shelter from weather year-round."
+  },
+  "tags": [
+    "weather-exposure-moderate",
+    "fall-exposure-moderate",
+    "scrambling",
+    "summit-bypass-available",
+    "open-ledge",
+    "out-and-back",
+    "parking-fee",
+    "wmnf",
+    "non-4k-footer",
+    "saco-ranger-district",
+    "no-amc-hut",
+    "wmnf-shelter-nearby",
+    "dog-friendly",
+    "very-popular"
+  ],
+  "hazards": [
+    {
+      "type": "summit-cone-scramble-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The final approach to Chocorua's summit involves Class 2-3 scrambling up the bare rocky knob — the iconic feature visible in photographs of the mountain. The scramble routes are on open rock faces with real exposure below; a fall from the upper scramble section can cause serious injury. This is not a walk-up. A bypass trail at the base of the summit knob provides an alternate (less exposed) route to the summit for hikers who are uncomfortable with the scramble. The bypass should be used by anyone who is not confident on exposed rock or in wet conditions. The scramble is more hazardous on descent than ascent, and particularly hazardous when wet, icy, or when hikers are fatigued from the long approach.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "approach-ledge-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The upper section of the Piper Trail (approximately mile 3.5 to the summit base) traverses open granite ledges that become slippery when wet. These sections are less steep and dramatic than the summit cone but carry meaningful fall risk in wet weather or with ice. Chocorua's ecological treeline is lower than most neighboring peaks, meaning exposed ledge sections are longer and more sustained than hikers may expect for a sub-4,000 ft peak. Multiple trail sources note that Chocorua's ledgy sections are 'dangerous when wet or icy.'",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The bare rocky summit cone and open upper ledges of Mt. Chocorua are severely exposed to lightning. The summit is the highest rocky point in the Sandwich Range area and sits in a fully open position with 360° exposure. The rocky summit knob itself functions as a high point attracting lightning. Sources specifically describe the summit as 'severely exposed to lightning during electrical storms.' Afternoon thunderstorms are common June–August; plan summit timing accordingly and descend off the open rock immediately if lightning is threatening.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "weather-exposure",
+      "hazard_category": "weather-and-environment",
+      "description": "Chocorua's open summit and upper ledges are exposed to full wind and rain. The mountain's bare rocky summit has sub-alpine character — once hikers are on the upper open section, there is no shelter until they descend back to the treeline. In summer, afternoon cloud buildups and temperature drops can be rapid. In shoulder seasons (May, October, November), conditions on the upper mountain can deteriorate significantly from what was benign at the trailhead. The 8.6-mile RT distance means hikers are committed for several hours once underway.",
+      "months_active": ["May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The open ledge sections and summit cone scramble become extremely hazardous with ice or snow. The rocky knob in particular — already a Class 2-3 scramble in dry summer conditions — becomes a serious mountaineering challenge when iced. Ice forms on the upper ledges in October and lingers through May. The summit cone bypass is the only reasonable route under icy winter conditions; even the bypass is hazardous without crampons. Winter conditions require crampons (not just microspikes) for the summit cone and ice axe for self-arrest potential on the exposed rocky sections.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Stiff-soled hiking boots with good ankle support — essential for the summit cone scramble and approach ledges",
+      "Rain shell — afternoon storms are common; the upper mountain is fully exposed",
+      "Warm layer and wind shell — summit can be significantly colder and windier than the trailhead",
+      "Trekking poles (stow before the summit cone scramble; helpful on approach ledge sections)",
+      "Water: 2 liters minimum — no water sources on upper trail; brook crossings in lower trail require filtering",
+      "Headlamp — long day hike; carry always",
+      "Map: AMC White Mountains Map covering the Sandwich Range / Chocorua area (AMC Map 3 or Map 4 — VERIFY)",
+      "Dogs on leash permitted per WMNF rules"
+    ],
+    "shoulder_season": [
+      "All three-season gear plus:",
+      "Microspikes — upper ledges and summit cone can hold ice in May and October-November",
+      "Extra insulating layers — wind exposure at the summit is significant in shoulder season",
+      "Waterproof gloves"
+    ],
+    "winter": [
+      "All shoulder-season gear plus:",
+      "Crampons — mandatory for iced summit cone and upper ledges",
+      "Ice axe (recommended for self-arrest potential on summit cone)",
+      "Full winter insulated clothing",
+      "Balaclava and goggles for summit wind",
+      "Note: winter Chocorua is a serious mountaineering objective; the summit cone becomes a technical climb under ice — use the bypass and assess conditions before committing to the open cone"
+    ]
+  },
+  "trailhead": {
+    "name": "Piper Trailhead (NH Route 16, Madison NH)",
+    "lat": 43.93829341,
+    "lon": -71.22835531,
+    "parking": "VERIFY fee — USFS trailhead page (updated February 2025) does not list a fee at this site. Older hiking sources reference a $3 cash fee at a self-serve kiosk. Confirm current fee status before arriving; carry cash for a self-pay envelope if fees are collected. Davies General Store is approximately 300 yards north on NH-16 and can provide change. Large parking area; fills on summer and fall weekends — arrive early on peak days.",
+    "access_road": "From NH-16, turn onto a dirt access road behind Davies Campground and General Store in Madison NH. The trailhead is 6.1 miles south of the NH-16 / Kancamagus Highway (NH-112) junction in Conway, and 3.5 miles north of Chocorua Lake Road. Follow the short dirt road to the large parking area.",
+    "nearest_town": "Conway, NH (approximately 6 miles north on NH-16); Tamworth, NH (approximately 5 miles south)",
+    "amenities": [
+      "No restrooms at trailhead",
+      "No potable water",
+      "Trailhead kiosk",
+      "Davies General Store nearby on NH-16 (water, snacks, restrooms)",
+      "Camp Penacook Shelter: 3-sided WMNF lean-to with outhouse at mile 2.8 via marked spur trail — available for emergency shelter and overnight use (no reservation required)"
+    ]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "Piper Trailhead — USFS White Mountain National Forest",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/piper-trailhead",
+      "notes": "Surface for fee information, trailhead conditions, and official description; Camp Penacook Shelter referenced here; last updated February 2025"
+    },
+    {
+      "type": "alltrails",
+      "label": "Piper Trail — AllTrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/piper-trail--2",
+      "notes": "Surface for current user conditions and trip reports; 1,659+ reviews; particularly useful for checking summit cone conditions (wet, icy) before going"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "NWS Point Forecast — Mt. Chocorua Summit Area",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=43.954&lon=-71.261",
+      "notes": "Surface every time a user asks about conditions or weather. No AMC Higher Summits Forecast for Chocorua — use this NWS point forecast. Most critical question: is precipitation or lightning forecast? If yes, the summit cone scramble should be skipped or the hike postponed."
+    },
+    {
+      "type": "map-download",
+      "label": "AMC White Mountains Map — Chocorua / Sandwich Range",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/",
+      "notes": "VERIFY: confirm which AMC map covers the Piper Trail / Chocorua area (likely AMC Map 3: Crawford Notch & Sandwich Range Wilderness, or Map 4: Chocorua); surface when user asks about maps"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "welch-dickey-loop",
+      "mt-monadnock-pumpelly-trail"
+    ],
+    "leads_naturally_to": [
+      "mt-moosilauke-gorge-brook",
+      "mt-eisenhower-edmands-path"
+    ],
+    "progression_notes": "Mt. Chocorua via the Piper Trail is a natural step up from Welch-Dickey for hikers who've demonstrated comfort on open granite terrain. The 8.6-mile RT and 2,700 ft gain push into 'hard' territory, and the summit cone scramble introduces genuine exposed climbing that Welch-Dickey doesn't require. Chocorua is often hikers' first experience with a true summit scramble in the White Mountains — the optional bypass allows a confidence test (attempt the scramble, evaluate, retreat to bypass if needed). From Chocorua, the natural progressions are into the 4K footer list: Mt. Moosilauke (gorge brook) is a step up in mileage with a similarly open summit ridge but no scramble; Mt. Eisenhower (Edmands Path) introduces Presidential exposure with lower technical demand. Both are good first 4K footers for hikers coming from Chocorua."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Chocorua is one of the most recognizable mountains in New England — that rocky pyramid you've seen in photos is real, and you get to stand on top of it. The Piper Trail is the most popular way up: 4.3 miles each way, about 2,700 feet of climbing, with the last mile getting rocky and exposed as you work your way up to that summit knob. The final push to the very top involves scrambling over bare rock — it's exciting but can feel exposed. If that sounds like too much, there's a bypass trail that still gets you to the summit without the hardest moves. Two things to know: the rocky section near the top gets very slippery when wet, and the open summit is exposed to lightning — check the weather and plan to be off the top before afternoon storms arrive. Camp Penacook Shelter is at mile 2.8 if you need to rest or bail.",
+    "expert_framing": "Piper Trail: 4.3 mi one-way, 2,700 ft, trailhead at 43.9383°N / 71.2284°W (dirt road off NH-16 behind Davies). Forest approach ~3 mi, then open ledges and rocky terrain to summit cone. Summit knob: Class 2-3 scramble over exposed rock faces; bypass available at base of knob for those skipping the direct scramble. Summit 3,478 ft — not a 4K footer. Ecological treeline ~3,100 ft; ~0.5-0.8 mi of exposed rocky terrain on approach and summit. Camp Penacook Shelter (WMNF 3-sided lean-to) at mile 2.8 spur. Saco Ranger District; $5/day fee (VERIFY — USFS page currently lists no fee). No restrooms. Fall risk 'moderate': approach ledges + summit scramble; severely exposed to lightning. Wet-weather: skip summit scramble, use bypass. 1,659+ AllTrails reviews.",
+    "safety_callout": "Two distinct hazards, both at the summit. Fall risk is moderate: the summit cone scramble (Class 2-3 on exposed rock) is the defining technical challenge and should be skipped via the bypass in wet conditions or if confidence is low — tired legs on the descent scramble are the primary accident cause. Wet approach ledges (mile 3.5+) are also slippery. Weather exposure is moderate: the bare rocky summit is severely exposed to lightning despite the modest elevation; plan summit timing to be off the upper open section before early afternoon thunderstorm hours, and descend immediately if lightning is audible."
+  }
+}

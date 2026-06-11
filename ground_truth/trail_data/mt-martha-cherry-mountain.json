@@ -1,0 +1,140 @@
+{
+  "id": "mt-martha-cherry-mountain",
+  "name": "Mt. Martha via Cherry Mountain Trail",
+  "peaks": [
+    {
+      "name": "Mt. Martha",
+      "elevation_ft": 3573,
+      "is_4k_footer": false
+    },
+    {
+      "name": "Owl's Head (Cherry Mountain)",
+      "elevation_ft": 3258,
+      "is_4k_footer": false
+    }
+  ],
+  "region": "Northern Presidentials",
+  "stats": {
+    "distance_rt_miles": 5.4,
+    "elevation_gain_ft": 2400,
+    "highest_point_ft": 3573,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 6.0,
+      "average": 4.5,
+      "experienced": 3.0
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 2,
+    "overall_label": "moderate",
+    "notes": "Cherry Mountain Trail packs a serious amount of gain into a short distance: ~1,923 feet in the first 1.7 miles to the ridge junction, making the initial climb feel more demanding than the total numbers suggest. The first mile follows a gradual old woods road, then the trail steepens significantly over the final 0.7 miles to the ridge. The reward is immediate — the junction area is wide open with fern meadows, and the climb to Martha's summit is just 0.2 miles beyond. The extension along Martha's Mile to Owl's Head adds 0.8 miles of forested ridge walking with some undulations before the final push to the open summit ledges. One brief section near the Owl's Head summit involves tree-grip scrambling on steeper ground — easily managed but worth noting. All terrain is below treeline and no hands-required moves have cliff consequence. This is a compact, rewarding hike best described as steep-moderate: shorter than most NH half-day hikes but with a genuine cardiovascular workout concentrated early. Neither summit is a 4K footer; Mt. Martha is on the NH 52 With A View list. Note: the Owl's Head on this route (3,258 ft, a spur of Cherry Mountain) is a completely different peak from the NH 4K footer Owl's Head (4,025 ft) in the Pemigewasset Wilderness — the names are identical but the peaks are unrelated."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "low",
+      "description": "The route is entirely below the ~4,400 ft treeline. However, the open summit ledges on Owl's Head (~0.1 miles of exposed rock) provide no shelter from lightning and offer direct exposure during summer afternoon thunderstorms. The ledges are the most rewarding viewpoint on the route and also the only place without tree cover. At 3,258 ft the elevation is modest compared to Presidential Ridge routes, but the lightning hazard on open rock is real in summer. Mt. Martha's two viewpoints are at the edge of a former fire tower clearing — partially open but less exposed than the Owl's Head ledges.",
+      "mitigation": "Check the mountain weather forecast before departure. Start early enough to be off the Owl's Head ledges before noon in thunderstorm season. The ledges are a 10–15 minute descent from the summit, so retreat into tree cover is quick if needed."
+    },
+    "fall_risk": {
+      "rating": "none",
+      "description": "No cliff-consequence terrain on this route. The Cherry Mountain Trail's steep sections are well-maintained rocky path — a slip results in a stumble, not a dangerous fall. One brief section on the final approach to Owl's Head involves grasping tree roots to navigate a steeper rocky pitch, but there are no drop-offs or ledge edges with fall consequence. The Owl's Head summit ledges themselves are open but not perched above cliffs.",
+      "mitigation": "Standard hiking footwear. Trekking poles helpful on the descent of the steep initial trail. Microspikes in icy conditions."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "Cherry Mountain Trail is a good three-season objective. The steep initial section ices in late fall and stays icy through early spring; microspikes are typically needed November through April. Mud season (April) affects the lower old-road section. The trail is often drier underfoot than busier Pemi or Presidential trails because it sees lighter traffic. Fall foliage typically peaks in this area in early October and the Presidential views from Owl's Head at that time are outstanding. Winter is feasible with microspikes or snowshoes but the WMNF parking lot on Rt. 115 may not be plowed — verify road and lot conditions. An important note on views: Mt. Martha's summit has two partial viewpoints at the site of a demolished fire tower — one looking north to the Presidentials, one looking south to Franconia Ridge — but neither is a full panorama. The open ledges on Owl's Head (0.8 miles further on Martha's Mile) have the best Presidential Range views on the route and are the highlight worth continuing for. Hikers short on time can turn back at Martha and still have a rewarding climb, but the Owl's Head ledge views are exceptional and worth the extra 1.6 miles round trip."
+  },
+  "tags": [
+    "out-and-back",
+    "multi-peak",
+    "dog-friendly",
+    "parking-fee",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "steep-terrain-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Cherry Mountain Trail steepens significantly in its upper 0.7 miles to the ridge, and the final approach to Owl's Head has one brief rocky pitch requiring tree-root handholds. Neither section has cliff-consequence terrain — a slip results in a slide on steep path, not a dangerous fall. The hazard is elevated in wet, icy, or leaf-covered conditions when footing is less reliable on the steep rocky sections.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The steep upper section of Cherry Mountain Trail and sections of Martha's Mile accumulate ice from late fall through early spring. The icy steep descent from the ridge junction is the highest-priority section for traction devices. The trail's low traffic means icy sections may not be packed by other hikers and can be glassy in shoulder season.",
+      "months_active": ["November", "December", "January", "February", "March", "April"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The open ledges on Owl's Head provide no shelter from lightning during summer afternoon thunderstorms. The Presidential Range, clearly visible from the ledges, generates significant convective activity in summer — the same weather patterns that produce Presidential storms reach this area with similar afternoon timing.",
+      "months_active": ["May", "June", "July", "August", "September"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots or trail runners with good grip on wet rock",
+      "Trekking poles (strongly recommended for the steep initial descent)",
+      "Rain jacket — Owl's Head ledges are exposed to afternoon weather",
+      "1.5 liters water (no water sources on trail)",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required on the steep upper trail when icy — November through April)",
+      "Insulating mid-layer and warmer gloves and hat"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Microspikes or crampons depending on ice conditions",
+      "Snowshoes for unbroken post-storm snow conditions",
+      "Verify parking lot is plowed before departing — Rt. 115 lot may not be maintained in winter"
+    ]
+  },
+  "trailhead": {
+    "name": "Cherry Mountain Trailhead — Carroll (Twin Mountain), NH",
+    "lat": 44.320409,
+    "lon": -71.525871,
+    "parking": "Small parking area on Route 115, opposite Lennon Road. WMNF recreational pass required — $5/day or annual pass. Capacity is limited; the lot is usually not crowded compared to more popular trailheads. No restrooms, no potable water.",
+    "access_road": "From the junction of Routes 302 and 3 in Twin Mountain (Carroll), head north on Rt. 3 for 2.1 miles, then turn right at the flashing light onto Rt. 115. Travel 1.9 miles and turn right into the parking area, opposite Lennon Road. From Jefferson (Rt. 2), head southwest on Rt. 115 for 7.8 miles; the parking area is on the left. Note: there is a separate Owl's Head Trail parking area approximately 4 miles before the Cherry Mountain Trailhead on this approach — be sure to stop at the correct lot.",
+    "nearest_town": "Twin Mountain (Carroll), NH",
+    "amenities": ["No restrooms", "No potable water"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "USFS White Mountain NF — Pemigewasset Ranger District",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/pemigewasset-ranger-district",
+      "notes": "Ranger district covering Cherry Mountain area — current trail advisories and parking pass information"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Cherry Mountain Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/cherry-mountain",
+      "notes": "Current conditions, user-reported trail state, GPS track"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "welch-dickey-loop",
+      "lonesome-lake-loop"
+    ],
+    "leads_naturally_to": [
+      "mt-waumbek-starr-king",
+      "mt-tecumseh",
+      "mt-galehead-gale-river"
+    ],
+    "progression_notes": "Cherry Mountain is a strong intermediate stepping stone between entry-level hikes (Welch-Dickey, Lonesome Lake) and the NH 4K footer list. Its concentrated gain teaches fitness pacing early, and the Owl's Head ledge views provide a taste of the Presidential Range scenery that motivates the longer objectives ahead. The route pairs naturally with Mt. Waumbek/Starr King as a Jefferson-area objectives — both are below treeline, both have wooded main summits with viewpoints on approach or spur trails, and both build the fitness needed for longer Pemi or Presidential routes. Hikers who complete Cherry Mountain comfortably have the baseline to attempt the lower NH 4K footers."
+  },
+  "response_hints": {
+    "beginner_framing": "Cherry Mountain to Mt. Martha and Owl's Head is one of the Whites' hidden gems — a quiet hike with genuinely outstanding views that doesn't appear on most 'must-do' lists. The first mile follows a pleasant old woods road, then the trail gets serious for the last 0.7 miles to the ridge — steep, rooted, and heart-pumping. Once you reach the ridge it opens up beautifully, and from there you visit Mt. Martha (fire tower history, partial views north and south) before continuing on Martha's Mile to the real payoff: Owl's Head's open summit ledges with a panoramic Presidential Range view. Expect 4–5 hours for a comfortable pace. The WMNF parking pass ($5/day) is required. Bring trekking poles — you'll thank yourself on the descent.",
+    "expert_framing": "Cherry Mountain is a compact, efficient objective in the Jefferson/Twin Mountain area — 5.4 miles, 2,400 ft cumulative gain, well below treeline, and typically uncrowded. The initial climb is steep enough to be a genuine workout; the Martha's Mile traverse adds pleasant ridge character before the Owl's Head ledge pay-off. Views of the full Presidential sweep from Owl's Head are among the better non-4K panoramas in the Whites. Good pair with Waumbek/Starr King for a full Jefferson-area day, or as a fast early-morning objective before driving to a bigger afternoon hike. The fire tower remnants at Martha's summit are historically interesting. Fall color views from Owl's Head ledge are excellent in early October. DISAMBIGUATION: This Owl's Head (3,258 ft, Cherry Mountain) is an entirely different peak from the NH 4K footer Owl's Head (4,025 ft) in the Pemigewasset Wilderness — do not conflate them in the planning tool.",
+    "safety_callout": "No significant fall-consequence terrain and no above-treeline exposure — the main practical concerns are the steep, icy upper trail in shoulder season (microspikes required) and lightning on the Owl's Head ledges in summer afternoon thunderstorms. Start early in thunderstorm season to be off the open ledges before noon. Verify the Rt. 115 parking lot is accessible in winter before making the drive."
+  }
+}

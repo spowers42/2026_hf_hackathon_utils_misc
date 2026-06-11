@@ -1,0 +1,179 @@
+{
+  "id": "mt-cardigan-holt-trail",
+  "name": "Mt. Cardigan via Holt Trail",
+  "peaks": [
+    {
+      "name": "Mt. Cardigan",
+      "elevation_ft": 3121,
+      "is_4k_footer": false,
+      "notes": "Mt. Cardigan (3,121 ft) is not a NH 4,000-footer but is one of the most technically distinctive summits of its elevation class in New England. Known as 'Old Baldy,' the summit and upper slopes are completely treeless — the result of an 1855 fire that burned off the thin soil layer on the exposed granite dome, preventing forest regeneration above approximately 2,800 ft. Three peaks make up the Cardigan massif: Cardigan (highest), South Peak, and Firescrew (the northern summit, with its own fire tower remnant). The mountain offers panoramic 360° views to Grand Monadnock, the White Mountains, Camel's Hump (VT), and Pleasant Mountain (ME). The east side (Holt Trail approach) lies on AMC's 1,200-acre Cardigan Reservation adjacent to the 5,000-acre Cardigan State Forest; the west side is NH State Park (separate trailhead, separate fee). Not in the White Mountain National Forest. No WMNF pass required."
+    }
+  ],
+  "region": "Cardigan Highlands",
+  "stats": {
+    "distance_rt_miles": 4.0,
+    "elevation_gain_ft": 1700,
+    "highest_point_ft": 3121,
+    "above_treeline_miles": 0.0,
+    "above_treeline_notes": "The schema uses 4,400 ft as the above-treeline threshold, so above_treeline_miles is 0.0. In practice, Mt. Cardigan is one of the most dramatically 'bald' summits in the Northeast at its elevation: the 1855 summit fire destroyed the thin soil layer on the exposed granite dome, preventing forest regeneration above approximately 2,800–2,900 ft. The upper 0.5–0.8 miles of the Holt Trail traverse completely open granite slabs with no tree cover. This creates genuine sub-alpine exposure — including unobstructed lightning exposure and full sun, wind, and rain — that is typical of peaks 1,000–1,500 ft higher in the Presidentials. The treeless character is the defining feature of the entire upper approach.",
+    "typical_time_hrs": {
+      "beginner": 4.5,
+      "average": 3.5,
+      "experienced": 2.5
+    }
+  },
+  "difficulty": {
+    "fitness": 2,
+    "technical": 3,
+    "overall_label": "hard",
+    "notes": "The Holt Trail defies its modest numbers. At 4.0 miles RT and 1,700 ft of gain, the fitness demand is moderate — experienced hikers complete the round trip in 2.5 hours. But 'moderate fitness, serious technical' is exactly what makes this trail notable: the upper 0.8 miles concentrate an extreme density of technical terrain that AMC describes as among the most difficult trails in New England for their length. The gradient reaches approximately 1,000 ft of gain in 0.8 miles (~23% average grade) with exposed Class 3 scrambling over and between granite slabs. The crux features two slabs side-by-side — one overhanging the other — creating a 'crack-wedge' move requiring committing hands-on rock contact over 'an exposed rock face with a very dangerous drop.' The comparison often cited: a compressed version of the first rock scramble on Huntington Ravine Trail. Technical rating 3 reflects sustained Class 3 terrain in the crux section, real and consequential fall potential, and no true bypass for the hardest moves. The Manning Trail approach (0.2 miles from lodge to Holt Trail junction) is a moderate forest path. For anyone not experienced with Class 3 scrambling, the Holt Trail's upper section is genuinely dangerous. The trail explicitly should not be climbed in rainy or cold temperatures. Loop variant: Holt Trail up → Mowglis Trail → Firescrew → Manning Trail back to lodge = 4.7 miles, approximately 1,748 ft gain."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "moderate",
+      "description": "The Cardigan summit is completely treeless above approximately 2,800–2,900 ft — not due to altitude but due to the 1855 fire. This means the upper approach and summit have genuine open-granite weather exposure more like a much higher peak than 3,121 ft would suggest. 'Moderate' is appropriate rather than 'high' because: the mountain does not generate the extreme weather of the Presidentials, total time above treeline on the Holt Trail is about 20–40 minutes in favorable conditions, and the AMC Lodge is at the base offering fast retreat to shelter. Still, afternoon convective storms develop rapidly and catch hikers fully exposed on the granite dome. The open summit offers extraordinary views on clear days but those same conditions turn dangerous quickly in deteriorating weather.",
+      "mitigation": "Check the NWS point forecast for the Cardigan summit area before departing. Start early — summit by late morning to be descending before afternoon convective weather develops. On the bald granite dome there is no shelter; descent is the only option if lightning threatens. The AMC Lodge at the base provides fast retreat. Never start the upper slab section if you can hear thunder or see lightning in any direction."
+    },
+    "fall_risk": {
+      "rating": "high",
+      "description": "The upper 0.8 miles of the Holt Trail present the highest concentration of fall risk of any route in this system at this elevation. The trail climbs directly over exposed granite slabs and through a 'crack-wedge' crux where two angled slabs create a committing move over an exposed rock face with a very dangerous drop. This is Class 3 terrain: hands are required for the crux, foot placement is critical, and a fall from the upper section would result in serious or fatal injury. The exposure is qualitatively different from summit slabs on Welch-Dickey or the summit-cone scramble on Chocorua — the Holt Trail crux has Class 3 character with immediate and serious consequence. Descending is notably harder than ascending: steep angle, required downclimbing, and reduced foothold visibility make this one of the more demanding descents in this system. Wet conditions multiply the risk severely: AMC explicitly states the trail should not be climbed in rainy or cold temperatures.",
+      "mitigation": "Only attempt the upper Holt Trail if you are comfortable with Class 3 scrambling on dry rock. Do not attempt in wet, icy, or cold conditions — AMC guidance is unambiguous. Three points of contact at all times on the crux section. Stow trekking poles before the upper slab section — hands are needed. Descend carefully and slowly; pause at the crux to plan your sequence before committing. If any party member is uncomfortable at the crux, retreat rather than proceed."
+    }
+  },
+  "seasons": {
+    "recommended": ["May", "June", "July", "August", "September", "October"],
+    "viable_with_gear": ["April", "November"],
+    "avoid": ["December", "January", "February", "March"],
+    "seasonal_notes": "The AMC Cardigan Lodge full-service season runs May 14 – October 17, 2026 (meals, staffed services, demo center); self-service the lodge operates outside this window through the shoulder season. The Holt Trail is technically accessible year-round, but the upper granite slabs become severely dangerous when icy — microspikes alone are insufficient for the crux section in ice. April and November visitors must carry appropriate traction (microspikes at minimum, crampons if ice is likely) and should turn back if the crux is iced over. Summer (June–August): peak season; the open granite dome and views are exceptional; start early to beat afternoon storms. Fall (September–October): outstanding foliage views from the bald summit; typically the clearest days; fall weekends fill the lodge parking lot quickly."
+  },
+  "tags": [
+    "weather-exposure-moderate",
+    "fall-exposure-high",
+    "class-3-scramble",
+    "bald-summit",
+    "out-and-back",
+    "loop-variant-available",
+    "amc-lodge",
+    "parking-fee-verify",
+    "non-white-mountains",
+    "non-4k-footer",
+    "amc-reservation",
+    "no-dogs-in-lodge",
+    "old-baldy",
+    "no-wmnf-pass",
+    "wet-conditions-do-not-attempt"
+  ],
+  "hazards": [
+    {
+      "type": "scramble-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The upper 0.8 miles of the Holt Trail involve Class 3 scrambling on exposed granite with a notorious 'crack-wedge' crux: two angled slabs side-by-side, one overhanging the other, requiring committing hand-and-foot moves over an exposed rock face with a very dangerous drop. This section has been described as among the most technically demanding trails of its length in New England, comparable to the first rock scramble on Huntington Ravine Trail. Hands are required; trekking poles must be stowed before this section. A slip or misread sequence on the crux has serious or fatal fall consequence. The descent is harder than the ascent — downclimbing steep slab with reduced foothold visibility requires more care and experience than the ascent. Not appropriate for children without scrambling experience, anyone uncomfortable with Class 3 terrain, or anyone with a fear of heights.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "wet-conditions-trail-restriction",
+      "hazard_category": "terrain-and-fall",
+      "description": "AMC explicitly states the Holt Trail should not be climbed in rainy and/or cold temperatures. Wet granite exponentially increases fall risk on the upper slabs and crux section: what requires careful deliberate movement on dry rock becomes severely dangerous when wet. Unlike Welch-Dickey where a wet-day warning is advisory, the Holt Trail's steeper gradient and greater vertical consequence make wet-rock conditions effectively prohibitive. Do not start the upper trail if it has rained recently, if rain is in the forecast, or if temperatures are near freezing. Retreat immediately if the upper granite becomes wet while you are on it.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The Cardigan summit and upper slopes are completely treeless — the open granite dome is fully exposed to lightning with no natural shelter. The 'Old Baldy' character means hikers are on open rock with 360° lightning exposure for the final 0.5–0.8 miles to the summit. Unlike sub-alpine exposed sections on many NH peaks where tree cover provides rapid nearby refuge, the Cardigan bald has no escape from the open except to descend. Afternoon convective thunderstorms are common June–August. A hiker caught on the upper Holt Trail or summit in a developing storm must begin descent immediately.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "terrain-and-fall",
+      "description": "The open granite slabs of the upper Holt Trail accumulate ice in winter and early spring, and can hold ice late into April. Icy conditions on the crux section — already the trail's most dangerous terrain in dry conditions — create extreme fall risk. Microspikes provide limited protection on steep iced slabs requiring Class 3 moves; crampons are more appropriate but require compatible footwear and technique. The bald summit also accumulates rime ice in late fall and winter, making the approach rock unpredictably slick. Confirm upper trail conditions before any April or November visit — retreat is appropriate if ice is present on the crux section.",
+      "months_active": ["November", "December", "January", "February", "March", "April"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Boots with ankle support and aggressive grip — Class 3 scrambling over granite slabs requires confident footwear; trail runners are acceptable for experienced scramblers only",
+      "Trekking poles that are stowable in your pack — poles MUST be put away before the upper slab and crux section; ensure your pack can carry them securely",
+      "Rain shell — the open bald summit receives full weather exposure; carry even if skies are clear at departure",
+      "Water: 1.5–2 liters — short trail but physically demanding; no water sources on route",
+      "Snacks — the upper section requires more energy than the mileage implies",
+      "Sun protection — fully exposed upper slopes and summit; no shade above 2,800 ft"
+    ],
+    "shoulder_season": [
+      "All three-season gear plus:",
+      "Microspikes — rocky upper trail holds ice into April and from November; mandatory for shoulder season visits",
+      "Extra warm layers — significant wind on the open bald in April and October; wind chill drops temperature substantially",
+      "Confirm ice conditions on upper trail before committing; retreat if crux section is iced over"
+    ],
+    "winter": [
+      "All shoulder-season gear plus:",
+      "Crampons (not microspikes) for iced crux section — 12-point crampons appropriate for steep iced granite",
+      "Winter mountaineering experience required for the upper slabs in ice conditions",
+      "Verify AMC Lodge self-service status before planning any extended winter trip",
+      "Full winter insulation system — the open bald summit is fully exposed and wind-driven"
+    ]
+  },
+  "trailhead": {
+    "name": "AMC Cardigan Lodge",
+    "lat": 43.6498,
+    "lon": -71.8779,
+    "parking": "VERIFY parking fee — day hiker parking available at the lodge main lot (shared with overnight guests). Lot is limited and fills on busy summer and fall weekends; arrive early or carpool. Exit 23 Park & Ride on I-93 is the recommended carpool staging point. No designated overflow lots; no roadside parking on Shem Valley Road; no turnaround areas. Do not block the lodge driveway or attempt roadside parking.",
+    "access_road": "AMC Cardigan Lodge, 774 Shem Valley Rd, Alexandria, NH 03222. From I-93: take Exit 23 to NH-104 west; follow directional signs for Alexandria and AMC Cardigan Lodge; turn onto Shem Valley Rd. The road is narrow and unpaved near the lodge. GPS may route incorrectly — follow AMC directional signs from the highway. The Manning Trail begins at the lodge trailhead kiosk; the Holt Trail junction is 0.2 miles in.",
+    "nearest_town": "Bristol, NH (approximately 12 miles southeast)",
+    "amenities": [
+      "AMC Cardigan Lodge full service May 14–Oct 17: overnight lodging (private rooms and bunk rooms), family-style meals (dinner and breakfast included with overnight), hot showers, WiFi, heated common spaces, trailhead kiosk",
+      "AMC gear demo center during full-service season: Deuter packs and LEKI poles",
+      "Retail store (AMC gear and provisions) during full-service season",
+      "Self-service cabin and bunk space available outside full-service season (verify with AMC before visiting)",
+      "No dogs in lodge at any time (AMC policy); VERIFY dog policy for trails"
+    ],
+    "special_notes": "AMC Cardigan Lodge is a full AMC reservation lodge, not a roadside trailhead — be aware of three things: (1) parking is limited and fills on busy days; carpooling and early starts are strongly encouraged; (2) the lodge services (meals, showers, overnight) are available by reservation and worth considering given the lodge is the trailhead; (3) the west side of Cardigan (NH State Park, Orange NH) is a completely separate trailhead with different trails and fee structure — confirm you are navigating to the AMC Lodge east-side approach for the Holt Trail."
+  },
+  "amc_hut": {
+    "name": "AMC Cardigan Lodge",
+    "distance_miles_from_route": 0.0,
+    "services": "Full AMC reservation lodge at the Holt Trail trailhead — not a backcountry mountain hut. Full-service season May 14 – October 17, 2026: overnight lodging, family-style meals, showers, WiFi, gear demo center, retail store. Self-service season: November through mid-May outside the full-service window. Reservations required for overnight stays; day hikers use the same parking lot. No dogs allowed in lodge at any time.",
+    "link": "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/"
+  },
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "AMC Cardigan Lodge — Appalachian Mountain Club",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+      "notes": "Surface for lodge reservations, services, seasonal schedule, trail conditions updates, and parking information. Primary AMC source for the Holt Trail east-side approach."
+    },
+    {
+      "type": "alltrails",
+      "label": "Holt Trail and Manning Trail Loop to Mt. Cardigan — AllTrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/holt-trail-and-manning-trail-loop-to-mount-cardigan",
+      "notes": "Surface for current user trip reports on Holt Trail conditions, upper slab status, and crux section difficulty. 379 reviews as of research date."
+    },
+    {
+      "type": "weather-forecast",
+      "label": "NWS Point Forecast — Mt. Cardigan Summit Area",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.8879&lat=43.6525",
+      "notes": "VERIFY — coordinates are approximate summit estimate. Surface when user asks about conditions or weather on this route. No AMC Higher Summits Forecast equivalent for Cardigan; use this NWS point forecast."
+    },
+    {
+      "type": "trail-conditions",
+      "label": "Cardigan Campsites — AMC",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/cardigan-campsites/",
+      "notes": "Surface for users exploring tent platforms and lean-tos on the AMC Cardigan Reservation adjacent to the lodge trailhead."
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-chocorua-piper-trail",
+      "welch-dickey-loop"
+    ],
+    "leads_naturally_to": [
+      "mt-moosilauke-gorge-brook",
+      "mt-eisenhower-edmands-path"
+    ],
+    "progression_notes": "Mt. Cardigan via the Holt Trail pairs modest fitness demand with serious technical challenge — it fits well after routes that have established comfort with rocky NH terrain (Chocorua, Welch-Dickey) and before routes that are both more demanding in total effort and more sustained in technical character (Moosilauke, lower Presidential routes). Hikers who complete the Holt Trail crux confidently are technically ready for Class 3 terrain on Presidential routes. The loop variant (Holt up → Mowglis Trail → Firescrew → Manning Trail back = 4.7 miles, ~1,748 ft gain) adds Firescrew's secondary summit and is the standard AMC-recommended loop for those wanting more time on the mountain. The west-side approach via NH State Park in Orange, NH offers lower-angle alternatives (Clark Trail, Cathedral Forest Trail) if the Holt Trail's technical character is too demanding for a given party."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Cardigan is short, but it's one of the most technically demanding hikes for its length in New England — make sure whoever is asking genuinely wants this level of challenge. The Holt Trail's upper section requires real scrambling, hands on rock, and includes a move on an exposed face with a serious drop below. It's not appropriate for children who haven't scrambled before, anyone uncomfortable with heights, or anyone who would turn around if it got hard. That said, the rewards are extraordinary: a completely treeless 'bald' granite dome summit called Old Baldy, 360° views from Grand Monadnock to the White Mountains, and one of the best AMC lodges in New England right at the trailhead (hot meals, showers, overnight stays available — worth booking if you want to make a trip of it). Good step up from Chocorua or Welch-Dickey for someone ready to try real hands-on scrambling. Critical note: do not do this hike if it has rained recently or rain is in the forecast — AMC explicitly says the Holt Trail should not be climbed in rainy or cold conditions.",
+    "expert_framing": "Holt Trail via Manning Trail from AMC Cardigan Lodge (774 Shem Valley Rd, Alexandria NH; lat 43.6498, lon -71.8779 VERIFY). Route: Manning 0.2 mi to Holt junction → Holt 1.8 mi to summit; 4.0 mi RT; ~1,700 ft gain; lodge at 1,450 ft. Crux: upper 0.8 mi, Class 3 'crack-wedge' section, exposed face, dangerous drop; Huntington Ravine first-scramble comparison. Summit 3,121 ft, fully bald (1855 fire), open above ~2,800 ft. Loop variant: Holt up → Mowglis → Firescrew → Manning = 4.7 mi, ~1,748 ft gain. Lodge full service May 14–Oct 17: meals, bunks, showers, WiFi, gear demo. Lot fills on busy days — carpool via I-93 Exit 23 P&R. No dogs in lodge; trail dog policy VERIFY. Parking fee VERIFY. NWS point forecast for summit conditions VERIFY coordinates. Wet/cold conditions: do not attempt upper Holt — AMC guidance is explicit. West-side approach (State Park, Orange NH) is a separate trailhead.",
+    "safety_callout": "This route has two distinct hazard types that must both be assessed before departure. FALL RISK is the primary concern: the upper 0.8 miles of the Holt Trail involves Class 3 scrambling with an exposed rock face and very dangerous drop; this section should not be attempted by anyone without Class 3 scrambling experience, and must never be attempted in wet or cold conditions per AMC guidance — wet granite on this trail is not just difficult, it is genuinely dangerous. WEATHER risk is moderate: the completely treeless bald summit creates full lightning exposure on the upper approach and summit; start early, watch forecasts, and descend immediately if you hear thunder — there is no shelter on the open granite dome."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "description": "Weather and conditions — above-treeline routes, seasonal decision-making",
+  "requests": [
+    {
+      "query_type": "weather-and-conditions",
+      "experience_level": "experienced",
+      "trail_sample": 2,
+      "trail_filters": { "weather_exposure": ["severe"] },
+      "count": 3,
+      "notes": "Vary conditions: 45mph clear skies, incoming front with rain, borderline October ice. Responses should be direct go/no-go with clear reasoning. Include specific wind chill and ice threshold logic."
+    },
+    {
+      "query_type": "weather-and-conditions",
+      "experience_level": "intermediate",
+      "trail_sample": 2,
+      "trail_filters": { "weather_exposure": ["high", "severe"] },
+      "count": 3,
+      "notes": "Vary: afternoon thunderstorm risk in July, October shoulder season ice, 'it looks clear from the trailhead' false security scenario. Distinguish weather exposure from fall risk worsened by ice."
+    },
+    {
+      "query_type": "weather-and-conditions",
+      "experience_level": "beginner",
+      "trail_sample": 2,
+      "trail_filters": { "weather_exposure": ["moderate", "high"] },
+      "count": 2,
+      "notes": "Beginner asking how to know if conditions are right. Response should teach how to check the Observatory forecast and interpret it, not just answer the specific question."
+    }
+  ]
+}

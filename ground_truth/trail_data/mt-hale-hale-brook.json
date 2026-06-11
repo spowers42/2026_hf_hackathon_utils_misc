@@ -1,0 +1,152 @@
+{
+  "id": "mt-hale-hale-brook",
+  "name": "Mt. Hale via Hale Brook Trail",
+  "peaks": [
+    {
+      "name": "Mt. Hale",
+      "elevation_ft": 4054,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Pemigewasset Wilderness",
+  "stats": {
+    "distance_rt_miles": 4.4,
+    "elevation_gain_ft": 2300,
+    "highest_point_ft": 4054,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 4.0,
+      "average": 3.0,
+      "experienced": 2.25
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 1,
+    "overall_label": "moderate",
+    "notes": "Mt. Hale at 4,054 feet is one of the shortest and most accessible 4K footer hikes in the White Mountains, and is often recommended as a good first 4,000-footer for hikers building their way through the NH 48. The Hale Brook Trail covers 4.4 miles round trip with 2,300 feet of gain — a short distance but a fairly consistent, unrelenting climb that earns its fitness-3 rating through sustained elevation gain rather than technical difficulty. The trail follows Hale Brook through dense mixed forest, crossing the brook twice in the lower section before leaving it behind and climbing steadily through increasingly dense balsam fir forest to the summit. The trail is well-maintained and clear for most of its length; switchbacks in the middle section provide a brief respite from the steady climb. In the final approach near the summit the trail narrows significantly and the path becomes less distinct — several reviewers describe this section as feeling like bushwhacking. The summit itself is a large clearing at 4,054 feet with an impressive rock cairn but no significant views — tree growth has closed in on the summit clearing to the point that even standing on top of the cairn provides only limited filtered glimpses of surrounding peaks through the trees. This is a well-known characteristic of Mt. Hale; it is frequently recommended as a 'rainy day hike' or a reliable way to add a 4K footer in any weather since the viewless forested summit makes conditions irrelevant. The descent should be taken carefully — the rocks and tree roots on the trail are smoothed and polished by water and foot traffic, making them significantly more slippery on the way down than on the way up. Important winter note: Zealand Road (the access road to the Hale Brook Trailhead) is closed to vehicles from approximately November through May. The gate is approximately 3.5 miles from the Hale Brook Trailhead, adding 7 miles round trip of flat snowshoe travel on the unpaved road to the summit hike, for a total winter round trip of approximately 11.4 miles. This transforms a moderate summer half-day into a full-day winter objective."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "none",
+      "description": "Mt. Hale's summit at 4,054 feet is fully forested — there is no above-treeline terrain anywhere on this route. The dense balsam fir forest on the upper mountain provides complete shelter from wind on the summit, and there is no open alpine exposure at any point. The viewless wooded summit is actually a weather asset: rain, wind, and fog have essentially no impact on the hiking experience, making this one of the few 4K footer hikes where a storm forecast is not a deterrent. The dense forest can trap heat and humidity on warm summer days, with no air movement reaching the trail — this creates its own discomfort, especially with biting insects (June–July can be severely buggy).",
+      "mitigation": "No above-treeline weather management required. Insect repellent is essential from late May through mid-July — the dense humid forest is prime bug habitat and the lack of wind on and near the summit means insects are not blown away. On hot summer days, the lack of breeze in the forest makes the climb warmer than it looks on a weather forecast — carry extra water. In any season, carry a rain layer for the descent since getting wet on the smooth-rock sections increases slipping risk."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Hale Brook Trail has no cliff-consequence terrain, no scrambling, and no fixed aids. The fall risk is 'low' rather than 'none' because the trail surface — particularly the polished rocks and wet tree roots in the lower and middle sections — is genuinely slippery in wet conditions and notably more hazardous on descent than ascent. Multiple trip reports independently describe 'very slippery on the way down' and 'footing can be questionable as a lot of the rocks are rather smooth and the tree roots aren't any better.' The consistent moisture from the brook in the lower section keeps the rocks wet even after rain has passed. The steeper switchback sections in the middle of the trail are the most likely location for a sliding fall. No fall on this trail would carry serious cliff-consequence, but a slip on a steep rooted or rocky section can result in a hard landing.",
+      "mitigation": "Descend slowly and deliberately on wet days — do not maintain ascent pace on the way down. Trekking poles are highly useful for braking on the slicker root-and-rock sections. Test foot placement on smooth rocks before committing weight. Boots with substantial rubber lug tread perform significantly better than trail runners on the polished wet rocks in the lower section. Gaiters help in wet or muddy conditions. If the trail is wet from rain, allow extra time for the descent."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "Mt. Hale is a four-season peak with distinct character in each season. Summer (June–September) is the busiest period; the balsam fir forest is beautifully fragrant and the trail follows the brook through lush vegetation. Late June and early July bring heavy bug pressure — biting insects in the dense humid forest are severe enough that multiple hikers explicitly warn other visitors to bring repellent or expect a miserable experience. Late September and October are pleasant for foliage, though the viewless summit means the color is appreciated from the trail rather than from above. November and May are viable with microspikes for icy rocks and roots; the stream crossings can be tricky with high water in spring snowmelt (typically late April through mid-May). In full winter (December through April) the summit hike itself is straightforward on snowshoes, but Zealand Road is closed to vehicles and the gate is approximately 3.5 miles from the Hale Brook Trailhead. This road closure adds 7 miles of flat snowshoe travel, converting a 4.4-mile round trip into an approximately 11.4-mile full-day winter objective. The road walk is on a flat, well-groomed unpaved surface that is excellent for snowshoeing — winter hikers often do this as a long but pleasant snowshoe day — but it demands planning, daylight management, and a full winter kit. Winter adds the reward of excellent views of Mt. Washington visible through the trees near the upper part of the trail (one reviewer noted this as a specific winter highlight). The trail itself is rarely icy since it stays in the trees; microspikes are typically sufficient if needed above the road section."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "dog-friendly",
+    "parking-fee",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "slippery-wet-rocks-and-roots-on-descent",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Hale Brook Trail surface includes polished rocks and smooth tree roots that become significantly slippery in wet conditions. The consistent moisture from the brook keeps the lower section wet even between rain events. Descent is substantially more hazardous than ascent on this trail — the same rocks and roots that provide good purchase underfoot going uphill become unpredictable on the way down when leg muscles are fatigued and forward momentum is reversed. Multiple trip reports consistently flag this as the most significant hazard on the trail.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "stream-crossings-high-water",
+      "hazard_category": "weather-and-environment",
+      "description": "The Hale Brook Trail crosses Hale Brook twice in its lower section. In normal summer and fall conditions these crossings are straightforward stepping-stone hops. In spring snowmelt (mid-April through late May) or after sustained heavy rainfall, brook levels rise quickly and the crossings can become knee-deep or higher with significant current. Cold water and fast flow during high-water periods create a genuine crossing hazard, particularly on the return trip when fatigue is higher.",
+      "months_active": ["April", "May", "June", "September", "October", "November"]
+    },
+    {
+      "type": "winter-zealand-road-closure",
+      "hazard_category": "weather-and-environment",
+      "description": "Zealand Road is closed to motor vehicles from approximately mid-November through late April. The gate is located approximately 3.5 miles from the Hale Brook Trailhead, adding 7 miles of flat snowshoeing on the road to the total round trip. Winter hikers who plan based on the summer 4.4-mile round trip distance and arrive at a closed gate face a significantly longer day than anticipated. Daylight is a genuine concern: the road walk adds 2.5–3 hours to the total time, and the combined 11.4-mile round trip requires an early start in the short winter days.",
+      "months_active": ["November", "December", "January", "February", "March", "April"]
+    },
+    {
+      "type": "faint-upper-trail-navigation",
+      "hazard_category": "weather-and-environment",
+      "description": "In the final approach to the summit, the Hale Brook Trail narrows significantly and becomes less distinct. Several trip reports describe this section as feeling like bushwhacking through dense fir — the trail tread becomes hard to follow and blowdowns can obscure the route. In fog, clouds, or early snow cover this section requires careful attention to trail markers and cairns. First-time visitors who are used to well-defined mountain paths may be uncertain in this section. The summit itself is a clearing with a large cairn that serves as an obvious destination once reached, but reaching it confidently in poor visibility requires map awareness.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with good rubber lug tread and ankle support — the smooth wet rocks in the lower section are a known hazard; boots outperform trail runners significantly here",
+      "Trekking poles (highly recommended for descent — braking on the smooth rock sections is considerably easier with poles)",
+      "1.5 liters water minimum (no reliable water above the brook crossings; the brook is accessible in the lower section)",
+      "Insect repellent (required June through mid-July — dense humid forest with no wind makes this one of the buggiest trails in the region)",
+      "Rain shell (even if weather is clear — wet rocks on descent are a significant hazard and a layer for the descent is good insurance)",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (carry from October through May; rocks and roots ice before the lower brook section)",
+      "Gaiters for mud season (spring) or snow in lower approach sections",
+      "Extra water if hiking in cold dry shoulder season (cold air is deceptively dehydrating)"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Snowshoes required for the 3.5-mile Zealand Road approach and for the summit hike in snow conditions",
+      "Microspikes in pack for any icy sections above the snowshoe zone",
+      "Headlamp with extra batteries (the long winter day means an early start is essential; returning after dark on the Zealand Road snowshoe section is possible but requires good lighting)",
+      "Full cold-weather layering system (the long road approach adds significant time in cold conditions; dress for the extended day, not just the shorter summit hike)",
+      "GPS or downloaded trail map (track the 3.5-mile road approach; the gate location and trailhead are not always obvious in heavy snow)"
+    ]
+  },
+  "trailhead": {
+    "name": "Hale Brook Trailhead, Zealand Road",
+    "lat": 44.2336,
+    "lon": -71.4956,
+    "parking": "Small WMNF parking area at the Hale Brook Trailhead on Zealand Road. WMNF recreational pass ($5/day or America the Beautiful annual pass) required. Zealand Road is unpaved but passable for standard vehicles in summer and fall. In winter (approximately mid-November through late April) Zealand Road is closed to vehicles at a gate approximately 3.5 miles from the trailhead — there is roadside parking near the gate but hikers must snowshoe the road to reach the trailhead.",
+    "access_road": "From Route 302 in Twin Mountain, NH, turn south onto Zealand Road (signed). The Hale Brook Trailhead is approximately 2.0 miles up Zealand Road on the right side, before the larger Zealand Trail parking area further up the road. GPS: 'Hale Brook Trail, Twin Mountain NH' or use coordinates. Zealand Road is unpaved but well-graded for most vehicles in summer. In winter the road is closed at a gate near the Route 302 junction — confirm gate status before planning a winter trip. The Hale Brook Trailhead is distinct from the Zealand Trail parking area, which is approximately 0.8 miles further up the road.",
+    "nearest_town": "Twin Mountain, NH",
+    "amenities": ["WMNF pass required", "No restroom at trailhead", "Roadside pull-off parking"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "WMNF — Zealand Road and Hale Brook Trail",
+      "url": "https://www.fs.usda.gov/recarea/whitemountain/recarea/?recid=74561"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mt. Hale via Hale Brook Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-hale-via-hale-brook-trail"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "NWS Forecast — Twin Mountain / Zealand area",
+      "url": "https://forecast.weather.gov/MapClick.php?CityName=Twin+Mountain&state=NH&site=GYX&textField1=44.2576&textField2=-71.5546"
+    },
+    {
+      "type": "trip-report",
+      "label": "bmhatfield — Mt. Hale routes summary",
+      "url": "https://bmhatfield.github.io/white-mountains/otherpemi.html#Hale"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-tecumseh-tecumseh-trail",
+      "mt-waumbek-starr-king"
+    ],
+    "leads_naturally_to": [
+      "mt-hale-zealand-lend-a-hand-loop",
+      "zealand-falls-hut-zealand-trail"
+    ],
+    "progression_notes": "Mt. Hale is one of the most commonly recommended first or early 4K footers in the NH 48 list — short, reliable, no technical terrain, no above-treeline exposure, and the viewless wooded summit makes it a sensible choice for any weather. It is most valuable as a building block for fitness confidence on a sustained climb (2,300 ft in 2.2 miles is not trivial despite the short distance) rather than as a summit-views objective. Hikers should be aware before they go that the summit has no views — those who arrive expecting a panoramic reward are frequently disappointed and this reputation is well-established. The loop option (Hale Brook Trail up, Lend a Hand Trail to Zealand Falls Hut, Zealand Trail back to Zealand Road) is 7.7 miles / 2,300 ft and adds the beautiful Zealand Falls area and an optional stop at the hut without adding any technical difficulty — this is a significantly more rewarding route than the out-and-back for any hiker who has the time for 5 hours rather than 3. Mt. Hale combined with Mt. Zealand (via the loop) is a popular way to pick up two peaks in one day from the Zealand Road area. Mt. Galehead (via Gale River Trail, 8.0 miles RT) is the natural next step up in distance and commitment from the Hale Brook Trail."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Hale is one of the most beginner-friendly 4,000-footers on the NH 48 list — just 4.4 miles round trip with 2,300 feet of gain. The trail follows a brook through beautiful balsam fir forest and is well-maintained throughout. There's one important thing to know going in: the summit has no views. Tree growth has completely closed in on the summit clearing, so you'll stand at 4,054 feet in a dense forest with a large rock cairn to mark the spot. This makes it a popular 'rainy day hike' — since the weather doesn't matter at the summit, it's a good choice for days when the higher exposed peaks aren't appealing. The trail is steeper than the short distance suggests, and the descent requires extra care because the rocks and roots are polished smooth by water and foot traffic — many hikers describe it as notably slippery on the way down. Bring trekking poles if you have them, and good hiking boots with real tread (not trail runners) will help. Important: in winter (roughly November through April) the access road (Zealand Road) is closed to vehicles. This adds 7 miles of flat snowshoeing on the road, turning a short summer hike into a full winter day. Check road conditions before planning a winter trip.",
+    "expert_framing": "Mt. Hale is a fitness-3, technical-1 peak — 4.4 mi RT, 2,300 ft, viewless wooded summit. It sits in the Pemi Wilderness between the Zealand area and the northern Crawford Notch peaks, and is most useful as a complementary pick for a Hale + Zealand loop day (7.7 mi, 2,300 ft, via Lend a Hand Trail to Zealand Falls Hut and out via Zealand Trail) or as one of the final easy peaks in a NH 48 tick-list. The Hale Brook Trail itself is unremarkable except for its consistently slippery descent — polished wet rocks and roots in the lower section have produced countless ankle rolls and falls; trekking poles are worth recommending even for hikers who don't typically use them. Winter: Zealand Road closure at ~3.5 miles from trailhead is the key planning factor — total winter round trip is ~11.4 miles; this transforms the peak into a full snowshoe day but the road is flat and pleasant for skiing/snowshoeing and the upper mountain offers views of Washington through the trees that the summer hike lacks.",
+    "safety_callout": "The defining hazard on this trail is not technical — it is the descent on smooth, polished, frequently wet rocks and tree roots. Multiple independent trip reports describe near-falls and actual falls on the way down, particularly in wet conditions. Descend more slowly than you think you need to, use trekking poles, and wear boots with substantial lug tread. The stream crossings in the lower section can be high in spring snowmelt and after heavy rain — assess current strength and depth before crossing. In winter, the most important planning factor is the Zealand Road closure: if you arrive expecting a 4.4-mile hike and find the road gate closed 3.5 miles from the trailhead, you face a 7-mile addition on foot. Check the WMNF website for Zealand Road status in shoulder season and winter before driving to the trailhead."
+  }
+}

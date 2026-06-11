@@ -1,0 +1,194 @@
+{
+  "id": "mt-eisenhower-edmands-path",
+  "name": "Mt. Eisenhower via Edmands Path",
+  "peaks": [
+    {
+      "name": "Mt. Eisenhower",
+      "elevation_ft": 4780,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Presidential Range",
+  "stats": {
+    "distance_rt_miles": 6.6,
+    "elevation_gain_ft": 2775,
+    "highest_point_ft": 4780,
+    "above_treeline_miles": 1.0,
+    "typical_time_hrs": {
+      "beginner": 5.5,
+      "average": 4.0,
+      "experienced": 3.0
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "This is the most accessible 'hard' route in the Southern Presidential progression. Fitness demand is solid-moderate: 2,775 ft of gain over 6.6 miles, and the Edmands Path's famously even grade (designed by J. Rayner Edmands in the late 19th century to never exceed approximately 25% slope) distributes the effort very evenly compared to other Presidential approaches. There are no crux sections where gain is dramatically compressed. Technical demand is low: the Edmands Path itself involves no scrambling and the trail is wide and well-maintained throughout. The Eisenhower Loop, which circles the bald summit dome, has some rough rocky terrain and boulder-hopping but nothing requiring hands. The 'hard' rating is warranted by the distance, gain, and Presidential weather commitment — not by technical terrain. Hikers who have struggled on steep Presidential trails may find this route more manageable than the technical rating implies; conversely, hikers who underestimate Presidential weather on a forgiving trail have been surprised by summit conditions."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "high",
+      "description": "Mt. Eisenhower's summit is one of the most distinctive above-treeline features in the Southern Presidential Range: a broad, completely bald dome with 360-degree exposure and no natural windbreak. The above-treeline section begins near the Eisenhower Loop junction (approximately 2.9 miles from the trailhead) and the entire loop is fully exposed. At 4,780 ft, Eisenhower is lower than Monroe, Jefferson, and Adams, but Presidential weather norms apply: rapid deterioration, high winds, lightning, and temperature swings are real hazards. The nearest AMC hut (Mizpah Spring) is approximately 1.7 miles away via a detour south on the Crawford Path — it is not directly on the Edmands Path route. Descent via the Edmands Path from the Loop junction to below treeline is approximately 0.4 miles. The relatively short above-treeline commitment (compared to other Presidential routes) and the direct descent option via Edmands Path give this route meaningful escape advantages over routes with longer above-treeline sections.",
+      "mitigation": "Check the Mt. Washington Observatory Higher Summits Forecast before departure — Presidential conditions apply here even at the lower elevation. Start early to summit before afternoon thunderstorm development (typically early-to-mid afternoon in summer). Carry full rain gear and a warm insulating layer regardless of trailhead conditions; the summit dome is significantly colder and windier than the forested approach. The Crawford Path junction at the Eisenhower Loop is a reasonable turnaround point if conditions deteriorate — the Edmands Path descent back to the car is safe and clear."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Edmands Path is one of the most technically non-demanding Presidential routes. The trail was engineered for consistent, manageable grade and has no significant scrambling, exposed ledges, or drop-offs. The Eisenhower Loop above treeline involves rough, rocky terrain and some boulder-hopping on the summit dome, but no moves requiring hands and no sustained exposed sections. Fall risk exists from routine slipping on wet rocks or loose stones — the same hazard present on all backcountry trails — but the Edmands Path has no sections where a fall would be consequential. Descent is equally non-technical. Wet conditions increase the probability of a slip but do not materially change the consequence of one.",
+      "mitigation": "Standard hiking boots with good sole grip are sufficient for this route in all normal conditions. Trekking poles are helpful for the rocky summit dome section and on the descent. Ice and snow in spring and fall change the character of the upper trail and summit loop; microspikes are recommended outside the June-September window."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September"],
+    "viable_with_gear": ["May", "October"],
+    "avoid": ["November", "December", "January", "February", "March", "April"],
+    "seasonal_notes": "Mt. Clinton Road is a seasonal road that closes in winter — typically from late November through April or early May, though exact dates vary by year depending on snowpack and maintenance schedules. Do not plan this hike without first confirming Mt. Clinton Road is open (check the WMNF Forest Roads Status page). In winter, the road closure adds a ~2.3-mile road walk each way to reach the Edmands Path trailhead, which substantially changes the character and commitment of the hike. Outside the road closure issue, the upper trail and summit dome can hold ice and snow into May and pick up ice again in October. The summit loop is exposed to wind-driven icing earlier than most trail surfaces at this elevation. In winter, Eisenhower via Edmands Path is a popular objective (once you reach the trailhead), but the summit dome requires microspikes or crampons and full winter clothing. Recommended season largely aligns with Mt. Clinton Road's open period and the June-September window of reliable snow/ice-free conditions above treeline."
+  },
+  "tags": [
+    "above-treeline-weather-exposure",
+    "fall-exposure-low",
+    "4k-footer",
+    "out-and-back",
+    "well-graded",
+    "dog-friendly",
+    "amc-hut-nearby"
+  ],
+  "hazards": [
+    {
+      "type": "weather-exposure",
+      "hazard_category": "weather-and-environment",
+      "description": "The Eisenhower summit dome is a completely bare, fully exposed Presidential summit at 4,780 ft. The broad, open dome creates no natural windbreak and is exposed to weather from all directions. While lower than the higher Presidential summits, this is still a serious mountain weather environment: winds regularly exceed 40 mph on the summit, and conditions can shift from clear to rainy and windy in under an hour. The Mizpah Spring Hut (capacity 60, on the Crawford Path) is a meaningful shelter option but requires a ~1.7-mile detour south from the Eisenhower summit — not a quick escape.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The Eisenhower Loop and summit dome are completely exposed to lightning with no shelter. The broad, open summit is particularly vulnerable because it is the highest point on its section of the Southern Presidential ridge — a lightning attractor. Afternoon convective storms build quickly in July and August. The Edmands Path approach ends at the bottom of the loop, meaning that once hikers have begun the summit loop they are committed to approximately 0.4 miles of above-treeline exposure before a protected descent is possible.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "hypothermia-risk",
+      "hazard_category": "weather-and-environment",
+      "description": "The summit dome is cold and wind-driven even on pleasant trailhead days. The Edmands Path's forgiving grade and well-maintained trail encourage hikers who are underprepared for summit conditions — particularly beginners who read the 'accessible' trail description and leave the insulating layer and rain shell in the car. Wind chill at 4,780 ft routinely produces effective temperatures 20-25°F below air temperature at the trailhead.",
+      "months_active": ["September", "October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The summit dome and upper Eisenhower Loop hold ice and snow through May and pick it up again in October. The rocky terrain of the loop becomes treacherous with ice; the summit cairn area can be icy while the lower Edmands Path is still clear, creating a false sense of security on the approach. In spring, the upper Edmands Path can also have icy sections in shaded areas.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "navigation",
+      "hazard_category": "weather-and-environment",
+      "description": "The Eisenhower Loop is fully above treeline and marked by cairns. In cloud or fog, the broad, featureless summit dome can disorient hikers — multiple cairns look similar and it is easy to begin descending on the Crawford Path rather than returning on the Eisenhower Loop toward the Edmands Path. Getting off-route on the south side of the dome leads toward the Crawford Path descent toward Crawford Hostel, several miles from the Edmands Path trailhead. In clear conditions, navigation is straightforward.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "seasonal-road-closure",
+      "hazard_category": "weather-and-environment",
+      "description": "Mt. Clinton Road, the access road to the Edmands Path Trailhead, is a seasonal forest road that is closed from approximately late November through late April or early May. Arriving at a gated road is a common and frustrating mistake for hikers who did not verify road status before driving. During the closure, the trailhead can be reached on foot or ski from Route 302 (adding ~2.3 miles each way), but this substantially changes the trip character. Check the WMNF Forest Roads Status page before every visit.",
+      "months_active": ["November", "December", "January", "February", "March", "April"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with good sole grip (the rocky summit loop benefits from solid footwear, though the trail itself is very manageable)",
+      "Trekking poles (helpful for rocky summit dome section and on descent)",
+      "Rain shell and insulating mid-layer — the summit dome is cold and windy even when the trailhead is warm",
+      "Warm hat and gloves (wind chill on the exposed dome is significant)",
+      "Headlamp",
+      "Map and compass or GPS with downloaded topo (AMC Map 1, Presidential Range)",
+      "2 liters water minimum — no reliable water sources above the lower trail",
+      "Sun protection (UV above treeline, especially on the open summit dome)"
+    ],
+    "shoulder_season": [
+      "All three-season gear plus:",
+      "Microspikes (summit loop and upper trail can ice in May and October)",
+      "Insulated mid-layer",
+      "Waterproof insulated gloves",
+      "Balaclava",
+      "Confirm Mt. Clinton Road is open before departure"
+    ],
+    "winter": [
+      "NOTE: Mt. Clinton Road is closed in winter — trailhead accessible only via ~2.3-mile road walk/ski from Route 302",
+      "All shoulder-season gear plus:",
+      "Microspikes or crampons (summit dome is often icy)",
+      "Full insulated shell and wind pants",
+      "Wind-resistant gloves with overmitts",
+      "Goggles",
+      "Snowshoes for approach on closed road if snow is deep",
+      "Plan for the full round-trip time including the road approach"
+    ]
+  },
+  "trailhead": {
+    "name": "Edmands Path Trailhead (Mt. Clinton Road)",
+    "lat": 44.248957,
+    "lon": -71.391676,
+    "parking": "Small gravel lot; no fee required (confirmed by USFS, last updated July 2025). No restrooms, no potable water. Lot holds approximately 10-15 cars. Mt. Clinton Road is seasonal — closed approximately late November through late April/early May; verify road status before planning. Note: the larger Crawford Connector parking lot (also on Mt. Clinton Road, 2.3 miles closer to Route 302) charges a WMNF fee and provides toilet facilities — some hikers prefer to park there and add the 2.3-mile road walk as part of a longer route or Eisenhower-Pierce loop.",
+    "access_road": "Mt. Clinton Road off Route 302 in Carroll, NH. From the junction of US Route 3 and Route 302 in Twin Mountain, follow Route 302 east approximately 8 miles. Turn left (north) onto Mt. Clinton Road just east of the AMC Highland Center. Continue 2.3 miles to the Edmands Path Trailhead on the right. Road is narrow unpaved gravel — drive slowly.",
+    "nearest_town": "Carroll / Twin Mountain, NH (approximately 8 miles west via Route 302)",
+    "amenities": ["No restrooms", "No potable water", "Trailhead sign"]
+  },
+  "amc_hut": {
+    "name": "Mizpah Spring Hut",
+    "distance_miles_from_route": 1.7,
+    "services": "Full-service AMC hut on the Southern Presidential ridge, approximately 1.7 miles from the Eisenhower summit via a detour south on the Crawford Path. Located just south of Mt. Pierce summit at ~3,800 ft. Capacity 60, serves dinner and breakfast. Open mid-May through mid-October. Accessible from Eisenhower summit: descend south on the Eisenhower Loop to the Crawford Path junction (~0.3 mi), then follow Crawford Path southwest ~1.4 miles to the hut. This is a meaningful detour for a day hiker — best treated as a bail-out option or as part of an Eisenhower-Pierce combination hike rather than a routine stop.",
+    "link": "https://www.outdoors.org/destinations/new-hampshire/mizpah-spring-hut/"
+  },
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "Edmands Path Trailhead — USFS White Mountain National Forest",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/edmands-path-trailhead",
+      "notes": "Surface when user asks about parking, fees, trailhead access, or road conditions; confirms no fee required at this specific trailhead"
+    },
+    {
+      "type": "official-trail-page",
+      "label": "WMNF Forest Roads Status — Mt. Clinton Road",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/alerts/forest-roads-status",
+      "notes": "Surface proactively whenever user plans this hike — Mt. Clinton Road seasonal closure is the top planning consideration; arriving at a closed gate is a common mistake"
+    },
+    {
+      "type": "alltrails",
+      "label": "Mt. Eisenhower via Edmands Path — AllTrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/edmands-path-trail",
+      "notes": "Surface for current user conditions and trip reports; 2,413+ reviews make this a reliable conditions resource"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "Surface every time a user mentions weather or plans this route — mandatory check before any Presidential summit day even at Eisenhower's lower elevation"
+    },
+    {
+      "type": "amc-hut-reservation",
+      "label": "Mizpah Spring Hut Reservations — AMC",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/mizpah-spring-hut/",
+      "notes": "Surface when user plans a Eisenhower-Pierce combination or asks about overnight options; Mizpah is the closest hut to this route"
+    },
+    {
+      "type": "map-download",
+      "label": "AMC White Mountains Map — Presidential Range (Map 1)",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/",
+      "notes": "Surface when user asks about maps; AMC Map 1 covers the full Edmands Path and Southern Presidentials"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "franconia-ridge-loop",
+      "mt-moosilauke-gorge-brook"
+    ],
+    "leads_naturally_to": [
+      "mt-monroe-ammonoosuc-ravine",
+      "mt-jefferson-caps-ridge",
+      "mt-pierce-crawford-path"
+    ],
+    "progression_notes": "Eisenhower via the Edmands Path is the ideal first Presidential summit for hikers who are ready to step from moderate above-treeline terrain (Franconia Ridge, Moosilauke) into the Presidential Range specifically. The Edmands Path's even, well-graded character minimizes the technical surprises of other Presidential approaches, letting the hiker focus on learning Presidential weather exposure without simultaneous technical terrain challenges. It is the gateway to the rest of the Southern Presidential progression: the natural next step is Mt. Monroe via Ammonoosuc Ravine (which introduces the granite slab terrain and a hut on route) or Mt. Pierce via Crawford Path (which is slightly shorter and lower). For peak-baggers doing the NH 48, Eisenhower is commonly combined with Pierce in a single day via an Edmands Path up / Crawford Path loop, adding ~3.0 miles and ~600 ft via the Crawford Path over Pierce (the Crawford Path is the AT along this ridge). Mt. Jefferson via Caps Ridge is also a logical next step once comfortable with Presidential weather, as it introduces scrambling on a Northern Presidential without the commitment of the longer Northern Presidential routes."
+  },
+  "response_hints": {
+    "beginner_framing": "This is the right first Presidential summit. The Edmands Path was engineered in the 1800s by someone obsessed with making it as walkable as possible — it's unusually smooth and steady in grade compared to almost anything else in the Whites. You'll still gain nearly 2,800 feet, and the summit is a fully exposed Presidential dome with real weather risks, but the trail itself won't surprise you with sudden steep scrambles or slippery slabs. The key prep: do NOT skip checking the weather forecast (the Mt. Washington Observatory Higher Summits Forecast), bring real rain gear and a warm layer no matter what the sky looks like at the trailhead, and verify Mt. Clinton Road is open before you drive — it closes for winter and the gate date varies year to year.",
+    "expert_framing": "Edmands Path from the Mt. Clinton Road trailhead: 2.9 mi to the north Eisenhower Loop junction, then 0.35 mi around to summit — 3.25 mi / 2,775 ft one-way. Gentle, consistent grade throughout; no technical crux. Above treeline for approximately the last 0.4-0.5 miles and the full loop. Clear days offer excellent views of the full Southern Presidential ridge from Monroe north to Washington and direct sight lines to Jefferson. Common extensions: continue Crawford Path 0.3 mi south from south loop junction to the Crawford Path, then 1.2 mi to Mt. Pierce summit for a Ike-Pierce loop (add 1.5 mi / ~500 ft, requires road walk or car shuttle to complete the loop back to either trailhead). Or continue Crawford Path northeast toward Monroe and Washington for increasingly committed above-treeline traversing. No AMC hut directly on route — Mizpah is 1.7 mi south detour from summit. Elevation note: the official AMC height is 4,780 ft though some sources list 4,760 ft; the summit cairn is clearly above the 4,760 ft contour line on the survey map.",
+    "safety_callout": "Primary hazard is weather exposure — a single hazard type on this route. The Eisenhower summit dome is completely above treeline and fully exposed to Presidential weather, and the Edmands Path's approachable character can lull under-prepared hikers into minimizing the summit environment. Check the Observatory Higher Summits Forecast without exception, bring rain gear and insulation regardless of the forecast, and verify Mt. Clinton Road is open before driving to the trailhead. Fall risk is low: the Edmands Path is non-technical and the summit loop involves only routine rocky terrain."
+  }
+}

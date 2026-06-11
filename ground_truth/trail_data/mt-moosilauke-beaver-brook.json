@@ -1,0 +1,157 @@
+{
+  "id": "mt-moosilauke-beaver-brook",
+  "name": "Mt. Moosilauke via Beaver Brook Trail",
+  "peaks": [
+    {
+      "name": "Mt. Moosilauke",
+      "elevation_ft": 4802,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Kinsman Ridge",
+  "stats": {
+    "distance_rt_miles": 7.6,
+    "elevation_gain_ft": 3150,
+    "highest_point_ft": 4802,
+    "above_treeline_miles": 0.5,
+    "typical_time_hrs": {
+      "beginner": 9.0,
+      "average": 7.0,
+      "experienced": 5.5
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 3,
+    "overall_label": "hard",
+    "notes": "Mt. Moosilauke via Beaver Brook Trail is among the most technically demanding maintained trails on the NH 4K footer list. The Dartmouth Outing Club (DOC), which maintains the trail and surrounding area, posts an explicit warning sign at the trailhead that the trail is extremely dangerous in wet or icy conditions. The first 1.5 miles — the Beaver Brook Cascade section — climb approximately 2,000 feet adjacent to a continuous chain of waterfalls, traversing steep rock using iron rungs and wood-block steps installed by the DOC to make the terrain manageable. The trail runs immediately adjacent to a ravine with documented three-story (approximately 30-foot) drops into Beaver Brook below. Hands are required repeatedly throughout this section. This is reportedly one of the most difficult sections of the Appalachian Trail in New Hampshire. Above the shelter, the trail transitions to more moderate forest terrain for 2.3 miles before breaking above treeline on the final approach to the open summit plateau. The summit at 4,802 feet is the highest point in the Kinsman Range and the westernmost 4K footer in New Hampshire, with an exposed alpine zone subject to fierce and persistent winds. Views are 360°: Franconia Ridge and the Kinsmans to the north, Jobildunc Ravine to the southeast, the Green Mountains of Vermont to the west. A pair of rock-pile windbreaks at the summit provides some shelter but the summit is one of the most wind-exposed below-Presidential summits in the range. In any season, this trail is not for inexperienced hikers — the combination of waterfall-gorge fall consequence and alpine summit weather places it in a different category from most NH below-treeline 4K footer routes."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "moderate",
+      "description": "The summit of Mt. Moosilauke is a broad open alpine plateau at 4,802 ft, above treeline for approximately 0.5 miles on the final approach and summit area. As the westernmost NH 4K footer and the highest peak in the Kinsman Range, Moosilauke intercepts approaching weather systems before they reach the higher Presidential peaks — it effectively acts as a weather sentinel for the western White Mountains. The summit is routinely swept by fierce winds even in fair weather. Convective afternoon thunderstorms build quickly and the open alpine zone provides no shelter. The summit itself has two small rock-pile wind breaks but no meaningful protection from a severe storm. This is not Presidential-level sustained ridge exposure, but the combination of 4,802 ft elevation, open plateau, and documented consistent high winds places this above the low-exposure category.",
+      "mitigation": "Check the Mt. Washington Observatory Higher Summits Forecast before departure — it captures the weather patterns affecting Moosilauke. Start early enough to reach the summit and begin descent before early afternoon in thunderstorm season. The transition from tree cover to open alpine zone is approximately 0.5 miles below the summit — if lightning is approaching, retreat immediately. Carry full insulating layers regardless of trailhead conditions; the summit is typically 15–25°F colder and substantially windier than Kinsman Notch."
+    },
+    "fall_risk": {
+      "rating": "high",
+      "description": "The Beaver Brook Cascade section (first 1.5 miles) is the most technically consequential terrain on the NH 4K footer list that uses a maintained trail. The trail runs immediately adjacent to Beaver Brook's waterfall gorge, with documented three-story (approximately 30-foot) drops from trail edge into shallow water and deep rocks below. The trail navigates this terrain using iron rungs anchored in rock and wood-block steps — installed safety infrastructure that makes passage possible but does not eliminate fall consequence if a hiker slips or loses grip. In wet conditions, the iron rungs and surrounding rock are slick; in icy conditions they become severely hazardous. The northeasthikes.com guide explicitly describes this hazard and one documented commenter reports nearly going into the waterfall while descending after dark. The DOC posts a formal warning sign at the trailhead specifically due to these hazards. This is qualitatively different from scramble routes like Blueberry Ledge — at Beaver Brook, the falls consequence is not a sliding stop on vegetation but a drop into a waterfall gorge.",
+      "mitigation": "This route must not be attempted in rain, immediately after rain, or in icy conditions unless equipped and trained for it. The iron rungs require a secure two-hand grip through the steepest sections — trekking poles should be carried with wrist straps and stowed when needed to free the hands. Descend the waterfall section slowly and deliberately; multiple descending parties have reported the descent is significantly more demanding than the ascent. Do not hike this section in the dark — time your return to reach the waterfall section with full daylight remaining. Dogs cannot safely negotiate the iron rung sections."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "The Beaver Brook Trail has a narrow safe weather window because the waterfall section ice condition is independently dangerous from the summit weather. Memorial Day weekend is the recommended earliest target date for a safe attempt — ice on the steep waterfall section typically persists from 3/4 mile in right through the treeline well into May, and late-season ice on the iron rungs and wood blocks is extremely hazardous. The waterfalls are at peak flow in late May and early June, which is the most spectacular time to hike the cascade section. Dry summer and fall conditions provide the best grip on the iron hardware. Fall foliage from the summit (Franconia Ridge, Kinsman Range, Vermont Green Mountains) is outstanding in late September and early October. The summit can see early snow as soon as September. Winter is a serious objective for experienced parties — sub-zero temperatures with fierce summit winds have been documented, and the iron rung section in full winter requires crampons and careful technique. In any winter attempt, parties should plan to move slowly through the waterfall section both ascending and descending. The trail is the AT in this section, and NoBo thru-hikers arrive at Moosilauke with worn boots and heavy packs — the DOC sign and northeasthikes.com explicitly warn NoBos that the easy Glencliff Trail ascent of Moosilauke makes the Beaver Brook descent a dangerous surprise. The alternative Gorge Brook Trail from Ravine Lodge (DOC) is a safer route in marginal conditions and provides an excellent loop option with a second vehicle or short road walk."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "above-treeline-weather-exposure",
+    "alpine-zone",
+    "fall-exposure-high",
+    "technical-route",
+    "parking-fee",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "iron-rung-waterfall-fall",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Beaver Brook Cascade section (miles 0 to 1.5) traverses steep rock immediately adjacent to a series of waterfalls using iron rungs anchored in rock and wood-block steps. Multiple points on the trail edge have documented ~30-foot drops into Beaver Brook's waterfall gorge below. The DOC posts an official warning sign at the trailhead. The iron rungs and wood blocks are slick when wet and extremely hazardous when iced. Hands must be free for multiple sections throughout this 1.5-mile stretch. A slip at the worst point could mean a 30-foot fall into shallow water and rocks. This is the most consequential maintained-trail terrain on the NH 4K footer day-hike list.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "ice-and-snow-on-technical-terrain",
+      "hazard_category": "weather-and-environment",
+      "description": "Ice on the iron rungs and wood-block steps of the waterfall section is one of the most serious hazards on any NH day hike trail. The rungs are anchored in shaded rock adjacent to running water — they ice earlier, thicker, and more persistently than open-slope trail. Spring ice on this section has been documented from 3/4 mile in all the way through the treeline well into May. Late-season ice (October–November) returns before most hikers expect it. In full winter conditions, the rung sections require crampons and deliberate technique; microspikes may be insufficient on the steepest iced hardware. Summit and above-treeline section additionally accumulate wind-consolidated ice requiring crampons in typical winter conditions.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "alpine-weather",
+      "hazard_category": "weather-and-environment",
+      "description": "The Mt. Moosilauke summit is an open alpine plateau at 4,802 ft subject to persistent fierce winds even in fair weather. As the westernmost 4K footer, it intercepts approaching storms before they reach the Presidential Range — weather can deteriorate rapidly and with little warning. The open summit has no natural shelter beyond two small rock-pile windbreaks. Afternoon thunderstorms in summer build rapidly and the 0.5-mile above-treeline approach from the upper treeline to the summit provides no lightning protection. Cold temperatures at the summit (typically 15–25°F colder than the trailhead) and severe wind chill can create hypothermia risk in inadequately-prepared parties even in summer.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "navigation",
+      "hazard_category": "weather-and-environment",
+      "description": "Several trails converge near the open summit of Mt. Moosilauke — the Beaver Brook Trail, Benton Trail, Gorge Brook Trail, and others meet at or near the summit plateau. In low visibility, fog, or whiteout conditions, maintaining correct bearing is critical. The open alpine plateau offers no directional landmarks in fog. The descent route (back to Beaver Brook) is not always obvious in deteriorating conditions, and hikers have navigated onto the wrong descent trail in poor weather. GPS or a downloaded offline map is strongly recommended for the above-treeline section.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with stiff soles and Vibram or equivalent traction — the iron rungs and wet rock require maximum grip; trail runners with thin soles are not appropriate",
+      "Trekking poles with wrist straps — carry through the waterfall section but be prepared to stow and free your hands for the iron rungs",
+      "Full rain gear — do not begin the waterfall section if rain is in forecast; if caught in rain, move immediately to retreat the rungs",
+      "2 liters water (Beaver Brook and tributaries available for filtering on the lower trail; no potable water at trailhead)",
+      "Insulating layers for the open summit — 15–25°F temperature drop between trailhead and summit is typical",
+      "Wind layer (jacket or shell) for the exposed summit — wind is persistent and often fierce",
+      "Headlamp — timing is critical; descending the waterfall section in the dark is extremely dangerous",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required for lower trail ice on iron rungs through May and from October onward)",
+      "Crampons for winter-level ice on the rung sections — microspikes may not be adequate on the steepest iced hardware",
+      "Full insulating system for the exposed summit",
+      "Verify conditions via trip reports before departure — spring ice persists well into May on the rung sections"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Crampons — mandatory for the iron rung section in winter and for the above-treeline ice",
+      "Ice axe — consider for the most iced rung sections in hard winter conditions",
+      "Full expedition-weight insulation: parka, bib/insulated pants, expedition mittens, balaclava, goggles for summit conditions",
+      "Wind protection system — Mt. Moosilauke summit produces severe wind chills; fleece alone is not adequate",
+      "Communicating plans and expected return time is essential — sub-zero temperatures with fierce summit winds documented in winter"
+    ]
+  },
+  "trailhead": {
+    "name": "Beaver Brook Trailhead — Kinsman Notch, NH",
+    "lat": 44.040389,
+    "lon": -71.792889,
+    "parking": "USFS paved parking lot at the height-of-land in Kinsman Notch on NH Route 112. WMNF recreational pass required — $5/vehicle/day or annual pass. Vault toilet on site. No potable water. Lot is plowed in winter. Adequate capacity for most days but fills on peak summer and fall weekends. The Dartmouth Outing Club (DOC) maintains the trail and the Beaver Brook Shelter — this is DOC territory, not typical WMNF-only management.",
+    "access_road": "From I-93 Exit 32 (Lincoln/North Woodstock), head west on NH Route 112 for approximately 6 miles to the parking lot on the left (south side of road) at the height of land in Kinsman Notch. Landmark: the lot is just west of Lost River Gorge and Caves. Road is paved and open year-round; the notch road is well-maintained in winter. Alternatively, the route can be accessed from the west via Route 112 from Warren/Benton — about 11 miles east to Kinsman Notch.",
+    "nearest_town": "North Woodstock, NH",
+    "amenities": ["Vault toilet (seasonal)", "No potable water"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "USFS White Mountain NF — Beaver Brook Trailhead",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/beaver-brook-trailhead",
+      "notes": "Official trailhead page — coordinates, fee info, Pemigewasset Ranger District advisories"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Beaver Brook Trail to Mount Moosilauke",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/beaver-brook-trail-to-mount-moosilauke",
+      "notes": "Current conditions, user-reported ice and trail state, GPS track — especially valuable for up-to-date spring ice reports"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory — Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "Primary mountain weather resource — Mt. Moosilauke is the westernmost 4K footer and the first to intercept incoming western weather systems"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-moriah-carter-moriah",
+      "mt-isolation-glen-boulder"
+    ],
+    "leads_naturally_to": [
+      "franconia-ridge-loop",
+      "mt-garfield",
+      "north-kinsman-south-kinsman"
+    ],
+    "progression_notes": "The Beaver Brook Trail should not be treated as an intermediate objective — it has the highest fall risk of any maintained trail in this fact sheet set and should be attempted only by hikers who have developed genuine trail confidence and wet-rock experience. The prerequisite skill profile is: solid experience on steep, rooted, rocky terrain; comfort moving confidently on slick or exposed rock; and disciplined go/no-go weather judgment. Hikers who have completed the Blueberry Ledge cliff crux on Whiteface (moderate fall risk), the steep slab sections on Moriah (low fall risk on wet rock), and at least one above-treeline Presidential-range day have the right building blocks. Beaver Brook teaches a new category of technical confidence — installed hardware on consequential terrain — that directly applies to the upper Franconia Ridge traverse and steeper Presidential approaches. After Moosilauke via Beaver Brook, the Franconia Ridge loop and Garfield approaches feel manageable in comparison."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Moosilauke via Beaver Brook is not a beginner hike — the Dartmouth Outing Club posts a formal warning sign at the trailhead, and multiple experienced hikers describe the trail as one of the most dangerous sections of the Appalachian Trail in New Hampshire. The first 1.5 miles climb steeply alongside a continuous chain of waterfalls using iron rungs and wood-block steps built into the rock, with real drop-off potential into the waterfall gorge below. In dry summer conditions, an experienced hiker with appropriate footwear can navigate this section safely — but in rain or with wet boots, the iron rungs become slippery and dangerous. If you are determined to summit Moosilauke without the Beaver Brook experience, the Gorge Brook Trail from Ravine Lodge is a more forgiving approach to the same spectacular open summit. If you do attempt Beaver Brook: go on a dry day, wear stiff boots with good traction, start early, and leave yourself plenty of time to descend the waterfall section in full daylight.",
+    "expert_framing": "Beaver Brook is the most technically interesting approach to any NH 4K footer south of the Presidential Range. The iron rung and wood-block section adjacent to the waterfall gorge is genuinely committing — not technical climbing, but requiring deliberate hands-on movement with 30-foot fall consequence to the gorge below. The DOC has done excellent maintenance work on the infrastructure, but some hardware has aged and needs to be tested before full-weight commitment. The transition from the waterfall section to the moderate upper trail at the Beaver Brook Shelter (1.5 mi) is dramatic — one of the sharpest character changes on any NH day hike. The summit plateau at 4,802 ft is outstanding: broad open rock, cairn-marked AT, 360° views, and consistent wind that separates it from calmer lower summits. The northwest approach via Beaver Brook gives you the waterfalls and the crux on the way up; the open summit is the reward. The Gorge Brook Trail descent from the south makes an excellent loop with a car shuttle and avoids repeating the most consequential terrain on tired legs — this is the recommended configuration for parties who have done Beaver Brook before and want the full Moosilauke experience without twice on the rungs.",
+    "safety_callout": "The primary hazard is fall consequence in the waterfall section — iron rungs adjacent to a 30-foot drop into Beaver Brook gorge. This trail must not be attempted in rain or within 24 hours of significant rain, as the iron hardware becomes dangerously slippery when wet. The DOC's warning sign at the trailhead is not decorative. Secondary: the open alpine summit at 4,802 ft with persistent fierce winds requires full insulating and wind layers regardless of trailhead temperature. Time your hike so you reach the summit and begin descent before early afternoon in thunderstorm season, and so you complete the iron rung waterfall section descent in full daylight — descending those rungs in the dark is extremely hazardous. Dogs cannot safely negotiate the iron rungs."
+  }
+}

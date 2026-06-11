@@ -1,0 +1,141 @@
+{
+  "id": "north-twin-south-twin",
+  "name": "North and South Twin Mountain via North Twin Trail",
+  "region": "Pemigewasset Wilderness",
+  "summary": "The North Twin Trail delivers two of the finest summits in the White Mountains in a single demanding day — North Twin (4,761 ft) with its dramatic outlook over Garfield and Franconia Ridge, and South Twin (4,902 ft) with one of the most striking open rocky summits in the NH 48, a genuine alpine perch at the crossroads of the Pemigewasset Wilderness. The lower trail follows the Little River through quiet forest before launching into a punishing 2,000-foot sustained climb to treeline. The ridge walk connecting the twins through a sheltered col is one of the more scenic summit-to-summit transitions in the range. AMC Galehead Hut, approximately 1.0 mile from South Twin, makes this route hut-accessible. Note: Haystack Road is seasonally gated from first snowfall through mid-to-late June — add 5 miles round trip for winter or early-season visits.",
+  "tags": ["4k-footer", "out-and-back", "multi-peak", "above-treeline-weather-exposure", "alpine-zone", "ridge-walk", "hut-access", "dog-friendly", "parking-fee", "winter-viable"],
+  "stats": {
+    "distance_rt_miles": 10.8,
+    "elevation_gain_ft": 3500,
+    "highest_point_ft": 4902,
+    "above_treeline_miles": 0.5,
+    "typical_time_hrs": {
+      "beginner": 9.0,
+      "average": 7.0,
+      "experienced": 5.5
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "The distance and gain put this solidly in hard territory. The lower trail along the Little River is gentle — but the upper 2 miles of the North Twin Trail gain roughly 2,000 feet in steep, relentless climbing on rocky, rooted terrain. The ridge walk between the two summits is pleasant and relatively level. No technical scrambling is required, but the steep descent and stream crossings add difficulty. When Haystack Road is gated (November through mid-late June), the added 2.5-mile road walk each way pushes this into fitness 5 territory for that period."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "moderate",
+      "description": "North Twin's summit is heavily krummholz-covered with a limited outlook ledge — partially protected but exposed enough to feel summit conditions. South Twin is a fully open rocky summit with 360-degree exposure and no natural windbreak — the same storm systems that hit Franconia Ridge hit South Twin directly. The lower 4 miles of approach through the Little River valley are entirely forested and protected, which can mask rapidly deteriorating summit conditions.",
+      "mitigation": "Check the Mt. Washington Observatory forecast and Franconia Notch summit conditions before departing. The transition from protected forest to South Twin's open summit is abrupt — carry insulating layers and full rain/wind shells in every season. Lightning exposure on South Twin's open summit is significant in afternoon summer storms; aim for the summit by noon on any day with atmospheric instability."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The steep mid-route section of the North Twin Trail is the primary risk: sustained steep climbing on rocky and rooted terrain where a slip means sliding on a steep slope rather than a short fall. The three Little River crossings require careful foot placement, particularly when flows are high. The col between North and South Twin drops about 200 feet on rocky trail with some steps requiring care. No cliff exposure or technical scrambling anywhere on the standard route. Ice on the steep upper trail and South Twin's open summit is the primary shoulder-season hazard.",
+      "mitigation": "Trekking poles strongly recommended — especially on the steep descent of the North Twin Trail, where fatigued legs on rocky terrain are the main injury vector. Microspikes required from late October through May on the upper trail and summit areas. Take the Little River crossings deliberately; spring high water makes them the most technical sections of the entire route."
+    }
+  },
+  "trailhead": {
+    "name": "North Twin Trailhead (Haystack Road)",
+    "lat": 44.23926,
+    "lon": -71.54769,
+    "parking": "WMNF parking area at the end of Haystack Road. WMNF Recreation Pass required ($5/day or America the Beautiful annual pass). Haystack Road is a well-maintained gravel forest road approximately 2.5 miles long from its junction with Route 3. Seasonal closure: Haystack Road is gated at the first snowfall (typically November) and remains gated until it dries out in mid-to-late June. When gated, park at the pullout near the Route 3 junction and walk 2.5 miles each way to the actual trailhead (adds 5.0 miles total to the hike). Lot accommodates 10-15 vehicles in-season; fills on popular summer and fall weekends.",
+    "access_road": "From I-93 Exit 35 (Franconia Notch), take Route 3 north approximately 5.5 miles. Turn right onto Haystack Road (look for WMNF signage). Follow Haystack Road 2.5 miles to the end and the trailhead parking area. Road is unpaved gravel, passable with any vehicle when open. Bethlehem, NH.",
+    "nearest_town": "Bethlehem",
+    "amenities": ["no facilities at trailhead", "no facilities at summits", "AMC Galehead Hut approximately 1.0 mile from South Twin summit via Twinway (reservations required, meals available)", "10+ dispersed campsites along Haystack Road (free, 14-day limit)"]
+  },
+  "route_description": "From the North Twin Trailhead at the end of Haystack Road (elevation ~1,840 ft), the North Twin Trail heads southeast into the Little River valley. The first 2 miles are gentle and pleasant — well-graded forest trail following the Little River with three crossings on stepping stones and rocks. The crossings are marked with cairns but the marked crossing points are not always the easiest; scout carefully in spring. The trail is entirely forested and feels almost flat through this section.\n\nAt approximately 2 miles, the real climbing begins. The trail turns steep and stays steep for the next 2 miles, gaining roughly 2,000 feet through spruce-fir forest on classic White Mountains rocky and rooted terrain. Take small steps and set a sustainable pace — this is the crux of the day and most turnarounds happen here. The forest begins to give way to krummholz around 4,500 feet, offering some wind protection as you approach North Twin's summit area. A short spur trail leads left to a ledge outlook with outstanding views east over the Little River valley to the Presidential Range and west to Mt. Garfield and the Franconia Range — well worth the 50-yard detour.\n\nNorth Twin summit (4,761 ft) is reached at approximately 4.3 miles. The summit area is krummholz-sheltered with partial views from various ledges — pleasant but not the open panorama that awaits on South Twin.\n\nTo reach South Twin, follow the North Twin Spur (or Twinway) southwest from the summit, descending approximately 200 feet into the sheltered col between the peaks through storm-flagged trees. The col trail is enjoyable — narrower than the main trail, fern-lined, with that remote ridge-walk character that makes NH 48 peak-bagging rewarding. From the col, the Twinway climbs back up on rocky open terrain, pops above treeline onto open ledge, and arrives at the summit knob of South Twin (4,902 ft) at approximately 5.4 miles. The open rocky summit sits at the junction of the Twinway (continuing to Galehead Hut 1.0 mile to the southwest, and eventually Zealand and Crawford Notch), the Garfield Ridge Trail (east toward Garfield and the AT), and the North Twin Trail you just climbed. Views are expansive in all directions — the Presidential Range, Franconia Ridge, Garfield, the Pemigewasset Wilderness interior, and the Twin Range ridge stretching north.\n\nReturn via the same route. Galehead Hut (1.0 mile from South Twin summit via Twinway) is accessible for hikers who want to extend the day, add an overnight, or visit Galehead Mountain (another NH 48 peak).",
+  "peaks": [
+    {
+      "name": "North Twin Mountain",
+      "elevation_ft": 4761,
+      "is_4k_footer": true,
+      "views": "Krummholz-sheltered summit with partial views from various ledge outcrops. An outlook spur gives the best perspective: Mt. Garfield and Franconia Ridge to the southwest, the Little River valley and Presidential Range to the east and northeast. Less dramatic than South Twin but a satisfying summit with genuine alpine atmosphere. NH 48 peak."
+    },
+    {
+      "name": "South Twin Mountain",
+      "elevation_ft": 4902,
+      "is_4k_footer": true,
+      "views": "Fully open rocky summit — one of the finest in the NH 48. The 8th highest White Mountain 4,000-footer sits at the crossroads of three major trails and commands a 360-degree panorama: the Presidential Range and Northern Presidentials to the northeast, the full Franconia Ridge to the west, Mt. Garfield immediately to the west, the Pemigewasset Wilderness interior (the Bonds, Owl's Head) to the south, Galehead Mountain directly below to the southwest, and the Twin Range ridge to the north. A summit where the entirety of the Whites comes into focus."
+    }
+  ],
+  "amc_hut": "Galehead Hut",
+  "hazards": [
+    {
+      "type": "Little River crossings — spring high water",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["April", "May", "June"],
+      "description": "The three Little River crossings in the first 2 miles are rock-hops that can become difficult or impassable in spring snowmelt and after heavy rain. High water makes the crossings the most technically challenging section of the route — knee-deep flow with strong current is possible in early spring. Cairn-marked crossing points are not always the easiest ford locations; scout upstream and downstream for better options. Wet feet are likely in spring regardless."
+    },
+    {
+      "type": "Steep upper trail — sustained climbing and descent",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "The 2-mile, 2,000-foot climb to North Twin's summit is the most demanding sustained terrain on the route. On descent, fatigued legs on steep, rocky, rooted trail are the primary injury vector — the majority of hiking injuries on this trail occur descending this section. Take it slowly on the way down regardless of how strong you feel at the summit."
+    },
+    {
+      "type": "Ice on upper trail and summit areas",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"],
+      "description": "The steep upper North Twin Trail ices over readily from fall through spring. South Twin's open summit rocks can be glazed with rime ice from October onward and the approaching ledges ice early. The col between peaks is sheltered but can hold snow and ice well into spring. Microspikes are required from late October through May — the combination of steep grade and ice on the descent is a serious fall hazard."
+    },
+    {
+      "type": "South Twin summit weather — fully open and exposed",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "South Twin's open rocky summit has no shelter and receives the full force of any incoming weather system. Wind-driven rain, fog, and cold are possible in any month. The summit sits at the junction of major trails, making it a destination for hikers arriving from multiple directions — including those who have been walking in protected forest and are unprepared for summit conditions. Lightning risk on the open summit is significant in afternoon summer storms."
+    },
+    {
+      "type": "Haystack Road seasonal gate — extended winter distance",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["November", "December", "January", "February", "March", "April", "May", "June"],
+      "description": "Haystack Road is gated at its junction with Route 3 from first snowfall (typically November) through mid-to-late June while the road dries. When gated, hikers must walk 2.5 miles each way on the road before even reaching the trailhead — adding 5.0 miles to the round trip (15.8 miles total with 3,500 ft gain). Winter or early-season North Twin/South Twin trips via Haystack Road are serious undertakings reserved for experienced hikers. Verify road status before any November through June visit."
+    }
+  ],
+  "seasons": {
+    "recommended": ["July", "August", "September"],
+    "viable_with_gear": ["October", "November", "December", "January", "February", "March", "April", "May", "June"],
+    "avoid": [],
+    "seasonal_notes": "Prime season is July through early October — Haystack Road is reliably open, the Little River crossings are manageable, and the South Twin summit view is fully on display. Fall foliage through the lower hardwood and birch forest is excellent in September and early October; the open summit gives sweeping views of the full autumn range. Microspikes should be in the pack from mid-October onward.\n\nWinter is viable but demanding: the Haystack Road gate adds 2.5 miles each way, making a winter North/South Twin day 15.8 miles RT in snowshoe or crampon conditions. This filters casual traffic and makes the summits exceptionally quiet. South Twin in winter with full views over the Pemi in snow is a standout experience — but plan for a full long winter day (8-10+ hours) and start at dawn.\n\nSpring (April through June): the road typically doesn't open until mid-to-late June, and the Little River crossings can be challenging through May. Lower trail sections stay muddy through late May. Check Haystack Road status before any spring visit."
+  },
+  "gear_tiers": {
+    "three_season": ["waterproof hiking boots with ankle support", "trekking poles (essential for steep descent)", "2.5L water (fill at Little River in first 2 miles)", "substantial food for 7-9 hour day", "insulating mid-layer", "wind and rain shell", "map or GPS", "headlamp"],
+    "shoulder_season": ["microspikes (mandatory late October through May)", "insulating fleece or puffy", "hardshell wind and rain jacket", "warm hat and gloves", "extra food for cold-weather day", "gaiters for spring snow and mud"],
+    "winter": ["crampons or aggressive microspikes", "insulated waterproof boots", "snowshoes (for Haystack Road walk and lower trail in deep snow)", "hardshell jacket and pants", "balaclava and warm hat", "liner and insulating gloves", "extra insulating layers", "hot thermos", "headlamp (mandatory for 15+ mile winter day)"]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/north-twin-south-twin-and-galehead-mountain",
+      "label": "AllTrails: North Twin, South Twin, and Galehead Mountain"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/galehead-hut/",
+      "label": "AMC Galehead Hut (accessible 1.0 mi from South Twin summit)"
+    },
+    {
+      "type": "weather-forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.5560&lat=44.1820",
+      "label": "NWS Forecast — Twin Range / Bethlehem area"
+    },
+    {
+      "type": "summit-conditions",
+      "url": "https://www.mountwashington.org/experience-the-weather/current-conditions/",
+      "label": "Mt. Washington Observatory — Summit Conditions (Twin Range weather proxy)"
+    },
+    {
+      "type": "trip-report",
+      "url": "https://sectionhiker.com/climbing-north-and-south-twin-mountains/",
+      "label": "SectionHiker: Climbing North and South Twin Mountains"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["Mount Garfield via Garfield Trail", "Franconia Ridge Loop (Lafayette, Lincoln, Liberty)", "Galehead and South Twin via Gale River Trail"],
+    "leads_naturally_to": ["Galehead Mountain (0.9 mi from South Twin via Twinway, NH 48 peak)", "South Twin to Zealand Mountain and Zealand Hut via Twinway (multi-day Pemi traverse)", "Full Pemigewasset Loop (multi-day backpack through all major Pemi peaks)", "North Twin → Garfield Ridge traverse (point-to-point, car shuttle)"],
+    "progression_notes": "The North Twin Trail is the hardest direct approach to South Twin — the steep 2,000-foot climb tests fitness in a way the gentler Gale River Trail approach does not. Hikers who complete this route with energy to spare are ready for multi-day Pemi objectives. South Twin sits at a trail junction from which experienced hikers branch into the full Pemi Wilderness — continuing on the Twinway toward Zealand or extending the day to Galehead Mountain (a free add-on, 0.9 miles from South Twin, with another outstanding view). The North Twin Trail also connects to the Garfield Ridge Trail at South Twin's summit — in the other direction, a car-shuttle traverse from Haystack Road to Garfield Trail (or vice versa) covers some of the finest ridge terrain in the Whites."
+  },
+  "response_hints": {
+    "beginner_framing": "North and South Twin is a genuinely hard hike — nearly 11 miles round trip with 3,500 feet of gain, including a relentless 2-mile climb that will test any hiker's fitness. The first two miles along the Little River are beautiful and accessible, but don't let that fool you into underestimating what follows. Start early (before 7am), carry plenty of water (fill at the river), and give yourself a full day. The payoff is real: South Twin is one of the best open summits in the White Mountains. If Haystack Road is still gated (which it often is through late June), add another 5 miles to your planning — check before you go.",
+    "expert_framing": "South Twin is worth visiting from this direction at least once even if you've done it via Gale River — the North Twin Trail's brutal upper pitch is a better workout and a more remote approach. North Twin is often underrated; the outlook spur gives a perspective on the Garfield-to-Franconia ridgeline that's hard to get anywhere else. The two summits together with Galehead (0.9 mi from South Twin, barely any extra effort) make for one of the most efficient NH 48 triple-peak days in the range. The Twinway connection from South Twin toward Zealand and the Bonds is one of the great ridgeline walks in the Whites for multi-day trips.",
+    "safety_callout": "Two things to lock in before you go: First, check Haystack Road status — the road gates in winter and doesn't reopen until mid-to-late June, and hiking 15+ miles is a very different day than 10.8. Second, South Twin's summit is fully exposed with no shelter — the forested lower trail gives no indication of what summit conditions will be. Carry full layers in every season, check the Mt. Washington Observatory forecast (not just the valley forecast), and aim to be off the exposed summit before afternoon summer thunderstorm windows. Microspikes are required from late October through May on the steep upper trail and summit areas — the descent of the North Twin Trail's steep section with ice and fatigued legs is where most incidents happen."
+  }
+}

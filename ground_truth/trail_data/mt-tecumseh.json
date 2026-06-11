@@ -1,0 +1,146 @@
+{
+  "id": "mt-tecumseh",
+  "name": "Mt. Tecumseh via Mt. Tecumseh Trail",
+  "peaks": [
+    {
+      "name": "Mt. Tecumseh",
+      "elevation_ft": 4003,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Sandwich Range",
+  "stats": {
+    "distance_rt_miles": 4.9,
+    "elevation_gain_ft": 2200,
+    "highest_point_ft": 4003,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 6.5,
+      "average": 4.5,
+      "experienced": 3.0
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 2,
+    "overall_label": "moderate",
+    "notes": "Fitness challenge is significant: ~2,200 ft of gain packed into 2.5 miles of ascent — one of the steepest gain-per-mile ratios among the NH 4K footers despite being the lowest peak on the list. Hikers frequently underestimate it. Technical demand is low-to-moderate: the trail is well-defined with no scrambling required, but the sustained steepness and large rock steps demand careful foot placement on descent. No hands required at any point. Fall risk is low — steep but forested, no exposed edges or drop-offs."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "low",
+      "description": "The summit at 4,003 ft sits entirely below the White Mountains treeline of ~4,400 ft. There is no above-treeline terrain on this route. Weather exposure is minimal compared to most NH 4K footers — no wind-scoured ridges, no open alpine zone. A short open viewpoint section near the summit provides a brief break in tree cover but offers limited exposure to sustained wind or lightning. Standard mountain afternoon thunderstorm risk applies in summer.",
+      "mitigation": "Check the standard WMNF forecast before departure. Start early to avoid afternoon thunderstorms in summer. No above-treeline gear requirements, but standard mountain layers and rain gear are advisable."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "No terrain on this route presents dangerous fall consequences — there are no cliff edges, drop-offs, exposed ridgelines, or scrambling sections where a fall would be injurious beyond a stumble. The steep rock steps are hard on the knees and slippery when wet, but a slip results in a standing-height fall on a forested slope, not a cliff-consequence event.",
+      "mitigation": "Trekking poles and microspikes (when icy) reduce the chance of slipping on the rock steps. Sturdy footwear helps on descent."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "December", "January", "February", "March"],
+    "avoid": ["April", "May"],
+    "seasonal_notes": "Mud season (late April through May) hits this trail hard — steep terrain channels water and the trail surface becomes soft and eroded. Early and late season hiking is popular with proper traction; microspikes are typically needed November through April. Summer weekends are crowded due to proximity to Waterville Valley Resort. Tripoli Road closes in winter, requiring a longer approach from the Thornton gate (~2.5 miles each way on the road) or access via the ski area when it is open — verify road status with USFS before any winter trip."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "dog-friendly",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "steep-terrain-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The upper portion of the Mt. Tecumseh Trail ascends via large, irregularly spaced rock steps — a feature some hikers describe as a relentless staircase. These steps are hard on the knees and slippery when wet or leaf-covered. There are no drop-offs or terrain where a slip would have cliff-consequence; this hazard is about footing difficulty and descent fatigue, not dangerous falls.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The steep rocky steps that define the trail's upper half become seriously hazardous when iced. Late fall through early spring typically brings ice on the rock steps. The descent without traction devices on ice is genuinely dangerous — hikers have been injured here in shoulder season.",
+      "months_active": ["November", "December", "January", "February", "March", "April"]
+    },
+    {
+      "type": "crowd-congestion",
+      "hazard_category": "weather-and-environment",
+      "description": "As the most accessible NH 4K footer from the I-93 corridor and a popular first 4,000-footer, Tecumseh sees heavy foot traffic on summer and fall weekends. The single-track upper trail causes bottlenecks. Parking fills early on fall foliage weekends — arrive by 7am or expect to queue.",
+      "months_active": ["June", "July", "August", "September", "October"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with ankle support",
+      "Trekking poles (strongly recommended for descent)",
+      "Rain jacket and wind layer",
+      "AMC White Mountains map — Waterville Valley area",
+      "2 liters water minimum",
+      "Sun protection",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required October–November and March–April when ice is present)",
+      "Insulating mid-layer",
+      "Warmer gloves and hat",
+      "Extra food for slower cold-weather pace"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Crampons (for hard ice conditions on the rock steps)",
+      "Snowshoes (for unbroken snow conditions)",
+      "Insulated waterproof boots rated to -20°F",
+      "Full insulation system (baselayer, mid-layer, hardshell)",
+      "Headlamp for shortened daylight hours",
+      "Verify Tripoli Road status — gate closure adds ~5 miles round-trip to the approach"
+    ]
+  },
+  "trailhead": {
+    "name": "Mt. Tecumseh Trailhead — Waterville Valley Ski Area",
+    "lat": 43.9666,
+    "lon": -71.5270,
+    "parking": "Large parking lots at Waterville Valley Resort; Lot 1 is nearest the trailhead. Free parking outside ski season. During ski season, parking is managed by the resort and lots fill early. Fall foliage weekends see parking areas at capacity by 8am.",
+    "access_road": "From I-93 Exit 28, take NH-49 East ~10.4 miles, then left on Tripoli Road for 1.2 miles to the ski area access road. Tripoli Road is gated in winter — check USFS White Mountain NF for seasonal road status before visiting November–April.",
+    "nearest_town": "Waterville Valley, NH",
+    "amenities": ["Restrooms at ski base lodge (seasonal)", "Ample parking", "Limited cell service at base area"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "USFS White Mountain NF — Mt. Tecumseh Trailhead",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/mt-tecumseh-trailhead",
+      "notes": "Parking details, access road seasonal closure status, and any current trail advisories"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mt. Tecumseh Trail via Waterville Trailhead",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-tecumseh-trail-via-waterville-trailhead",
+      "notes": "Current conditions, user-reported trail state, and downloadable GPS map"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory — Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "Tecumseh is below treeline but check for general mountain weather patterns, especially afternoon thunderstorm risk in summer"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "welch-dickey-loop",
+      "lonesome-lake-loop"
+    ],
+    "leads_naturally_to": [
+      "mt-moosilauke-beaver-brook",
+      "mt-flume-liberty-loop"
+    ],
+    "progression_notes": "Mt. Tecumseh is the natural first or second NH 4K footer for hikers building toward the full list. Its compact distance and easy access from I-93 make it a logical step up from the Welch-Dickey Loop (comparable gain, less rocky terrain). Tecumseh builds fitness and descent confidence without introducing above-treeline weather exposure — that step comes on Moosilauke or the Franconia Ridge. A hiker who handles Tecumseh well has the fitness base for any of the moderate Franconia or Pemi-area 4K footers, but should not assume Tecumseh's forgiving weather profile applies to those peaks."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Tecumseh is the smallest of New Hampshire's 48 four-thousand-footers — but don't let the low elevation fool you. The trail packs over 2,200 feet of climbing into a steep, direct route that earns its 'hard' rating. You'll feel it in your legs and especially your knees coming down. The good news: there's no technical scrambling, no exposed ridgeline, and you'll be in the forest the whole way — no above-treeline weather to worry about. Strong hikers finish in 4–5 hours; give yourself 6–7 if it's your first big climb. Trekking poles are your best friend here, especially for the rocky descent.",
+    "expert_framing": "Tecumseh is primarily a list check — steep, direct, no route-finding, no above-treeline commitment. The rock step section is relentless on descent without poles. Consider combining with the Sosman Trail for a loop through the ski area glades to break the monotony. Decent winter objective when Tripoli Road gates out — adds ~5 mi RT on the road; approach from Thornton side. Note: 2019 resurvey pegged the true summit at 3,997 ft; it holds its AMC list spot for now but worth knowing if list accuracy matters to your client.",
+    "safety_callout": "No significant weather exposure (entirely below treeline) and no dangerous fall terrain (no drop-offs or cliff edges). The main practical hazard is ice on the steep rock steps in shoulder and winter seasons — microspikes are required October–April. This is a fitness and footing challenge, not a weather or fall-consequence trail."
+  }
+}

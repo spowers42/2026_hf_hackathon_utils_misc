@@ -1,0 +1,192 @@
+{
+  "id": "zealand-guyot-zealand-trail-twinway",
+  "name": "Mt. Zealand & Mt. Guyot via Zealand Trail and Twinway",
+  "peaks": [
+    {
+      "name": "Mount Zealand",
+      "elevation_ft": 4260,
+      "is_4k_footer": true
+    },
+    {
+      "name": "Mount Guyot",
+      "elevation_ft": 4580,
+      "is_4k_footer": false
+    }
+  ],
+  "region": "Pemigewasset Wilderness",
+  "stats": {
+    "distance_rt_miles": 13.2,
+    "elevation_gain_ft": 2900,
+    "highest_point_ft": 4580,
+    "above_treeline_miles": 0.1,
+    "typical_time_hrs": {
+      "beginner": 10.0,
+      "average": 7.5,
+      "experienced": 6.0
+    }
+  },
+  "difficulty": {
+    "fitness": 5,
+    "technical": 1,
+    "overall_label": "hard",
+    "notes": "The Zealand Trail route is one of the most distinctive 4,000-footer approaches in the White Mountains — long, mellow, and almost entirely non-technical, threading through some of the most scenic lowland terrain in the Whites before a sustained climb delivers two high summits, one famous cliff-top viewpoint, and an AMC hut sitting beside a waterfall. The route has two clearly defined phases that feel nothing alike.\n\nPhase one is the Zealand Trail approach: 2.3 miles of essentially flat or gently rolling trail on a former railroad bed, passing large beaver ponds, cascading brooks, and dense boreal forest. The walking is easy enough that even early-season hikers routinely underestimate the route's total challenge. Wildlife (beaver, moose, loons) is frequently encountered around the ponds, particularly in early morning. The approach ends at Zealand Falls Hut (2,630 ft), an AMC year-round facility that can serve as a water stop, rest point, or bad-weather refuge. The hut sits directly above Zealand Falls — a dramatic 25-foot plunge over Whitewall Brook into a clear pool. Day hikers with AMC hut access can purchase meals, snacks, and hot drinks in summer.\n\nPhase two is the Twinway climb: 3.0 miles from the hut to the Zealand summit (plus a 0.1-mile spur), with an additional 1.2 miles to Mount Guyot. The Twinway (part of the Appalachian Trail) is steep and sustained above the hut, climbing sharply through spruce-fir forest over rocky terrain. At 1.2 miles above the hut, a short spur leads to the Zeacliff Outlook (3,700 ft) — arguably the finest cliff-top view on this route, looking out over the entire Pemigewasset Wilderness with Carrigain, the Bonds, and the Presidentials all visible in sweeping array. The Zeacliff spur is strongly recommended and adds minimal distance. A second spur 0.4 miles further leads down to Zeacliff Pond, tucked at the base of cliffs.\n\nThe Zealand summit (4,260 ft) is reached by a 0.1-mile spur off the Twinway, marked by a small cairn and sign. The summit is entirely wooded with no views — a common source of disappointment for hikers expecting something like the Zeacliff panorama. Zealand is the NH 4,000-footer; the summit spur is the 'official' peak for list-baggers.\n\nContinuing 1.2 miles southwest on the Twinway from the Zealand spur junction delivers Mount Guyot (4,580 ft), the second and higher summit of the day. Guyot's summit area has open alpine terrain with good views in multiple directions — the Twin Range ridge extending toward South Twin is visible, and in clear conditions the Presidentials are prominent. Note: Mount Guyot is NOT on the official AMC NH 4,000-Footer list despite its higher elevation (4,580 ft vs. Zealand's 4,260 ft). Guyot lacks sufficient topographic prominence from the surrounding high cols to qualify under AMC criteria. It does appear on the New England Hundred Highest list, and new LiDAR survey data (published ~2019) suggests Guyot may qualify for the NH 48 in a future revision — but as of 2026 it remains off the official list. Hikers collecting the NH 48 can turn around at Zealand's summit spur.\n\nZealand-only stats: 10.6 miles RT, ~2,500 ft of gain, fitness 4. The full Zealand + Guyot route is 13.2 miles RT, ~2,900 ft, fitness 5.\n\nWINTER NOTE: Zealand Road (Forest Road 16) is closed and unplowed from approximately mid-November through mid-May. Winter hikers must park in a plowed area on Route 302 (approximately 0.2 miles east of the Zealand Road junction) and ski or snowshoe approximately 3.5 miles along the unplowed Zealand Road before reaching the summer trailhead. This adds 7 miles round trip to all distances. Zealand Falls Hut is open year-round in self-service mode (caretaker on-site; bring your own food; bunk space available); the hut is a popular winter Nordic skiing and snowshoeing destination. Winter hiking to the Zealand summit and Guyot is a serious 20+ mile expedition appropriate only for fit, experienced winter parties."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "low",
+      "description": "The Zealand summit (4,260 ft) is entirely wooded with no weather exposure. The Zeacliff Outlook is a brief, exposed ledge at 3,700 ft, below natural treeline — the exposure is real but temporary. Mount Guyot (4,580 ft) has open alpine terrain at its summit, representing the only genuine above-treeline weather exposure on the route. The Guyot summit area is small and can be windy and cold even in summer. The Twinway traverse between Zealand and Guyot passes through the col at approximately 4,000 ft, largely in forest.",
+      "mitigation": "Carry rain gear and an insulating layer — Guyot's open summit is the most exposed point and can feel significantly colder than the trailhead. Plan the hike to be at or past the Guyot summit well before afternoon on summer days to avoid convective thunderstorms on the open terrain. The long approach on the Zealand Trail gives a false sense of available time; the sustained Twinway climb and the Guyot section add substantially to the day."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Zealand Trail approach is non-technical and the Twinway, while steep and rocky, requires no hand use. The primary fall risk is the optional Zeacliff Outlook, where the cliff-edge viewpoint has a genuine drop to the Pemigewasset valley below. The Zeacliff spur is not a mandatory traverse — hikers can view the cliff safely from the main viewpoint area without approaching the edge. No exposed scrambling or mandatory technical terrain exists on this route.",
+      "mitigation": "At the Zeacliff Outlook, view the panorama from the main ledge area without pressing to the outer cliff edge. The Twinway is rocky and requires attentive footing on the steep sections above the hut, particularly in wet conditions when rocks become slippery. In winter and shoulder season, the steep sections above the hut ice over and require microspikes or crampons. The descent from Guyot back toward the Zealand spur junction involves a sustained downhill on rocky trail that is tiring on the knees after a long day."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["May", "November", "December"],
+    "avoid": ["January", "February", "March", "April"],
+    "seasonal_notes": "Zealand Road (Forest Road 16) is closed and unplowed from approximately mid-November through mid-May — winter and early spring hikers must park on Route 302 and travel the 3.5-mile road on foot, skis, or snowshoes, adding 7 miles round trip to all routes. January through April are the most difficult: deep snow, severe cold, and the road closure make a Zealand summit day a serious multi-day expedition for most hikers. The payoff is real — the beaver ponds and Zealand Falls Hut area in winter are hauntingly beautiful — but fitness and gear demands are extreme. December and November can be marginal: road closure may or may not be in effect (check WMNF road status before departure), the Twinway above the hut ices over, and Guyot's open summit in wind and cold requires full winter kit. May is a transition: the road may still be gated, snowpack lingers above 3,500 ft, and the steep Twinway sections can be icy. Summer (June–September) is peak season; the Zealand Trail approach through the beaver ponds is at its best. The hut is full-service Memorial Day through Columbus Day weekend. Fall (October) is outstanding — the ponds and river valley have brilliant foliage visible from the Zealand Trail, Zeacliff has peak-season views, and the hut operates into October. Weekends in July–September fill the Zealand Road parking lot early; arrive by 8am."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "multi-peak",
+    "hut-access",
+    "above-treeline-weather-exposure",
+    "dog-friendly",
+    "parking-fee",
+    "winter-viable",
+    "snowshoe-route"
+  ],
+  "hazards": [
+    {
+      "type": "zeacliff-outlook-cliff-edge-exposure",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Zeacliff Outlook is an open cliff-edge ledge at 3,700 ft with a significant vertical drop to the Pemigewasset valley. The spur trail is optional but highly recommended for the views; the cliff is real and the exposure is meaningful at the outer edge. The main viewpoint area is safe; pressing to the very edge of the cliff adds unnecessary risk.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "icy-twinway-above-hut",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Twinway Trail above Zealand Falls Hut is steep and rocky, with significant sections that ice over in cold weather. The north-facing slope above the hut holds ice longer than most trails. In shoulder season and winter, this section is a serious fall hazard without traction devices. SectionHiker noted in an April trip report that this section was 'extremely icy' and required microspikes.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "long-approach-underestimated-fatigue",
+      "hazard_category": "terrain-and-fall",
+      "description": "The 2.3-mile flat Zealand Trail approach is deceptively easy and creates false confidence about remaining energy. The Twinway from the hut to Guyot adds 4.3 more miles from the hut with 2,000+ feet of climbing. Parties who move slowly and rest often on the approach may find themselves far from the trailhead with depleted energy reserves in late afternoon. The full Zealand + Guyot route is 13.2 miles.",
+      "months_active": ["May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "winter-road-closure-adds-major-distance",
+      "hazard_category": "weather-and-environment",
+      "description": "Zealand Road is closed and unplowed mid-November through mid-May. Winter parking is on Route 302, approximately 0.2 miles east of the Zealand Road junction. Skiers and snowshoers must travel the 3.5-mile road before reaching the summer trailhead. This adds 7 miles round trip — turning a 13.2-mile day hike to Guyot into a 20+ mile winter expedition. Hikers unaware of the closure have driven to a gated road with no nearby parking and no alternative access.",
+      "months_active": ["November", "December", "January", "February", "March", "April"]
+    },
+    {
+      "type": "afternoon-thunderstorms-guyot-summit",
+      "hazard_category": "weather-and-environment",
+      "description": "Mount Guyot's open summit is the only above-treeline terrain on the route. Summer afternoon convective storms can arrive rapidly; the summit offers no shelter. The long Zealand Trail approach and sustained Twinway climb can push hikers onto the open Guyot summit in afternoon hours if not managed carefully. Plan to be descending from Guyot by noon on summer days.",
+      "months_active": ["June", "July", "August", "September"]
+    },
+    {
+      "type": "whitewall-brook-crossing-high-water",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Zealand Trail crosses Whitewall Brook near the hut and may involve rock-hop crossings that are difficult in high water. Spring snowmelt (April–May) and after heavy rain events can make these crossings wet and slippery. The Twinway loop descent variation (using the Zeacliff Trail and Ethan Pond Trail for a loop) requires fording Whitewall Brook, which is not safe in high water — this affects hikers attempting the loop variant rather than the standard out-and-back.",
+      "months_active": ["March", "April", "May", "June"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots or trail shoes with good grip — the Twinway above the hut is rocky and sustained; the approach trail is flat but can be muddy near the beaver ponds",
+      "Trekking poles — very useful for the long descent on the rocky Twinway and for balance at brook crossings",
+      "2+ liters water — no reliable potable water source at the trailhead; fill at Zealand Falls Hut (ask staff/caretaker) or filter from brook",
+      "Rain gear — Guyot summit is the only truly open terrain but the long route means afternoon weather changes matter",
+      "Insulating layer — the Guyot summit can be significantly colder and windier than the trailhead, even on warm days",
+      "Snacks or food for the full day — the AMC hut sells food in summer (snacks, hot drinks, meals at hiker rates), but don't rely on it as your only food source",
+      "Map or downloaded GPS route — the Zealand summit spur is easy to miss; small cairn and sign indicate the 0.1-mile spur off the Twinway"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes — mandatory for the icy Twinway above the hut in fall and spring; carry from October through May",
+      "Gaiters — spring mud on the Zealand Trail approach, particularly around the beaver ponds",
+      "Extra insulating layer — spring and fall temperatures at the Guyot summit can be dramatically colder than trailhead",
+      "Check WMNF road status before departure in November or May — Zealand Road gate status changes annually; call Pemigewasset Ranger District (603-536-1310)"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Snowshoes or Nordic/backcountry skis — the Zealand Road is unplowed and requires 3.5 miles of travel before the trail even begins",
+      "Crampons — appropriate for the steep icy Twinway above the hut; microspikes may be insufficient on severe glaze ice",
+      "Full cold-weather layering system",
+      "Headlamp with fresh batteries — the massive extra distance (7 miles of road travel) combined with short winter daylight means virtually all Guyot attempts will finish in darkness",
+      "Emergency bivouac gear — given the distance and winter commitment, carried but hopefully not needed",
+      "Download offline GPS route — trail blazes and junctions may be buried in deep snow",
+      "Zealand Falls Hut is open in self-service winter mode; the caretaker can assist in emergencies, but do not count on hut provisions"
+    ]
+  },
+  "trailhead": {
+    "name": "Zealand Trailhead (Forest Road 16)",
+    "lat": 44.224662,
+    "lon": -71.47907,
+    "parking": "WMNF fee site at the southern end of Zealand Road (Forest Road 16). Fee: $5 per vehicle per day; $30 annual WMNF pass; America the Beautiful Pass accepted. Vault toilet on site. No potable water. Parking fills on summer weekends by 8–9 AM; arrive early or expect to park along Zealand Road. CRITICAL: Zealand Road is CLOSED and unplowed mid-November through mid-May. Winter hikers must use the Route 302 pullout/parking area approximately 0.2 miles east of the Zealand Road junction on Route 302, then ski or snowshoe 3.5 miles on the unplowed road. Confirm road status before visiting in late fall, winter, or early spring at the WMNF road status page (fs.usda.gov/whitemountain) or call Pemigewasset Ranger District (603-536-1310).",
+    "access_road": "From I-93 Exit 35 (Twin Mountain / Lancaster), go north on US-3 for 10.3 miles through Franconia Notch. Turn right (east) onto US-302 East. Drive 2.2 miles east on Route 302. Turn right (south) onto Zealand Road (Forest Road 16), signed 'Zealand Trailhead'. Drive 3.5 miles south on Zealand Road to the parking area at the road's end. Zealand Road is paved near Route 302 and transitions to gravel; it is passable for standard passenger vehicles in summer. GPS: 44.224662, -71.47907.",
+    "nearest_town": "Twin Mountain, NH",
+    "amenities": ["WMNF fee station (America the Beautiful Pass accepted)", "Vault toilet", "Trail register at trailhead", "Beaver pond wildlife viewing along the Zealand Trail", "AMC Zealand Falls Hut at 2.3 miles (year-round, summer full-service with meals and lodging, winter self-service with caretaker)", "Zealand Falls waterfall (25-ft drop) adjacent to the hut"]
+  },
+  "amc_hut": "Zealand Falls Hut",
+  "links": [
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Zealand Summit via Zealand Trail and Appalachian Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/zealand-summit-via-zealand-trail-and-appalachian-trail"
+    },
+    {
+      "type": "official-trail-page",
+      "label": "WMNF — Zealand Trailhead (Forest Road 16)",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/zealand-trailhead-forest-rd-16"
+    },
+    {
+      "type": "trip-report",
+      "label": "SectionHiker — Zealand Mountain: Back in the Whites",
+      "url": "https://sectionhiker.com/zealand-mountain-back-in-the-whites/"
+    },
+    {
+      "type": "trip-report",
+      "label": "HikeNewEngland — Zealand Mtn., Mt. Guyot, and Zeacliff Outlook",
+      "url": "https://www.hikenewengland.com/ZealandGuyot090201.php"
+    },
+    {
+      "type": "official-trail-page",
+      "label": "AMC — Zealand Falls Hut info, rates, and reservations",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/zealand-falls-hut/"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mountain Forecast — Zealand Mountain",
+      "url": "https://www.mountain-forecast.com/peaks/Zealand-Mountain/forecasts/1298"
+    },
+    {
+      "type": "topo-map",
+      "label": "4000footers.com — Zealand Mountain trail map and info",
+      "url": "https://4000footers.com/zealand.shtml"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-hale-hale-brook",
+      "mt-tom-ethan-pond-willey-range"
+    ],
+    "leads_naturally_to": [
+      "galehead-gale-river",
+      "mt-carrigain-signal-ridge"
+    ],
+    "progression_notes": "Zealand is often one of the first Pemigewasset Wilderness 4K footers hikers encounter, and for good reason: it has all the character of the Pemi (long, remote, heavily forested, wildlife-rich) without the epic mileage of the Bonds traverse or Owl's Head. The Zealand Trail approach is one of the most scenic flat miles in the White Mountains — the beaver ponds, the river grade, the hut at the halfway point — all of which make the sustained Twinway climb feel earned rather than punishing. The Zeacliff Outlook provides a view that rivals any cliff-top panorama in the range. Guyot as a bonus summit makes this a rare combination: NH 48 peak plus a higher, more open companion that most hikers don't expect. Hikers who want to continue deeper into the Pemi from here can use the Zealand Falls Hut as a base for multi-night trips to the Bonds (West Bond, Bond, Bondcliff), South Twin, Galehead, and Garfield — some of the finest ridge terrain in New England. The Galehead (Gale River Trail) is a natural next step for hikers who want another long Pemi day from a different access point. Mt. Carrigain (Signal Ridge Trail) is the ultimate 'lone' peak and view-rich summit for hikers drawn to the remote character this route exemplifies."
+  },
+  "response_hints": {
+    "beginner_framing": "The Zealand Trail route to Mount Zealand is one of the more approachable long hikes in the White Mountains, but 'approachable' still means 10.6 miles and a sustained climb — it's a significant day. Here's what makes it special: the first 2.3 miles are almost completely flat on a former railroad bed through beautiful forest, passing large beaver ponds where you'll often see moose or beavers. At 2.3 miles you reach Zealand Falls Hut, a working AMC mountain hut right next to a 25-foot waterfall — you can stop for snacks, use the bathroom, and fill your water. Then comes the real climb on the Twinway Trail. About a mile above the hut, a short spur leads to Zeacliff Outlook — one of the most dramatic views in the White Mountains, looking out over a huge expanse of peaks. The actual Zealand summit (4,260 ft) is an extra 0.1 mile off the main trail and has no views — just a cairn and a sign. If you want, you can continue 1.2 more miles to Mount Guyot, which is higher (4,580 ft) and has open, windswept terrain with good views. Note: Guyot is NOT on the official NH 48 4000-footer list despite being taller than Zealand, because of the way the list is calculated. Key warnings: the parking lot at the trailhead fills early on weekends (arrive by 8am), and the Zealand Road is closed in winter (mid-November through mid-May), which adds 7 miles of walking to the route.",
+    "expert_framing": "Pemi Wilderness 4K footer via old railroad grade: Zealand Trail TH (44.2247, -71.4791) → Zealand Trail 2.3 mi flat to Zealand Falls Hut (2,630 ft) → Twinway/AT → Zeacliff Outlook spur (1.2 mi from hut, 3,700 ft, recommended) → Zealand spur junction (1.7 mi from hut) → Zealand summit spur (0.1 mi, 4,260 ft, wooded, viewless, NH 48) → Twinway SW 1.2 mi to Guyot (4,580 ft, open, good views, NOT NH 48 — insufficient prominence per AMC criteria; new LiDAR col data ~220 ft may eventually qualify it). Zealand-only: 10.6 mi RT, ~2,500 ft, fitness 4. With Guyot: 13.2 mi RT, ~2,900 ft, fitness 5. Above treeline: 0.1 mi (Guyot summit area). Fall risk: low (Zeacliff spur optional, no mandatory scrambling). AMC hut: Zealand Falls Hut (year-round; summer full-service, winter self-service with caretaker). Winter: Zealand Road closed mid-Nov–mid-May; park on Rt. 302, ski/snowshoe 3.5 mi of road = adds 7 mi RT. Twinway above hut ices severely — microspikes required shoulder season, crampons appropriate for serious winter conditions. WMNF fee: $5/vehicle. Road status: fs.usda.gov/whitemountain.",
+    "safety_callout": "The biggest surprise on this route is the winter and shoulder-season road closure. Zealand Road is unplowed mid-November through mid-May — if you drive to the gate without knowing this, there is no nearby parking and no alternative vehicle access. Check the WMNF road status page before any visit in late fall, winter, or early spring. On the trail, the Twinway above Zealand Falls Hut ices severely in cold weather — carry microspikes from October through May at minimum. The flat Zealand Trail approach creates false confidence: the full Guyot route is 13.2 miles with 2,900 feet of gain, and the bulk of the climb comes in the second half of the day. Leave the trailhead early to avoid afternoon thunderstorms on Guyot's open summit."
+  }
+}

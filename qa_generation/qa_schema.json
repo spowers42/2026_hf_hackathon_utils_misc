@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "WhiteMountainsQAPair",
+  "description": "A single training example for the NH White Mountains hiking planning agent",
+  "type": "object",
+  "required": ["id", "meta", "messages"],
+  "properties": {
+
+    "id": {
+      "type": "string",
+      "description": "Unique ID, e.g. mt-washington-lions-head_progression_beginner_001"
+    },
+
+    "meta": {
+      "type": "object",
+      "description": "Retained for QA and stratified splitting. Stripped before training.",
+      "required": ["query_type", "experience_level", "trail_refs", "reviewed"],
+      "properties": {
+
+        "query_type": {
+          "type": "string",
+          "enum": [
+            "trail-lookup",
+            "recommendation",
+            "progression-planning",
+            "gear-and-safety",
+            "weather-and-conditions"
+          ],
+          "description": "The primary intent of the user query."
+        },
+
+        "experience_level": {
+          "type": "string",
+          "enum": ["beginner", "intermediate", "experienced"],
+          "description": "The implied or stated experience level of the user in this example. Used for stratified eval splits and to ensure voice variation across examples."
+        },
+
+        "trail_refs": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Trail IDs that appear in or ground the assistant response."
+        },
+
+        "hazard_types_present": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["weather-and-environment", "terrain-and-fall", "both", "none"]
+          },
+          "description": "Whether this example contains weather hazard info, fall hazard info, both, or neither. Used to ensure hazard coverage is balanced across the dataset."
+        },
+
+        "includes_links": {
+          "type": "boolean",
+          "description": "Whether the assistant response includes authoritative links. Should be true for trail-lookup and recommendation types."
+        },
+
+        "reviewed": {
+          "type": "boolean",
+          "description": "Human review completed. No unreviewed record enters the training split."
+        },
+
+        "review_notes": {
+          "type": "string",
+          "description": "Optional reviewer notes on corrections made or concerns flagged."
+        }
+      }
+    },
+
+    "messages": {
+      "type": "array",
+      "description": "The full conversation in chat format. Compatible with TRL, Unsloth, and Axolotl SFT.",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["role", "content"],
+        "properties": {
+          "role": {
+            "type": "string",
+            "enum": ["system", "user", "assistant"]
+          },
+          "content": { "type": "string" }
+        }
+      },
+      "description": "First item must be role=system. Second must be role=user. Third must be role=assistant. Multi-turn examples may have additional user/assistant pairs."
+    }
+
+  }
+}

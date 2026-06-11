@@ -1,0 +1,170 @@
+{
+  "id": "mt-pack-monadnock-marion-davis-trail",
+  "name": "Pack Monadnock via Marion Davis Trail",
+  "peaks": [
+    {
+      "name": "Pack Monadnock",
+      "elevation_ft": 2290,
+      "is_4k_footer": false,
+      "notes": "Pack Monadnock is not a NH 4,000-footer (summit is 2,290 ft). It is the highest peak of the Wapack Range and the highest point in Hillsborough County, NH. 'Pack' is believed to derive from a Native American word meaning 'little' — Pack Monadnock is the smaller sibling to nearby Grand Monadnock (3,165 ft), though the two are geologically unrelated. Not in the White Mountain National Forest; managed by NH State Parks as part of Miller State Park, the oldest state park in New Hampshire. A 1.3-mile paved auto road also reaches the summit seasonally."
+    }
+  ],
+  "region": "Monadnock Region",
+  "stats": {
+    "distance_rt_miles": 2.8,
+    "elevation_gain_ft": 800,
+    "highest_point_ft": 2290,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 2.5,
+      "average": 2.0,
+      "experienced": 1.5
+    }
+  },
+  "difficulty": {
+    "fitness": 1,
+    "technical": 1,
+    "overall_label": "easy",
+    "notes": "The Marion Davis Trail is one of the shortest and most accessible summit hikes in this system. At 2.8 miles RT and 800 ft of gain, the fitness demand is minimal and accessible to most hikers including families with children. The trail is gradual for the first 0.8 miles across the mountain's flank, then steepens for the final 0.5-0.6 miles to the summit — a brief steep push that is not sustained or technically demanding. Technical rating is 1: the upper trail is rocky and requires attention to footing, but there is no scrambling, no exposed traverses, and no meaningful fall consequence. The overall 'easy' rating is accurate for most adults; older children and moderately fit beginners will find this entirely manageable. The summit rewards far exceed the effort: historic fire tower (climbable), stone shelter, and panoramic views to Grand Monadnock, Mt. Washington, and the Boston skyline. Loop variant: ascending Marion Davis Trail and descending Wapack Trail (or vice versa) creates a ~2.6 mile loop with slightly more trail variety."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "low",
+      "description": "Pack Monadnock's summit is primarily wooded; the open area at the top is a small clearing around the historic fire tower, stone shelter, and auto road terminus. The trail approaches entirely through forest and emerges briefly into this clearing. The mountain does not produce the sustained sub-alpine exposure of Grand Monadnock or anything resembling Presidential Range conditions. The summit clearing and fire tower are exposed to wind and rain, and the fire tower's metal structure creates a concentrated lightning target, but overall weather exposure is the lowest of any summit in this system. On clear days the summit views are exceptional: Grand Monadnock to the southwest, Mt. Washington to the north, the Boston skyline to the southeast, and Vermont hills to the west.",
+      "mitigation": "Check the NWS point forecast before departing. Carry a rain shell — afternoon storms can develop quickly even on low-elevation peaks. The stone shelter at the summit provides basic wind and rain cover. If lightning is in any forecast, do not climb the fire tower; the summit clearing should also be vacated and the forested trail used as shelter."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Marion Davis Trail is well-graded with rocky sections in the upper half. Wet rock on the steeper final approach becomes slippery, particularly on descent. There is no cliff exposure, no exposed ridge traversal, and no scrambling. Slips and stumbles on wet or rooted sections are the primary risk — typical for a rocky NH forest trail. An additional fall hazard exists for those who climb the fire tower: the elevated stairs and observation platform are open-air structures that require care, particularly for young children or those sensitive to heights.",
+      "mitigation": "Wear boots or trail runners with grip; wet rock on the upper trail is the main hazard. Extra care on descent over the rocky steeper section. If climbing the fire tower, hold railings on stairs and the observation deck, and supervise children closely. Do not climb the tower if lightning is in the forecast — it is a metal structure."
+    }
+  },
+  "seasons": {
+    "recommended": ["May", "June", "July", "August", "September", "October"],
+    "viable_with_gear": ["April", "November"],
+    "avoid": ["December", "January", "February", "March"],
+    "seasonal_notes": "Miller State Park is open weekends starting mid-April and full-time from late April through mid-November; the park is unstaffed with the gate closed after mid-November. The auto road operates on the same seasonal schedule. The Marion Davis Trail is technically accessible year-round but off-season visits require appropriate preparation. Pack Monadnock is one of New England's premier hawk migration observation points — the Harris Center's Pack Monadnock Raptor Observatory counts thousands of hawks, falcons, eagles, and other raptors from late August through early November; the peak raptor migration window (mid-September to mid-October) coincides perfectly with peak fall foliage views from the fire tower. Parking fills quickly on peak fall foliage and hawk-watch weekends; advance reservations are strongly recommended September–October. April and November: upper rocky trail sections can hold ice; microspikes are helpful."
+  },
+  "tags": [
+    "weather-exposure-low",
+    "fall-exposure-low",
+    "rocky-trail",
+    "out-and-back",
+    "loop-variant-available",
+    "parking-fee",
+    "nh-state-park",
+    "non-white-mountains",
+    "non-4k-footer",
+    "fire-tower",
+    "auto-road-summit",
+    "family-friendly",
+    "dog-friendly",
+    "raptor-migration",
+    "no-amc-hut"
+  ],
+  "hazards": [
+    {
+      "type": "wet-rock-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The upper half of the Marion Davis Trail is rocky with exposed stone underfoot on the steeper final approach to the summit. These sections become slippery when wet. The descent is more hazardous than the ascent — fatigue combined with slick rock on the way down is the most common cause of slips. Falls are typically stumbles or slides rather than consequential drops, but twisted ankles and bruises are realistic outcomes on wet-weather hikes.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "fire-tower-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The historic fire tower at Pack Monadnock's summit is a key attraction and its elevated observation deck offers spectacular 360° views. The tower stairs and platforms are open-air structures at significant height. Climbing the tower is entirely optional. Visitors who do climb should hold railings at all times, supervise young children closely on the stairs and deck, and avoid the tower completely if there is any lightning in the forecast — it is an ungrounded metal structure.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The summit clearing, fire tower, and auto road terminus are exposed to lightning during convective weather. The fire tower is a prominent metal structure that is an elevated lightning strike risk. Afternoon thunderstorms are common June–August. Although Pack Monadnock does not carry the lightning risk of an isolated alpine summit like Grand Monadnock, the open clearing and metal tower warrant standard caution: leave the tower and summit area if lightning is in the forecast.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "auto-road-traffic",
+      "hazard_category": "terrain-and-fall",
+      "description": "During Miller State Park's operational season, a 1.3-mile paved auto road carries cars, motorcycles, and park vehicles to the summit. Hikers on the Marion Davis Trail converge with the auto road near the summit clearing. Hikers should be alert to moving vehicles in the summit area. Keep dogs on leash and children away from the road edge. The road can be busy on clear summer and fall weekends when both hikers and drivers visit the summit.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Boots or trail runners with grip — rocky upper trail; more important on wet days",
+      "Rain shell — afternoon storms possible; stone shelter at summit offers limited cover",
+      "Water: 1 liter minimum — short trail with no water sources on route",
+      "Sun protection for summit and fire tower observation deck",
+      "Leash for dogs — pets permitted but must be on leash per NH State Parks policy"
+    ],
+    "shoulder_season": [
+      "All three-season gear plus:",
+      "Microspikes — rocky upper trail can hold ice in April and November",
+      "Extra warm layer — summit clearing is exposed to wind in shoulder season"
+    ],
+    "winter": [
+      "All shoulder-season gear plus:",
+      "Microspikes or crampons if icy",
+      "Check nhstateparks.org for gate/staffing status before winter visits — park is unstaffed and gate may be closed after mid-November"
+    ]
+  },
+  "trailhead": {
+    "name": "Miller State Park (Route 101, Peterborough NH)",
+    "lat": 42.8448,
+    "lon": -71.8827,
+    "parking": "VERIFY coordinates — approximate. NH State Parks day use fee: $4/adult (12+), $2/children (6-11), free for children under 5 and NH residents 65+ with valid NH license. Season passes available. Advance reservations strongly recommended on peak summer and fall weekends — lot is limited and fills on nice days. Reservations available up to 30 days in advance at nhstateparks.reserveamerica.com. Walk-in spaces available first-come, first-served. The auto road to the summit charges an additional toll and runs separately from the hiking fee. When park is unstaffed, deposit payment at the Iron Ranger self-serve pay station.",
+    "access_road": "Miller State Park is on Route 101 in Peterborough, NH — 2.8 miles east of Route 123 and 1.8 miles west of Route 45. Address: 13 Miller Park Road, Peterborough, NH 03458. The Marion Davis Trail begins at the far right (east) corner of the main parking area near the trailhead kiosk; fork right at the kiosk sign.",
+    "nearest_town": "Peterborough, NH (approximately 3 miles west on Route 101)",
+    "amenities": ["Restrooms", "Picnic area", "Trailhead kiosk with map", "Auto road to summit (seasonal, additional toll)", "Park office on-site during staffed season", "Stone shelter at summit"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "Miller State Park — NH State Parks",
+      "url": "https://www.nhstateparks.org/find-parks-trails/miller-state-park",
+      "notes": "Surface for trail conditions, hours, fees, reservations, and pet policy; official source for auto road schedule"
+    },
+    {
+      "type": "alltrails",
+      "label": "Pack Monadnock at Miller State Park — AllTrails",
+      "url": "https://www.alltrails.com/parks/us/new-hampshire/miller-state-park",
+      "notes": "Surface for current user trip reports and conditions on the Marion Davis Trail and Wapack Trail; loop variant planning"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "NWS Point Forecast — Pack Monadnock Summit Area",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.88710689544678&lat=42.84944935852525",
+      "notes": "Surface when user asks about conditions or weather on this route. No AMC Higher Summits Forecast equivalent — use this NWS point forecast."
+    },
+    {
+      "type": "state-park-reservations",
+      "label": "Miller State Park Day Use Reservations — NH State Parks",
+      "url": "https://newhampshirestateparks.reserveamerica.com/camping/miller-state-park/r/deDetails.do?contractCode=NH&parkId=270048&siteId=62574",
+      "notes": "Surface proactively for weekend planners — parking fills on peak days; advance reservation is strongly recommended"
+    },
+    {
+      "type": "trail-map",
+      "label": "Miller State Park Hiking Map (PDF) — NH State Parks",
+      "url": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/PDFs/Activities/hiking%20trail-maps/Miller_View-Map_2023_all.pdf",
+      "notes": "Surface when user asks about the trail layout or wants to understand the loop variant (Marion Davis + Wapack)"
+    },
+    {
+      "type": "special-interest",
+      "label": "Pack Monadnock Raptor Observatory — Harris Center for Conservation Education",
+      "url": "https://harriscenter.org/conservation-research/pack-monadnock-raptor-observatory/",
+      "notes": "Surface for visitors planning late-August through November hikes — one of New England's premier hawk migration watch sites; counts of hawks, falcons, eagles are remarkable in September–October"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [],
+    "leads_naturally_to": [
+      "mt-monadnock-pumpelly-trail"
+    ],
+    "progression_notes": "Pack Monadnock via the Marion Davis Trail is among the most accessible summit hikes in this system and functions well as a true first mountain for families, older hikers, or anyone building toward longer NH objectives. The 2.8-mile round trip and 800 ft of gain introduce rocky NH trail terrain, summit weather awareness, and the reward of a named peak with sweeping views — all without commitment or significant risk. The natural progression is Grand Monadnock via the Pumpelly Trail (same region; 8.8 miles RT, 1,800 ft gain; much more demanding ridge walk) for those ready to step up. For hikers wanting to extend their day from the same park, the Wapack Trail north from Pack Monadnock's summit continues to North Pack Monadnock (2,278 ft, Greenfield NH), adding ~4 miles and ~600 ft of additional gain."
+  },
+  "response_hints": {
+    "beginner_framing": "Pack Monadnock is one of the best first-mountain hikes in New Hampshire — short enough to finish in a few hours, but with a real summit, sweeping views, and a historic fire tower you can climb. The Marion Davis Trail is well-marked and not too rocky until the last half mile or so, and the payoff at the top is real: the tower observation deck has views all the way to Mt. Washington, Grand Monadnock, and the Boston skyline on a clear day. Dogs are welcome on leash. One practical note: parking fills fast on nice weekends and fall foliage season — reserve a spot online in advance, it's quick and cheap.",
+    "expert_framing": "Marion Davis Trail: 1.4 mi one-way, ~800 ft gain from Miller State Park lot (Route 101, Peterborough NH). Gradual first 0.8 mi, steeper rocky final 0.5 mi. Summit: 2,290 ft; historic climbable fire tower, stone shelter, auto road terminus. Loop variant: Marion Davis up + Wapack Trail south descent = ~2.6 mi. Dogs on leash OK. Fees: $4/adult, $2/kids 6-11; advance reservations recommended peak days. NWS point forecast for weather. Summit is also the Pack Monadnock Raptor Observatory (Harris Center) — exceptional hawk counts late Aug–Nov. Wapack Trail north from summit extends to North Pack Monadnock (~2 mi, ~600 ft additional gain). Vehicle traffic on auto road in summit area during operational season.",
+    "safety_callout": "Fall risk is low: the upper rocky trail sections can be slippery when wet, particularly on descent — use traction footwear. The fire tower at the summit is a metal lightning conductor — do not climb it, and vacate the summit clearing, if lightning is anywhere in the forecast or audible. Vehicle traffic from the seasonal auto road converges with the hiking trail in the summit area; keep children and dogs aware of cars."
+  }
+}

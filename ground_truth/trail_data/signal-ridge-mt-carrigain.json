@@ -1,0 +1,129 @@
+{
+  "id": "signal-ridge-mt-carrigain",
+  "name": "Mount Carrigain via Signal Ridge Trail",
+  "region": "Pemigewasset Wilderness",
+  "summary": "Mount Carrigain (4,700 ft) is deliberately saved for last by many NH 48 peak-baggers — its summit observation tower delivers one of the most complete 360-degree panoramas in the entire White Mountains, with a near-unobstructed view of virtually all 48 NH 4,000-footers and the full sweep of the Pemigewasset Wilderness. The Signal Ridge Trail is a long, well-graded approach through pristine Pemi forest with a dramatic mid-route viewpoint on Signal Ridge before the tower caps the day. ⚠️ CURRENT ACCESS NOTE: Sawyer River Road has been closed indefinitely to all vehicles since December 2023 (WMNF storm damage alert, no repair timeline as of 2025). This adds 2.1 miles each way (4.2 miles total) to the standard route — plan for 14.8 miles RT until the road reopens.",
+  "tags": ["4k-footer", "out-and-back", "above-treeline-weather-exposure", "alpine-zone", "dog-friendly", "parking-fee", "winter-viable"],
+  "stats": {
+    "distance_rt_miles": 10.6,
+    "elevation_gain_ft": 3400,
+    "highest_point_ft": 4700,
+    "above_treeline_miles": 0.3,
+    "typical_time_hrs": {
+      "beginner": 8.5,
+      "average": 6.5,
+      "experienced": 5.5
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "Stats reflect the trail-only distance (10.6 mi) from the Sawyer River Road trailhead, applicable when the road is open. While Sawyer River Road is closed (currently indefinite — see access note), the effective round-trip distance is 14.8 miles, pushing this into fitness 5 territory. The trail itself is not technically demanding: a long gentle approach gives way to a sustained steep climb before the Signal Ridge viewpoint, followed by a final push to the wooded summit and tower. No scrambling required. The difficulty is entirely length and sustained gain."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "moderate",
+      "description": "The approach is almost entirely forested and protected. Signal Ridge has a significant exposed section — open ledge at approximately 4,000–4,300 ft with views east and west, where wind exposure increases noticeably. The summit is wooded but the observation tower stands fully exposed. The long forested approach makes Carrigain appealing on days when higher Franconia or Presidential peaks are fully socked in, but the ridge and tower add real weather risk in the final mile.",
+      "mitigation": "Carry full wind and rain layers regardless of conditions at the Route 302 gate — conditions at the tower can be dramatically different. Check the Mt. Washington Observatory forecast for summit wind proxy. Retreat from the ridge if storms build rapidly; the steep descent is the main escape route and becomes dangerous in lightning."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Signal Ridge Trail is non-technical throughout. The steep section below Signal Ridge involves rocky, rooted footing requiring care, and the upper ridge has open ledge requiring attention on wet rock. No cliff exposure requiring scrambling. Ice on the steep approach and Signal Ridge ledges is the main shoulder-season hazard.",
+      "mitigation": "Trekking poles strongly recommended — particularly on the descent of the long steep upper section. Microspikes required from mid-October through May. The Signal Ridge ledges can be wet and slippery in rain; slow down on open rock sections."
+    }
+  },
+  "trailhead": {
+    "name": "Signal Ridge Trailhead (Sawyer River Road / FR86)",
+    "lat": 44.06995,
+    "lon": -71.38372,
+    "parking": "⚠️ ROAD CLOSED: Sawyer River Road (FR86) is closed to all vehicle traffic indefinitely due to December 2023 storm damage (WMNF alert, no repair estimate). Park at the limited pullout at the Route 302 gate (Harts Location, NH) and walk or bike 2.1 miles to the actual trailhead — this adds 4.2 miles RT to your hike. Parking at the Route 302 gate is very limited (handful of vehicles). Arrive before 7am on popular days. WMNF Recreation Pass required ($5/day or America the Beautiful pass). When the road is open (future), the trailhead lot accommodates 20+ vehicles on Sawyer River Road, 2.0 miles from Route 302 on the left just after a bridge over Whiteface Brook.",
+    "access_road": "Take Route 302 west into Harts Location, NH (10.1 miles west of Route 16, 19.0 miles south of Route 3). Sawyer River Road (FR86) turns south from Route 302. Currently: gate is locked at Route 302 — park here and walk. When open: drive 2.0 miles down Sawyer River Road to the large trailhead lot just after the bridge over Whiteface Brook.",
+    "nearest_town": "Bartlett",
+    "amenities": ["vault toilet at Sawyer River Road trailhead (when road open)", "no facilities at Route 302 gate", "no facilities at summit"]
+  },
+  "route_description": "Note: distances below are from the actual trailhead (2.1 miles from the Route 302 gate while the road remains closed — add 4.2 miles RT to all figures while closure is in effect).\n\nFrom the Signal Ridge Trailhead, the trail heads west into the forest immediately at a gentle grade. The first 1.0 mile follows alongside Whiteface Brook with several nice cascades — easy, pleasant walking on relatively flat terrain. The trail then continues at a gentle grade through open hardwood and mixed forest for another mile, leaving the brook behind. At approximately 2.4 miles, the trail crosses Carrigain Brook (see hazards — this crossing can be challenging in spring). Just past the crossing, a boggy section with beaver and moose activity gives way to a junction with the Carrigain Notch Trail on the left. Continue straight (right) on the Signal Ridge Trail.\n\nBeyond the junction, the trail climbs more steeply, gaining most of its elevation over the next 2.5 miles. Switchbacks ease the steepest pitches before the trail angles up the side of Signal Ridge on increasingly rocky footing. At the Signal Ridge highpoint (~4,100 ft), the forest opens onto exposed ledge with outstanding views east toward the Sandwich Range and west toward Franconia Ridge — one of the best mid-hike viewpoints in the White Mountains. From here, the summit observation tower on Carrigain is visible directly ahead, 0.5 miles further along the narrowing ridge.\n\nThe final approach continues through krummholz to the wooded summit at 4,700 ft, where the Desolation Trail meets from the south. Climb the observation tower for the full 360-degree panorama: virtually all 48 NH 4,000-footers are visible on a clear day, including the full Pemigewasset Wilderness interior (Owl's Head, the Bonds, Carrigain Notch), the Franconia Ridge, the Twin Range, the Presidentials, and the Sandwich Range. Return via the same route.",
+  "peaks": [
+    {
+      "name": "Mount Carrigain",
+      "elevation_ft": 4700,
+      "is_4k_footer": true,
+      "views": "Wooded summit, but the observation tower provides one of the most complete 360-degree panoramas in the White Mountains. Virtually all 48 NH 4,000-footers are visible on clear days. Outstanding view into the heart of the Pemigewasset Wilderness — Owl's Head, the Bonds, Carrigain Notch, and the wild Carrigain Pond below. The full Franconia Ridge and Twin Range anchor the western view, with the Presidential Range prominent to the north. Many hikers save Carrigain for last of their NH 48 precisely because of this view."
+    }
+  ],
+  "amc_hut": null,
+  "hazards": [
+    {
+      "type": "Sawyer River Road closure — extended hike distance",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "Sawyer River Road (FR86) has been closed to all vehicles since December 2023 due to storm washout damage. WMNF has issued no repair timeline as of March 2025. The road walk from the Route 302 gate to the trailhead adds 2.1 miles each way — making the current round trip approximately 14.8 miles instead of the standard 10.6. Plan your turnaround time, food, and water supply for the longer day. Verify current road status at the WMNF alerts page before your trip."
+    },
+    {
+      "type": "Carrigain Brook crossing — high water",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["April", "May", "June"],
+      "description": "Carrigain Brook is crossed at approximately 2.4 miles from the trailhead. In spring snowmelt and after heavy rain, this crossing can be knee-deep with swift current — particularly challenging after precipitation events. A careful rock-hop is possible in moderate flow; in high water, expect wet feet or worse. The beaver pond section just past the crossing adds to the boggy, wet terrain in this corridor."
+    },
+    {
+      "type": "Summit and ridge weather — exposed tower and Signal Ridge",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "Signal Ridge's open ledge section and the summit observation tower are fully exposed to Pemigewasset Wilderness weather. The long forested approach can lull hikers into underestimating summit conditions — temperatures drop significantly and wind is often sustained on the tower. Lightning is a specific risk at the metal tower structure during afternoon summer thunderstorms. Descend immediately if thunder is heard."
+    },
+    {
+      "type": "Ice on Signal Ridge approach and tower",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"],
+      "description": "The steep upper Signal Ridge Trail ices over readily from fall through spring, and the exposed Signal Ridge ledges can be treacherous with ice or wet snow. The observation tower stairs also ice over in cold weather. Microspikes are required from mid-October through May on the upper trail. The road walk and lower approach may be snow-covered in winter but are otherwise non-technical."
+    }
+  ],
+  "seasons": {
+    "recommended": ["June", "July", "August", "September"],
+    "viable_with_gear": ["October", "November", "December", "January", "February", "March", "April", "May"],
+    "avoid": [],
+    "seasonal_notes": "Late summer through fall is prime season for Carrigain. The forested approach keeps summer heat manageable, and the open Signal Ridge viewpoint catches late afternoon light beautifully in October foliage. Fall color in the Pemi Wilderness seen from the tower is extraordinary. Verify current Sawyer River Road status before any season visit — the road closure (in effect since December 2023, no repair timeline) makes every trip 14.8 miles RT rather than 10.6.\n\nWinter: Sawyer River Road is also normally gated in winter even when not storm-damaged, so winter has always required the extra 2.1-mile road walk each way. Currently this is compounded by the storm closure. A winter Carrigain trip via Signal Ridge is 14.8 miles RT with 3,400 ft gain in snowshoe/crampon conditions — a serious undertaking reserved for experienced winter hikers. The summit tower provides extraordinary winter views with no foliage obstruction.\n\nSpring: The Carrigain Brook crossing can be difficult through May. Lower trail sections stay very muddy through mid-May. Microspikes required through the upper trail well into spring."
+  },
+  "gear_tiers": {
+    "three_season": ["waterproof hiking boots", "trekking poles (strongly recommended for steep descent)", "3.0L water (long day — fill at Whiteface Brook early)", "substantial food for 6-9+ hour day", "insulating mid-layer", "wind and rain shell", "map or GPS", "headlamp"],
+    "shoulder_season": ["microspikes (mandatory mid-October through May on upper trail)", "waterproof gaiters (spring mud and snow)", "insulating fleece or puffy", "hardshell wind and rain jacket", "hat and gloves", "extra food for extended cold-weather day"],
+    "winter": ["crampons or aggressive microspikes", "insulated waterproof boots", "snowshoes (for road walk and lower trail in deep snow)", "hardshell jacket and pants", "balaclava and warm hat", "liner and insulating gloves", "extra insulating layers", "hot thermos", "headlamp (mandatory — 14.8 mi in short winter days requires early start)"]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/signal-ridge-trail-to-mount-carrigain",
+      "label": "AllTrails: Signal Ridge Trail to Mount Carrigain"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/alerts/sawyer-river-road-temporarily-closed",
+      "label": "WMNF Alert — Sawyer River Road Closed (verify current status)"
+    },
+    {
+      "type": "weather-forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.4468&lat=44.0936",
+      "label": "NWS Forecast — Mt. Carrigain summit area"
+    },
+    {
+      "type": "summit-conditions",
+      "url": "https://www.mountwashington.org/experience-the-weather/current-conditions/",
+      "label": "Mt. Washington Observatory — Summit Conditions (Pemi weather proxy)"
+    },
+    {
+      "type": "trip-report",
+      "url": "https://www.kentuckyhiker.org/elsewhere/mount-carrigain-via-signal-ridge-trail-20210828",
+      "label": "Trip report: Mt. Carrigain via Signal Ridge with GPS waypoints"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["Hancock Loop (North & South Hancock)", "Mount Garfield via Garfield Trail", "Galehead and South Twin via Gale River Trail"],
+    "leads_naturally_to": ["Full Pemigewasset Wilderness circuit (multi-day Pemi Loop)", "Carrigain + Desolation Trail loop (via Carrigain Notch Trail)", "Owl's Head via Lincoln Woods (the other famously remote Pemi peak)"],
+    "progression_notes": "Carrigain is often treated as a capstone Pemi Wilderness hike — the tower view surveys the entire wilderness you've been hiking through. It pairs naturally with other remote Pemi peaks (Owl's Head, the Bonds, Galehead) for hikers working through the NH 48. The Desolation Trail + Carrigain Notch Trail loop option adds distance but avoids repeating the approach — a classic loop for hikers who've already done the out-and-back. Many NH 48 finishers deliberately save Carrigain for last specifically because the tower gives them a final view of every peak they've climbed."
+  },
+  "response_hints": {
+    "beginner_framing": "Carrigain is one of the longer NH 48 hikes — and right now, with Sawyer River Road closed, you're looking at nearly 15 miles round trip. The trail itself is not technical: the lower section is a pleasant forest walk, the middle section climbs steeply but steadily, and the upper ridge has great views before you reach the tower. That said, 14.8 miles with 3,400 feet of gain is a genuine all-day commitment. Start early (before 6am), carry plenty of water and food, and budget 9-10 hours. Check the WMNF website before you go to confirm the road status — this is the most important piece of logistics for this hike right now.",
+    "expert_framing": "Carrigain is worth saving. The Signal Ridge viewpoint mid-route is underrated — outstanding east-west views before you even reach the summit. The tower on top gives context for the entire Pemi Wilderness in a way no other summit does. The road closure currently makes this a 14.8-mile day, which filters out casual traffic and makes the summit quieter than its fame might suggest. The Desolation Trail loop option is worth considering for a return visit — it adds miles but sees almost no one and drops you through Carrigain Notch.",
+    "safety_callout": "Two critical points: First, verify Sawyer River Road status before every visit — the indefinite closure since December 2023 means this is 14.8 miles, not 10.6, and planning for the wrong distance is a serious safety error on a long wilderness route. Second, the observation tower is a lightning rod — descend immediately if thunderstorms build. Afternoon summer storms are common in the Pemi Wilderness and the tower is the highest point on the summit with no shelter. Reach the summit and tower by noon on summer days with any atmospheric instability forecast."
+  }
+}

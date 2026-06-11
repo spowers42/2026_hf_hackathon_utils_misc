@@ -1,0 +1,170 @@
+{
+  "id": "osceola-east-osceola-tripoli-road",
+  "name": "Mt. Osceola & East Osceola via Tripoli Road",
+  "peaks": [
+    {
+      "name": "Mount Osceola",
+      "elevation_ft": 4340,
+      "is_4k_footer": true
+    },
+    {
+      "name": "East Osceola",
+      "elevation_ft": 4156,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Sandwich Range",
+  "stats": {
+    "distance_rt_miles": 8.4,
+    "elevation_gain_ft": 2800,
+    "highest_point_ft": 4340,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 7.5,
+      "average": 5.5,
+      "experienced": 4.0
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "The Osceolas are one of the most rewarding two-summit days in the White Mountains — a long, well-graded trail that delivers a spectacular open ledge summit followed by a brief technical challenge and a second wooded peak. The route is straightforward from the Tripoli Road Trailhead: the Mt. Osceola Trail climbs 3.2 miles at a gradual to moderate grade through hardwood and then spruce-fir forest, with scattered rocks and a few switchbacks. There is nothing technically demanding between the trailhead and the Osceola summit; this is one of the more friendly approaches on the NH 48. The summit of Mt. Osceola (4,340 ft) is a broad open rock ledge — the former site of a fire lookout tower — with approximately 220 degrees of views encompassing Mt. Washington to the northeast, the Franconia Range, and most of the northern White Mountains. It is one of the finest open summit ledges in the Sandwich Range and an excellent lunch spot. From Osceola summit, the Mt. Osceola Trail continues east to East Osceola, 1.0 mile away. The descent from Osceola toward the col is steep with open rock, and about 0.5 miles from Osceola summit the trail reaches The Chimney — a short, steep rock scramble where the trail drops nearly vertically through a narrow rocky slot. The Chimney is Class 2+ and requires careful hand and foot placement to descend; on the return, it is climbed back up. It is brief (a few moves, a couple of minutes) but consequential: slippery in wet conditions and psychologically demanding for hikers with a fear of heights. A well-worn bypass trail exists to the left for those who want to avoid the main chimney drop. The rocky terrain immediately around the Chimney — both approaching from Osceola and leaving toward East Osceola — is the most technical and exposed part of the route; multiple trip reports note this open rocky section is harder than the Chimney itself on the return. East Osceola summit (4,156 ft) is entirely wooded, marked by a large cairn, with no views at the cairn itself. A small outlook is located a short distance beyond, worth the minute it takes to visit. The return retraces the full route: re-ascend to East Osceola, down to the Chimney (ascending this time), over Osceola summit, and down the long approach trail. Note: Tripoli Road (WMNF seasonal road) is closed in winter, making the trailhead inaccessible by vehicle from November through mid-May. Winter access requires the Greeley Ponds Trailhead on the Kancamagus Highway (Route 112), which adds ~2 miles round trip and changes the route sequence (East Osceola reached first)."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "none",
+      "description": "Both summits are below the natural treeline of the White Mountains. Mt. Osceola's open ledge summit at 4,340 ft is exposed rock cleared by geology, not natural alpine zone. No above-treeline weather exposure on this route. The open ledge on Osceola's summit and the rocky terrain in the col between the two peaks provide brief exposure to wind and afternoon storms.",
+      "mitigation": "Standard White Mountains rain gear. The open Osceola summit ledge and the rocky col/Chimney area are exposed to afternoon thunderstorms; time the hike to be off the open summit well before noon in summer. The summit is large enough to find some shelter behind rocks in wind but has no overhead cover."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "The primary fall risk is The Chimney — a short steep rocky slot between the two summits where the trail descends nearly vertically for a few body-lengths. Careful hand and foot placement is required; a slip could result in a fall of 10–15 feet on steep broken rock before reaching a ledge. The Chimney is brief and has solid holds when dry, but becomes slippery and genuinely risky in wet or icy conditions. The rocky open terrain immediately around the Chimney — particularly the steep descent from Osceola toward the col — is also technical and has fall potential. A bypass trail to the left of the Chimney is well-worn and appropriate for hikers not comfortable with the scramble. On the return, the Chimney is climbed rather than descended, which is generally easier but still requires attention.",
+      "mitigation": "Scout the Chimney before committing to it — look for the best line down before stepping off. The bypass trail on the left is a legitimate option, not a defeat; use it in wet conditions or if uncertain. The Chimney and surrounding terrain must be dry; avoid this section in rain or any icy condition. Descend the Chimney facing the rock (not outward), using the walls for control. On the rocky approach section from Osceola to the col, move slowly on slanted or wet slab."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "Tripoli Road is closed to vehicles from approximately November through mid-May (WMNF seasonal closure). This makes the primary trailhead inaccessible in winter; winter hikers must use the Greeley Ponds Trailhead on the Kancamagus Highway (Route 112, ~9.7 miles east of I-93 Exit 32), which adds approximately 2 miles round trip and reverses the summit sequence (East Osceola reached first). Summer (June–August) is peak season; the parking lot at Tripoli Road fills by 7–8am on summer weekends, with overflow parking along the road. Fall foliage (late September–October) from the open Osceola ledge is outstanding. The Chimney must be dry; avoid it in rain and check conditions carefully in spring and fall when overnight frost is possible. Microspikes are appropriate for the col and Chimney area in late fall and early spring shoulder season (May, November). Winter hikers from the Greeley Ponds approach should carry microspikes or crampons for the Chimney and surrounding terrain."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "multi-peak",
+    "scrambling",
+    "fall-exposure-moderate",
+    "dog-friendly",
+    "parking-fee",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "the-chimney-steep-scramble",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Chimney is a short but nearly vertical rocky slot between Mt. Osceola and East Osceola. Class 2+ to Class 3. Requires hand and foot placement to descend (or ascend on return). Solid holds when dry; becomes slippery and significantly more dangerous in wet, frost, or icy conditions. A bypass trail to the left avoids the chimney itself. The rocky terrain approaching the Chimney from the Osceola side is steep open slab that multiple trip reports identify as the most challenging section on the return.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "wet-or-icy-chimney-and-col-terrain",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Chimney and the open rocky col between the two summits are dramatically more dangerous in wet or icy conditions. Overnight frost on the slab is possible from October through May and can be invisible in shadow. Do not attempt the Chimney if rock is wet from rain or if overnight temperatures have been near freezing.",
+      "months_active": ["January", "February", "March", "April", "May", "September", "October", "November", "December"]
+    },
+    {
+      "type": "rocky-descent-from-osceola-to-col",
+      "hazard_category": "terrain-and-fall",
+      "description": "The descent from Mt. Osceola's summit toward the Chimney traverses steep open rock. Several trip reports identify this section as technically demanding on the return (when ascending back toward Osceola). Wet or leaf-covered rock increases slip risk throughout the col section.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "afternoon-thunderstorms-open-summit",
+      "hazard_category": "weather-and-environment",
+      "description": "Mt. Osceola's broad open ledge summit has no shelter in a thunderstorm. The open col terrain between the two peaks is also exposed. Summer afternoon convective storms are common June–August; plan the hike to be off the open Osceola summit and through the Chimney section before noon.",
+      "months_active": ["June", "July", "August", "September"]
+    },
+    {
+      "type": "winter-road-closure-trailhead-inaccessible",
+      "hazard_category": "weather-and-environment",
+      "description": "Tripoli Road is closed to vehicles by the WMNF from approximately November through mid-May. The Tripoli Road Trailhead is unreachable by car in winter. Winter hikers must use the Greeley Ponds Trailhead on Route 112 (Kancamagus Highway), adding ~2 miles round trip and reversing the peak order. Hikers unaware of this closure have been stranded at a gated road.",
+      "months_active": ["November", "December", "January", "February", "March", "April"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with good ankle support and grip — the long rocky descent on return is hard on ankles and the col terrain around the Chimney requires secure footing",
+      "Trekking poles for the long ascent and descent; stow them for the Chimney scramble section (poles are a hindrance in the slot)",
+      "2+ liters water — no reliable water sources on the Mt. Osceola Trail; carry all water from the trailhead",
+      "Rain gear — the open Osceola summit and col are exposed; afternoon thunderstorms common in summer",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes — carry from October through late May; the col, Chimney, and open rocky sections hold ice after overnight frost",
+      "Insulating mid-layer",
+      "Gaiters for muddy approach trail in spring"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Microspikes or crampons for col and Chimney terrain in icy conditions",
+      "Note: Tripoli Road closed — use Greeley Ponds Trailhead (Route 112) for winter access; plan the extra distance",
+      "Full cold-weather layering",
+      "Map/GPS — winter approach from Greeley Ponds is a different route sequence and trail junctions can be snow-covered"
+    ]
+  },
+  "trailhead": {
+    "name": "Mt. Osceola Trailhead, Tripoli Road",
+    "lat": 43.9834,
+    "lon": -71.5587,
+    "parking": "Small dirt lot at the Mt. Osceola Trailhead on Tripoli Road, approximately 15–20 vehicle capacity. WMNF fee station on site ($5; America the Beautiful Pass accepted). Two pit toilets. Lot fills by 7–8am on summer weekends; arrive earlier or expect to park along Tripoli Road. Note: Tripoli Road (WMNF seasonal road) is closed to vehicles November through approximately mid-May. No winter plowing.",
+    "access_road": "From I-93 Exit 31 (Lincoln/North Woodstock), turn east onto Tripoli Road. Follow Tripoli Road east approximately 7 miles; the parking lot is on the left (north) side of the road. Road is unpaved and can be rough with potholes, especially on the eastern approach from Route 49. Alternatively, approach from the eastern end: take Route 49 from I-93 Exit 28 (Waterville Valley), then turn northwest onto Tripoli Road; this approach is longer but may have better road surface. GPS: 43.9834, -71.5587.",
+    "nearest_town": "Lincoln, NH / Waterville Valley, NH",
+    "amenities": ["WMNF fee station (America the Beautiful Pass accepted)", "Two pit toilets", "Trail register and sign at trailhead", "Overflow parking along Tripoli Road"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mount Osceola and East Osceola",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-osceola-and-east-osceola"
+    },
+    {
+      "type": "trip-report",
+      "label": "Restless Meanderer — Mount Osceola and East Osceola with the Chimney",
+      "url": "https://restlessmeanderer.com/mount-osceola/"
+    },
+    {
+      "type": "official-trail-page",
+      "label": "WMNF — Sandwich Range Wilderness / Mt. Osceola Trail",
+      "url": "https://www.fs.usda.gov/recarea/whitemountain/recarea/?recid=74869"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mountain Forecast — Mount Osceola",
+      "url": "https://www.mountain-forecast.com/peaks/Mount-Osceola/forecasts/1323"
+    },
+    {
+      "type": "trip-report",
+      "label": "4000footers.com — Mount Osceola trail info and maps",
+      "url": "https://4000footers.com/osceola.shtml"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-tecumseh-tecumseh-trail",
+      "mt-hale-hale-brook",
+      "north-middle-tripyramid-sabbaday-brook"
+    ],
+    "leads_naturally_to": [
+      "tripyramid-north-slide-loop",
+      "mt-whiteface-ferncroft"
+    ],
+    "progression_notes": "The Osceolas are a natural stepping stone for hikers who have completed straightforward wooded 4K footers (Tecumseh, Hale, Waumbek) and want their first taste of technical terrain without the full commitment of the North Slide or Kinsmans. Mt. Osceola's open summit ledge with 220-degree views is one of the most impressive summit rewards in the range for the effort involved, and the Chimney adds a brief but memorable technical moment without being a sustained exposure challenge. The Chimney's bypass trail means hikers can calibrate their own comfort level on technical terrain, making this an excellent teaching hike. The Sandwich Range (Tripyramids, Whiteface, Passaconaway) is the natural progression from here — all feature similar wooded approaches with summit ledges or technical sections as the main reward."
+  },
+  "response_hints": {
+    "beginner_framing": "The Osceolas are a great next step if you've done a few forested 4K footers and want something more memorable. The hike to Mt. Osceola summit (3.2 miles from the car) is well-graded and not technically difficult — it's just steady hiking on a rocky trail. The summit is a huge open rock ledge with sweeping views of Mt. Washington and most of the White Mountains, which makes it one of the best payoffs for effort in this part of the range. If you continue another mile to East Osceola, you'll hit The Chimney — a short, steep rocky slot (maybe 3–4 big moves) where you need to use your hands. It sounds scary but on a dry day most people find it more fun than frightening. There is a bypass trail to the left if you'd rather skip it. East Osceola's summit is wooded with no views, but it's an easy mile past Osceola and worth completing for the NH 48 list. Key notes: the parking lot is tiny and fills early (arrive before 7am on summer weekends), bring all your water from the car, and don't attempt the Chimney if it's raining.",
+    "expert_framing": "Classic Sandwich Range double: 8.4 mi RT, ~2,800 ft, fitness-4, technical-2 (Chimney is a brief Class 2+/3 move), hard. Osceola summit at 4,340 ft is the main event — broad open ledge, ~220-degree views, former fire tower site. Chimney in the col: short, steep, bypass available left. Most trip reports note the steep rocky approach from Osceola to the col is the harder section on the return — not the Chimney itself. East Osceola (4,156 ft) is wooded, marked by cairn, no summit views; small outlook ~1 min beyond. Above-treeline: 0.0 mi (open ledge on Osceola is geology, not alpine zone). AMC hut: none. Tripoli Road: WMNF seasonal closure Nov–mid-May; winter access requires Greeley Ponds Trailhead on Kancamagus Hwy (adds ~2 mi RT, reverses peak order). Parking lot fills by 7–8am summer weekends. Trailhead GPS: 43.9834, -71.5587.",
+    "safety_callout": "The Chimney must be dry. Wet rock, frost, or any icy surface in the col makes this section significantly more dangerous — use the bypass trail on the left or turn back. Stow trekking poles before the Chimney. The steep rocky terrain between Osceola's summit and the Chimney is the most committing section on the return; move slowly and deliberately on slanted rock. Tripoli Road closes in winter — check the road status before driving in May or November."
+  }
+}

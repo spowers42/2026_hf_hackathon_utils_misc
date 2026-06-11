@@ -1,0 +1,160 @@
+{
+  "id": "north-middle-tripyramid-sabbaday-brook",
+  "name": "North and Middle Tripyramid via Sabbaday Brook Trail (up Middle, down North via Pine Bend Brook)",
+  "peaks": [
+    {
+      "name": "Middle Tripyramid",
+      "elevation_ft": 4140,
+      "is_4k_footer": true
+    },
+    {
+      "name": "North Tripyramid",
+      "elevation_ft": 4180,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Sandwich Range",
+  "stats": {
+    "distance_rt_miles": 11.4,
+    "elevation_gain_ft": 3200,
+    "highest_point_ft": 4180,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 8.5,
+      "average": 7.25,
+      "experienced": 6.0
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "North and Middle Tripyramid via the Sabbaday Brook Trail is a lollipop loop in the Sandwich Range Wilderness: ascend the Sabbaday Brook Trail from the Kancamagus Highway, summit Middle and North Tripyramid via the Mount Tripyramid Trail, then descend the Pine Bend Brook Trail to Route 112 and walk ~1 mile east to return to the Sabbaday Brook Trailhead. (A car shuttle at the Pine Bend Brook Trailhead eliminates the road walk.) The route is 11.4 miles with 3,200 feet of gain — solidly fitness-4 territory, made harder than the numbers suggest by the sustained length, many brook crossings, and the rough terrain on the upper mountain. The lower Sabbaday Brook Trail is one of the more pleasant approaches in the White Mountains: a wide, well-graded path on old woods roads, beginning with the famous Sabbaday Falls just 0.3 miles from the trailhead — a three-tiered flume gorge that draws significant day-visitor traffic and is well worth the brief detour. Above the falls the trail climbs moderately through forest, following the brook with multiple crossings (some potentially difficult at high water), for approximately 4.5 miles before the character changes abruptly. The final 0.3 miles to the notch between the peaks is 'very steep and very rough... following old landslides and open rock slabs' (bmhatfield). This section requires care and is the most technically demanding section of the ascent. From the notch the Mount Tripyramid Trail branches left (south) 0.2 miles to Middle Tripyramid (4,140 ft) and right (north) 0.5 miles to North Tripyramid (4,180 ft). Summit Middle Tripyramid first: its narrow pointed top has a bare rock area with views but no summit sign — neither Tripyramid summit has signage, and North Tripyramid in particular has confusing herd paths that can make finding the descent trail difficult. Return to the notch, then climb north to North Tripyramid. From North Tripyramid, the Pine Bend Brook Trail descends steeply for approximately 2 miles before moderating for the final 2 miles to Route 112. The total trail descent to the Kancamagus is approximately 4 miles from the summit of North Tripyramid. South Tripyramid is visible from the notch but is not an official NH 4K footer due to insufficient col prominence and is not part of this route. All trail sections on Mt. Tripyramid have rough and steep characteristics; bmhatfield notes that the Sabbaday Brook Trail has 'grades reasonable and footing good along most of the trail, but there is a very steep and very rough section leading up to the ridge.'"
+  },
+  "exposure": {
+    "weather": {
+      "rating": "none",
+      "description": "This route travels entirely through forested terrain below natural treeline. Both North Tripyramid (4,180 ft) and Middle Tripyramid (4,140 ft) are below the White Mountains' natural treeline of approximately 4,400 feet. The bare rock area on Middle Tripyramid's narrow summit and the open slab near the notch are products of historic landslides, not natural alpine terrain. There is no extended above-treeline exposure at any point on this route. The Sandwich Range Wilderness is generally well-sheltered by dense forest throughout, and the route's forested character means that even in poor weather conditions, hikers are protected from wind at all but the brief slide-slab and summit sections.",
+      "mitigation": "Standard White Mountains weather awareness applies. Carry a rain shell — the long forested approach may conceal deteriorating conditions until you reach the open slab section near the notch. Afternoon thunderstorms in July and August can create unexpected wet rock conditions on the steep upper sections. The many brook crossings on the lower Sabbaday Brook Trail become significantly more challenging in heavy rain or after sustained precipitation; check conditions before departure if recent rainfall has been heavy. The brief open sections on Middle Tripyramid's summit and the slide slab near the notch are wind-exposed in a storm but are too short to constitute a weather commitment the way extended alpine ridges do."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The primary fall risk on this route is the steep and rough terrain rather than cliff-edge consequence. Three specific sections demand attention: (1) the final 0.3 miles of the Sabbaday Brook Trail to the notch, which follows old landslide terrain over open rock slabs — steep, rough, and slippery when wet; (2) the Mount Tripyramid Trail above the notch, which is rocky and steep approaching both summits; and (3) the 2-mile steep descent on the Pine Bend Brook Trail from North Tripyramid, where the sustained grade and rocky footing with fatigued legs creates typical descent-fall conditions. None of these sections carry cliff-consequence — a slip or fall could result in a hard tumble or injury, but not a long free fall. The rating of 'low' reflects that this route specifically avoids the North Slide (the classic Waterville Valley approach), which has exposed bedrock slab over steep terrain with genuine moderate-to-high fall consequence. Wet conditions substantially increase the hazard rating on all the slab and rocky sections.",
+      "mitigation": "Treat the steep slab section near the notch with respect in wet conditions — the old slide terrain is rough and the incline is significant. Test footing on bare rock before committing weight. On the descent from North Tripyramid, the steep upper section of the Pine Bend Brook Trail requires deliberate stepping; maintain trekking pole contact and reduce speed relative to the ascent. Brook crossings on the lower Sabbaday Brook Trail involve stepping on wet rocks — use poles for stability and choose footholds carefully. Note that North Tripyramid's summit has confusing herd paths; confirm the correct descent trail (Pine Bend Brook Trail descends to the north/right when facing uphill) before committing to the descent. A map or downloaded route is helpful here."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["May", "November"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "The Tripyramids via Sabbaday Brook are firmly a summer-through-fall objective for most hikers, with the peak season being July through October. Sabbaday Falls is a popular summer destination drawing significant day-visitor traffic to the parking area; arriving early on summer weekends secures parking. The waterfall and brook-lined lower trail are at their best in spring and early summer when water levels are higher. July and August bring moderate insect pressure in the dense Sandwich Range forest. Late September and October offer excellent foliage; the elevated positions of both summits, while forested, provide filtered foliage views from the summit clearings. May is viable with microspikes for icy upper sections, but spring snowmelt creates serious high-water brook-crossing conditions on the Sabbaday Brook Trail — the many crossings can be knee-deep in April and early May and the current can be swift. Confirm conditions before a spring trip. November is possible in a dry year with microspikes for icy rocks; as of late October and November the days are short for an 11+ mile route and an early start is essential. Winter (December through March) is not recommended: the many brook crossings become challenging obstacles (thin ice, high water), the steep slab section near the notch ices severely, and the long distance on short winter days creates significant safety concerns. The Sandwich Range Wilderness has no huts and no reliable emergency shelter on route — unlike the Kinsman area with Lonesome Lake Hut, there is no safe haven if conditions deteriorate. Experienced winter hikers with full kit can do this route, but it is not recommended casually."
+  },
+  "tags": [
+    "4k-footer",
+    "loop",
+    "multi-peak",
+    "dog-friendly",
+    "parking-fee",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "steep-slab-and-rough-terrain-upper-sabbaday-brook",
+      "hazard_category": "terrain-and-fall",
+      "description": "The final 0.3 miles of the Sabbaday Brook Trail to the notch between the Tripyramids follows old landslide terrain over open rock slabs. This section is significantly steeper and rougher than the well-graded lower trail — it comes as an abrupt change in character after miles of moderate grades and catches hikers off-guard. The slab is excellent footing when dry but slippery when wet. The grade is steep enough that a slip can result in a hard fall on rocky terrain. This is the crux of the ascent and the section where the most accidents on this trail occur.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "brook-crossings-high-water",
+      "hazard_category": "weather-and-environment",
+      "description": "The Sabbaday Brook Trail involves many brook crossings, particularly in the lower and middle sections. bmhatfield notes that 'some may be difficult at high water.' In normal summer conditions the crossings are straightforward stepping-stone hops, but in spring snowmelt (April through mid-May) or after sustained heavy rainfall, brook levels rise quickly. Crossings that are trivial in July can be knee-deep with swift current in May. Cold water, fast current, and slippery stepping stones combine to create a genuine crossing hazard, particularly on the return trip when fatigue is higher. There is no bridge or fixed crossing infrastructure on the Sabbaday Brook Trail above the falls.",
+      "months_active": ["April", "May", "June", "September", "October", "November"]
+    },
+    {
+      "type": "unmarked-north-tripyramid-summit-navigation",
+      "hazard_category": "weather-and-environment",
+      "description": "Neither North Tripyramid nor Middle Tripyramid has a summit sign. North Tripyramid in particular has confusing herd paths near the summit that make it difficult to identify the correct descent trail (Pine Bend Brook Trail, which descends to the north/northeast). At least one trip report describes hikers going down the wrong herd path in this area. In fog or poor visibility the summit area can be genuinely disorienting. Carrying a downloaded route or topo map and confirming the Pine Bend Brook Trail junction before descending is important.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "steep-pine-bend-brook-descent",
+      "hazard_category": "terrain-and-fall",
+      "description": "The first approximately 2 miles of the Pine Bend Brook Trail descent from North Tripyramid are steep and rocky, descending rapidly from the summit. After a long day of hiking with tired legs, this sustained steep rocky descent is the highest-risk phase of the route — the combination of fatigue, loose footing, and steep grade is when most falls happen on long mountain routes. The grade moderates after 2 miles for the final 2 miles to Route 112.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with ankle support and good lug tread — the many brook crossings, rough upper trail, and steep descent all benefit from sturdy footwear; trail runners are manageable in dry conditions but risky on wet slab",
+      "Trekking poles (essential for brook crossings; useful on the steep Pine Bend Brook descent to brake on rocky footing)",
+      "2.0 liters water minimum — Sabbaday Brook provides water in the lower section; carry at least 1.5 L from the trailhead and treat or filter from the brook as needed",
+      "Food for a full day: 7–8 hours at average pace",
+      "Rain shell — afternoon thunderstorms common July–August and the upper slab becomes dangerous when wet",
+      "Downloaded route map (offline) — North Tripyramid summit has no signage and confusing herd paths; a map is essential for confirming the Pine Bend Brook Trail descent",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (carry from October through May; the steep slab section near the notch ices quickly and the many brook-adjacent rocks ice over in shoulder season)",
+      "Gaiters for mud season and snow in the lower approach",
+      "Extra water and calories — shoulder-season cold air is dehydrating and energy consumption is higher"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Snowshoes for deep snow on the approach (lower trail can have significant snowpack while the upper section is icy — carry both snowshoes and crampons)",
+      "Crampons for the steep icy slab section near the notch and the Pine Bend Brook descent in icy conditions",
+      "Full cold-weather layering system",
+      "Headlamp with extra batteries — at 11+ miles with slow winter travel, starting before dawn may be required to finish in daylight",
+      "Emergency bivy or survival kit — the Sandwich Range Wilderness has no huts; there is no emergency shelter between the trailhead and the summits"
+    ]
+  },
+  "trailhead": {
+    "name": "Sabbaday Brook Trailhead (Sabbaday Falls Day-Use Area), Kancamagus Highway",
+    "lat": 43.9973,
+    "lon": -71.3928,
+    "parking": "WMNF fee day-use parking at the Sabbaday Falls area on Route 112 (Kancamagus Highway). WMNF Recreation Pass required ($5/day or America the Beautiful annual pass). The Sabbaday Falls parking area is large and well-signed, with significantly more capacity than the Pine Bend Brook Trailhead (which is roadside parking only). The Pine Bend Brook Trailhead (the loop exit point) is approximately 1 mile west on Route 112 — available for a car shuttle to avoid the road walk.",
+    "access_road": "From I-93 Exit 32 (Lincoln/North Woodstock): take Route 112 (Kancamagus Highway) east approximately 20 miles. The Sabbaday Falls/Sabbaday Brook parking area is on the right (south side of Route 112), well-signed. From Conway: take Route 112 west approximately 15 miles; the parking area is on the left. The Sabbaday Falls parking area is easily found. Pine Bend Brook Trailhead (shuttle point if used): approximately 1 mile west of Sabbaday on Route 112, on the right side; small roadside pullout with a brown trail marker — limited parking.",
+    "nearest_town": "Albany, NH (or Waterville Valley, NH)",
+    "amenities": ["WMNF fee required", "Outhouse at Sabbaday Falls parking area", "Sabbaday Falls is 0.3 miles from the trailhead (significant attraction, worth the detour)", "No facilities above the falls", "No AMC huts or shelters on route (Sandwich Range Wilderness)"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "WMNF — Sabbaday Falls Recreation Area",
+      "url": "https://www.fs.usda.gov/recarea/whitemountain/recarea/?recid=74579"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Tripyramids via Sabbaday Brook Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/tripyramids-via-sabbaday-brook-trail"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "NWS Forecast — Sandwich Range / Tripyramids area",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=43.9683&lon=-71.4400&site=gyx&smap=1&unit=0&lg=en&FcstType=text"
+    },
+    {
+      "type": "trip-report",
+      "label": "bmhatfield — Tripyramids routes summary",
+      "url": "https://bmhatfield.github.io/white-mountains/sandwich.html#Tripyramids"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-whiteface-blueberry-ledge",
+      "mt-passaconaway-diceys-mill",
+      "mt-hale-hale-brook"
+    ],
+    "leads_naturally_to": [
+      "mt-tripyramid-north-slide-loop",
+      "mt-whiteface-passaconaway-loop"
+    ],
+    "progression_notes": "The Tripyramids via Sabbaday Brook are a mid-difficulty Sandwich Range two-bagger that fits naturally between single-peak Sandwich Range objectives (Passaconaway, Whiteface) and longer multi-peak days in the Pemi Wilderness or Northern Presidentials. The route's pleasant approach via Sabbaday Falls and the well-graded lower trail make this more beginner-accessible than its 11.4-mile distance suggests, while the rough upper section and steep Pine Bend Brook descent add genuine challenge. A key character of this route is the complete absence of above-treeline terrain and AMC hut infrastructure — unlike the Kinsmans (Lonesome Lake Hut) or the Jackson-Pierce route (Mizpah Hut), there is no mid-route shelter or water source on the upper mountain. Hikers who have done the Tripyramids via Sabbaday Brook and want the full Tripyramid experience should consider the classic Mount Tripyramid Trail loop from Waterville Valley (up North Slide, down South Slide) — a harder and more exposed route (North Slide: very steep exposed bedrock slab, 1,200 feet in 0.5 miles) that represents a significant step up in technical difficulty. The 'up Middle, down North via Pine Bend Brook' variant specifically avoids the North Slide, making it the safer and more accessible of the two loop options. The Sabbaday Brook approach is widely considered the best way to introduce hikers to the Tripyramids before they attempt the more serious North Slide route."
+  },
+  "response_hints": {
+    "beginner_framing": "The Tripyramids are two 4,000-foot peaks connected by a ridge deep in the Sandwich Range Wilderness, and the Sabbaday Brook Trail is the most scenic and accessible way to reach them. The route is 11.4 miles total — a long day, but the first 1.5 miles to Sabbaday Falls are easy and the falls are spectacular (three tiers through a narrow flume gorge, well worth the time to stop and look). Above the falls the trail climbs gradually through forest with multiple brook crossings — your feet will likely get wet, so waterproof boots or hiking footwear you don't mind getting damp is helpful. For most of the climb the going is moderate, but the last half-mile before the top gets steep and rough over old landslide rock — take it slow here, especially if it's been raining. Neither summit has a sign marking it, so pay attention to the trail and carry a map. Middle Tripyramid (the first summit) has a bare rocky top with views; North Tripyramid (the second) has some views and is slightly higher at 4,180 feet. The descent on the Pine Bend Brook Trail is steep and rocky for the first couple of miles — poles help here. At the bottom you'll walk about a mile along Route 112 back to the parking area (or arrange a car shuttle). Plan for 7–8 hours. Carry plenty of water — there's no reliable source above the lower brook section.",
+    "expert_framing": "Tripyramids via Sabbaday Brook lollipop loop: 11.4 mi, 3,200 ft, fitness-4, technical-2, 'hard.' bmhatfield: 7:20 book time; route character 'grades reasonable and footing good along most of the trail, but there is a very steep and very rough section leading up to the ridge.' Above treeline: 0.0 mi (both summits below ~4,400 ft natural treeline; open areas are slide scar remnants). AMC hut: null — no infrastructure in Sandwich Range Wilderness. The variant specifically avoids the North Slide (classic Mt. Tripyramid Trail from Waterville Valley); North Slide is ~1,200 ft/0.5 mi on exposed bedrock slab and warrants its own separate fact sheet. Summit navigation note: no signage on either summit; North Tripyramid has confusing herd paths — carrying a GPX/downloaded route recommended for the Pine Bend Brook Trail junction. Loop variant with road walk: exit Pine Bend Brook TH on Route 112, ~1 mi east to Sabbaday Brook TH. Car shuttle available to eliminate road walk. South Tripyramid (visible from the notch) is NOT a 4K footer per AMC list (inadequate prominence). Multiple brook crossings in the lower Sabbaday Brook section are high-water hazards in spring and after heavy rain.",
+    "safety_callout": "Two specific hazards define this route. First: the final 0.3 miles of Sabbaday Brook Trail to the notch follows old landslide terrain with steep open rock slab — this section is the crux of the ascent and is genuinely dangerous when wet. If the rock is wet from rain, slow down significantly on this section and use trekking poles for balance. Do not attempt this section if ice is present. Second: North Tripyramid's unmarked summit has confusing herd paths, and finding the Pine Bend Brook Trail descent (off the summit's north/northeast side) requires navigation attention. Carry a downloaded trail route and confirm you are on the correct trail before beginning the descent — going down the wrong herd path in this area is a documented problem. The brook crossings on the lower Sabbaday Brook Trail are straightforward in summer but can be waist-high and swift during spring snowmelt (April through mid-May) — assess crossing conditions before committing; cold swift water with rocky bottoms can knock hikers off their feet. This is a wilderness route with no huts, no shelter, and limited cell service — carry a full self-rescue kit and plan your turnaround time conservatively."
+  }
+}

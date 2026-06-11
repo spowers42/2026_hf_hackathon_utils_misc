@@ -1,0 +1,140 @@
+{
+  "id": "mt-washington-huntington-ravine",
+  "name": "Mount Washington via Huntington Ravine Trail",
+  "region": "Presidential Range",
+  "summary": "The Huntington Ravine Trail is the hardest and most dangerous non-technical hiking trail in the White Mountains — and by most accounts in the entire eastern United States. The route ascends the steepest headwall of Mount Washington's four major cirques: a half-mile of Class 3–4 scrambling on steep open slabs, chimneys, and crack systems with severe, potentially fatal fall exposure throughout. It is emphatically an ascent-only trail — descent is prohibited and regularly fatal for those who attempt it. The approach through the ravine is one of the most dramatic in the region, a classic alpine cirque framed by sheer rock walls on three sides. This trail is suitable ONLY for experienced scramblers in dry conditions between late June and early October. Above the headwall, the route crosses the rare alpine garden zone and summit cone of Mount Washington (6,288 ft), the highest peak in the northeastern United States, with its notoriously extreme and rapidly changing weather. Descend via Lion Head Trail to complete the loop safely.",
+  "tags": ["4k-footer", "loop", "scrambling", "fall-exposure-high", "above-treeline-weather-exposure", "alpine-zone", "parking-fee", "technical-route"],
+  "stats": {
+    "distance_rt_miles": 8.9,
+    "elevation_gain_ft": 4250,
+    "highest_point_ft": 6288,
+    "above_treeline_miles": 2.5,
+    "typical_time_hrs": {
+      "beginner": 9.5,
+      "average": 7.5,
+      "experienced": 6.0
+    }
+  },
+  "difficulty": {
+    "fitness": 5,
+    "technical": 5,
+    "overall_label": "very hard",
+    "notes": "The highest fitness and technical ratings in the dataset. The 4,250-foot gain to New England's highest summit is demanding regardless of route, but it is the Huntington Ravine headwall that defines this hike's character: sustained Class 3–4 scrambling with genuine cliff exposure, sections requiring both hands and feet with no safe margin for error, and a chimney pitch near the top that many hikers find genuinely difficult. The summit weather compounds everything — Mt. Washington's summit has the highest recorded wind speed in the northern hemisphere (231 mph) and conditions can shift from calm to life-threatening in under an hour. This is the maximum difficulty trail in this dataset and should be treated accordingly. There is no easy escape once committed to the headwall."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "high",
+      "description": "Mount Washington's summit is among the most weather-exposed locations in the world. The peak sits at the confluence of three major storm tracks and experiences hurricane-force winds on an average of 110 days per year. Above treeline for approximately 2.5 miles of the loop, hikers are fully exposed to whatever the mountain generates. Fog can reduce visibility to zero in minutes, temperatures can drop 30°F in an hour, and rain or snow can arrive without warning regardless of what valley conditions suggested at the trailhead. The summit building provides emergency shelter but is 2+ miles from the headwall top in deteriorating conditions.",
+      "mitigation": "Check the Mount Washington Observatory summit forecast — not the valley forecast — before committing to this route. The Observatory publishes hourly updates with wind speed, temperature, and visibility forecasts specifically calibrated for the summit. Any forecast of summit winds over 35 mph, precipitation, or afternoon thunderstorms is a hard no-go. Start at dawn to be off the exposed summit cone and headwall before afternoon storm windows. Carry full insulating layers and waterproof shell in every season — hypothermia is possible on the summit in July."
+    },
+    "fall_risk": {
+      "rating": "high",
+      "description": "The Huntington Ravine headwall is one of a very small number of hiking trails in the eastern United States where a slip is potentially fatal. The central headwall involves 30–200+ foot fall exposure throughout, with open slabs that funnel directly to cliff edges, chimney sections requiring controlled hand-and-foot technique, and traverses where missteps on wet or icy rock have killed hikers. The trail is marked with yellow blazes — staying exactly on the marked route is mandatory, as all adjacent terrain on the headwall is unprotected cliff. The trail should never be descended; those who have tried have been killed or required technical rescue.",
+      "mitigation": "Attempt only in completely dry conditions — wet rock on the headwall is categorically more dangerous than dry rock. Wear boots with high-friction rubber soles; trail runners with thin soles are inadequate. Move deliberately and maintain three points of contact throughout the headwall. Never attempt solo. The trail is marked with yellow blazes — follow them exactly; do not improvise alternatives. Plan your descent via Lion Head Trail before you start. If conditions deteriorate on the headwall, retreat immediately rather than continuing upward."
+    }
+  },
+  "trailhead": {
+    "name": "AMC Pinkham Notch Visitor Center",
+    "lat": 44.25755,
+    "lon": -71.25313,
+    "parking": "Large paved parking lot at Pinkham Notch Visitor Center on Route 16. WMNF Recreation Pass required ($5/day or America the Beautiful annual pass). Lot fills by 7–8am on summer and fall weekends. Overflow parking on Route 16 shoulder. The visitor center has year-round staffing, restrooms, gear shop, and food service. AMC staff can provide current trail conditions and weather information before you depart.",
+    "access_road": "Route 16 (Pinkham Notch Road), approximately 11.5 miles north of NH Route 16A in Jackson and 9 miles south of Gorham. Look for the AMC Pinkham Notch Visitor Center sign on the west side of Route 16. Route 16 is paved and plowed year-round.",
+    "nearest_town": "Gorham",
+    "amenities": ["AMC Pinkham Notch Visitor Center (restrooms, gear shop, food service, lodging)", "indoor gathering space with current conditions boards", "Hermit Lake Shelters at 3,875 ft in Tuckerman Ravine (AMC lean-tos, 2.2 miles from TH, available by reservation)", "summit building with restrooms, cafeteria, and weather observatory gift shop at 6,288 ft"]
+  },
+  "route_description": "This route ascends via Huntington Ravine Trail and descends via Lion Head Trail — the standard loop for this approach. Descent via Huntington Ravine Trail is not recommended and has been fatal; do not reverse this loop.\n\nFrom the Pinkham Notch Visitor Center, follow the Tuckerman Ravine Trail north (signed). The trail climbs steadily alongside Cutler River through birch and spruce forest at a moderate grade. At approximately 1.3 miles, bear right (northeast) at the signed Huntington Ravine Trail junction — the Tuckerman Ravine Trail continues straight toward Hermit Lake and Tuckerman Ravine. Note the avalanche rescue cache near this junction: Huntington Ravine has a history of avalanche and ice climbing accidents that require specialized rescue.\n\nThe Huntington Ravine Trail climbs steeply northeast through increasingly rugged forest and then opens onto The Fan — a broad rocky debris field (talus) at the floor of the cirque at approximately 2.0 miles (elevation ~3,400 ft). The cirque walls rise on three sides, and the scale of the headwall becomes apparent here. The Fan itself requires scrambling over large boulders following yellow blazes painted on the rocks. Take your first long look at the headwall from the top of the Fan — if anything looks wet, icy, or cloud-shrouded, this is your last easy retreat point.\n\nThe Headwall begins at approximately 2.5 miles. This half-mile section (elevation ~3,600 to ~5,400 ft) is the technical crux of the entire route. The trail is marked with yellow blazes and follows the center of the cirque's headwall up open slabs, through crack systems, and over stacked ledges requiring continuous three-point contact. Hands are required throughout — this is not hiking terrain. Key features include a chimney section near the upper headwall that requires controlled arm strength to pull through, and open slab traverses where falling would mean sliding off the cliff. Move deliberately. Never rush on the headwall. The Pinnacle — a massive rock tower to the left (south) — is a landmark indicating you are on route; do not deviate toward it.\n\nAt approximately 3.1 miles, a large cairn marks the top of the headwall at the junction with the Alpine Garden Trail (~5,400 ft). The headwall is behind you. Take a moment — you've just climbed the most demanding hiking terrain in New England. The Alpine Garden stretches ahead: a remarkable arctic-alpine wildflower zone, one of only a handful in the eastern US, with dwarf flowers that bloom briefly in June and July. Follow the Alpine Garden Trail west, then bear right on connecting trails toward the summit cone. The summit of Mount Washington (6,288 ft) is reached at approximately 4.3 miles from the trailhead. The Sherman Adams Summit Building has restrooms, a cafeteria, and the weather observatory.\n\nDescend via Lion Head Trail: from the summit, follow signs for Lion Head Trail south-southeast. The trail descends below the Lion Head rocky promontory (~5,000 ft) and re-enters treeline, then continues down to the Tuckerman Ravine Trail junction. Follow Tuckerman Ravine Trail south 2.1 miles back to the Pinkham Notch Visitor Center.",
+  "peaks": [
+    {
+      "name": "Mount Washington",
+      "elevation_ft": 6288,
+      "is_4k_footer": true,
+      "views": "The highest peak in the northeastern United States commands a panorama extending to the Atlantic Ocean on clear days. Views span the entire Presidential Range north to Adams and Madison, the Franconia Ridge and Pemigewasset Wilderness to the southwest, Maine's mountains to the east, and Vermont's Green Mountains to the west. The summit is frequently in cloud — on the roughly 60 days per year with exceptional visibility, the panorama is unmatched in New England. The Alpine Garden below the headwall top offers a spectacular view back down into the cirque and east toward the Carter Range."
+    }
+  ],
+  "amc_hut": null,
+  "hazards": [
+    {
+      "type": "Headwall fall exposure — Class 3–4 terrain with fatal consequences",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "The Huntington Ravine headwall is the most fall-exposed hiking terrain in New England. A slip on the central headwall during dry conditions can result in a fall of 30 to 200+ feet onto cliff terrain below. Hikers have been killed here. The headwall must be ascended ONLY, never descended — those who have attempted downclimbing the headwall have required technical rescue or been killed. Stay exactly on the yellow-blazed route; do not improvise. If any section feels beyond your ability, retreat immediately; there is no easier alternative line on the headwall."
+    },
+    {
+      "type": "Wet rock — conditions-dependent but drastically increases fall risk",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"],
+      "description": "Wet rock on the Huntington Ravine headwall transforms a serious scramble into an extremely dangerous route. The granite slabs lose their friction dramatically when wet, and sections that are manageable in dry conditions become unclimbable or lethal when rained on, misted over, or glazed with early-morning dew. The trail should not be attempted if there is any chance of precipitation, if the summit is in cloud (which produces moisture on the headwall), or if rain fell within the previous 24 hours. This is a non-negotiable go/no-go criterion."
+    },
+    {
+      "type": "Ice and snow on headwall — technical climbing conditions",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May", "June"],
+      "description": "The Huntington Ravine headwall retains ice and snow from fall well into late spring and early summer. In winter, the ravine is a premier ice climbing destination — not a hiking route. Even in May and early June, the upper headwall can have ice that requires crampons, ice axe, and technical climbing skill. The trail is typically not passable as a hiking route until late May at the earliest, and more reliably in mid-June. Check the Mount Washington Avalanche Center (MWAC) for current snowpack and ice conditions before any spring or fall visit."
+    },
+    {
+      "type": "Summit and above-treeline weather — Mount Washington's extreme conditions",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "Mount Washington's summit holds the record for the highest wind speed ever recorded by a surface weather station in the northern hemisphere (231 mph, April 1934). Average summit winds exceed 35 mph. Temperatures at the summit can be 30–40°F colder than at the trailhead in any season. Weather changes are rapid and unpredictable — hikers have been caught in whiteout blizzards in July. Above treeline for 2+ miles of this route, there is no shelter from the summit building back to Lion Head. Hypothermia is a real risk in summer. Always check the Mount Washington Observatory forecast, not the regional weather."
+    },
+    {
+      "type": "Lightning above treeline",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["May", "June", "July", "August", "September"],
+      "description": "The broad above-treeline alpine zone on Mount Washington — Bigelow Lawn, the Alpine Garden, and the summit cone — is fully exposed to lightning with no natural shelter. Afternoon thunderstorms build rapidly in summer, often arriving by 1–2pm. The summit building provides shelter but reaching it from the Alpine Garden or headwall top can take 30+ minutes of exposed hiking in a storm. Start early enough to be at or past the summit by noon on any day with atmospheric instability in the forecast."
+    }
+  ],
+  "seasons": {
+    "recommended": ["July", "August", "September"],
+    "viable_with_gear": ["June", "October"],
+    "avoid": ["November", "December", "January", "February", "March", "April", "May"],
+    "seasonal_notes": "This trail has the narrowest viable window of any route in this dataset. July through September are the recommended months — the headwall is consistently snow-free, daylight is long, and the alpine garden flowers (late June through July) are a remarkable added bonus. Dry conditions are still a non-negotiable requirement even in summer; check the Mt. Washington Observatory forecast specifically for precipitation and summit visibility.\n\nJune and October are viable only for experienced parties on dry, stable-forecast days. In June, snow may still persist on the upper headwall well into the month — check the MWAC avalanche center before going. October brings rapidly worsening conditions; the headwall can ice after any cold night, and the summit is frequently in cloud.\n\nNovember through May: the headwall is an ice climbing venue requiring ropes, axes, crampons, and technical belaying skills. It is not a hiking route. Even experienced hikers with crampons and ice axes have been killed here in winter and spring. Do not hike Huntington Ravine in winter. The Lion Head Winter Route is the established non-technical winter approach to Mt. Washington from Pinkham Notch."
+  },
+  "gear_tiers": {
+    "three_season": ["high-friction lug-soled hiking boots (trail runners with thin soles are inadequate on the headwall)", "gloves (for grip on cold rock and chimney sections)", "helmet (strongly recommended — rockfall from above is possible in the ravine)", "trekking poles (stow before the headwall — hands are needed throughout)", "3.0L water", "substantial food for 7-10 hour day", "full insulating layers regardless of temperature at TH", "wind and rain shell (packable but mandatory)", "map and compass or GPS", "headlamp"],
+    "shoulder_season": ["all three-season gear above", "microspikes (for any residual ice on approach or summit)", "insulating puffy jacket", "warm hat and gloves (summit can be freezing in October)", "gaiters (snow on approach in June)", "extra food for longer cold-weather day"],
+    "winter": ["Do NOT hike Huntington Ravine Trail in winter. The headwall requires: full ice climbing kit (crampons, ice axe, helmet, harness, rope, technical belaying competence). Use the Lion Head Winter Route for non-technical winter ascent of Mt. Washington instead. Ice axes, crampons, hardshell jacket and pants, balaclava and insulating layers are required for Lion Head in winter."]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-washington-via-huntington-ravine-and-lion-head-trail",
+      "label": "AllTrails: Mt. Washington via Huntington Ravine and Lion Head"
+    },
+    {
+      "type": "summit-conditions",
+      "url": "https://www.mountwashington.org/experience-the-weather/current-conditions/",
+      "label": "Mount Washington Observatory — Current Summit Conditions and Forecast (CHECK BEFORE GOING)"
+    },
+    {
+      "type": "weather-forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.3033&lat=44.2705",
+      "label": "NWS Forecast — Mount Washington Summit"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/pinkham-notch/",
+      "label": "AMC Pinkham Notch Visitor Center"
+    },
+    {
+      "type": "trip-report",
+      "url": "https://sectionhiker.com/great-hikes-mt-washington-and-the-huntington-ravine-trail/",
+      "label": "SectionHiker: Huntington Ravine Trail — conditions and route description"
+    },
+    {
+      "type": "topo-map",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/huntington-ravine-trailhead",
+      "label": "WMNF — Huntington Ravine Trailhead Info"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["Franconia Ridge Loop (Lafayette, Lincoln, Liberty)", "Tuckerman Ravine Trail to Mt. Washington summit (standard non-technical Washington approach)", "Mt. Adams via Air Line / Gulfside Trail (sustained above-treeline Presidential hiking)", "Mt. Willard or Crawford Path for above-treeline Washington experience before committing to Huntington"],
+    "leads_naturally_to": ["Full Presidential Traverse (Madison to Washington, multi-day or single-day)", "Mt. Adams via King Ravine Trail (the other major ravine scramble in the Whites, similarly demanding)", "Rock climbing in Huntington Ravine (the Pinnacle Buttress, 5.7, is the natural next step for those drawn to the headwall terrain)", "Alpine zone exploration: Bigelow Lawn, Great Gulf, Oakes Gulf (Mt. Washington's other cirques)"],
+    "progression_notes": "Huntington Ravine Trail is a capstone route — there is no harder non-roped hiking trail in the eastern US to progress to from here. It represents the ceiling of the 'hiking' category and sits at the boundary of technical rock climbing. Hikers who find Huntington comfortable and enjoyable are likely ready to explore actual roped climbing on the Pinnacle Buttress or the Northern Presidential ravines. Within the hiking universe, the natural next challenge is the full Presidential Traverse (Madison to Washington in a day), which is demanding in a different way — sustained exposure, route-finding in terrain above treeline, and weather management — rather than technical scrambling."
+  },
+  "response_hints": {
+    "beginner_framing": "Huntington Ravine Trail is not for beginners. This is the hardest hiking trail in the White Mountains, with a half-mile of Class 3–4 climbing on a cliff face where a slip can be fatal. If you want to hike Mount Washington, there are excellent alternatives: the Tuckerman Ravine Trail or Lion Head Trail reach the same summit with far less technical difficulty. If you are attracted to the scrambling but not ready for Huntington, consider the Franconia Ridge Loop or the Wildcat Ridge traverse as stepping stones. Come back to Huntington after you have several above-treeline summit days under your belt and know how you perform on exposed terrain.",
+    "expert_framing": "Huntington Ravine is best on a clear weekday in July or August — the headwall sees very little foot traffic compared to Tuckerman, and you can move at your own pace through the technical sections without crowds above or below you. The chimney at the upper headwall is the crux; commit cleanly and move efficiently. The Alpine Garden at the top is genuinely one of the best places in the White Mountains — the Diapensia and Lapland rosebay bloom in late June through early July, and the perspective back down into the cirque is extraordinary. For the descent, Lion Head is the efficient choice; if you have the legs, a loop via the Alpine Garden Trail, Nelson Crag, and down the Lion Head Summer Route gives you more of the above-treeline traverse and better views.",
+    "safety_callout": "Three non-negotiable rules for Huntington Ravine: (1) Dry conditions only — wet rock on the headwall is not manageable, it's dangerous. If it rained in the last 24 hours, if the summit is in cloud, if there is any precipitation in the forecast, turn around at the base of the Fan. (2) Never descend the headwall — people have died attempting this. Plan your descent via Lion Head before you set foot on the approach trail. (3) Check the Mount Washington Observatory forecast, not the valley weather — summit conditions can be life-threatening when Pinkham Notch is calm and sunny. These are the three rules that distinguish the hikers who have a great day from the ones who end up in a rescue report."
+  }
+}

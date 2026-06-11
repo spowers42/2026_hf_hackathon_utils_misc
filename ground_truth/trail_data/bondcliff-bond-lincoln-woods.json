@@ -1,0 +1,214 @@
+{
+  "id": "bondcliff-bond-lincoln-woods",
+  "name": "Bondcliff & Mt. Bond via Lincoln Woods and Bondcliff Trail",
+  "peaks": [
+    {
+      "name": "Bondcliff",
+      "elevation_ft": 4265,
+      "is_4k_footer": true
+    },
+    {
+      "name": "Mount Bond",
+      "elevation_ft": 4698,
+      "is_4k_footer": true
+    },
+    {
+      "name": "West Bond",
+      "elevation_ft": 4540,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Pemigewasset Wilderness",
+  "stats": {
+    "distance_rt_miles": 20.4,
+    "elevation_gain_ft": 3700,
+    "highest_point_ft": 4698,
+    "above_treeline_miles": 2.0,
+    "typical_time_hrs": {
+      "beginner": 15.0,
+      "average": 11.0,
+      "experienced": 8.5
+    }
+  },
+  "difficulty": {
+    "fitness": 5,
+    "technical": 2,
+    "overall_label": "very hard",
+    "notes": "The Bonds — Bondcliff, Mount Bond, and West Bond — are three of the most remote and celebrated 4,000-footers in the White Mountains, sitting at the heart of the Pemigewasset Wilderness with no road access anywhere near. The Lincoln Woods approach is the standard day-hike and backpacking route, and it is defined by a paradox: the first 4.7 miles are strikingly easy (flat former logging railroad grade, wide and well-graded), and the last 4.4 miles are a sustained wilderness climb finishing above treeline on one of the most dramatic ridges in New England. Parties who underestimate the total commitment — 20.4 miles for Bondcliff and Bond, or 22.4 miles for all three Bonds — frequently get into trouble in afternoon weather or return after dark.\n\nThe approach follows the Lincoln Woods Trail (2.9 miles on old railroad bed) to the Wilderness Trail junction, then continues on the Wilderness Trail (still flat, another ~1.8 miles) to the Bondcliff Trail junction. The flat railroad bed approach passes through beautiful riparian hardwood and spruce-fir forest along the East Branch Pemigewasset River, crossing several small brooks. A suspension bridge spans the East Branch at the very start. This section can lull hikers into a slow pace; moving efficiently on the flat is essential to reaching the summits and returning before dark.\n\nAt 4.7 miles from the trailhead, the Bondcliff Trail turns left (north) and begins the climb. The trail immediately changes character — narrow, root-strewn, and rising steadily through spruce-fir forest. Multiple brook crossings occur in the first few miles of the Bondcliff Trail; water availability decreases above 3 miles on the Bondcliff Trail and is essentially nonexistent above treeline. At roughly 3 miles up the Bondcliff Trail, one reliable small brook crossing is the last water source before the summits.\n\nThe trail breaks above treeline at approximately 4,000 feet as it approaches the final ridge — the moment the wilderness opens into one of the most stunning vistas in the White Mountains. The Bondcliff summit (4,265 ft) sits on the southern end of a dramatic open cliff that drops hundreds of feet into the Pemigewasset Valley. The iconic photo of the Bonds shows a hiker standing on the jutting southern prow of Bondcliff with the entire valley spread below — this is a voluntary approach to the cliff edge, not a mandatory trail traverse, and the cliff is real and consequential. The summit cairn is set back from the most exposed section. Views from Bondcliff sweep approximately 270 degrees, dominated by the view north to Bond and West Bond across the alpine ridge, south across the Pemi valley toward Owl's Head, and west toward Franconia Ridge.\n\nThe ridge walk from Bondcliff to Mount Bond (1.2 miles) is almost entirely above treeline and among the finest ridge hikes in the eastern United States — open granite slabs, krummholz patches, wind-scoured alpine tundra, with 360-degree visibility the entire way. Mount Bond (4,698 ft) is the highest of the trio and offers an unobstructed 360-degree panorama: all of the Pemi Wilderness, the Presidential Range, Zealand and the Twin Range, Franconia Ridge, and on clear days well beyond the Whites. Bond is the 14th highest peak in New Hampshire and far exceeds the views of most NH 48 summits.\n\nWest Bond (4,540 ft) is an optional addition — 1.0 mile round trip via the West Bond Spur, accessed from the Bondcliff Trail approximately 0.5 miles northwest of Bond summit (near Guyot Campsite). The West Bond spur descends then climbs steeply to its open summit, which many hikers consider the most remote and dramatic of the three peaks. Adding West Bond makes the full route approximately 22.4 miles and 4,200 feet. Most parties doing all three Bonds in a single day carry this as an option to be decided at Bond's summit based on remaining time and energy.\n\nPrimary stats above are for Bondcliff + Bond (20.4 mi, ~3,700 ft). Bondcliff-only is 18.4 miles RT, ~3,000 ft, still fitness 5. All three Bonds: 22.4 miles RT, ~4,200 ft.\n\nBACKPACKING NOTE: The Bonds are most commonly done as a 2-day backpacking trip staying at the Guyot Campsite (a WMNF designated campsite with platforms, a shelter cabin, and a small reliable spring ~0.1 mile north of the Bond/Guyot Bondcliff Trail junction). Reservations recommended in summer. Bear canisters or bear-hang food storage are required throughout the Pemigewasset Wilderness (active WMNF requirement — verify current requirements before trip)."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "high",
+      "description": "The Bondcliff-Bond ridge has approximately 2.0 miles of continuous above-treeline terrain in the heart of the Pemigewasset Wilderness — one of the most remote above-treeline environments in New England. There is no nearby shelter and no short bailout: retreating to the Lincoln Woods trailhead from Bondcliff is 9 miles of wilderness trail. The summit ridge is fully exposed to wind, lightning, and rapidly changing conditions. Bond and Bondcliff are renowned for severe winds, which are present even on clear summer days and can become dangerous in any season. Afternoon thunderstorms in summer can arrive very rapidly given the scale of the approach.",
+      "mitigation": "Weather planning is paramount. Check the Mount Washington Observatory Higher Summits Forecast the morning of the hike and do not start up the Bondcliff Trail if instability is forecast for afternoon. The sustained flat approach means most parties reach the above-treeline ridge in early-to-mid afternoon — if this coincides with storm development, the consequences are serious. Plan to summit Bondcliff by noon on summer days; earlier is better. Carry windproof and waterproof layers even in summer — wind speeds on the open ridge can exceed 40 mph on days that feel calm in the valley. Lightning must be taken seriously on the exposed Bondcliff-Bond ridge; retreat to the trees if storms approach."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "The cliff at Bondcliff is one of the most dramatic natural features in the White Mountains. The trail passes near the edge of the cliff, and the iconic viewpoint involves approaching a jutting ledge with a drop of several hundred feet to the valley floor. Approaching the outer cliff edge for views is voluntary but commonly done; a slip or stumble at the cliff edge could be fatal. The AMC White Mountain Guide advises keeping to the east side of the ridge when visibility is poor, as the west side is an extensive run of precipice. The rocky ridge terrain between Bondcliff and Bond has large slab sections requiring attentive footing in wet or windy conditions. The final ascent of West Bond is steep and rocky.",
+      "mitigation": "Exercise deliberate caution at the Bondcliff cliff edge — enjoy the views from a stable, seated position if balance is uncertain. Do not approach the cliff edge in high winds, wet rock, or ice; the AMC guide specifically warns about keeping east of the ridge in poor visibility. The Bondcliff cliff edge is not a mandatory route feature — the summit cairn and trail continuation to Bond are set back from the most exposed ledge. On the open ridge in strong wind, move to hands and knees to lower your center of gravity if needed. West Bond's steep approach has solid footing when dry but requires care in wet or icy conditions."
+    }
+  },
+  "seasons": {
+    "recommended": ["July", "August", "September", "October"],
+    "viable_with_gear": ["June", "November"],
+    "avoid": ["December", "January", "February", "March", "April", "May"],
+    "seasonal_notes": "May and early June should be avoided: black flies are severe throughout the Pemi approach, snowpack can linger on the ridge and at higher elevations (making the above-treeline rock slippery and navigation difficult), and stream crossings can be high from snowmelt. June becomes viable as snow clears but bugs remain ferocious — head nets are essentially mandatory. July and August are peak season; the Bonds are stunning in dry summer conditions and Guyot Campsite fills on weekends. September offers the best conditions: clear skies, low bugs, reliable dry rock, and the approach-road foliage begins turning. October is outstanding for foliage views from the ridge — one of the finest fall panoramas in New England — but weather windows close faster and afternoon temperatures drop significantly. November is marginal: the ridge can be icy, weather deteriorates, and the route requires microspikes and full winter kit above treeline. Winter Bonds is a serious mountaineering undertaking reserved for experienced winter parties: the 20-mile-plus distance is extreme even on summer conditions, and in winter with deep snow, icy ridge terrain, and potential whiteout conditions the commitment is at a different level entirely. The Lincoln Woods TH is accessible year-round (Kancamagus Highway is plowed), and winter trips to the Bonds are done as backpacking expeditions with Guyot Campsite as base. Guyot Campsite in winter requires full cold-weather shelter (the lean-to shelter provides wind protection but has gaps). Verify current WMNF Pemigewasset Wilderness food storage requirements before any visit — bear canister or hang required."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "multi-peak",
+    "above-treeline-weather-exposure",
+    "fall-exposure-moderate",
+    "ridge-walk",
+    "dog-friendly",
+    "parking-fee",
+    "winter-viable",
+    "alpine-zone"
+  ],
+  "hazards": [
+    {
+      "type": "bondcliff-cliff-edge-precipice",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Bondcliff cliff is one of the most dramatic and consequential features in the White Mountains. The southern prow of Bondcliff drops hundreds of feet in a nearly vertical face. The iconic viewpoint ledge is a common photo destination but sits directly above this precipice. The AMC White Mountain Guide warns hikers to keep to the east side of the ridge in poor visibility because the west side is an extensive series of cliff edges. A slip at the outer ledge is not survivable.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "high-wind-on-open-ridge",
+      "hazard_category": "weather-and-environment",
+      "description": "The Bondcliff-Bond ridge is above treeline for approximately 2 miles and exposed to severe wind in all seasons. Wind speeds that feel manageable in the valley can exceed 50+ mph on the ridge. High winds on the open granite slabs increase fall risk, cause hypothermia even in summer, and can make forward progress difficult or impossible. The long flat approach means parties often reach the ridge in early afternoon when convective heating drives maximum wind development.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "lightning-above-treeline-no-shelter",
+      "hazard_category": "weather-and-environment",
+      "description": "The 2-mile above-treeline ridge offers no shelter during lightning events. There is no short retreat once above treeline; the nearest trees are 0.5-1.0 miles away. Afternoon convective storms develop with little warning in summer and can reach the ridge while hikers are still on the open granite. The bailout distance (9+ miles to the trailhead) means turning back from Bondcliff in a storm still leaves parties exposed for a significant period.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "remote-wilderness-long-bailout",
+      "hazard_category": "weather-and-environment",
+      "description": "The Bonds are among the most remote NH 4,000-footers. From Bondcliff summit to the Lincoln Woods trailhead is 9+ miles of wilderness trail with no cell service and no facilities. A serious injury at Bondcliff or Bond requires a multi-hour self-rescue or an overnight wait for search and rescue. Emergency response time in this area is measured in hours to days. No short bailout options exist. Carry emergency shelter and first aid supplies sized for an extended wilderness stay.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "limited-water-above-3000-feet",
+      "hazard_category": "weather-and-environment",
+      "description": "Water sources on the Bondcliff Trail above 3 miles are essentially nonexistent. The last reliable water source is a small brook approximately 3 miles up the Bondcliff Trail (well below the summit). The entire above-treeline section — from below Bondcliff through Bond and potentially to West Bond — has no water. Parties completing the full 20+ mile day with only the water carried from the last reliable source must plan carefully for total water needs.",
+      "months_active": ["June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "icy-ridge-shoulder-season",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Bondcliff-Bond ridge holds ice from October through May. Ice on the open granite slabs significantly increases fall risk, particularly near the Bondcliff cliff edge where a slip has lethal consequences. The cliff face itself accumulates rime ice in cold weather. Ridge ice is often invisible from a distance and can appear on otherwise dry-looking rock after overnight temperatures drop below freezing.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "brook-crossings-bondcliff-trail",
+      "hazard_category": "terrain-and-fall",
+      "description": "The lower Bondcliff Trail has multiple small brook crossings in the first 3 miles of the climb, some of which are not bridged. In spring snowmelt (April–June) and after heavy rain, these crossings can be difficult or impassable and represent a real turn-back condition. Wet rocks at brook crossings are slippery.",
+      "months_active": ["March", "April", "May", "June", "July"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with ankle support — the rocky upper Bondcliff Trail and ridge terrain demand secure footing over a very long day; trail runners are viable for experienced hikers",
+      "Trekking poles — essential for the 20+ mile round trip; especially valuable on the flat approach for pacing and the rocky descent",
+      "Wind layer and warm mid-layer — the exposed Bondcliff-Bond ridge generates its own weather; a wind shirt alone is insufficient in significant gusts",
+      "Waterproof rain jacket — standard White Mountains requirement; more important here given the remote no-bailout exposure",
+      "4+ liters water capacity — fill at the last reliable brook crossing (~3 miles up the Bondcliff Trail); no reliable water above that point for the remaining 6+ miles",
+      "Water filter — the brook crossings on the approach have abundant water that must be filtered",
+      "High-calorie food for 10–15 hours — the flat approach underestimates the day's total energy demands; carry more than feels necessary",
+      "Emergency shelter and bivouac kit — not optional given the remoteness and 9-mile bailout distance; at minimum a lightweight bivy or emergency blanket",
+      "Downloaded offline GPS track — cell service is nonexistent in the Pemi Wilderness; navigation aids are essential, especially if conditions deteriorate",
+      "Headlamp with fresh batteries — virtually all extended parties will be approaching or finishing the Lincoln Woods flat section in darkness"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes — mandatory for the above-treeline ridge section in any icy conditions; carry from mid-October through late May",
+      "Crampons — appropriate for serious winter conditions on the ridge; ice at the Bondcliff cliff edge with microspikes insufficient is a genuine hazard",
+      "Insulated mid-layer — the ridge in November and October can be well below freezing with severe wind",
+      "Full waterproof shell with hood — wind-driven rain or snow on the exposed ridge is a hypothermia risk"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Full crampons and ice axe — required for the icy open ridge; microspikes are insufficient in severe glaze ice near the cliff edge",
+      "Winter mountaineering layering system — the ridge is one of the most wind-exposed areas in the Pemi and temperatures can drop dramatically",
+      "This route is recommended as an overnight: day-hike distances in winter (20+ miles + potential snowshoeing on the flat approach) are beyond most parties' capability in available daylight",
+      "Snowshoes for the Lincoln Woods/Wilderness Trail approach in deep snow conditions — switch to crampons on the upper trail and ridge",
+      "Guyot Campsite available in winter: bring all food, stove, and winter sleeping system; the lean-to shelter offers wind protection but is not weathertight",
+      "Bear canister or bear-hang required in Pemi Wilderness year-round",
+      "Emergency bivouac kit and extra fuel — the remoteness in winter creates life-threatening consequences if gear fails",
+      "Leave a detailed trip plan with someone not on the hike"
+    ]
+  },
+  "trailhead": {
+    "name": "Lincoln Woods Visitor Center, Kancamagus Highway",
+    "lat": 44.0625,
+    "lon": -71.5966,
+    "parking": "Very large WMNF fee parking lot at Lincoln Woods Visitor Center, north side of the Kancamagus Highway (NH Route 112), 5.1 miles east of I-93 Exit 32. Capacity approximately 150 vehicles. America the Beautiful Pass accepted; $5/vehicle day use fee without pass. Overnight parking permitted for multi-day backpacking trips (no additional fee with WMNF pass; confirm current policy on WMNF website). Fee station staffed on summer weekends; self-pay at other times. Large lot rarely fills to overflow.",
+    "access_road": "From I-93 Exit 32 (Lincoln, NH), head east on the Kancamagus Highway (NH Route 112). Drive 5.1 miles east. Lincoln Woods Visitor Center parking is on the left (north) side of the highway, immediately after crossing the bridge over the East Branch Pemigewasset River. The trailhead is signed; the Lincoln Woods Trail begins on the north side of the parking lot at the suspension footbridge. GPS: 44.0625, -71.5966. Kancamagus Highway is open and plowed year-round.",
+    "nearest_town": "Lincoln, NH",
+    "amenities": ["Lincoln Woods Visitor Center (seasonal staffing)", "Flush restrooms at visitor center (seasonal)", "Vault toilets (year-round)", "WMNF fee station", "Trail register at suspension bridge", "Large suspension footbridge across East Branch Pemigewasset at trailhead", "Cell service at trailhead (none once in wilderness)", "Guyot Campsite at Bond/Guyot junction (~10 miles from TH): tent platforms, lean-to shelter cabin, spring water nearby — WMNF reservation recommended in summer"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Bondcliff, Mount Bond, and West Bond",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/bondcliff-mount-bond-and-west-bond"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mount Bond and Mount Guyot via Bondcliff Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-bond-and-mount-guyot-via-bondcliff-trail-and-lincoln-woods-trail"
+    },
+    {
+      "type": "official-trail-page",
+      "label": "WMNF — Pemigewasset Wilderness trails and regulations",
+      "url": "https://www.fs.usda.gov/recarea/whitemountain/recarea/?recid=74769"
+    },
+    {
+      "type": "trip-report",
+      "label": "NH48.info — Bondcliff hike guide, routes, and photos",
+      "url": "https://nh48.info/peak/bondcliff"
+    },
+    {
+      "type": "trip-report",
+      "label": "Trail to Summit — Hike Mount Bond, Bondcliff, and West Bond",
+      "url": "https://www.trailtosummit.com/bonds/"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory — Higher Summits Forecast",
+      "url": "https://mountwashington.org/weather/higher-summits-forecast/"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mountain Forecast — Mount Bond",
+      "url": "https://www.mountain-forecast.com/peaks/Mount-Bond/forecasts/1430"
+    },
+    {
+      "type": "summit-conditions",
+      "label": "NH48.info — Current conditions and alerts",
+      "url": "https://nh48.info/projects/alerts-news"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "zealand-guyot-zealand-trail-twinway",
+      "galehead-gale-river",
+      "owls-head-lincoln-brook"
+    ],
+    "leads_naturally_to": [
+      "mt-carrigain-signal-ridge",
+      "mt-garfield-garfield-ridge"
+    ],
+    "progression_notes": "The Bonds represent a step-change in commitment from most NH 48 hikes — not because of technical difficulty (the route has no scrambling), but because of the sustained distance, remoteness, absence of any rescue infrastructure, and the genuine above-treeline weather exposure on a 2-mile open ridge. Hikers who have done the Zealand approach (similar railroad-grade flat approach, AMC hut for bailout/resupply, Guyot as an open summit) are well-positioned to understand the fitness demand, but should recognize that the Bonds remove all the bailout infrastructure Zealand provides. Owl's Head via Lincoln Brook (another long flat approach in the Pemi) teaches the pacing discipline the flat approach demands. Having done a genuine above-treeline day hike in variable conditions — Franconia Ridge, the Presidentials, Moosilauke — is important preparation for the exposure at Bondcliff and Bond. The Bonds are best done as a backpacking trip for most hikers: staying at Guyot Campsite allows leisurely exploration of all three peaks, sunrise from Bond's summit (one of the finest vistas in New England), and a relaxed return. As a day hike, this is firmly in 'very hard experienced' territory — most guidebooks recommend 12+ hours and an alpine start (pre-dawn departure) for day-hike parties. Mt. Carrigain (Signal Ridge Trail) and Garfield Ridge share the Bonds' character of long approaches, open summits, and Pemi Wilderness remoteness, and are the natural next objectives for hikers who found this route rewarding."
+  },
+  "response_hints": {
+    "beginner_framing": "The Bonds (Bondcliff, Mount Bond, and West Bond) are three of the most celebrated peaks in the White Mountains, but they come at a real cost: the shortest round trip to reach any of them is about 18 miles. It is not a technical hike — no ladders, ropes, or required scrambling — but the distance and remoteness put it well beyond most beginner hikes. Here's what makes it worth it: the first 4.7 miles are completely flat on an old railroad bed through beautiful forest, crossing a suspension bridge over the Pemigewasset River at the start. Then comes a long climb on the Bondcliff Trail through wilderness forest. Near the top, the trees suddenly give way to open granite ridge — and you're looking at one of the most spectacular views in the eastern United States. Bondcliff has an iconic cliff edge that drops hundreds of feet into the valley; Mount Bond has a full 360-degree panorama from its open summit; and West Bond (a 1-mile round trip spur, optional) may be the most dramatic of the three. Critical planning notes: bring more than 4 liters of water (the last water on the trail is miles before the summit), start as early as possible (pre-dawn for a day hike), and check weather the morning of. The hike is best done as a 2-day backpacking trip staying at Guyot Campsite near Bond, which makes the summits leisurely instead of a race against daylight.",
+    "expert_framing": "Classic Pemi Wilderness three-summit day: Lincoln Woods TH (44.0625, -71.5966) → 4.7 mi flat on Lincoln Woods/Wilderness Trail (railroad grade) → Bondcliff Trail → Bondcliff (4,265 ft, 9.2 mi one-way) → Bond (4,698 ft, 10.2 mi one-way) → optional West Bond (4,540 ft via 0.5 mi spur, ~11.2 mi one-way). Primary stats Bondcliff + Bond: 20.4 mi RT, 3,700 ft, fitness 5, technical 2, very hard. All three Bonds: ~22.4 mi, ~4,200 ft. Above treeline: ~2.0 mi (open Bondcliff-Bond ridge). Weather: high — 2 mi exposed ridge, no shelter, 9-mi bailout to TH. Fall risk: moderate — Bondcliff cliff edge (AMC guide: keep east of ridge in poor vis); large slab on wet/icy conditions. Last reliable water: ~3 mi up Bondcliff Trail; carry 4+ L. No cell service. Guyot Campsite (WMNF, reservation recommended) at Bond/Guyot junction; lean-to + platforms + spring. Bear canister/hang required in Pemi Wilderness (WMNF active requirement). Lincoln Woods lot open and plowed year-round. Check MWOBS Higher Summits Forecast morning of.",
+    "safety_callout": "Weather must be checked the morning of the hike, not the day before — the Bondcliff-Bond ridge has 2 miles of exposed above-treeline terrain with no shelter and a 9-mile retreat to the trailhead. Plan to summit Bondcliff by noon. At the Bondcliff cliff edge, the drop is lethal — sit down or move back from the outer ledge if winds are strong or rock is wet. Carry at least 4 liters of water: the last reliable source is miles below the summit and there is nothing above it. This is one of the most remote day hikes in New England; leave a trip plan with someone before you go. Bring a headlamp regardless of planned return time — most parties will use it."
+  }
+}

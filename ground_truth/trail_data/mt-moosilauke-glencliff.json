@@ -1,0 +1,163 @@
+{
+  "id": "mt-moosilauke-glencliff",
+  "name": "Mt. Moosilauke via Glencliff Trail (AT)",
+  "peaks": [
+    {
+      "name": "Mt. Moosilauke",
+      "elevation_ft": 4802,
+      "is_4k_footer": true
+    },
+    {
+      "name": "South Peak",
+      "elevation_ft": 4523,
+      "is_4k_footer": false
+    }
+  ],
+  "region": "Kinsman Ridge",
+  "stats": {
+    "distance_rt_miles": 7.8,
+    "elevation_gain_ft": 3333,
+    "highest_point_ft": 4802,
+    "above_treeline_miles": 0.7,
+    "typical_time_hrs": {
+      "beginner": 7.5,
+      "average": 6.0,
+      "experienced": 4.5
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "The Glencliff Trail is the southern Appalachian Trail approach to Mt. Moosilauke — the route that greets northbound AT thru-hikers at their first NH 4K summit. It covers 7.8 miles round trip with 3,333 feet of gain. The hike begins on an old farming road skirting fields at the base of the mountain, crossing a small brook before entering the woods at the junction with the Hurricane Trail. The first two miles ascend gradually through forest with a fair amount of flat hiking, making this approach more accessible at the start than the Beaver Brook Trail. After the initial gradual section the trail turns directly up the slope, becoming steep and rooted with rocky terrain on the upper mountain. The Glencliff Trail ends at a col between the South Peak and the main summit, where a 0.02-mile spur leads to South Peak (4,523 ft) — worth the short detour for a preview of the exposed ridge ahead. The final push follows the Carriage Road (AT) northward along a gradual conifer-lined corridor before breaking out of the trees for approximately 0.7 miles of open alpine ridge walking to the 4,802-foot summit. The summit is an expansive open rock platform with 360-degree views of the White Mountains, Vermont's Green Mountains, and beyond. Three separate trails converge at the summit; in poor visibility careful attention to cairns and trail signs is essential. The primary hazard is not fall terrain but weather: the summit is among the most wind-exposed points in the western White Mountains, and the 0.7-mile above-treeline approach gives meaningful commitment once weather deteriorates. No fixed aids, iron rungs, or cliff-consequence scrambling anywhere on the route."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "high",
+      "description": "Mt. Moosilauke's 4,802-foot summit is an open alpine plateau with no shelter — one of the most weather-exposed peaks in the western White Mountains. The Glencliff approach commits hikers to approximately 0.7 miles of above-treeline ridge walking from the Carriage Road treeline break to the summit. Once above the trees, conditions can deteriorate rapidly and the ridge offers no windbreak. The summit regularly generates violent wind gusts and cloud envelopment independent of valley weather. The NortheastHikes description explicitly notes the summit 'can be both spectacular and sinister depending on the fickle whims of Mother Nature.' Three trails converge at the summit; when the mountain is in cloud hikers should strongly consider turning back at treeline as route-finding errors are easy on the open cone. The above-treeline exposure on the Glencliff approach (0.7 miles) is greater than on the Beaver Brook approach (0.5 miles), making this route more committed once above treeline.",
+      "mitigation": "Check the Mt. Washington Observatory Higher Summits Forecast — it covers the Moosilauke region despite the peak being to the west. Start early enough to summit before noon in summer thunderstorm season. Above treeline, wind speed and cloud conditions are the go/no-go factor; turn back at treeline if the summit is socked in or wind is extreme. Carry full wind-and-rain shell and warm layers even on clear mornings — Moosilauke's weather is notoriously fast-changing. Note which trail you ascended before leaving treeline to avoid route-finding confusion at the summit."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Glencliff Trail has no iron rungs, fixed aids, waterfall gorge, or cliff-consequence terrain. The upper trail is steep with roots, rocks, and some stepped rock sections, but nowhere is there a defined vertical drop that would cause a serious fall if footing is lost. The Carriage Road above the Glencliff junction traverses open rocky terrain with good footing in dry conditions. The most significant fall hazard is slipping on icy or snow-covered rock on the upper mountain or at the summit in late season — a sliding fall on snow or ice could cause injury but the terrain does not feature the 30+ foot drops present on Beaver Brook. This route is substantially less technical than the Beaver Brook approach.",
+      "mitigation": "Standard hiking boots with adequate grip are appropriate in three-season dry conditions. Trekking poles are helpful on the steep rooted upper section of the Glencliff Trail. In icy conditions microspikes are required on the Carriage Road and summit cone. Exercise normal care on wet rock — the roots and rocks on the steep upper Glencliff section are slippery when wet."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "Moosilauke via the Glencliff Trail is a classic three-season objective with outstanding fall views. The gradual lower section of the trail makes the early miles accessible and pleasant; the upper mountain and summit demand full weather readiness regardless of season. Summer and early fall (July through October) are the prime months — the open summit delivers 360-degree panoramas in clear conditions, and the South Peak spur rewards those who take the short detour. The summit can be cold, windy, and wet even in July; carry more layers than the trailhead conditions suggest. Fall foliage from the open summit and South Peak is exceptional in late September and early October. The summit ices by November and the upper mountain accumulates significant snow by December; winter ascents of this route are popular with fit parties who bring full cold-weather kit, but the 0.7-mile above-treeline section and extreme summit winds demand expedition-level preparation. Microspikes are required from roughly late October through May on the upper trail; crampons are better suited to the icy summit cone in full winter. Spring (April–May) has ice on the upper mountain and mud on the lower trail; snow lingers on the summit well into May. The lower farming-road section of the trail can be very muddy in spring. A popular winter route among AT section hikers who know this mountain; conditions on the summit in winter can approach those on the Presidential Range."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "above-treeline-weather-exposure",
+    "alpine-zone",
+    "ridge-walk",
+    "dog-friendly",
+    "winter-viable",
+    "parking-fee"
+  ],
+  "hazards": [
+    {
+      "type": "alpine-weather-and-wind",
+      "hazard_category": "weather-and-environment",
+      "description": "The Moosilauke summit plateau at 4,802 ft is one of the most wind-battered exposed summits in the western White Mountains. The Glencliff approach reaches above treeline approximately 0.7 miles before the summit, giving meaningful commitment to weather once hikers leave the tree cover on the Carriage Road. Conditions on the open summit can be dramatically more severe than at the trailhead — violent gusts, driving rain, dense fog, and temperatures 20–30°F colder than the valley are all possible even on ostensibly fair days. The summit is described by multiple sources as 'spectacular and sinister' depending on conditions. Fast-moving weather systems from the west give little warning and can cap the summit in minutes. Alpine weather exposure and time above treeline on this route exceed that of the Beaver Brook approach.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "ice-and-snow-upper-mountain",
+      "hazard_category": "weather-and-environment",
+      "description": "The upper Glencliff Trail, Carriage Road, and summit cone accumulate ice and snow from late October through May. The article describing a winter ascent explicitly recommends swapping snowshoes for traction devices at treeline on the Carriage Road. The open summit plateau is scoured by wind, leaving patches of wind-compacted ice on the rocky cone. The steep upper section of the Glencliff Trail (below the Glencliff–Carriage Road junction) can hold ice on the north-facing rooted terrain into late spring. Snowshoeing is appropriate for the lower and middle sections of the trail in winter, but traction devices (microspikes or crampons) are better suited to the icy summit cone.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "navigation-summit-trail-convergence",
+      "hazard_category": "weather-and-environment",
+      "description": "Three trails converge at the Mt. Moosilauke summit: the Carriage Road/AT arriving from the south (Glencliff), the Beaver Brook Trail descending north toward Kinsman Notch, and the Gorge Brook Trail descending east toward the Ravine Lodge. In clear conditions the summit layout is straightforward with good cairning and signage. In cloud, fog, or blowing snow the featureless open rock cone makes it easy to depart on the wrong trail. Hikers who ascend via the Glencliff Trail are at risk of inadvertently descending via the Beaver Brook Trail (which requires iron rungs over a waterfall gorge and exit at a different road) or the Gorge Brook Trail (which exits miles away at the DOC Ravine Lodge). The NortheastHikes winter account explicitly cautions: 'three trails converge on the summit and it would be easy to get mixed up in low visibility.'",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "steep-roots-and-rocky-upper-trail",
+      "hazard_category": "terrain-and-fall",
+      "description": "The upper section of the Glencliff Trail (roughly the final mile before the Carriage Road junction) turns steep and features exposed roots, rocks, and uneven footing. This is not cliff-consequence terrain — there are no defined drops or scrambles requiring hands — but a slip on wet or icy roots and rocks on the steep pitch can result in a tumbling fall with injury potential. The terrain is standard steep NH mountain hiking but demands careful foot placement, especially on descent when quadriceps fatigue increases the risk of catching a toe on roots. In wet conditions the rooted and rocky sections become significantly more slippery.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with adequate traction — the rooted upper trail and open rocky summit cone both benefit from real boot support over trail runners",
+      "Trekking poles (recommended for the steep rooted upper section and rocky summit approach)",
+      "Full wind-and-rain shell — the summit is almost always windier and colder than the trailhead; a light rain shell is insufficient",
+      "Extra insulating layer for the summit (fleece or down jacket minimum) — 4,802 ft with consistent wind makes the summit cold even in summer",
+      "2 liters water (no reliable water sources on the upper trail; small brook at the lower section only)",
+      "Summit weather layering: gloves and hat even in July; the open plateau amplifies wind chill",
+      "Note which trail you came up — three trails converge at summit; verify signs before descending",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required on upper trail and summit cone from late October through May)",
+      "Gaiters for wet/muddy lower farm-road section (spring) or for snow on upper trail",
+      "Warmer insulation — the summit in shoulder season with wind can feel like full winter",
+      "Balaclava or neck gaiter for summit wind"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Snowshoes for lower and mid-mountain travel; switch to traction devices (microspikes or crampons) at treeline on the Carriage Road",
+      "Crampons for the icy summit cone in full winter — the wind-scoured rock ice exceeds what microspikes handle well",
+      "Full expedition-weight insulation system — the 0.7-mile above-treeline traverse and bare summit have Presidential Range-level wind and cold",
+      "Balaclava and expedition gloves; goggles if wind is forecast",
+      "Face protection — the summit is one of the windiest non-Presidential peaks in NH",
+      "Emergency bivy or survival blanket — the open alpine summit has no shelter",
+      "Pre-identify all three summit trails and carry topo or downloaded GPS track before departure"
+    ]
+  },
+  "trailhead": {
+    "name": "Glencliff Trailhead — High Street, Glencliff (Warren), NH",
+    "lat": 44.0267,
+    "lon": -71.9466,
+    "parking": "Dedicated WMNF parking lot on the right side of High Street, approximately 1.2 miles from the Route 25 turnoff in Glencliff Village. WMNF recreational pass ($5/day or America the Beautiful) required. Vault toilet on site. Lot capacity approximately 20–25 vehicles; can fill on peak-season weekends — arrive by 8am.",
+    "access_road": "From I-93, take Exit 26 (Plymouth) and follow NH Route 25 north and west toward Warren and Glencliff. In Glencliff Village, turn right onto High Street (sign may be missing — it's on a corner just before a church). Follow High Street 1.2 miles to the trailhead parking lot on the right. GPS destination: 'Glencliff Trail, Warren NH' or use coordinates. Note: the Moosilauke Ravine Lodge (Dartmouth Outing Club) is on the opposite side of the mountain off NH Route 118 — do not confuse with the Glencliff Trailhead. From North Conway: take NH Route 112 (Kancamagus) west to I-93, south to Exit 26, then Route 25 west.",
+    "nearest_town": "Warren, NH",
+    "amenities": ["Vault toilet", "WMNF pass required"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "USFS White Mountain NF — Glencliff Trailhead",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/glencliff-trailhead",
+      "notes": "Official WMNF trailhead page — parking, facilities, Pemigewasset Ranger District advisories; the Moosilauke area is managed by the Pemigewasset Ranger District"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mount Moosilauke via Glencliff Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-moosilauke-via-glencliff-trail",
+      "notes": "Current conditions, user-reported trail state, GPS track, parking notes; high review volume makes this the best source for real-time summit conditions"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory — Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "Primary weather resource for the Moosilauke summit; the forecast covers the western White Mountains region including Moosilauke and captures the fast-moving weather systems that make the open summit hazardous"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-moosilauke-beaver-brook",
+      "mt-flume-liberty-flume-liberty-loop"
+    ],
+    "leads_naturally_to": [
+      "mt-garfield-garfield-trail",
+      "north-south-kinsman-kinsman-ridge"
+    ],
+    "progression_notes": "The Glencliff Trail is the more gradual and less technically demanding of the two AT approaches to Moosilauke, making it an excellent first visit to this mountain for hikers building toward sustained above-treeline routes. It introduces the character of an exposed high alpine summit — extended time above treeline, cairn navigation, weather commitment, multi-trail summit convergence — without the iron-rung technical hazard of the Beaver Brook approach. Hikers who have done the Beaver Brook Trail and return via Glencliff complete the classic AT traverse (shuttle required); this out-and-back version is the appropriate standalone objective. The key skill this route builds is alpine weather management on a sustained ridge: 0.7 miles above treeline is long enough to get caught in deteriorating conditions, making this a genuine test of go/no-go decision-making. Moosilauke is often described as the best introduction to Presidential-scale conditions in the western Whites; the Glencliff approach is the right way to arrive at that mountain for the first time."
+  },
+  "response_hints": {
+    "beginner_framing": "The Glencliff Trail is the southern AT approach to Mt. Moosilauke — the mountain that greets northbound AT thru-hikers when they enter New Hampshire. It's 7.8 miles round trip with 3,333 feet of gain. The hike starts on an old farm road through fields (scenic and gradual), then climbs forested terrain to a col where you can take a short 0.02-mile spur to South Peak (4,523 ft) for a preview of the views ahead. From there the Carriage Road trail leads up through conifers and then breaks into the open for the final 0.7 miles to the 4,802-foot summit — a wide open rock plateau with views in every direction. The key thing to know: once you're above the trees, you're committed to an exposed alpine summit. The weather can change fast and the summit is consistently windy and cold even in summer. Carry more layers than you think you need, check the forecast carefully, and plan to summit early in the day. This is a less technical route than the Beaver Brook Trail — no iron rungs or waterfall exposure — but the summit conditions are equally serious regardless of which trail you take.",
+    "expert_framing": "The Glencliff–Carriage Road is the standard non-technical AT approach to Moosilauke, appropriate for all seasons with proper gear. Compared to Beaver Brook: significantly less technical (no iron rungs, no gorge), but more above-treeline exposure (0.7 miles vs 0.5), which makes this the higher weather-commitment route of the two. The 0.7-mile above-treeline Carriage Road traverse is particularly serious in winter given the summit's exposure to sustained high-altitude west winds — NE winter winds can be Presidential-scale here. The three-trail summit convergence is a genuine navigation hazard in low visibility; worth briefing your party on which trail to take down before leaving treeline. South Peak (4,523 ft, 0.02-mile spur) is above treeline and delivers an outstanding view of the summit cone and ridge ahead — worth the 2 minutes on every visit. Classic NH winter objective for teams with crampons and full cold kit; the gradual lower sections allow efficient snowshoe travel while the wind-scoured summit cone rewards traction switching at treeline. AT section hikers often traverse Moosilauke Beaver Brook northbound → Glencliff southbound (or reverse) as a full mountain traverse requiring a car shuttle.",
+    "safety_callout": "The defining hazard on this route is weather on the summit and approach ridge, not technical terrain. The Moosilauke summit is a wide open 4,802-foot plateau exposed to west and northwest winds with no shelter — it can be violent and disorienting in bad conditions. The 0.7-mile above-treeline commitment on the Carriage Road means you cannot quickly retreat to tree cover if weather closes in. Make a genuine go/no-go decision at treeline: if the summit is in cloud or wind is extreme, the mountain will still be there on a better day. Secondary hazard: three trails converge at the summit — note which trail you ascended before leaving treeline so you don't inadvertently descend via the Beaver Brook Trail (which has iron rungs over a waterfall gorge and exits at a different road). Carry and know how to use a map or downloaded GPS track. In all seasons, pack for summit conditions that are substantially colder and windier than the trailhead."
+  }
+}

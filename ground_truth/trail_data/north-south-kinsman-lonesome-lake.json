@@ -1,0 +1,172 @@
+{
+  "id": "north-south-kinsman-lonesome-lake",
+  "name": "North and South Kinsman via Lonesome Lake, Fishin' Jimmy, and Kinsman Ridge Trails",
+  "peaks": [
+    {
+      "name": "North Kinsman",
+      "elevation_ft": 4293,
+      "is_4k_footer": true
+    },
+    {
+      "name": "South Kinsman",
+      "elevation_ft": 4358,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Kinsman Ridge",
+  "stats": {
+    "distance_rt_miles": 10.0,
+    "elevation_gain_ft": 3550,
+    "highest_point_ft": 4358,
+    "above_treeline_miles": 0.2,
+    "typical_time_hrs": {
+      "beginner": 8.0,
+      "average": 6.75,
+      "experienced": 5.5
+    }
+  },
+  "difficulty": {
+    "fitness": 5,
+    "technical": 3,
+    "overall_label": "very hard",
+    "notes": "North and South Kinsman are two of the western-most 4,000-footers in the White Mountains, and this standard approach from Lafayette Place Campground via the Lonesome Lake, Fishin' Jimmy, and Kinsman Ridge Trails is a full-commitment day — 10 miles round trip and 3,550 feet of gain over terrain that is consistently rough. The route begins gently on the Lonesome Lake Trail, an old bridle path with long switchbacks that offers a relatively easy first 1.5 miles to Lonesome Lake Hut (elevation ~2,734 ft). The hut provides water, food, and restrooms — a genuine mid-route resource. From the hut the character changes on the Fishin' Jimmy Trail, which is steep and rough in sections with wooden steps and carved stone aids on the steeper ledge sections. The trail includes several minor descents before an intense climbing section, followed by a more gradual stretch to the Kinsman Pond Campsite (elevation ~3,740 ft, 3.5 miles from the trailhead). The campsite at Kinsman Pond marks the transition to the Kinsman Ridge Trail, which climbs steeply over ledges and genuine rock scrambles to the unmarked summit of North Kinsman (4,293 ft) at approximately 4.1 miles. A lookout just before the true North Kinsman summit provides a spectacular view down to Kinsman Pond, and a short side path offers views of Franconia Ridge to the east. The one-mile traverse between North and South Kinsman on the Kinsman Ridge Trail is the roughest section of the route — rocky, scrubby, and steep in places with continued rock scrambling. bmhatfield notes explicitly that 'the going along the Kinsman Ridge Trail is very rough, this trip is considerably more strenuous than the numbers might indicate.' South Kinsman (4,358 ft) at approximately 5 miles is the higher and more rewarding summit: wide open with 360-degree views, exposed to weather from all sides, with panoramic sightlines including Franconia Ridge, Loon Mountain, and the Kinsman Range. Descent returns over North Kinsman and back down Fishin' Jimmy and the Lonesome Lake Trail. A loop variation (11.2 miles) descends via the Kinsman Pond Trail instead of reversing the Fishin' Jimmy Trail, adding 1.3 miles but providing varied terrain and excellent views of the pond from below. Technical demands center on the Kinsman Ridge Trail above Kinsman Pond — rock scrambling sections requiring use of hands, steep ledge traversals, and a large proportion of exposed slab that becomes extremely slippery in wet conditions."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "low",
+      "description": "The vast majority of this route travels through forested terrain well below natural treeline. South Kinsman's summit at 4,358 feet is an exception: it is wide open, takes weather from all sides, and has minimal shelter — 'the rocks at the summit are either small or flat ledge, so they don't offer a wind block like some of the higher alpine peaks' (trip report). This is genuine weather exposure but it is brief — the open summit of South Kinsman is compact and the route does not traverse an extended alpine ridge the way Franconia Ridge or the Presidential Range does. The exposed time at or near South Kinsman's summit is typically 20–30 minutes for most hikers. North Kinsman (4,293 ft) is wooded with limited summit views and no significant weather exposure. The rating of 'low' reflects real but brief summit exposure on South Kinsman rather than extended above-treeline commitment.",
+      "mitigation": "Check the South Kinsman summit forecast before departure — not just the valley forecast, as summit conditions can diverge sharply in spring and fall. The brief open summit of South Kinsman is particularly exposed in wind and thunderstorms: plan to reach the summit in the morning before afternoon storm buildup typical of summer, and be prepared to move off quickly if weather deteriorates. Carry a wind and rain shell regardless of the morning forecast. The Kinsman Pond Campsite and Lonesome Lake Hut both provide emergency shelter options mid-route in deteriorating conditions, and the long return via forested trail makes a weather turnaround practical."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "The Kinsman Ridge Trail above Kinsman Pond and the traverse between North and South Kinsman involve genuine rock scrambles requiring use of hands on steep ledge sections. Multiple trip reports independently confirm the need to use hands on steeper ledge pitches, and one hiker noted having to lower her dog in two spots on the descent. The ledge character is pervasive: 'a large portion of the trail is ledge — very slippery when wet.' The scrambles are not cliff-edge in the sense of a single wrong step meaning a fatal fall, but steep ledge sections with drop potential and rocky landings below are present between Kinsman Pond and North Kinsman, and in the col between peaks. The Fishin' Jimmy Trail's carved stone steps indicate the steepness of this section. Fall risk is 'moderate' rather than 'high' because the drops are consequential but not 800-foot cliff-edge consequences — the concern is a hard fall on steep rock or a ledge section, injury-likely rather than fatality-certain. Wet conditions substantially increase risk across all ledge sections on this route.",
+      "mitigation": "Avoid this route when the rock is wet — the ledge proportion is high enough that wet conditions fundamentally change the character of the hike from strenuous-but-manageable to genuinely hazardous. Check forecasts and ideally hike the day after a clear dry period. On the Kinsman Ridge Trail above Kinsman Pond, move deliberately through the scramble sections: choose three points of contact on steep ledge, test holds before weighting them, and descend the steep sections facing into the rock rather than facing outward. Trekking poles are very useful on the forested sections but should be stowed when scrambling on the steeper ledge pitches — poles impede safe three-point contact. Dogs with large pads do this trail with care but paw pad wear on the ledge is a known issue; dog owners should carry paw protection and plan for a slow descent."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["May", "November"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "North and South Kinsman reward clear-day visits — South Kinsman's open summit has panoramic views that are the payoff for a long approach, and cloud or rain substantially diminishes the experience while also making the ledge sections significantly more hazardous. Summer (June–September) is the primary season; the Lonesome Lake Hut is open from mid-May through Columbus Day weekend, making this one of the few longer hikes in the region where water and food resupply is available on the approach. Kinsman Pond Campsite (first-come, first-served, fee charged) is a viable option for breaking this into an overnight. June and early July bring moderate insect pressure on the forested lower sections. Late September and October are exceptional for foliage — the elevated position and 360-degree summit views of South Kinsman provide a dramatic foliage vantage point. May is viable with microspikes for icy ledges and may involve seasonal mud on the lower trail; high water in the brook crossings near Lonesome Lake can be an issue in snowmelt season. Winter (December through March) is not recommended for most hikers: the Fishin' Jimmy Trail and Kinsman Ridge Trail scramble sections become severely icy and require crampons and ice axe skills; the long approach (10 miles round trip) creates serious daylight and weather exposure concerns; and the open summit of South Kinsman is fully arctic in winter wind. Lafayette Place Campground parking is closed in winter (unlike the Cannon Mountain tramway lot), complicating access — confirm parking availability at the state park for off-season visits. Winter should only be attempted by experienced winter mountaineers in a party of at least two."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "multi-peak",
+    "scrambling",
+    "fall-exposure-moderate",
+    "above-treeline-weather-exposure",
+    "alpine-zone",
+    "hut-access",
+    "ridge-walk",
+    "dog-friendly",
+    "parking-fee",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "steep-ledge-scrambles-kinsman-ridge-trail",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Kinsman Ridge Trail above Kinsman Pond and the col between North and South Kinsman involve steep ledge sections requiring use of hands. The col traverse is described as 'rocky, scrubby, and steep in parts with rock scrambling.' A large proportion of the trail above the campsite is bare ledge — excellent in dry conditions but 'very slippery when wet.' Descent is the most hazardous phase: the steep downhill ledge traversals with tired legs demand full attention, and at least two spots on the descent require careful lowering technique. Falls on these sections can result in hard tumbles on rocky surfaces.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "wet-ledge-hazard-throughout-route",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Fishin' Jimmy Trail and Kinsman Ridge Trail involve extensive ledge walking that becomes extremely slippery when wet. Unlike trails where the ledge sections are brief or isolated, a large proportion of this route above Kinsman Pond is on exposed slab. Rain or persistent moisture transforms the difficulty level significantly — what is challenging in dry conditions becomes genuinely dangerous in wet conditions. Dew, fog, or a recent rain shower can leave the ledge dangerously slick for hours after precipitation ends.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "south-kinsman-summit-weather-exposure",
+      "hazard_category": "weather-and-environment",
+      "description": "South Kinsman's summit is wide open, compact, and fully exposed to weather from all sides. There is no overhead shelter and the low flat rocks provide no wind break. Thunderstorms in summer reach this exposed summit with minimal warning — the approach via the forested Fishin' Jimmy and Kinsman Ridge Trails provides no storm warning until hikers emerge onto the summit plateau. The summit is compact enough that retreat to tree cover is fast, but hikers absorbed in summit views can be caught in rapidly deteriorating conditions.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "long-approach-and-return-fatigue",
+      "hazard_category": "terrain-and-fall",
+      "description": "At 10 miles round trip with 3,550 feet of gain over rough terrain, the Kinsmans demand careful energy management. The route to South Kinsman involves positive and negative elevation changes on the Fishin' Jimmy Trail (several minor descents before the major climb) and on the col traverse. Hikers who burn hard on the ascent often arrive at South Kinsman fatigued and face a long technical descent with tired legs — the state when most falls occur. The Kinsman Pond Campsite at 3.5 miles OW is an important energy-check point: if a hiker is already exhausted there, continuing to the summit and returning safely is questionable.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with ankle support and good lug tread — the extensive ledge on Kinsman Ridge Trail demands substantial grip; trail runners are not recommended on the upper sections",
+      "Trekking poles (stow during ledge scrambles; invaluable on forested approach and descent)",
+      "2.0 liters water minimum — carry at least 1.5 L from the trailhead since Lonesome Lake Hut (1.5 miles) is the first reliable water; refill there for the upper mountain",
+      "Food for a full day: 6–8 hours on trail at full effort; pack more than you think you need",
+      "Wind shell and rain layer — South Kinsman summit is fully exposed and weather can shift quickly",
+      "Standard 10 essentials",
+      "Navigation (map and compass or downloaded trail) — the junction at Kinsman Pond and the unmarked North Kinsman summit can be confusing in poor visibility"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (carry from October through May; the ledge sections ice quickly and microspikes are the difference between a safe hike and a dangerous one in shoulder season)",
+      "Insulating mid-layer (South Kinsman summit is cold in shoulder season wind; the long forested approach can trick hikers into under-dressing)",
+      "Gaiters for spring mud and snowmelt conditions on the lower trail"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Crampons — full crampons recommended for the Kinsman Ridge Trail scramble sections in icy conditions; microspikes alone may be inadequate on steep icy ledge",
+      "Ice axe — the sustained steep terrain and icy ledge sections on Fishin' Jimmy and Kinsman Ridge Trails warrant carrying an ice axe in full winter conditions",
+      "Full cold-weather layering with particular attention to the South Kinsman summit exposure",
+      "Snowshoes for deep snow on the approach (lower trail and Fishin' Jimmy may require snowshoes while upper sections are icy and require crampons — carry both)",
+      "Headlamp with extra batteries — the long route in short winter days makes an early start mandatory and descent in the dark a real possibility",
+      "Confirm Lafayette Place parking availability before the trip — the campground parking lot may be closed or restricted in winter"
+    ]
+  },
+  "trailhead": {
+    "name": "Lafayette Place Campground, Franconia Notch State Park",
+    "lat": 44.1431,
+    "lon": -71.6844,
+    "parking": "Franconia Notch State Park day-use parking at Lafayette Place Campground. State park fee applies; no WMNF Recreational Pass required. Two parking areas on opposite sides of I-93 / Franconia Notch Parkway connected by a foot tunnel. The Lonesome Lake Trail begins on the west side of the parkway at the southern end of the camping area. The parking areas are large and typically have capacity, though they fill on summer weekends. Confirm winter parking availability before visiting — the campground may close its lots off-season.",
+    "access_road": "From I-93 northbound: take Exit 34A (Lafayette Place Campground / Franconia Notch State Park). The campground and parking are well-signed directly off the exit ramp. From I-93 southbound: take Exit 34B and follow the Franconia Notch Parkway south to the Lafayette Place area. GPS: 'Lafayette Place Campground, Franconia NH' or use coordinates 44.1431, -71.6844. The Lonesome Lake Trail starts from the west side parking area.",
+    "nearest_town": "Franconia, NH",
+    "amenities": ["Restrooms at campground", "AMC Lonesome Lake Hut on route at 1.5 miles OW (water, food, bathroom — open mid-May through Columbus Day)", "Kinsman Pond Campsite at 3.5 miles OW (AMC site, fee, first-come first-served, limited tentsites)", "State park fee required", "Bike path / recreational trail connecting to other Franconia Notch trailheads"]
+  },
+  "amc_hut": "Lonesome Lake Hut",
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "Franconia Notch State Park — Lafayette Place and Lonesome Lake",
+      "url": "https://www.nhstateparks.org/visit/state-parks/franconia-notch-state-park"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — North and South Kinsman via Lonesome Lake and Fishin' Jimmy",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/north-kinsman-and-south-kinsman-trail-via-lonesome-lake-and-appalachian-trail"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "NWS Point Forecast — South Kinsman summit",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=44.12266&lon=-71.73533&site=gyx&smap=1&unit=0&lg=en&FcstType=text"
+    },
+    {
+      "type": "trip-report",
+      "label": "bmhatfield — Kinsman Ridge routes summary",
+      "url": "https://bmhatfield.github.io/white-mountains/kinsman.html#Kinsmans"
+    },
+    {
+      "type": "official-trail-page",
+      "label": "AMC Lonesome Lake Hut — info and reservations",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/lonesome-lake-hut/"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "cannon-mountain-kinsman-ridge",
+      "mt-moosilauke-glencliff",
+      "mt-tom-ethan-pond-willey-range"
+    ],
+    "leads_naturally_to": [
+      "north-south-kinsman-cannon-triple",
+      "franconia-ridge-loop-lafayette-lincoln"
+    ],
+    "progression_notes": "North and South Kinsman are a natural step up from single-peak objectives in the 7–8 mile range and represent a meaningful introduction to multi-peak rough-ridge travel in the White Mountains. The route's mix of terrain — a gentle hut approach, a demanding forested climb on Fishin' Jimmy, genuine rock scrambles on the Kinsman Ridge Trail, and an open exposed summit on South Kinsman — gives hikers a complete survey of what longer White Mountain days demand. The hut on the approach makes it more forgiving than routes with no water or shelter options: if conditions deteriorate or energy flags, Lonesome Lake Hut is a realistic turnaround or shelter point. The Kinsmans are frequently compared to the Hancocks (another Pemi-area double-bagger) as a mid-difficulty two-peak day, though the Kinsmans involve significantly more technical terrain. Cannon Mountain (4.0 miles RT, 2,100 ft) makes a logical buildup via the Kinsman Ridge Trail — hikers who have done Cannon from the tramway lot are already familiar with the character of the Kinsman Ridge Trail above the treeline. The natural upgrade from the Kinsmans is Franconia Ridge (Lafayette-Lincoln loop), which provides a similar multi-peak ridge experience but with extended above-treeline exposure and greater weather commitment. The triple objective of Kinsmans + Cannon in one day (13.0 miles, 4,700 ft) is a documented hard day for strong hikers but requires a very early start and good conditions."
+  },
+  "response_hints": {
+    "beginner_framing": "North and South Kinsman are two 4,000-foot peaks connected by a rough rocky ridge, reached via a scenic route that passes a gorgeous backcountry lake (Lonesome Lake) and an AMC mountain hut where you can refill water and grab food. The hike is 10 miles round trip and takes most people 7–8 hours — it's a full day, and it's genuinely hard, but the variety makes it one of the more rewarding routes in the White Mountains. The first 1.5 miles are gradual and pleasant on an old bridle path. Things get significantly steeper and rougher after the hut — the Fishin' Jimmy Trail climbs hard with some ladder-assisted ledge sections, and the Kinsman Ridge Trail above Kinsman Pond involves real rock scrambles where you'll use your hands. South Kinsman's summit is wide open with views in all directions, including Franconia Ridge across the notch. A few important things to know: the ledge sections throughout the upper trail are very slippery when wet — only attempt this route on a dry day. The descent is the hardest part physically; budget time and energy for coming back down the way you came. Trekking poles are helpful on the forested sections. Bring at least 2 liters of water and more food than you think you need. Dogs are welcome but the rock is hard on paw pads — bring paw protection for your dog on longer trips.",
+    "expert_framing": "North and South Kinsman via Lonesome Lake / Fishin' Jimmy / Kinsman Ridge: 10.0 mi RT, 3,550 ft, fitness-5, technical-3, 'very hard.' bmhatfield: 6:45 book time and 'the going along the Kinsman Ridge Trail is very rough, this trip is considerably more strenuous than the numbers might indicate.' Above treeline: 0.2 mi on South Kinsman's open summit cap (4,358 ft); North Kinsman (4,293 ft) is wooded. Fall risk: moderate — extensive ledge on Kinsman Ridge Trail above Kinsman Pond is 'very slippery when wet,' rock scrambles in the col require hands, descent requires care. AMC Lonesome Lake Hut is directly on route at 1.5 mi OW (open mid-May through Columbus Day) — a real resource for a long day. Kinsman Pond Campsite (AMC, fee) at 3.5 mi OW enables an overnight approach. Loop variant: descend via Kinsman Pond Trail → adds 1.3 mi (11.2 total) but provides variety and avoids repeating Fishin' Jimmy descent. Triple objective with Cannon Mountain: 13.0 mi, 4,700 ft (lp), acknowledged very rough. Region: Kinsman Ridge. Tags: multi-peak, scrambling, fall-exposure-moderate, above-treeline-weather-exposure, alpine-zone, hut-access, ridge-walk, dog-friendly.",
+    "safety_callout": "The defining hazard on this route is the extensive ledge above Kinsman Pond — a large proportion of the Kinsman Ridge Trail is bare rock slab that becomes extremely dangerous when wet. Do not attempt the Kinsman Ridge Trail section in rain or wet conditions; the risk of a serious fall on the steep ledges is significantly elevated. This is not a route to push through in marginal weather. Plan for dry conditions and confirm forecasts specifically for the South Kinsman area (use the NWS point forecast). The descent is the highest-risk phase: fatigued legs on steep wet ledge is when falls happen. Descend slowly and deliberately, stow trekking poles on scramble sections to maintain three-point contact, and do not let group pace pressure individuals to move faster than they're comfortable. At 10 miles round trip in rough terrain, energy management matters: if you arrive at Kinsman Pond Campsite (3.5 miles OW) already exhausted, evaluate carefully before committing to the remaining steep technical terrain and a full return trip."
+  }
+}

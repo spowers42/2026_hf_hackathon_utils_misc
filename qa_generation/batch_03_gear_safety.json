@@ -1,0 +1,37 @@
+{
+  "description": "Gear and safety — seasonal variation, weather vs fall risk clearly separated",
+  "requests": [
+    {
+      "query_type": "gear-and-safety",
+      "experience_level": "beginner",
+      "trail_sample": 2,
+      "trail_filters": { "weather_exposure": ["high", "severe"] },
+      "count": 2,
+      "notes": "One for a summer day hike, one for early October. Gear must be organised by what hazard it addresses: weather exposure gear and fall-risk gear listed separately."
+    },
+    {
+      "query_type": "gear-and-safety",
+      "experience_level": "intermediate",
+      "trail_sample": 2,
+      "trail_filters": { "weather_exposure": ["high", "severe"] },
+      "count": 3,
+      "notes": "Vary season: late September, November shoulder season, and a 'my partner thinks I'm overloaded' pushback scenario. Gear split by hazard type."
+    },
+    {
+      "query_type": "gear-and-safety",
+      "experience_level": "beginner",
+      "trail_sample": 2,
+      "trail_filters": { "fall_risk": ["moderate", "high", "severe"] },
+      "count": 2,
+      "notes": "Focus on fall-risk specific gear: footwear, trekking poles, traction devices. Contrast with what's needed for weather. Include a 'what if it rains' scenario."
+    },
+    {
+      "query_type": "gear-and-safety",
+      "experience_level": "experienced",
+      "trail_sample": 2,
+      "trail_filters": { "weather_exposure": ["severe"] },
+      "count": 2,
+      "notes": "Winter-focused. One about layering for -20F wind chill, one about the line between microspikes and full crampons. Terse tone, no basics."
+    }
+  ]
+}

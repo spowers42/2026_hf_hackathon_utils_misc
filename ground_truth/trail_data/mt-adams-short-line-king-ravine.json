@@ -1,0 +1,195 @@
+{
+  "id": "mt-adams-short-line-king-ravine",
+  "name": "Mt. Adams via Short Line, King Ravine, and Air Line Loop",
+  "peaks": [
+    {
+      "name": "Mt. Adams",
+      "elevation_ft": 5774,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Northern Presidentials",
+  "stats": {
+    "distance_rt_miles": 8.5,
+    "elevation_gain_ft": 4500,
+    "highest_point_ft": 5774,
+    "above_treeline_miles": 2.0,
+    "typical_time_hrs": {
+      "beginner": 10.0,
+      "average": 7.5,
+      "experienced": 6.0
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 4,
+    "overall_label": "very hard",
+    "notes": "Fitness demand is high: 4,500 ft of gain over 8.5 miles with no significant flat recovery sections. The technical crux is the King Ravine headwall, which gains ~1,100 ft in 0.5 miles of sustained Class 2-3 scrambling — hands are frequently needed and the route becomes seriously dangerous on wet or icy rock. The boulder field on the ravine floor (especially the Subway option) adds additional scrambling before the headwall. The Knife Edge section on the Airline descent is airy but not technically difficult in dry conditions. These are distinct challenges: the fitness demand is continuous throughout; the technical/fall-risk demand is concentrated on the headwall and ravine floor."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "severe",
+      "description": "Mt. Adams (5,774 ft) is the second-highest peak in the Northeast, with approximately 2 miles of the loop above treeline (~4,400 ft). The Northern Presidentials are notorious for rapid weather deterioration — conditions comparable to Mt. Washington regularly occur on Adams. The summit is fully exposed to wind from all directions. Turnaround distances from shelter are significant: nearly 0.9 miles from summit to Madison Spring Hut and 4.3 miles back to Appalachia. The King Ravine approach adds time commitment that limits escape routes once weather moves in.",
+      "mitigation": "Check the Mt. Washington Observatory Higher Summits Forecast without exception the morning of the hike. Set a hard turnaround time based on planned summit ridge time, not just weather at the trailhead. Start early — be above treeline before 11 a.m. — to avoid afternoon thunderstorms. Carry full rain gear and insulation regardless of morning conditions; temperatures at 5,700 ft can be 20-30°F colder than the trailhead."
+    },
+    "fall_risk": {
+      "rating": "high",
+      "description": "The King Ravine headwall is the defining fall hazard on this route: ~1,100 ft of gain in 0.5 miles over steep, loose boulder terrain. Falls on the headwall can result in serious injury given the sustained steepness and rocky terrain below. Wet or icy rock dramatically amplifies this risk — the route is widely considered impassable without crampons and an ice axe when iced. The Subway option through the ravine floor adds Class 3 boulder scrambling with awkward moves over and between large boulders. The summit cone above treeline involves Class 2 rock-hopping that is manageable in dry conditions but becomes slippery when wet.",
+      "mitigation": "Stiff-soled hiking boots with ankle support are essential. Trekking poles help on the Airline descent. If conditions are wet, consider the Air Line Trail alone as an Adams approach (technical rating 2). Turn around at the ravine floor if the headwall appears iced or wet beyond your skill level. Descend via the Air Line rather than reversing the headwall."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September"],
+    "viable_with_gear": ["May", "October"],
+    "avoid": ["November", "December", "January", "February", "March", "April"],
+    "seasonal_notes": "King Ravine holds ice and snow well into late May; the headwall requires crampons and an ice axe until the ice has fully melted — typically mid-to-late May in a normal year, later after heavy winters. In winter this route is a serious mountaineering objective: crampons, ice axe, and avalanche awareness are required, and the Subway boulder caves can become traps as snow fills the gaps. October brings rapid temperature drops and early ice; carry microspikes from Columbus Day weekend onward. Do not attempt King Ravine in winter or spring without prior technical mountaineering experience."
+  },
+  "tags": [
+    "above-treeline-weather-exposure",
+    "fall-exposure-high",
+    "scrambling",
+    "4k-footer",
+    "loop-route",
+    "amc-hut-nearby",
+    "ridge-walk"
+  ],
+  "hazards": [
+    {
+      "type": "steep-terrain-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "King Ravine headwall gains ~1,100 ft in 0.5 miles on sustained Class 2-3 boulder scrambling. Loose rocks are present; footing becomes dangerously slick when wet or icy. Falls on the headwall carry serious injury potential given the length and steepness of the terrain below. This is the technical crux of the entire route and the primary reason it is rated 'very hard' rather than 'hard.'",
+      "months_active": ["May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "scrambling-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The King Ravine boulder fields — especially the Subway option — require sustained scrambling over, under, and between boulders the size of small cars. Moves can be strenuous and occasionally committing. The summit cone above Thunderstorm Junction involves Class 2 rock-hopping that is straightforward in dry conditions but slippery when wet.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "weather-exposure",
+      "hazard_category": "weather-and-environment",
+      "description": "Approximately 2 miles of this loop are above treeline on one of the most weather-exposed mountains in the eastern U.S. The Northern Presidentials regularly experience hurricane-force winds, whiteout conditions, and temperature drops of 20-30°F within an hour. Afternoon thunderstorms build rapidly in summer; the time-consuming King Ravine approach limits escape once weather develops.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The summit cone, Knife Edge on the Airline descent, and Thunderstorm Junction (named for a reason) are completely exposed to lightning with no shelter. Afternoon convective storms build quickly in summer; the time-consuming ascent via King Ravine means hikers may find themselves on the summit ridge late in the day when storm risk is highest.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "King Ravine is a north-facing glacial cirque that holds snow and ice far later than surrounding trails. The headwall is impassable without crampons and ice axe when iced. The Subway boulder field can conceal deep snow pockets that trap a leg. Early season ice on the headwall typically persists through late May; fall ice can appear on the headwall as early as late October.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "hypothermia-risk",
+      "hazard_category": "weather-and-environment",
+      "description": "The summit (5,774 ft) and exposed ridge are frequently cold, windy, and wet even on days that start clear at the trailhead. Wind chill on the Knife Edge and summit cone can drive effective temperatures 30-40°F below air temperature. King Ravine itself is a cold air drainage; the ravine floor can be significantly colder than the approach trail even on warm days.",
+      "months_active": ["September", "October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "navigation",
+      "hazard_category": "weather-and-environment",
+      "description": "The summit cone above treeline is a broad boulder field with cairn-only route markings. In cloud, fog, or whiteout, trail junctions (Thunderstorm Junction, Gulfside, Star Lake) are difficult to identify. Getting off-route on the summit cone can lead hikers toward the steep, remote Great Gulf on the south side. The King Ravine trail system is also complex, with multiple intersecting trails in the ravine.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Stiff-soled hiking boots with ankle support (essential for headwall scrambling)",
+      "Trekking poles (particularly helpful on the Air Line descent)",
+      "Rain shell and insulating mid-layer (regardless of forecast)",
+      "Warm hat and gloves (summit conditions severe even in summer)",
+      "Headlamp with fresh batteries",
+      "Map and compass or GPS with downloaded topo (AMC Map 1 Presidential Range)",
+      "Minimum 3L water or filter; 4L in summer heat",
+      "Sun protection (sunscreen, lip balm — significant UV above treeline)"
+    ],
+    "shoulder_season": [
+      "All three-season gear plus:",
+      "Microspikes or crampons (King Ravine headwall can be iced in October and May)",
+      "Ice axe (mandatory if headwall has snow or ice)",
+      "Insulated mid-layer and wind shell",
+      "Waterproof insulated gloves",
+      "Balaclava",
+      "Emergency bivy or space blanket"
+    ],
+    "winter": [
+      "All shoulder-season gear plus:",
+      "Technical crampons (mandatory)",
+      "Ice axe with self-arrest grip (mandatory)",
+      "Snowshoes for lower approach below treeline",
+      "Full insulated waterproof shell and pants",
+      "Wind-resistant insulated gloves with overmitts",
+      "Goggles",
+      "Avalanche awareness — King Ravine floor has slide potential after heavy snowfall",
+      "NOTE: Winter ascent of King Ravine headwall is a technical mountaineering objective requiring prior experience — not a casual winter hike"
+    ]
+  },
+  "trailhead": {
+    "name": "Appalachia Trailhead",
+    "lat": 44.37159,
+    "lon": -71.288783,
+    "parking": "Large paved lot; free, no WMNF Recreation Pass required. Fills completely on summer and fall weekends — arrive before 7 a.m. to guarantee a spot. Overflow parking on Route 2 shoulder.",
+    "access_road": "US Route 2, Randolph, NH — 5 miles west of the junction of US 2 and NH Route 16",
+    "nearest_town": "Gorham, NH (approximately 6 miles east)",
+    "amenities": ["No restrooms on site", "No potable water", "Trailhead kiosk with trail map and information"]
+  },
+  "amc_hut": {
+    "name": "Madison Spring Hut",
+    "distance_miles_from_route": 0.9,
+    "services": "Full-service AMC hut at the Adams-Madison col (4,825 ft). Bunk accommodations, meals served, staffed. Open late May through mid-October. Accessible from Adams summit via Gulfside Trail and Air Line Cutoff (~0.9 mi) or Star Lake Trail (~1.0 mi). Functions as a bailout shelter and overnight base for combining Adams with Madison.",
+    "link": "https://www.outdoors.org/destinations/new-hampshire/madison-spring-hut/"
+  },
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "Appalachia Trailhead — USFS White Mountain National Forest",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/appalachia-trailhead",
+      "notes": "Surface when user asks about trailhead access, parking, fees, or road conditions"
+    },
+    {
+      "type": "alltrails",
+      "label": "Mt. Adams via Short Line, King Ravine, and Air Line Loop — AllTrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-adams-via-short-line-king-ravine-and-air-line-loop",
+      "notes": "Surface for current user conditions and recent trip reports; note AllTrails distance (8.4 mi) may differ slightly from AMC/RMC figures (4.6 mi one-way = ~8.9 mi loop)"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "Surface every time a user mentions conditions, weather, or planning for this route — mandatory check before any Northern Presidential summit day"
+    },
+    {
+      "type": "amc-hut-reservation",
+      "label": "Madison Spring Hut Reservations — AMC",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/madison-spring-hut/",
+      "notes": "Surface when user asks about overnight options, lodging near Adams summit, or combining Adams with Madison"
+    },
+    {
+      "type": "map-download",
+      "label": "AMC White Mountains Map — Presidential Range (Map 1)",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/",
+      "notes": "Surface when user asks about maps; AMC Map 1 (Presidential Range) covers this entire route in detail"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-adams-airline",
+      "mt-jefferson-caps-ridge"
+    ],
+    "leads_naturally_to": [
+      "mt-washington-tuckerman-ravine",
+      "pemi-loop"
+    ],
+    "progression_notes": "The Short Line/King Ravine route is the natural step-up from the Air Line approach to Adams — same mountain, dramatically more technical. It should only be attempted after a hiker is comfortable with Presidential weather exposure and above-treeline navigation. Caps Ridge on Jefferson is a useful prerequisite for its ridge scrambling and big-mountain feel at lower commitment. After completing King Ravine, a hiker is well-prepared for the ravine scrambling of Tuckerman on Washington and the sustained commitment of the Pemi Loop."
+  },
+  "response_hints": {
+    "beginner_framing": "This is one of the most challenging standard hikes in the White Mountains — it's not a step up from Franconia Ridge, it's several steps beyond it. The King Ravine headwall is a half-mile scramble steep enough that you'll use your hands throughout, and on wet rock it becomes genuinely dangerous. If you're working toward the 4,000-footer list, start with Mt. Adams via the Air Line Trail — same summit, same views, and you'll get a clear sense of what the mountain demands before committing to King Ravine.",
+    "expert_framing": "Appalachia → Airline to Short Line junction (~1.3 mi) → Short Line → Randolph Path → King Ravine Trail. Ravine floor: Elevated is faster, Subway worth it in dry conditions. Headwall: ~1,100 ft / 0.5 mi, Class 2-3, some loose rock — treat wet conditions as a turnaround. Top of headwall at Airline junction; follow Airline to summit. Return via Airline to Appalachia to complete the loop. Side extension: tag Madison via Air Line Cutoff + Osgood adds ~1 hr. Ice Caves Loop is a worthwhile detour on ravine floor. RMC figures: 4.6 mi one-way via Short Line/King Ravine, 4,500 ft gain.",
+    "safety_callout": "TWO distinct and serious hazards on this route. Fall risk: the King Ravine headwall is Class 2-3 scrambling that becomes genuinely dangerous on wet rock — turn around or swap to the Air Line-only route if conditions are wet or icy. Weather exposure: approximately 2 miles of this loop are above treeline on the Northern Presidentials, one of the most dangerous weather environments in the eastern U.S. — check the Mt. Washington Observatory Higher Summits Forecast the morning of the hike without exception."
+  }
+}

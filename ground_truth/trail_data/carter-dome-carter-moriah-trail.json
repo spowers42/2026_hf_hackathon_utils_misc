@@ -1,0 +1,130 @@
+{
+  "id": "carter-dome-carter-moriah-trail",
+  "name": "Carter Dome via Nineteen Mile Brook & Carter-Moriah Trail",
+  "region": "Carter Range",
+  "summary": "Carter Dome (4,832 ft) is the highest peak in the Carter Range and one of the more rewarding NH 48 objectives in the White Mountains. The route climbs the gentle Nineteen Mile Brook corridor before ascending via the Carter Dome Trail to Zeta Pass, where the Carter-Moriah Trail (Appalachian Trail) makes the final push to the open summit. Views west toward Mt. Washington and the Presidential Range are outstanding from the summit. Mt. Hight (4,675 ft), 0.5 miles north on the Carter-Moriah Trail, is a natural and highly recommended add-on — arguably the finest viewpoint in the entire Carter Range. The AMC Carter Notch Hut is accessible 1.8 miles south of the summit and adds a loop or hut-night option.",
+  "tags": ["4k-footer", "out-and-back", "above-treeline-weather-exposure", "alpine-zone", "hut-access", "dog-friendly", "parking-fee", "winter-viable", "snowshoe-route"],
+  "stats": {
+    "distance_rt_miles": 9.4,
+    "elevation_gain_ft": 3200,
+    "highest_point_ft": 4832,
+    "above_treeline_miles": 0.3,
+    "typical_time_hrs": {
+      "beginner": 8.0,
+      "average": 6.0,
+      "experienced": 5.0
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "The Nineteen Mile Brook corridor is moderate and pleasant for the first 1.9 miles. The Carter Dome Trail then climbs steadily and increasingly steeply to Zeta Pass. The final 0.7-mile push on the Carter-Moriah Trail to the summit involves steep rocky terrain. No technical scrambling required anywhere on the route. Adding Mt. Hight (0.5 mi north of the summit, back the same way) pushes total distance to 10.4 mi RT with roughly 200 ft of additional gain."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "moderate",
+      "description": "Carter Dome's semi-open summit sits directly in the weather shadow of the Presidential Range to the west. The same storm systems that batter Pinkham Notch arrive at Carter Dome first, often with little warning from the valley. The summit is partially above treeline with exposed ledge and no natural windbreak. Mt. Hight, if visited, is more fully open and more exposed.",
+      "mitigation": "Check the Mt. Washington Observatory summit forecast before departing — conditions at Carter Dome track closely with Pinkham Notch. Carry insulating layers and a wind/rain shell regardless of valley conditions. If clouds are building rapidly over the Presidentials, begin descending before committing to the summit push. Zeta Pass can be a wind funnel in strong weather — move through it efficiently."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "Well-maintained rocky trail throughout. The Carter Dome Trail above the 19 Mile Brook junction is steep with rocky and rooted terrain requiring careful foot placement, particularly on descent. The final Carter-Moriah Trail section to the summit has some steep rocky steps. No cliff exposure or scrambling requiring hands. Primary hazard is slipping on wet or icy rock on the steep upper approaches.",
+      "mitigation": "Waterproof boots with solid grip. Trekking poles are strongly recommended, especially on the steep descent of the Carter Dome Trail. Microspikes required from late October through May — the upper trail and summit area ice readily."
+    }
+  },
+  "trailhead": {
+    "name": "Nineteen Mile Brook Trailhead",
+    "lat": 44.333,
+    "lon": -71.199,
+    "parking": "Paved parking lot on the west side of Route 16. WMNF Recreation Pass required ($5/day or America the Beautiful annual pass). Lot fills quickly on summer and fall weekends — arrive before 8am. Overflow parking on Route 16 shoulder. This is the same trailhead used for the Imp Trail loop (a 1.5-mile road walk north on Route 16 reaches the Imp North TH).",
+    "access_road": "Route 16 (Pinkham Notch road), approximately 9 miles north of AMC Pinkham Notch Visitor Center and 1.5 miles south of the Imp North Trailhead. Route 16 is paved and plowed year-round.",
+    "nearest_town": "Gorham",
+    "amenities": ["vault toilet at trailhead", "AMC Pinkham Notch Visitor Center with restrooms, gear store, and food 9 miles south on Route 16"]
+  },
+  "route_description": "From the Nineteen Mile Brook Trailhead, follow the Nineteen Mile Brook Trail northeast into the Carter Range. The first 1.9 miles are gentle and pleasant through hardwood and birch forest alongside the brook, with several footbridge crossings. At 1.9 miles, turn left (northwest) onto the Carter Dome Trail, leaving the 19 Mile Brook Trail (which continues 1.9 miles further to Carter Notch and the AMC hut). The Carter Dome Trail climbs progressively more steeply through spruce-fir forest on rocky, rooted NH trail. At approximately 4.0 miles from the trailhead, reach Zeta Pass (~3,900 ft), the junction of the Carter Dome Trail and the Carter-Moriah Trail (Appalachian Trail). Turn left (north) on the Carter-Moriah Trail. The next 0.7 miles involves steep, rocky climbing through krummholz into the open summit area of Carter Dome at 4,832 ft — the highest point in the Carter Range. Views open to the west and north, with outstanding sightlines to Mt. Washington, the Northern Presidentials, and the Wildcat-Carter col below.\n\nOptional extension (strongly recommended): Continue 0.5 miles north on the Carter-Moriah Trail to Mt. Hight (4,675 ft). Despite being 157 ft lower than Carter Dome, Mt. Hight is far more exposed and widely considered to have the best 360-degree views in the Carter Range — a full panorama of the Presidential Range, the Wildcats, and the Wild River Wilderness. The out-and-back to Hight adds 1.0 mile and approximately 200 ft of additional gain.\n\nLoop option: From Carter Dome, continue south on the Carter-Moriah Trail 0.7 miles back to Zeta Pass, then 1.1 miles further south to Carter Notch and the AMC hut (optional visit). From Carter Notch, the 19 Mile Brook Trail descends 3.8 miles back to the trailhead — a satisfying loop of approximately 10.2 miles total.\n\nReturn the same way for the standard out-and-back.",
+  "peaks": [
+    {
+      "name": "Carter Dome",
+      "elevation_ft": 4832,
+      "is_4k_footer": true,
+      "views": "Semi-open summit with outstanding views west toward Mt. Washington and the full Presidential Range. The summit area has open ledge sections with panoramic sightlines over Pinkham Notch, the Wildcats to the south, and the Wild River drainage to the east. Less open than nearby Mt. Hight but a genuine alpine summit feel."
+    },
+    {
+      "name": "Mount Hight",
+      "elevation_ft": 4675,
+      "is_4k_footer": true,
+      "views": "Fully open summit — the finest viewpoint in the Carter Range. A 360-degree panorama includes the entire Presidential Range to the west, the Wildcat Ridge to the south, the Wild River Wilderness to the east, and the Carter-Moriah ridge stretching north. Widely described as one of the best views in the White Mountains for the effort required. NH 48 peak — adds meaningful value beyond Carter Dome alone."
+    }
+  ],
+  "amc_hut": "Carter Notch Hut",
+  "hazards": [
+    {
+      "type": "Summit weather — Presidential Range exposure",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "Carter Dome's summit sits directly in the path of weather coming off the Presidential Range. Conditions can shift rapidly — calm valleys accompany severe summit winds and cold. The summit and Mt. Hight are both partially or fully above treeline with no shelter. Wind-driven rain and cloud immersion are common in any month."
+    },
+    {
+      "type": "Ice on Carter Dome Trail and summit approach",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"],
+      "description": "The Carter Dome Trail's steep upper sections and the Carter-Moriah Trail summit approach ice over readily from fall through spring. Ice patches can appear as early as late September at elevation and persist well into May on north-facing slopes. The combination of steep grade and ice creates significant slip hazard — microspikes are non-negotiable."
+    },
+    {
+      "type": "Water scarcity on Carter Dome Trail",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["June", "July", "August", "September", "October"],
+      "description": "The Nineteen Mile Brook Trail offers abundant water from the brook for the first 1.9 miles. Once on the Carter Dome Trail, reliable water sources become scarce — the trail climbs dry ridge terrain to Zeta Pass with no guaranteed sources. Carry a full 2–2.5 liters from the 19 Mile Brook trail section before the Carter Dome Trail junction."
+    },
+    {
+      "type": "Brook crossings — high water on 19 Mile Brook",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["April", "May", "June"],
+      "description": "The Nineteen Mile Brook Trail crosses the brook multiple times on footbridges and stepping stones. In spring snowmelt or after heavy rain, the brook runs high and fast, and some crossings may be difficult or require wading. The brook is also a reliable source of filtered drinking water when conditions are calm."
+    }
+  ],
+  "seasons": {
+    "recommended": ["June", "July", "August", "September"],
+    "viable_with_gear": ["October", "November", "December", "January", "February", "March", "April", "May"],
+    "avoid": [],
+    "seasonal_notes": "Summer through early fall is the prime window. The Nineteen Mile Brook corridor is one of the more pleasant approach routes in the Carter Range — the brook-side walking keeps it cooler in summer and the hardwood forest offers outstanding fall foliage before you gain elevation. Fall visits are excellent through October, though microspikes should be in the pack by mid-October. Winter is very popular: the 19 Mile Brook Trail is a classic snowshoe route and Carter Dome is one of the more accessible 4K footers in winter conditions. The summit and Mt. Hight can be fully iced over and very windy — full winter gear required. The 19 Mile Brook trail section remains relatively sheltered even in heavy snowfall. Spring mud season (late April–mid-May) makes the forested sections messy but passable. Carter Notch Hut is open year-round."
+  },
+  "gear_tiers": {
+    "three_season": ["waterproof hiking boots with ankle support", "trekking poles (strongly recommended for steep Carter Dome Trail descent)", "2.5L water (fill at brook before Carter Dome Trail junction)", "snacks and lunch", "insulating mid-layer", "wind and rain shell", "map or GPS", "headlamp"],
+    "shoulder_season": ["microspikes (mandatory October onward)", "insulating fleece or puffy", "hardshell wind and rain jacket", "hat and gloves", "extra food for longer day in cold", "trekking poles"],
+    "winter": ["crampons or aggressive microspikes", "insulated waterproof boots (rated to -20°F)", "hardshell jacket and pants", "balaclava and warm hat", "liner and insulating gloves", "snowshoes (for 19 Mile Brook approach in deep snow)", "extra insulating layers", "hot thermos"]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/carter-dome-and-mount-hight-via-nineteen-mile-brook-trail",
+      "label": "AllTrails: Carter Dome & Mt. Hight via Nineteen Mile Brook"
+    },
+    {
+      "type": "weather-forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.1790&lat=44.2744",
+      "label": "NWS Forecast — Pinkham Notch / Carter Range area"
+    },
+    {
+      "type": "summit-conditions",
+      "url": "https://www.mountwashington.org/experience-the-weather/current-conditions/",
+      "label": "Mt. Washington Observatory — Summit Conditions (Carter Range weather proxy)"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/carter-notch-hut/",
+      "label": "AMC Carter Notch Hut"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["Wildcat D-A Traverse via Wildcat Ridge Trail", "Mt. Moriah via Carter-Moriah Trail", "IMP Trail to Middle and South Carter Loop"],
+    "leads_naturally_to": ["Full Carter-Moriah ridge traverse (add Moriah, Shelburne Moriah)", "Carter Notch overnight via Carter Notch Hut", "Wild River area objectives — Baldface Circle, Royce Mountain"],
+    "progression_notes": "Carter Dome is the logical capstone after doing the Carter Range's other 4K footers — it pairs naturally with the Imp Trail loop (which covers Middle and South Carter). Experienced hikers often tackle Carter Dome and Hight as a combo with Moriah on the same day via a full Carter-Moriah traverse (car shuttle required). The Carter Notch Hut makes Carter Dome an excellent base for two-day itineraries covering the Wildcats to the south and the full Carter ridge to the north."
+  },
+  "response_hints": {
+    "beginner_framing": "Carter Dome is a serious hike — the 9.4-mile round trip and 3,200 feet of gain will make for a full day. The good news is that the Nineteen Mile Brook approach is genuinely pleasant, with brook-side walking that makes the first two miles feel easy. The difficulty ramps up on the Carter Dome Trail — it's steep and relentless until Zeta Pass. Don't skip Mt. Hight (0.5 miles north of the Carter Dome summit) — it's the better view and adds almost nothing to the day. Carry 2.5 liters of water; there's nothing reliable on the upper trail above the brook.",
+    "expert_framing": "Carter Dome is best done as a two-peak day with Hight — the summit of Hight alone justifies the approach. The Carter Notch loop (up 19 Mile Brook all the way to the notch, up Carter-Moriah Trail, descent via Carter Dome Trail) is a superior route option that brings Carter Notch Hut into play and makes the Carter-Moriah Trail the main climbing route. In winter, the 19 Mile Brook corridor is one of the cleaner snowshoe approaches in the range — the summit push adds spice. If you have a shuttle, the full Carter-Moriah traverse from the north (IMP TH to here) is one of the best ridge days in the White Mountains.",
+    "safety_callout": "Carter Dome weather comes straight off the Presidential Range. The summit can be fully socked in with 60-mph winds while the Nineteen Mile Brook valley is calm and sunny — check the Mt. Washington Observatory forecast, not just the valley forecast. Carry full layers in every season. The Carter Dome Trail's steep descent is the primary injury risk in three-season conditions — take it slow on the way down. Microspikes are mandatory from mid-October through May; the summit approach can be a sheet of ice well before it looks like winter at the trailhead."
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "mt-washington-lion-head",
+  "name": "Mount Washington via Lion Head Trail",
+  "region": "Presidential Range",
+  "summary": "The Lion Head Trail is the primary non-technical hiking route to Mount Washington (6,288 ft) from Pinkham Notch — the standard approach for experienced hikers seeking Washington's summit without the Class 3–4 cliff exposure of Huntington Ravine. The route ascends via the Tuckerman Ravine Trail corridor past the AMC Hermit Lake Shelters before breaking away onto Lion Head Trail, which climbs steeply to the Lion Head rocky promontory and then continues above treeline to the summit cone. Above treeline for over 2 miles each way, this route is fully exposed to Mount Washington's notoriously extreme weather. In winter, the Lion Head Winter Route is the most frequently used non-technical winter ascent of Washington — a serious mountaineering undertaking requiring ice axe and crampons. Despite being 'non-technical' relative to Huntington Ravine, the summit of Washington demands full wilderness competency: this is among the most weather-dangerous mountains in the world and has killed experienced hikers in every month of the year.",
+  "tags": ["4k-footer", "out-and-back", "above-treeline-weather-exposure", "alpine-zone", "parking-fee", "winter-viable"],
+  "stats": {
+    "distance_rt_miles": 8.0,
+    "elevation_gain_ft": 4250,
+    "highest_point_ft": 6288,
+    "above_treeline_miles": 2.5,
+    "typical_time_hrs": {
+      "beginner": 9.0,
+      "average": 7.0,
+      "experienced": 5.5
+    }
+  },
+  "difficulty": {
+    "fitness": 5,
+    "technical": 2,
+    "overall_label": "very hard",
+    "notes": "The 4,250 feet of gain to New England's highest summit makes fitness the defining challenge regardless of route. The Lion Head Trail itself is not technically demanding — hikers move on well-maintained rocky trail with some scrambling at the Lion Head rocky formation, but nothing requiring technical climbing skill. The difficulty is the sustained grade (averaging over 1,000 ft per mile on upper sections), the length of the above-treeline exposure, and the ever-present weather risk on the summit cone. In winter, 'non-technical' becomes relative: the Lion Head Winter Route requires ice axe and crampon competency — novices should not attempt it regardless of how manageable the distance looks on paper."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "high",
+      "description": "Mount Washington's summit is one of the most weather-exposed places in the world. The peak sits at the intersection of three major storm tracks and generates conditions lethal to unprepared hikers in every month of the year. Above treeline from Lion Head (~5,000 ft) to the summit (~6,288 ft), there is no natural windbreak — hikers travel fully exposed across alpine tundra and boulder fields for 1.3+ miles one way. Summit winds regularly exceed 100 mph in winter and can top 70 mph in summer. Temperature drops of 30°F between the trailhead and summit are common on a single day. The summit building provides emergency shelter, but it is 1.3 miles from the Lion Head treeline break — a long way to retreat in rapidly deteriorating conditions.",
+      "mitigation": "Check the Mount Washington Observatory summit forecast — explicitly — before starting. The valley weather on Route 16 and the summit weather are often dramatically different. Any forecast of summit winds over 40 mph, precipitation, or afternoon thunderstorms is a serious caution. Start at dawn so you reach the summit by mid-morning before afternoon storm development. Carry a full insulating layer and waterproof hardshell even on warm valley days — hypothermia can occur on the summit in July. Know your turnaround criteria before you start: 'I will turn around if I cannot see the next cairn' is a sound rule above treeline in fog."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "The Lion Head Trail is not cliff-exposed in the way of Huntington Ravine, but fall risk is genuine in two areas. The Lion Head rocky section (~5,000 ft) involves climbing over and between ledges with 10–25 feet of fall potential on wet or icy rock. Higher up, the alpine zone and summit cone boulder fields are uneven, loose in places, and can be glazed with rime ice in any season. Strong summit winds can knock hikers off balance on the exposed upper cone. Descent is more hazardous than ascent — fatigued legs on steep boulder fields late in the day or in deteriorating conditions are responsible for most injuries on this route.",
+      "mitigation": "Waterproof boots with solid ankle support and good lug traction. Trekking poles are strongly recommended throughout — they stabilize balance on rocky terrain and absorb descent shock on steep slopes. Take the Lion Head rocky section deliberately; use handholds where available and test footing before committing weight. Microspikes are required from mid-October through May, when any rock section can be glazed. Descend the rocky sections facing outward when possible, facing in when feeling uncertain."
+    }
+  },
+  "trailhead": {
+    "name": "AMC Pinkham Notch Visitor Center",
+    "lat": 44.25755,
+    "lon": -71.25313,
+    "parking": "Large paved parking lot at Pinkham Notch Visitor Center on Route 16. WMNF Recreation Pass required ($5/day or America the Beautiful annual pass). Lot fills by 7–8am on summer and fall weekends. Overflow parking available on Route 16 shoulder. This is the same trailhead used for the Huntington Ravine Trail and Tuckerman Ravine approaches to Mt. Washington — arrive early on popular weekends.",
+    "access_road": "Route 16 (Pinkham Notch Road), approximately 11.5 miles north of Route 16A in Jackson and 9 miles south of Gorham. Look for the AMC Pinkham Notch Visitor Center sign on the west side of Route 16. The visitor center is open year-round with staffed information desk, current conditions reports, and weather updates.",
+    "nearest_town": "Gorham",
+    "amenities": ["AMC Pinkham Notch Visitor Center (restrooms, gear shop, food service, lodging)", "current conditions and weather boards updated daily at the visitor center", "AMC Hermit Lake Shelters at 3,875 ft — 2.2 miles from TH (lean-tos, caretaker-staffed late spring through fall, available by reservation)", "summit Sherman Adams Building with restrooms, cafeteria, and weather observatory gift shop at 6,288 ft"]
+  },
+  "route_description": "From the Pinkham Notch Visitor Center (2,032 ft), follow the Tuckerman Ravine Trail north through the signed archway and into the woods. The trail climbs steadily alongside Cutler River through birch and spruce forest. The grade is consistent and well-maintained — this shared lower section with the Tuckerman Ravine Trail is heavily traveled and easy to follow. Pass a series of cascades on Cutler River in the first mile, which are a pleasant trail feature and good water source before the steep climbing begins.\n\nAt 2.2 miles, the Hermit Lake Shelters appear on the right — AMC lean-tos perched on the south wall of Tuckerman Ravine at 3,875 ft. In season, the shelters are staffed by a caretaker who posts current conditions on the headwall and can advise on route conditions. Available for overnight use by reservation (highly recommended to book ahead in summer). Just past the shelters, at approximately 2.3 miles, turn left (north) onto the Lion Head Trail, leaving the Tuckerman Ravine Trail which continues straight into the ravine bowl.\n\nThe Lion Head Trail climbs steeply north through dense spruce forest, gaining elevation quickly. The grade is sustained and demanding — this is where legs begin to feel the effort. At approximately 3.0 miles, the trail reaches the Lion Head rocky formation at ~5,000 ft. Here the forest thins and the trail navigates up and over a series of exposed ledges and boulders with increasingly open views to the east and south. The Lion Head section requires some careful hand-and-foot scrambling on rock, but is well within the capabilities of a prepared hiker. This is also where you break fully above treeline and the Presidential Range opens around you.\n\nAbove Lion Head, follow cairns across the open alpine tundra northeast toward the summit cone. The terrain here — classic White Mountains alpine zone with dwarf shrubs, lichen-covered boulders, and arctic-alpine flowers — is ecologically fragile: stay on the trail or on rock. The summit cone is visible ahead, increasingly large. The trail approaches the summit from the east-southeast, joining the network of trails near the Auto Road and Cog Railway tracks.\n\nThe summit of Mount Washington (6,288 ft) is reached at approximately 4.0 miles. The Sherman Adams Summit Building has restrooms, a cafeteria, and the weather observatory. On clear days the view extends to the Atlantic Ocean, Vermont's Green Mountains, and Maine's Baxter State Park. Note that the summit area is busy with auto road tourists and Cog Railway passengers on clear days — the wild mountain experience is found just below on the approach trail.\n\nReturn the same way. The Tuckerman Ravine loop (descend via Lion Head, then return via the Tuckerman Ravine bowl floor) adds approximately 0.5 miles and is a worthwhile variation for those who want to see both ravines. Winter: follow the Lion Head Winter Route (signed differently at the Hermit Lake junction) which takes a modified line to avoid the summer route's iced ledges.",
+  "peaks": [
+    {
+      "name": "Mount Washington",
+      "elevation_ft": 6288,
+      "is_4k_footer": true,
+      "views": "The highest peak in the northeastern United States. On clear days the summit view spans the Atlantic Ocean, the Green Mountains of Vermont, Maine's Katahdin and Baxter State Park, and the full sweep of the White Mountains. The alpine zone below the summit on the Lion Head approach offers outstanding views of the Tuckerman and Huntington cirques, the Carter Range, and the Wild River wilderness — more intimate and less crowded than the summit itself. Summit visibility: extraordinary when clear, zero in the roughly 60% of days the peak is cloud-covered."
+    }
+  ],
+  "amc_hut": null,
+  "hazards": [
+    {
+      "type": "Summit weather — extreme and life-threatening conditions year-round",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "Mount Washington has the highest recorded wind speed in the northern hemisphere for a surface weather station (231 mph, 1934). Average summit winds exceed 35 mph year-round and regularly exceed 100 mph in winter. Temperature at the summit can be 30–40°F colder than at the trailhead. More than 150 people have died on Mount Washington. Many deaths involved hikers who were unprepared for how quickly conditions deteriorate. The critical mistake is trusting the Pinkham Notch weather — the summit forecast is a separate, distinct, frequently worse reality. Check the Mount Washington Observatory forecast before every trip. No exceptions."
+    },
+    {
+      "type": "Lightning above treeline",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["May", "June", "July", "August", "September"],
+      "description": "The Lion Head Trail emerges above treeline at ~5,000 ft and continues fully exposed to the summit. Afternoon thunderstorm development is common from June through August and can occur as early as noon on unstable days. The alpine zone and summit cone have no shelter outside the summit building. Lightning injuries and fatalities on Mt. Washington are documented. Aim to be at the summit and heading back below Lion Head by noon on any day with morning cumulus development or instability in the forecast. The mountain generates its own weather — you cannot wait out a storm on the summit safely."
+    },
+    {
+      "type": "Ice on upper trail — Lion Head rocks and alpine zone",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"],
+      "description": "The Lion Head rocky section and all terrain above treeline ice over readily from fall through late spring. The exposed ledges of Lion Head become particularly treacherous with rime ice that forms invisibly on cold clear nights and persists into afternoon. The summit cone boulders can be glazed with ice even on apparently clear days in October and May. Microspikes are required from mid-October through May on the summer route. In winter, the Lion Head Summer Route is not recommended — use the Lion Head Winter Route instead, which requires ice axe and crampons."
+    },
+    {
+      "type": "Rocky terrain at Lion Head formation and summit cone",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "The Lion Head rocky formation (~5,000 ft) involves scrambling over and between boulders and ledges with 10–25 feet of potential fall exposure. The summit cone's boulder field is uneven, with loose rocks that shift underfoot. Descent on these sections with fatigued legs — common on the 4,000+ foot return — is the highest-injury portion of the route. Strong summit winds above treeline can destabilize hikers on exposed ledge sections. Wet rock after rain substantially increases slip risk throughout."
+    }
+  ],
+  "seasons": {
+    "recommended": ["July", "August", "September"],
+    "viable_with_gear": ["October", "November", "December", "January", "February", "March", "April", "May", "June"],
+    "avoid": [],
+    "seasonal_notes": "July through September are the most reliable months: consistently snow-free, longest days, and the alpine garden zone is at its best in late June through July for wildflowers. Even in peak summer, check the Observatory forecast — clear days at Pinkham Notch frequently accompany foggy, windy summits. October is viable in good weather but brings significant fall risk from ice on the Lion Head section and unpredictable conditions; microspikes should be in the pack from early October.\n\nWinter (November through May): The Lion Head Winter Route is the most widely used winter approach to Mt. Washington and a legitimate objective for experienced winter mountaineers. It is emphatically not a casual winter hike. Requirements: ice axe (mandatory, must know self-arrest technique), crampons (mandatory), hardshell shell and full insulated layers, and partners who can manage mountain emergencies. The winter route splits from the summer route at Hermit Lake Junction and takes a different line. Allow 8–10 hours. The summit has recorded winds over 100 mph every month of the year.\n\nSpring (April through June): The upper trail can retain snow and ice well into June. The Hermit Lake Shelters area may be closed or fully staffed depending on snowpack. The Tuckerman Ravine bowl beneath the route holds snow and attracts ski mountaineers from March through May — expect a busy and dynamic environment at Hermit Lake."
+  },
+  "gear_tiers": {
+    "three_season": ["waterproof hiking boots with ankle support and lug soles", "trekking poles (strongly recommended)", "3.0L water (no reliable sources above Hermit Lake)", "substantial food for 7-9 hour day", "insulating mid-layer and puffy (summit temperature may be 30°F colder than TH)", "hardshell wind and rain shell (mandatory, not optional)", "warm hat and gloves (summit wind makes warm hands a safety issue)", "map or GPS", "headlamp", "emergency bivy or space blanket"],
+    "shoulder_season": ["microspikes (mandatory from mid-October through May on summer route)", "gaiters (snow on upper trail in spring and fall)", "extra insulating layers for summit conditions", "warm hat and balaclava", "liner gloves plus insulating mittens over"],
+    "winter": ["crampons (mandatory — standard hiking crampons, not instep microspikes)", "ice axe (mandatory — must know self-arrest technique before attempting)", "insulated waterproof boots rated to at least -20°F", "hardshell jacket and pants", "balaclava and insulating face coverage", "liner and expedition-weight insulating gloves or mittens", "extra insulating layers for summit", "hot thermos", "headlamp with fresh batteries (cold kills battery life)", "emergency bivy or sleeping bag liner", "communication device (PLB or satellite messenger)"]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-washington-via-lion-head-trail",
+      "label": "AllTrails: Mount Washington via Lion Head Trail"
+    },
+    {
+      "type": "summit-conditions",
+      "url": "https://www.mountwashington.org/experience-the-weather/current-conditions/",
+      "label": "Mount Washington Observatory — Summit Conditions and Forecast (CHECK BEFORE EVERY TRIP)"
+    },
+    {
+      "type": "weather-forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.3033&lat=44.2705",
+      "label": "NWS Forecast — Mount Washington Summit"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/pinkham-notch/",
+      "label": "AMC Pinkham Notch Visitor Center — Trail Conditions and Hermit Lake Reservations"
+    },
+    {
+      "type": "trip-report",
+      "url": "https://www.newhampshireclimbing.com/lion-head-winter-route-overview/",
+      "label": "Lion Head Winter Route Overview (NH Climbing)"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["Franconia Ridge Loop (Lafayette, Lincoln, Liberty)", "Mt. Adams or Mt. Jefferson via Air Line or Caps Ridge Trail", "Tuckerman Ravine Trail to Washington (simpler approach option for first Washington trip)"],
+    "leads_naturally_to": ["Mount Washington via Huntington Ravine Trail (the technical ravine route, major step up in difficulty)", "Presidential Traverse — Washington to Madison (Gulfside Trail across the Northern Presi ridge)", "Mt. Adams via King Ravine Trail (another technical ravine approach in the Presi Range)", "Lion Head Winter Route (same approach, major difficulty step in winter conditions)"],
+    "progression_notes": "Lion Head is the standard pathway for hikers ready for Washington's summit but not yet ready for Huntington Ravine. The gap between the two routes is substantial — Lion Head is a hard hike on a rough trail; Huntington Ravine is a Class 3–4 scramble with fatal fall exposure. Most hikers should do Lion Head at least once before evaluating whether Huntington Ravine is appropriate. Within the non-technical category, the Presidential Traverse (Washington to Madison along the Gulfside Trail) is the natural next step after a comfortable Lion Head summit — it covers similar above-treeline terrain but extends it to a full ridge day. The Lion Head Winter Route is a worthy winter goal for hikers who have a solid summer Lion Head and are learning winter mountaineering fundamentals."
+  },
+  "response_hints": {
+    "beginner_framing": "Mount Washington via Lion Head is a serious, full-day commitment — one of the hardest non-technical hikes in New England. The 4,250 feet of gain, the above-treeline weather exposure, and the length will test any hiker who hasn't been building fitness for months. That said, it is very achievable for fit, prepared hikers who take it seriously. Two things to lock in before you go: check the Mount Washington Observatory forecast (not the valley weather) and start at dawn — Washington's weather builds through the day and being on the summit by 9–10am significantly reduces your weather risk. The summit building with its cafeteria and restrooms is a genuine morale boost at the top. Carry far more warm clothes and rain gear than you think you'll need.",
+    "expert_framing": "Lion Head on a clear early-morning weekday in July or August is Washington at its best — the alpine garden zone below Lion Head has some of the finest high-elevation walking in New England, and the summit cone before the auto road opens is genuinely peaceful. The best loop option is up Lion Head, across the Alpine Garden Trail (see the blooming diapensia and Lapland rosebay in early July), then down Tuckerman Ravine Trail for a different perspective on the cirque. In winter, the Lion Head Winter Route is excellent training for bigger objectives — sustained ice axe and crampon travel, real summit conditions, and a clear objective. Go in December or January for the full experience; spring 'consolidation' conditions in March can be deceptively manageable.",
+    "safety_callout": "Mount Washington kills people every year — including experienced hikers. The three most common scenarios are: (1) hikers who checked the valley weather, not the summit forecast, and were surprised by conditions; (2) hikers caught above treeline in afternoon lightning without a turnaround plan; (3) winter hikers who underestimated the technical demands of ice axe and crampon travel at altitude in high wind. Check the Mount Washington Observatory forecast the morning of your hike. Set a firm turnaround time (usually noon) and honor it regardless of how close the summit feels. In winter, do not go without ice axe competency — a slip on the upper mountain in icy conditions with no arrest skill has a bad outcome."
+  }
+}

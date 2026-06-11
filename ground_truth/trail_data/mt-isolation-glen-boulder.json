@@ -1,0 +1,171 @@
+{
+  "id": "mt-isolation-glen-boulder",
+  "name": "Mt. Isolation via Glen Boulder Trail and Davis Path",
+  "peaks": [
+    {
+      "name": "Mt. Isolation",
+      "elevation_ft": 4004,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Presidential Range",
+  "stats": {
+    "distance_rt_miles": 12.0,
+    "elevation_gain_ft": 4800,
+    "highest_point_ft": 5000,
+    "above_treeline_miles": 4.0,
+    "typical_time_hrs": {
+      "beginner": 11.0,
+      "average": 8.5,
+      "experienced": 6.5
+    }
+  },
+  "difficulty": {
+    "fitness": 5,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "Fitness demand is the defining challenge: ~4,800 ft of total gain over 12 miles, with 3,500 ft packed into the first 3.2 miles of Glen Boulder Trail — one of the steepest sustained ascents in the Whites. The Davis Path then descends ~1,200 ft to the Isolation Trail junction, which must be re-climbed on the return. Total effort is comparable to the Franconia Ridge Loop but with a longer, flatter approach section. Technical demand is low: Glen Boulder Trail has steep rocky sections and open rock slabs near the boulder, but no scrambling requiring hands. Davis Path and the Isolation Trail spur are well-graded. The hazard on this route is weather exposure, not fall consequences."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "high",
+      "description": "The route spends an estimated 4 miles (round trip) above the ~4,400 ft treeline on the exposed upper Glen Boulder Trail ridge and the open Davis Path. The Davis Path junction sits at approximately 5,000 ft — full Presidential Range exposure. Weather on this section is governed by Mt. Washington patterns: winds regularly exceed 50 mph, and conditions can deteriorate from sunny to socked-in within 30 minutes. There is no shelter on the exposed ridge and no quick bailout once above treeline — retreat requires retracing 1.5 miles of exposed terrain before returning to tree cover.",
+      "mitigation": "Check the Mt. Washington Observatory Higher Summits Forecast before departure; this route is in the Observatory's forecast zone. Start by 6am to be off the exposed Davis Path by early afternoon. Carry full wind and rain layers regardless of morning conditions. Identify your turnaround point before leaving the trailhead."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "No cliff-consequence terrain on this route. The lower Glen Boulder Trail involves steep rock steps and some open rock slab sections below and above the Glen Boulder itself — footing requires attention, especially when wet. The upper Davis Path is cairned open terrain with no drop-offs. The Isolation Trail spur is forested and straightforward. A slip anywhere on this route results in a slide or stumble on steep terrain, not a fatal fall.",
+      "mitigation": "Trekking poles help on the steep rock steps of Glen Boulder Trail. Take care on the wet rock slabs near the boulder. Microspikes required on the upper exposed sections in icy conditions."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September"],
+    "viable_with_gear": ["October", "May"],
+    "avoid": ["November", "December", "January", "February", "March", "April"],
+    "seasonal_notes": "This route demands good weather — above-treeline exposure at Presidential Range elevations makes a bad-weather day genuinely dangerous. Late June through mid-September offers the most reliable window. October is viable but Presidential-level weather becomes more frequent; the Davis Path is fully exposed and an October storm can bring snow, ice, and 60+ mph winds. Winter adds significant complexity: the upper Glen Boulder Trail and Davis Path are often heavily iced or snow-covered, requiring crampons and experience with Presidential Range winter conditions. The route is not recommended for winter unless the party has strong winter mountaineering skills — this is not a casual snowshoe objective. An important year-round note: there is no water on the trail after approximately the first 0.75 miles of Glen Boulder Trail. Carry at least 3 liters for a summer day hike; more for shoulder season."
+  },
+  "tags": [
+    "above-treeline-weather-exposure",
+    "4k-footer",
+    "out-and-back",
+    "dog-friendly",
+    "parking-fee",
+    "ridge-walk"
+  ],
+  "hazards": [
+    {
+      "type": "weather-exposure",
+      "hazard_category": "weather-and-environment",
+      "description": "The upper Glen Boulder Trail and Davis Path sit at 4,400–5,000 ft with full exposure to Presidential Range weather patterns. The route spends an estimated 2 miles (one way) above treeline. Conditions can change from calm to severe in under an hour. Wind gusts exceeding 50 mph on the Davis Path are not rare in summer; in fall and spring they are common. The exposed section has no shelter and requires 1.5 miles of travel to return to treeline.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The open Davis Path and upper Glen Boulder ridge offer no protection from lightning. A typical Whites afternoon thunderstorm pattern puts the exposed section at high risk from noon onward in summer. The route cannot be exited quickly once above treeline — the 1.5-mile retreat to tree cover is all open terrain.",
+      "months_active": ["May", "June", "July", "August", "September"]
+    },
+    {
+      "type": "hypothermia-risk",
+      "hazard_category": "weather-and-environment",
+      "description": "The combination of Presidential-level wind, cold rain, and a long time commitment above treeline creates real hypothermia risk if the party is underdressed or caught by unexpected weather. At 5,000 ft with 50 mph wind and rain, effective wind chill can be near freezing on an August afternoon. The Davis Path traverse to Isolation adds significant time above treeline after the initial exposed ascent.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "navigation",
+      "hazard_category": "weather-and-environment",
+      "description": "The Davis Path junction at the top of Glen Boulder Trail is the key navigation decision point: left (north) leads toward Boott Spur and Mt. Washington; right (south) leads toward Mt. Isolation. In fog or cloud — common at 5,000 ft — the junction and the Davis Path itself are cairn-navigated with limited visibility. Parties unfamiliar with cairn navigation in whiteout conditions have overshot the Isolation Trail junction. A map and compass are essential above treeline.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "steep-terrain-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "Glen Boulder Trail's lower mile is a relentless rock staircase. The open rock slabs near and above the Glen Boulder are steep and slippery when wet. No cliff-consequence drops — a slip results in a slide on rocky terrain, not a fatal fall. The risk is aggravated in wet, icy, or leaf-covered conditions on the descent.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Wind shell and insulating layer (mandatory — Davis Path is exposed Presidential terrain)",
+      "Rain jacket",
+      "Trekking poles",
+      "Map and compass (cairn navigation in cloud is required above treeline)",
+      "Minimum 3 liters water — NO water sources after first 0.75 miles of Glen Boulder Trail",
+      "Headlamp (12-mile days with early starts or late finishes)",
+      "Extra food for long day",
+      "AMC White Mountains map — Presidential Range south",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required on upper Glen Boulder and Davis Path when icy)",
+      "Full insulation system — wind and rain at 5,000 ft with freezing temperatures",
+      "Warmer gloves, hat, and face protection",
+      "Consider early June: trail may have lingering ice on the exposed upper sections"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Crampons (essential — Davis Path and upper Glen Boulder Trail ice up severely)",
+      "Ice axe (for hard ice on steep upper sections of Glen Boulder)",
+      "Full winter mountaineering insulation",
+      "Emergency bivouac gear — 12-mile day in short daylight hours with high rescue risk",
+      "Strong winter Presidential Range experience required",
+      "This is NOT a casual winter objective"
+    ]
+  },
+  "trailhead": {
+    "name": "Glen Ellis Falls Scenic Area Trailhead",
+    "lat": 44.2455,
+    "lon": -71.2534,
+    "parking": "USFS day-use parking lot at Glen Ellis Falls Scenic Area on Route 16. Fee required — America the Beautiful pass accepted; verify current day-use rate with WMNF. Lot holds approximately 30 cars and is shared with Glen Ellis Falls walkers. Arrives full by 8am on summer weekends. Additional overflow at Pinkham Notch Visitor Center (~0.75 miles north on Route 16).",
+    "access_road": "Route 16 (Pinkham Notch Highway), approximately 0.75 miles south of the AMC Pinkham Notch Visitor Center. Parking area on the west side of the road. Year-round road access.",
+    "nearest_town": "Jackson, NH",
+    "amenities": ["Toilets at trailhead parking area", "AMC Pinkham Notch Visitor Center 0.75 mi north (water, food, gear, rescue coordination)"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "USFS White Mountain NF — Pinkham Notch Area Trails",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/pemigewasset-ranger-district",
+      "notes": "Access road status, parking fees, and current trail advisories for the Pinkham Notch corridor"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mt. Isolation via Glen Boulder Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-isolation-via-glen-boulder-trail",
+      "notes": "Current conditions, user-reported trail state, GPS track"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory — Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "REQUIRED before any trip to this route. The Davis Path at 5,000 ft is in the Observatory forecast zone. Check every time."
+    },
+    {
+      "type": "summit-conditions",
+      "label": "AMC Pinkham Notch Visitor Center Conditions",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/pinkham-notch-visitor-center/",
+      "notes": "On-the-ground conditions, gear checks, and rescue coordination for this trailhead"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-tecumseh",
+      "mt-eisenhower-loop",
+      "mt-pierce-crawford-path",
+      "mt-jackson-webster-cliff"
+    ],
+    "leads_naturally_to": [
+      "mt-washington-lions-head",
+      "franconia-ridge-loop",
+      "mt-bond-bondcliff-loop"
+    ],
+    "progression_notes": "Mt. Isolation via Glen Boulder is a significant step up from beginner 4K footers. It introduces genuine Presidential Range weather exposure for the first time, demands strong fitness for the 4,800 ft / 12-mile effort, and requires cairn navigation above treeline. Hikers who complete this route have demonstrated the fitness and weather awareness needed for Mt. Washington via Lion's Head or Tuckerman Ravine. The Davis Path traverse is excellent preparation for longer above-treeline ridge routes like the Franconia Ridge Loop or the Bond-Bondcliff Loop. Do not attempt this route as a first foray above treeline — complete at least one shorter above-treeline hike (Eisenhower, Pierce) first to understand how quickly Presidential weather changes."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Isolation is one of New Hampshire's most remote 4,000-footers — the name describes the experience perfectly. The route via Glen Boulder Trail earns its 'hard' rating through sheer effort: 4,800 feet of climbing over 12 miles, with an absolutely relentless first 3 miles up the Glen Boulder Trail. But the payoff is exceptional — miles of walking on an open Presidential ridge with sweeping views, and a summit that feels genuinely earned. The weather is the main thing to take seriously here: at 5,000 feet on the Davis Path, you're in Presidential Range territory and the weather can change fast. This is not a trail for a first above-treeline experience. Build up with shorter above-treeline hikes (Eisenhower or Pierce) first, then come back for this one on a stable forecast day.",
+    "expert_framing": "Glen Boulder route gives you the most interesting ascent to Isolation — steep, direct, with a legitimate above-treeline ridge walk on the Davis Path rather than the slog in from Rocky Branch. The Davis Path views south from the junction are among the best in the range. Key practical notes: no water after the first 0.75 miles — carry 3L minimum in summer. The junction at 5,000 ft is a navigation decision in cloud; confirm south on Davis Path rather than drifting toward Boott Spur. Davis Path loses ~1,200 ft to the Isolation Trail junction — factor the regain on return into your energy budget. October is viable but the exposed Davis Path in an October nor'easter is full Presidential-level commitment. First tracks in post-storm snow on the Davis Path cairns are a route-finding problem in summer-only boots.",
+    "safety_callout": "Primary hazard is weather exposure, not fall risk. The Davis Path at ~5,000 ft is fully exposed Presidential Range terrain with no shelter and a 1.5-mile retreat to tree cover. The Observatory Higher Summits Forecast is mandatory before this trip. Afternoon thunderstorms are a serious lightning risk on the open ridge. There are no dangerous fall consequences on this route — the terrain is steep but never cliff-edged."
+  }
+}

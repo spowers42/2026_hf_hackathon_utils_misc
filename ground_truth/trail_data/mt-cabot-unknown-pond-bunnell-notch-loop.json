@@ -1,0 +1,182 @@
+{
+  "id": "mt-cabot-unknown-pond-bunnell-notch-loop",
+  "name": "Mt. Cabot, The Horn & The Bulge via Unknown Pond / Bunnell Notch Loop",
+  "peaks": [
+    {
+      "name": "Mount Cabot",
+      "elevation_ft": 4170,
+      "is_4k_footer": true
+    },
+    {
+      "name": "The Horn",
+      "elevation_ft": 3905,
+      "is_4k_footer": false
+    },
+    {
+      "name": "The Bulge",
+      "elevation_ft": 3950,
+      "is_4k_footer": false
+    }
+  ],
+  "region": "Northern Presidentials",
+  "stats": {
+    "distance_rt_miles": 11.5,
+    "elevation_gain_ft": 3200,
+    "highest_point_ft": 4170,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 9.0,
+      "average": 6.5,
+      "experienced": 5.0
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "Mount Cabot is the northernmost 4,000-footer in New Hampshire and the highest peak in the Pilot Range — a remote, heavily forested group of mountains north of the Presidential Range with almost no above-treeline terrain. The classic loop via Unknown Pond Trail and Bunnell Notch Trail is the definitive way to hike it, threading three summits together in a route that takes in the wilderness gem of Unknown Pond and the best viewpoint in the range at The Horn. The route begins on the Unknown Pond Trail off York Pond Road, passing through the Berlin Fish Hatchery grounds. This trailhead has a unique access note: a gate on York Pond Road is closed between 4 PM and 10 PM (pinned at 4 PM, locked at 10 PM) — hikers must return before 4 PM or after 10 PM to avoid being gated in or out. The Unknown Pond Trail climbs approximately 3 miles through dense, often overgrown forest with narrow trail tread and tall vegetation on both sides — a characteristic of the Pilot Range that gives the approach a remote, north-country feel. Bug pressure (black flies in late May–June, mosquitoes through August) is severe; noise while hiking is recommended to alert wildlife, as moose and bears are regularly encountered. Unknown Pond, reached at approximately 3 miles, is a serene wilderness pond with Mt. Cabot visible beyond — an excellent stopping point for rest. From Unknown Pond, the route joins the Kilkenny Ridge Trail heading south, passing the spur to The Horn (~0.3 miles from the junction). The Horn involves a brief hands-and-feet scramble to reach the exposed summit, but an easier bypass trail around the back exists; the viewpoint just below the summit offers the best views in the Pilot Range, including a classic reflecting-pool view of The Horn's profile from Unknown Pond (visible on the approach). The Bulge, 0.3 miles further south on the ridge, is a flat, forested hump marked only by a cairn — easy to miss. Mt. Cabot summit (4,170 ft), 0.8 miles beyond The Bulge, is entirely wooded with no views, marked by a rock cairn. The Cabot Cabin — an old fire warden's shelter maintained by a local Boy Scout troop — sits just below the summit and has a table and bunk beds inside; it is available for emergency use. A recently signed spur trail drops 200 feet to the Cabot Spring, a trickling water source. The descent follows the Kilkenny Ridge Trail north and then the Bunnell Notch Trail approximately 4 miles back to the Bunnell Notch Trailhead parking area on York Pond Road, followed by a 0.2-mile road walk back to the Unknown Pond Trail parking area. The Bunnell Notch Trail is described as persistently wet with many stream crossings and mud. The trail's overgrown lower sections on both Unknown Pond Trail and Bunnell Notch Trail are the primary navigation challenge — narrow trail in tall vegetation can be hard to follow."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "none",
+      "description": "All summits on this route are below the natural treeline. Mt. Cabot (4,170 ft), The Bulge (~3,950 ft), and The Horn (~3,905 ft) are entirely wooded or have only brief open viewpoints well below any meaningful alpine weather exposure. The Horn's open summit viewpoint is the only exposed section, and it is brief. No above-treeline weather risk on this route.",
+      "mitigation": "Standard rain gear. Afternoon thunderstorms in summer are possible; the Horn's summit viewpoint is the only exposed section and presents minimal lightning risk given its brief exposure. The overgrown lower trail sections channel cold air and retain moisture, making the temperature feel lower than forecast."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The primary fall risk is The Horn summit scramble — a short hands-and-feet move up exposed rock to reach the top. An easier bypass trail around the back of The Horn avoids the scramble. The scramble is brief and the rock is solid with good holds, but a slip on the steeper exposed sections could result in a fall. The Bulge and Mt. Cabot summits are entirely non-technical. The trail throughout involves roots, rocks, and potentially muddy stream crossings where twisted ankles are possible.",
+      "mitigation": "For The Horn, assess the scramble route from below before committing; use the easier bypass if uncertain. The main trail's stream crossings on Bunnell Notch Trail can be slippery on wet rocks; use trekking poles for balance. Wear gaiters or waterproof footwear for the wet Bunnell Notch Trail sections."
+    }
+  },
+  "seasons": {
+    "recommended": ["July", "August", "September", "October"],
+    "viable_with_gear": ["June", "November", "December"],
+    "avoid": ["January", "February", "March", "April", "May"],
+    "seasonal_notes": "May and early June should generally be avoided: black flies are ferocious and among the worst in New Hampshire in this remote north-country setting, trail vegetation is at peak overgrowth, and the Bunnell Notch Trail is its muddiest from snowmelt. Late June begins to be viable but bugs remain significant. July and August are the most reliable months for dry conditions and bearable bugs; carry bug spray and consider a head net regardless. September and October are the best months: clear, dry, foliage visible from The Horn's viewpoint, bugs gone, trail conditions good. November is marginal — the York Pond Road gate and fish hatchery access policy should be confirmed before visiting, and the trail can be icy. Winter: the approach via York Pond Road may be possible depending on conditions; some hikers snowshoe in from Route 110 to the York Pond trailheads in winter. The Bunnell Notch Trail is a long out-and-back winter approach. Call the Berlin Fish Hatchery (603-449-3412) to confirm gate policies before any off-season visit. This is one of the more remote NH 48 hikes and calling ahead is strongly recommended to avoid being gated in."
+  },
+  "tags": [
+    "4k-footer",
+    "loop",
+    "multi-peak",
+    "scrambling",
+    "dog-friendly",
+    "parking-fee",
+    "winter-viable",
+    "snowshoe-route"
+  ],
+  "hazards": [
+    {
+      "type": "fish-hatchery-gate-time-restriction",
+      "hazard_category": "weather-and-environment",
+      "description": "The York Pond Road gate through the Berlin Fish Hatchery grounds is closed (pinned) at 4:00 PM and locked at 10:00 PM. Hikers who return after 4 PM may find the gate closed (push it open) but must return before 10 PM or risk being gated in overnight. Call the Fish Hatchery at 603-449-3412 to confirm current gate policy before your hike. A slow party on this 11.5-mile loop could easily run up against the 4 PM closure.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "wildlife-bears-moose-overgrown-trail",
+      "hazard_category": "weather-and-environment",
+      "description": "The Unknown Pond Trail and Bunnell Notch Trail are narrow and heavily overgrown in summer, with tall vegetation reducing sightlines to near zero in some sections. Black bears and moose are regularly encountered in the Pilot Range north country. Poor visibility in the overgrown sections reduces the ability to see or hear animals before a close encounter. Make noise consistently while hiking through vegetation.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "severe-biting-insects",
+      "hazard_category": "weather-and-environment",
+      "description": "Black flies (late May through June) and mosquitoes (June through August) are exceptionally bad on this route. The dense forest, wet Bunnell Notch Trail, and remote north-country setting make bug pressure significantly worse than most White Mountain trails. Summit stops are limited because both Cabot and The Bulge are wooded with no breeze.",
+      "months_active": ["May", "June", "July", "August"]
+    },
+    {
+      "type": "wet-muddy-trail-stream-crossings",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Bunnell Notch Trail is persistently wet with mud and numerous small stream crossings. The trail is graded through a moist drainage and rarely dries completely even in summer. Wet rocks at stream crossings are slippery. Wet boots and mud-clogged footing are the norm on the descent.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "the-horn-scramble-exposed-summit",
+      "hazard_category": "terrain-and-fall",
+      "description": "The spur to The Horn's summit involves a brief hands-and-feet scramble on exposed rock. An easier bypass trail around the back of the summit avoids the hardest move. The scramble is short but exposed, and wet rock increases difficulty and slip risk.",
+      "months_active": ["May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "navigation-narrow-overgrown-trail",
+      "hazard_category": "terrain-and-fall",
+      "description": "Both the Unknown Pond Trail and Bunnell Notch Trail are narrow and may be difficult to follow where heavy vegetation obscures the trail tread. Multiple trail junctions exist on the Kilkenny Ridge Trail; one junction leads to a decommissioned trail (private property, no longer maintained). Download a GPS track or paper map before the hike. Cell service is limited throughout.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Waterproof or water-resistant boots — the Bunnell Notch Trail is persistently wet and muddy; trail runners will be soaked",
+      "Gaiters — highly recommended for the wet Bunnell Notch Trail descent",
+      "Bug head net — black flies in late May–June and mosquitoes through August are severe; a head net is not optional in peak bug season",
+      "DEET insect repellent",
+      "Trekking poles — useful for balance on wet stream crossings and muddy descent",
+      "2+ liters water — no reliable treated water sources; Bunnell Notch Trail crossings and Cabot Spring (below summit) are untreated",
+      "Bear awareness: make noise on overgrown sections, know how to behave in a bear encounter",
+      "Download GPS track or carry paper map — trail junctions and overgrown tread require navigation"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes — Bunnell Notch Trail stream crossings and rocky trail sections can be icy in late fall and early spring",
+      "Extra insulating layers — moist north-country forest at elevation feels significantly colder than valley temps",
+      "Confirm fish hatchery gate policy by phone (603-449-3412) before visiting in shoulder season"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Microspikes or snowshoes depending on snow depth",
+      "Full cold-weather layering",
+      "Confirm York Pond Road access and gate policy before departure — call Berlin Fish Hatchery (603-449-3412)",
+      "GPS/compass essential — trail blazes may be snow-covered at junctions"
+    ]
+  },
+  "trailhead": {
+    "name": "Unknown Pond Trail / Bunnell Notch Trail, York Pond Road",
+    "lat": 44.4982,
+    "lon": -71.3585,
+    "parking": "Two small parking areas off York Pond Road, approximately 0.2 miles apart: one for Unknown Pond Trail and one for Bunnell Notch Trail. Both are accessed through the Berlin Fish Hatchery grounds. WMNF recreation pass or day fee ($3 cash) required. IMPORTANT: A gate on York Pond Road is closed at 4:00 PM (pinned, not locked until 10:00 PM). Call the Berlin Fish Hatchery at 603-449-3412 before your hike to confirm current gate hours. Plan your return to beat the 4 PM gate-close on this long 11.5-mile loop — on a typical hiking pace this requires an early start.",
+    "access_road": "From Route 110 approximately 5 miles northwest of Berlin, NH: turn south onto York Pond Road (signed for Berlin Fish Hatchery). Follow York Pond Road past the hatchery buildings to the far end of the complex. Continue on a dirt road past several fire roads; the Bunnell Notch Trailhead appears on the right, and the Unknown Pond Trail parking is approximately 0.2 miles further. GPS: 44.4982, -71.3585 (use 'Berlin Fish Hatchery, NH' as a navigation landmark — the trailhead is just past the hatchery complex). Road is unpaved and can be rough.",
+    "nearest_town": "Berlin, NH",
+    "amenities": ["Berlin Fish Hatchery nearby (trout tanks visible on access road — worth a look)", "WMNF fee station", "Cabot Cabin at summit (primitive shelter with bunk beds and table; emergency use)", "Cabot Spring spur near summit (signed, small flow — bring purification)"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mount Cabot Loop (Bulge & Horn)",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mt-cabot-loop-bulge-horn"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mount Cabot via Bunnell Notch Trail (out-and-back)",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-cabot-trail"
+    },
+    {
+      "type": "trip-report",
+      "label": "SectionHiker — Hiking Mt. Cabot in June",
+      "url": "https://sectionhiker.com/hiking-mt-cabot-june/"
+    },
+    {
+      "type": "official-trail-page",
+      "label": "WMNF — Pilot Range / Mt. Cabot trail information",
+      "url": "https://www.fs.usda.gov/recarea/whitemountain/recarea/?recid=74753"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mountain Forecast — Mount Cabot",
+      "url": "https://www.mountain-forecast.com/peaks/Mount-Cabot/forecasts/1271"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-waumbek-starr-king",
+      "mt-moriah-carter-moriah"
+    ],
+    "leads_naturally_to": [
+      "mt-waumbek-starr-king"
+    ],
+    "progression_notes": "Mt. Cabot is a character-builder more than a technical achievement — the summit is wooded and viewless, the approach is overgrown and buggy, and the reward is a genuine sense of wilderness remoteness combined with the satisfaction of reaching New Hampshire's northernmost 4,000-footer. Hikers who prioritize big views and open ridge walking will leave underwhelmed; hikers drawn to the north country's remote forest character and wildlife encounters will find this one of the most memorable NH 48 peaks. The Horn spur is strongly recommended as the scenic reward of the loop — it provides the only significant views on the route and is on the NH 52 With a View list. Mt. Waumbek and Starr King in the adjacent Pliny Range make a natural pairing for hikers intent on completing the north country peaks, sharing a similar remote character and modest technical demands. The Pilot Range loop (Cabot, Bulge, Horn) and the Pliny Range traverse (Starr King, Waumbek) together cover all four north-country NH 4K footers in two visits."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Cabot is New Hampshire's most northern 4,000-footer, way up near Berlin in a remote forested range called the Pilot Range. The full loop via Unknown Pond Trail and Bunnell Notch Trail is about 11.5 miles and takes most people 6–7 hours. Here's what's special about this hike: the trail passes through the Berlin Fish Hatchery (where you can see huge concrete tanks full of trout), arrives at Unknown Pond (a beautiful wilderness pond with Cabot in the background), and goes over The Horn — a small scramble with the best views in the area. The actual Mt. Cabot summit is wooded and you can't see much, but there's an old wood cabin near the summit where hikers have signed the logbook for decades. A few important things: there's a gate on York Pond Road that closes at 4 PM and locks at 10 PM — you'll want an early start on this long hike. Black flies and mosquitoes are ferocious here in late May and June, so consider July–October instead. The Bunnell Notch Trail descent is very wet and muddy; waterproof boots are basically required.",
+    "expert_framing": "Classic north-country NH 48 loop: 11.5 mi, 3,200 ft, fitness-4, technical-2, hard. Pilot Range character: dense forest, narrow overgrown trail, persistent mud on Bunnell Notch Trail. Route hits three summits: The Horn (best views, brief scramble, 52WaV, bypass available), The Bulge (cairn, viewless), Cabot (4,170 ft, viewless, cairn, Cabot Cabin). Above-treeline: 0.0 mi. AMC hut: null (Cabot Cabin is non-AMC primitive shelter near summit). Gate critical: York Pond Road closes 4 PM (locked 10 PM); call Berlin Fish Hatchery 603-449-3412. Bugs: severe May–June; head net is mandatory gear. Wildlife: bears and moose regularly encountered in overgrown trail sections — make noise. Alternate: out-and-back via Bunnell Notch only is 9.6 mi / ~3,000 ft. Region: Pilot Range (categorized as Northern Presidentials in planning context). Nearest town: Berlin, NH.",
+    "safety_callout": "The gate on York Pond Road is the primary logistical hazard — it is closed at 4 PM and locked at 10 PM. A slow group on this 11.5-mile loop could easily be gated in. Start early and call the Berlin Fish Hatchery (603-449-3412) before your hike to confirm current gate policy. Make noise while hiking through the overgrown trail sections — bear and moose encounters are common, and visibility in dense vegetation is poor. Bug head nets are not optional in late May and June."
+  }
+}

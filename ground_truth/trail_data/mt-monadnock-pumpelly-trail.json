@@ -1,0 +1,174 @@
+{
+  "id": "mt-monadnock-pumpelly-trail",
+  "name": "Mt. Monadnock via Pumpelly Trail",
+  "peaks": [
+    {
+      "name": "Mt. Monadnock",
+      "elevation_ft": 3165,
+      "is_4k_footer": false,
+      "notes": "Mt. Monadnock is not a NH 4,000-footer (summit is 3,165 ft). It is widely regarded as the most-climbed mountain in North America and the highest point in southern NH. Not in the White Mountain National Forest; managed by NH State Parks. The summit and upper ridge are bare rock due to intentional burning in the 18th and 19th centuries and naturally thin glaciated soils — not altitude-driven treeline. The summit ecosystem is sub-alpine in character despite being well below the 4,400 ft threshold used elsewhere in this system."
+    }
+  ],
+  "region": "Monadnock Region",
+  "stats": {
+    "distance_rt_miles": 8.8,
+    "elevation_gain_ft": 1800,
+    "highest_point_ft": 3165,
+    "above_treeline_miles": 0.0,
+    "above_treeline_notes": "Schema uses 4,400 ft threshold; Monadnock's summit at 3,165 ft is below this threshold and above_treeline_miles is 0.0 by strict definition. However, the upper ~1.5-2 miles of the Pumpelly Trail traverse open rocky ridge and bare summit terrain that is ecologically exposed — wind, lightning, and temperature drop are genuine hazards on this section. This exposure is documented in the exposure and hazard fields rather than the above_treeline_miles value.",
+    "typical_time_hrs": {
+      "beginner": 6.5,
+      "average": 5.0,
+      "experienced": 4.0
+    }
+  },
+  "difficulty": {
+    "fitness": 2,
+    "technical": 2,
+    "overall_label": "moderate",
+    "notes": "The Pumpelly Trail is the longest route to Monadnock's summit and thus the most demanding of the major approaches by distance, but the gain (~1,800 ft over 4.4 miles one-way) is modest and well-distributed compared to White Mountains routes in this system. Fitness demand is low-moderate: no steep sustained slogs, mostly a gradual wooded approach for the first 2+ miles transitioning to open rocky ridge in the upper half. Technical demand is low-moderate: the Pumpelly Ridge offers occasional rocky ledge sections requiring careful footing and the summit area involves gentle boulder scrambling — nothing demanding by White Mountains standards, but wet granite ledges warrant attention. The overall 'moderate' rating is accurate for fit beginners and accessible to experienced hikers as a pleasant outing. The 8.8-mile round trip is the primary challenge, not the terrain. Hikers accustomed to Presidential Range routes will find Monadnock considerably more forgiving in every dimension."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "moderate",
+      "description": "Monadnock's summit and the Pumpelly Ridge are genuinely exposed to weather despite the modest elevation (3,165 ft). The mountain rises nearly 1,600 ft above the surrounding terrain and stands as the clear high point for approximately 30 miles in any direction across southern NH — this isolation concentrates weather effects and significantly increases lightning risk. The open rocky ridge above approximately 2,700 ft (roughly the upper 1.5-2 miles of the Pumpelly approach) is fully exposed with no shelter. Weather on the summit can deteriorate quickly; afternoon thunderstorms are common in summer. Compared to the Presidential Range, the exposure is meaningfully less severe: there is no equivalent to the Higher Summits Forecast, and a storm on Monadnock does not carry the life-threatening windchills of the Northern Presidentials. Nonetheless, the isolated summit has caused fatalities and serious injuries, primarily from lightning and falls on wet rock.",
+      "mitigation": "Check the National Weather Service point forecast for the Monadnock summit area before departing. Start early — convective thunderstorms are most common 1–4 pm in summer; plan to summit by noon and be off the open ridge before early afternoon. If thunder is audible from anywhere on the route, descend immediately — the ridge and summit have no cover. Carry a rain shell and light insulating layer even on clear mornings; temperature drops of 10–15°F are common between the trailhead and summit."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Pumpelly Trail is the most forgiving of the major Monadnock routes in terms of fall risk. The primary hazard is smooth granite ledges on the Pumpelly Ridge (above roughly mile 2.5) that become slippery when wet. The summit area involves some gentle boulder scrambling to reach the high point. There are no cliff edges, exposed traverses, or sustained steep terrain comparable to White Mountains routes. Falls on wet ledge can cause injury — slips and twisted ankles are documented — but the terrain does not carry the serious consequence of routes like King Ravine or Caps Ridge. The 'low' rating is honest for typical conditions; wet-ledge risk is real and worth managing on descent, but it is not a defining hazard of this route.",
+      "mitigation": "Wear boots or trail runners with good traction; the Pumpelly Ridge ledges become slick in rain. Take extra care on descent, when tired legs increase slip risk on wet rock. Before beginning the descent, locate the 'PUMPELLY' sign painted on a boulder near the summit — this identifies your descent trail and prevents a navigational error that could send you down the wrong route to the wrong trailhead."
+    }
+  },
+  "seasons": {
+    "recommended": ["May", "June", "July", "August", "September", "October"],
+    "viable_with_gear": ["April", "November"],
+    "avoid": ["December", "January", "February", "March"],
+    "seasonal_notes": "Peak hiking season is May–October. Late June through early August is peak for summit wildflowers and blueberries on the ridge; late September–early October for fall foliage views from the open Pumpelly Ridge. Monadnock is extremely popular on summer and fall weekends — the main park lots in Jaffrey fill early and advance reservations are required — but the Pumpelly trailhead on Lake Road is roadside parking only (2–3 cars), which provides a natural crowd cap. Arrive by 8 am on peak weekends to secure a spot. April and November are viable with microspikes; the upper ridge ledges hold ice in shoulder seasons. Winter: the rocky ridge and summit are icy and exposed; crampons and full cold-weather layering required. December–March should be treated as a winter mountaineering objective appropriate only for prepared parties. NH State Parks manages all access — check nhstateparks.org for any seasonal closures or conditions updates."
+  },
+  "tags": [
+    "weather-exposure-moderate",
+    "fall-exposure-low",
+    "rocky-ledge",
+    "out-and-back",
+    "free-parking",
+    "limited-parking",
+    "no-dogs-allowed",
+    "no-amc-hut",
+    "nh-state-park",
+    "non-white-mountains",
+    "non-4k-footer",
+    "summit-navigation-note",
+    "glacial-erratic",
+    "sub-alpine-ridge"
+  ],
+  "hazards": [
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "Monadnock's isolated summit is the dominant high point for approximately 30 miles in any direction across southern NH. This makes the open rocky summit and Pumpelly Ridge a concentrated lightning-strike target during convective weather. The exposure begins at roughly mile 2.5–3.0 as the trail transitions to open ridge and continues for nearly 2 miles to the summit. There is no shelter on the ridge or the summit. Lightning fatalities and injuries have occurred on Monadnock. The risk is highest June–August when afternoon thunderstorms are most common, but active-sky lightning is a threat in any shoulder-season month.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "wet-rock-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Pumpelly Ridge and summit approach are on bare granite ledges that become slippery when wet. The rock has been polished by decades of heavy foot traffic and has reduced natural grip compared to rougher alpine terrain. Descent is more hazardous than ascent — tired legs on smooth wet rock is the most common condition leading to slips and falls on this route. Injuries from slips are documented, though the terrain does not carry serious consequence without cliff proximity.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "summit-navigation-error",
+      "hazard_category": "terrain-and-fall",
+      "description": "Monadnock's summit is a large open rock expanse where more than a dozen trails converge. In fog, rain, or after the mental fatigue of a long Pumpelly ridge approach, hikers regularly miss their descent trail junction and begin descending a different route — most commonly toward the main park HQ in Jaffrey, several miles from the Pumpelly trailhead and without transportation back. The key navigational anchor for the Pumpelly descent is a 'PUMPELLY' sign painted on a rock near the summit; find and confirm this marker before beginning your descent. White blazes on rock are used across multiple summit trails and can be confusing.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "hypothermia-risk",
+      "hazard_category": "weather-and-environment",
+      "description": "Although far lower and less exposed than the Presidential Range, Monadnock's open ridge and summit produce real windchill in cold, wet, or windy conditions. Summer afternoon storms can drop temperatures significantly on the exposed ridge; a hiker in wet clothing on a windy summit at 3,165 ft faces hypothermia risk if not adequately layered. The long Pumpelly approach means a deteriorating weather event can catch hikers well out on the ridge with no cover and a 2+ mile exposed walk back to tree shelter.",
+      "months_active": ["September", "October", "November", "April", "May"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The rocky ledges on Pumpelly Ridge and the bare summit accumulate ice in shoulder seasons and winter. The open ridge above tree cover forms ice earlier in fall and holds it later in spring than forested trails below. In winter, the summit rocks and ridge ledges are typically coated in rime ice or wind slab. Microspikes are recommended for shoulder-season hikes (April and October–November); crampons are appropriate for winter.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Boots or trail runners with firm traction — granite ledges become slick when wet; this matters more on descent",
+      "Rain shell — afternoon storms are common; the open Pumpelly Ridge has no cover",
+      "Light insulating layer — summit is typically 10–15°F colder and windier than the Lake Road trailhead",
+      "Water: 2 liters minimum — no reliable water sources on route beyond the lower trail start",
+      "Sun protection — extended open ridge walk with no tree cover",
+      "Trekking poles (optional; helpful for footing on wet rock descent)",
+      "Downloaded topo or paper map — the summit's multi-trail convergence warrants navigation backup",
+      "Headlamp for early starts or delayed return"
+    ],
+    "shoulder_season": [
+      "All three-season gear plus:",
+      "Microspikes — upper ridge ledges hold ice in April and October–November",
+      "Extra warm layers — summit wind and cold are significant outside the core summer window",
+      "Waterproof insulated gloves"
+    ],
+    "winter": [
+      "All shoulder-season gear plus:",
+      "Crampons — upper ridge and summit are typically iced in December–March",
+      "Insulated shell jacket and insulated pants",
+      "Balaclava and insulated gloves",
+      "Note: Monadnock in winter is not a Presidential-scale objective, but the iced rocky ridge and exposed summit require proper winter hiking gear; do not approach in snowshoes alone if ledge ice is present"
+    ]
+  },
+  "trailhead": {
+    "name": "Pumpelly Trail Trailhead (Lake Road, Dublin NH)",
+    "lat": 42.8925,
+    "lon": -72.0605,
+    "parking": "VERIFY coordinates — approximate based on Lake Road / Dublin Lake description. Free roadside parking on Lake Road in Dublin NH; approximately 2–3 vehicles only on the left (east) side of the road. This is NOT a managed NH State Parks lot; there is no fee here. The main managed lots (park HQ at 169 Poole Road, Jaffrey; Old Toll Road entrance; Gilson Pond) charge $15/vehicle and require advance reservations on peak summer/fall weekends. Hikers using the Pumpelly trailhead avoid the reservation system entirely but must arrive early — roadside spots fill by 8–9 am on summer weekend days. Do NOT park in Dublin Lake residential driveways or pull-offs.",
+    "access_road": "From Route 101 in Dublin NH, turn south onto Lake Road (approximately 2.4 miles west of the Route 101/137 junction and 7.8 miles east of the Route 101/124 junction). Follow Lake Road south past Dublin Lake approximately 0.5–0.7 miles; the Pumpelly trailhead is on the left (east) side of the road. Look for trail signage and a small roadside pull-off.",
+    "nearest_town": "Dublin, NH (approximately 1 mile north on Route 101); Jaffrey, NH (approximately 5 miles south, location of main park HQ)",
+    "amenities": ["No facilities at this trailhead", "Vault toilets at main park HQ in Jaffrey (169 Poole Road) — not at this trailhead", "No potable water"],
+    "special_notes": "NO PETS ALLOWED on any trail within Monadnock State Park boundaries, including the Pumpelly Trail. This is an NH State Parks regulation, strictly enforced. Rangers patrol the mountain and have turned hikers with dogs around at the trailhead. This is a hard rule, not a recommendation — do not bring dogs."
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "Mt. Monadnock State Park — NH State Parks",
+      "url": "https://www.nhstateparks.org/visit/state-parks/monadnock-state-park",
+      "notes": "Surface for trail conditions, fee info, managed lot reservations, and pet policy confirmation"
+    },
+    {
+      "type": "alltrails",
+      "label": "Pumpelly Trail — AllTrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/pumpelly-trail",
+      "notes": "Surface for current user conditions and trip reports; 2,125+ reviews as of mid-2025"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "NWS Point Forecast — Mt. Monadnock Summit Area",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-72.06602096557617&lat=42.86215619097038",
+      "notes": "Surface every time a user asks about conditions or weather on this route. There is no AMC Observatory Higher Summits Forecast for Monadnock — this NWS point forecast is the authoritative pre-hike weather check."
+    },
+    {
+      "type": "state-park-reservations",
+      "label": "Monadnock State Park Day Use Reservations — NH State Parks",
+      "url": "https://www.nhstateparks.org/visit/state-parks/monadnock-state-park",
+      "notes": "Surface if user is considering the managed lots (HQ, Old Toll Road, Gilson Pond) — these require advance reservations on peak weekends. Note: the Pumpelly trailhead on Lake Road is free roadside parking with no reservation system but only 2–3 spots."
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-tecumseh-ski-area"
+    ],
+    "leads_naturally_to": [
+      "mt-moosilauke-gorge-brook",
+      "mt-eisenhower-edmands-path"
+    ],
+    "progression_notes": "Monadnock via the Pumpelly Trail functions as an excellent introduction to above-treeline ridge travel at lower stakes than the White Mountains 4K footer list. The long, gradual ridge walk teaches hikers what open terrain, summit navigation, and weather awareness look like before they encounter Presidential exposure. For many New Englanders, Monadnock is their first mountain; for others it is a stepping stone from shorter day hikes toward the NH 48. From this route, the natural progression is toward gentler White Mountains entries: Mt. Eisenhower via Edmands Path (similarly well-graded, limited technical demand, good introduction to real Presidential weather) or Mt. Moosilauke (4,802 ft; moderate technical rating; extensive above-treeline ridge that rewards the Pumpelly ridge-walk experience at higher stakes). Both are good first 4K footer choices for hikers whose primary previous above-treeline experience is Monadnock."
+  },
+  "response_hints": {
+    "beginner_framing": "The Pumpelly Trail is the 'back way' up Monadnock — longer than the popular White Dot Trail, but much quieter and widely considered the most beautiful approach. You spend most of the hike on an open rocky ridge with long views in every direction, passing a famous house-sized glacial boulder called the Sarcophagus and crossing small alpine bogs before the final rocky push to the summit. The distance (8.8 miles round trip) is the main challenge — the climbing itself is gradual and very manageable. Two things to know before you go: (1) the summit is a large, flat rock area where many trails meet — find the 'PUMPELLY' sign painted on a boulder before you start back down so you descend the right trail; (2) dogs are not allowed anywhere on Monadnock, no exceptions.",
+    "expert_framing": "Pumpelly Trail: 4.4 mi one-way, ~1,800 ft, Lake Road trailhead (Dublin). Gradual wooded approach (~2 mi) transitions to Pumpelly Ridge — ~1.5-2 mi of open rocky ledge to summit. Key features: The Sarcophagus (glacial erratic), small alpine bogs, bare summit expanse. Schema: above_treeline_miles = 0.0 (4,400 ft threshold; summit 3,165 ft) but upper ridge is ecologically exposed — weather exposure real. Primary hazards: lightning (dominant high point for ~30 mi; concentrated strikes), wet-rock slip on granite ledge, summit navigation (multi-trail convergence; 'PUMPELLY' rock sign is the descent key). No AMC huts; no WMNF pass; free roadside parking (2-3 spots, arrive early). No dogs — hard NH State Parks rule. Weather: NWS point forecast only, no Higher Summits equivalent. Fitness 2 / Technical 2 / Overall: moderate.",
+    "safety_callout": "Two distinct hazards on this route. Weather: Monadnock is the high point for ~30 miles of southern NH — the isolated summit is a concentrated lightning target, and the open Pumpelly Ridge has no shelter; plan to be off the exposed ridge before early afternoon in summer and always check the NWS summit-area forecast. Fall risk is low: wet granite ledges on the ridge and summit approach can cause slips, especially on descent with tired legs; traction footwear matters. One additional critical note: summit navigation — more than a dozen trails converge on Monadnock's broad summit; locate the 'PUMPELLY' sign painted on a boulder before beginning your descent or you risk descending to the wrong trailhead miles from your car."
+  }
+}

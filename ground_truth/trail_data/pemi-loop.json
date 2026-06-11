@@ -1,0 +1,182 @@
+{
+  "id": "pemi-loop",
+  "name": "Pemigewasset Wilderness Loop (Pemi Loop)",
+  "region": "Pemigewasset Wilderness",
+  "summary": "The Pemi Loop is the iconic multi-day circuit of the Pemigewasset Wilderness — a 31.5-mile horseshoe that links nine 4,000-foot summits across two of the finest ridgelines in the White Mountains. Starting from the Lincoln Woods Trailhead on the Kancamagus Highway, the route traverses the Bond Ridge (Bondcliff, Mt. Bond, West Bond), climbs South Twin Mountain, passes through the AMC Galehead Hut, crosses Mt. Garfield and the Garfield Ridge, and finishes along the Franconia Ridge over Mt. Lafayette, Mt. Lincoln, and Little Haystack before descending to the valley. The loop closes via the flat Pemi Trail along the East Branch of the Pemigewasset River. Most hikers complete it over two to three days with a camp at the Galehead Hut or one of the Wilderness backcountry sites; a growing number of fit hikers tackle it as a single long day. The Pemi Loop sits in a different category from the Presidential Traverse — less weather-exposed overall, but with a broader sense of wilderness immersion, longer approach miles through old logging railroad corridors, and the wild Bond Ridge as an experience that few casual hikers ever reach. It is widely considered the finest multi-peak backpacking circuit in the northeastern United States.",
+  "tags": ["4k-footer", "loop", "multi-peak", "above-treeline-weather-exposure", "alpine-zone", "parking-fee", "ridge-walk", "hut-access", "dog-friendly"],
+  "stats": {
+    "distance_rt_miles": 31.5,
+    "elevation_gain_ft": 9000,
+    "highest_point_ft": 5260,
+    "above_treeline_miles": 6.0,
+    "typical_time_hrs": {
+      "beginner": 22.0,
+      "average": 18.0,
+      "experienced": 14.0
+    }
+  },
+  "difficulty": {
+    "fitness": 5,
+    "technical": 2,
+    "overall_label": "very hard",
+    "notes": "The Pemi Loop is the longest and most sustained hiking route in this guide — 31.5 miles with 9,000 feet of gain across nine 4K summits. Technical difficulty is moderate: no obligatory scrambling, no cliff exposure on the hiking trail, and the Franconia Ridge and Garfield Ridge are well-maintained with good footing. The challenge is almost entirely about volume and wilderness logistics. Note that typical_time_hrs reflects total moving time; this route is a multi-day backpacking trip for the vast majority of hikers (2 days with hut or tentsite, or 3 comfortable days). The 'experienced' time of 14 hours represents a hard single-day effort by a very fit hiker who already knows the route. Bondcliff's summit area requires care near the cliff edge, and the Franconia Ridge section carries genuine above-treeline weather exposure."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "moderate",
+      "description": "The Pemi Loop includes approximately 6 miles of above-treeline terrain across two distinct exposed sections: the Franconia Ridge (Mt. Lafayette, Mt. Lincoln, Little Haystack — fully above treeline for ~3 miles and fully exposed to wind and lightning) and the Bond Ridge (Bondcliff summit, Mt. Bond summit plateau, West Bond — above or at treeline for ~2-3 miles). The remainder of the route is primarily forested, with the long river-corridor approaches on the Lincoln Woods Trail and Pemi Trail sheltered from weather. Weather risk is concentrated on the Franconia Ridge, where afternoon thunderstorms and sudden wind events match the severity found on any White Mountains alpine zone. The rest of the loop is substantially less exposed than the Presidential Traverse.",
+      "mitigation": "Check the forecast before departure and each morning of a multi-day trip. On the Franconia Ridge section, aim to cross the open ridge in the morning before afternoon convection develops — this is particularly important from June through August. The Bond Ridge is lower (peaking at 4,698 ft on Bond) and less weather-exposed than Franconia, but Bondcliff's open summit and Bond's summit plateau should be cleared before afternoon storms. The Galehead Hut is the primary emergency shelter on the northern arc of the loop. Carry full hardshell rain gear regardless of morning conditions."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Pemi Loop is non-technical hiking with limited fall exposure on the maintained trail. The primary fall-risk zone is the Bondcliff summit area — the summit platform sits on the edge of a dramatic cliff dropping hundreds of feet into the Pemigewasset Wilderness below, and in wet or icy conditions, or with an off-trail step near the edge, the consequence is severe. The Franconia Ridge is exposed ridge walking but the maintained trail does not approach significant drop-offs. Rocky, rooted terrain throughout the loop creates ankle twist and stumble risk over the full 31.5-mile distance, and fatigue in the later miles amplifies this meaningfully.",
+      "mitigation": "Stay on the hiking trail near Bondcliff's summit — the cliff edge is immediately adjacent and clearly visible, but require explicit awareness. Use trekking poles for the long mileage and rocky terrain — they make a significant difference across 31 miles. In October and beyond, microspikes are required on the above-treeline sections. Pace carefully on the final descent off Franconia Ridge; the Falling Waters Trail is steep and rocky when legs are tired."
+    }
+  },
+  "trailhead": {
+    "name": "Lincoln Woods Trailhead",
+    "lat": 44.0618,
+    "lon": -71.5983,
+    "parking": "Large WMNF paved parking area on the north side of the Kancamagus Highway (Route 112), approximately 5.0 miles east of Exit 32 on I-93 in Lincoln, NH. Accommodates 80-100 vehicles. WMNF Recreation Pass required ($5/day or America the Beautiful annual pass). Flush toilets at the trailhead. This is one of the most heavily used trailheads in the White Mountains — arrives fills early on summer and fall weekends. Overflow parking exists nearby but adds walking distance. The Lincoln Woods Trailhead is the primary start/finish for the Pemi Loop and also serves hikers bound for the Franconia Falls day hike, making the lot extremely competitive on good-weather weekends.",
+    "access_road": "On Kancamagus Highway (NH Route 112), approximately 5.0 miles east of Lincoln, NH and Exit 32 on I-93. Look for the large brown trailhead sign and paved lot on the north side of the highway. Year-round paved access; the Kancamagus Highway is plowed in winter. Note for Pemi Loop logistics: the loop closes at the Falling Waters Trail exit near Lafayette Place Campground on I-93 (approximately 44.1312, -71.6840), approximately 2.5 miles west via the Pemi Trail along the river, or 8 miles by road. Most loop hikers return to Lincoln Woods TH via the flat Pemi Trail (adds ~2.5 easy miles) rather than a car shuttle.",
+    "nearest_town": "Lincoln",
+    "amenities": ["flush toilets at Lincoln Woods TH", "large paved parking lot (fee)", "Franconia Falls day-hike side trip at ~2.7 mi (worth the short detour on a multi-day trip)", "AMC Galehead Hut at ~15 mi (full-service June through late September; meals, bunks, water; reservations required)", "Garfield Ridge Campsite (tentsite with water near Garfield Ridge Trail, no reservation required, small camping fee)", "Franconia Brook Tentsite (backcountry tentsite near Bondcliff Trail, first-come seasonal use)", "Lafayette Place Campground (WMNF developed campground on I-93, near Falling Waters TH — usable for multi-day staging with two vehicles)"]
+  },
+  "route_description": "The Pemi Loop is most commonly completed counterclockwise (Bonds first, Franconia Ridge last) — this frontloads the remote, quieter Bond Ridge on fresh legs and saves the dramatic and well-trafficked Franconia Ridge for the finish. The route description below follows the counterclockwise direction.\n\n**Lincoln Woods TH to Bondcliff (0 to ~7 mi):** From the trailhead, follow the Lincoln Woods Trail east on the broad flat corridor of an old logging railroad grade. This section — nearly flat for 5 miles along the East Branch of the Pemi River — is an unusual and pleasant feature of this loop. At approximately 2.7 miles, the side trail to Franconia Falls splits off to the north — worth the 0.4-mile detour if you have time. Continue east to the Bondcliff Trail junction and turn north (left). The Bondcliff Trail climbs steeply through spruce-fir forest before emerging at the open rocky ridge near Bondcliff. The summit of Bondcliff (4,265 ft, ~7 mi) is one of the most dramatic viewpoints in the White Mountains — the summit platform sits on the edge of a sheer cliff dropping 1,000+ feet into the Pemi Wilderness below, with a sweeping view of the entire cirque: the river, the logging-era railroad cuts, and the distant Franconia Ridge across the valley.\n\n**Bond Ridge — Bondcliff to South Twin (~7 to 11.5 mi):** From Bondcliff, the trail follows the open ridge northwest to Mt. Bond (4,698 ft, ~8 mi) — a broad summit plateau with panoramic views in all directions, often less windy than Bondcliff. A 0.4-mile spur trail leads west to West Bond (4,540 ft), the most remote 4K footer in the White Mountains — an out-and-back spur that most loop hikers take (adds ~0.8 miles). From Bond, the Twinway descends west through krummholz and then climbs to South Twin Mountain (4,902 ft, ~11 mi) — the highest point on the loop after Lafayette, with a near-360-degree above-treeline view including a direct sightline into the Twinway corridor and the Franconia Ridge to the west.\n\n**South Twin to Galehead Hut to Garfield (~11.5 to 17 mi):** Descend the Twinway west from South Twin to the Galehead Hut (4,024 ft, ~12 mi) — the AMC hut directly on the loop route at the col between the Twin Range and the Garfield Ridge. This is the natural overnight stop for a two-day Pemi Loop and one of the finest hut positions in the range. Optional side trip: Galehead Mountain (4,024 ft, the summit, is a 0.4-mile spur from the hut — a wooded summit with views limited to the surrounding ridge). From the hut, pick up the Garfield Ridge Trail west and climb to the summit of Mt. Garfield (4,500 ft, ~14.5 mi), an open rocky cone with a direct view of the Franconia Ridge across the valley — a good preview of what's ahead. Continue southwest on the Garfield Ridge Trail through a long forested ridge traverse toward Franconia Notch.\n\n**Garfield Ridge to Franconia Ridge (~17 to 24 mi):** The Garfield Ridge Trail descends from Garfield through dense spruce forest, passing the Garfield Ridge Campsite (tentsite option), and eventually meets the Franconia Ridge Trail at a saddle. Turn south (left) onto the Franconia Ridge Trail and begin the climb to the above-treeline Franconia Ridge. The trail breaks out of treeline at approximately 4,700 feet and the terrain opens dramatically. Mt. Lafayette (5,260 ft, ~20 mi) is the highest point of the loop and offers one of the finest summit views in New Hampshire — the full Pemi Wilderness spread out to the east below, the Bond Ridge you crossed in the distance, and the Franconia Ridge stretching south. Continue south on the ridge to Mt. Lincoln (5,089 ft, ~21 mi) and Little Haystack Mountain (4,760 ft, ~22 mi), both above treeline on the open granite ridge. The Franconia Ridge in good conditions is simply one of the great alpine ridge walks in the eastern United States.\n\n**Falling Waters Trail and Pemi Trail back to Lincoln Woods TH (~24 to 31.5 mi):** From Little Haystack, descend the Falling Waters Trail north-northeast, passing Liberty Spring Junction, through steep forest, and past Cloudland Falls (one of the finest waterfalls in the White Mountains — a natural finish to the ridge section). The Falling Waters Trail emerges at Lafayette Place Campground on I-93 (Franconia Notch). From here, pick up the Pemi Trail east along the north bank of the East Branch of the Pemigewasset River — a flat, pleasant 2.5-mile river walk that returns to the Lincoln Woods TH parking lot, closing the loop.",
+  "peaks": [
+    {
+      "name": "Bondcliff",
+      "elevation_ft": 4265,
+      "is_4k_footer": true,
+      "views": "One of the most dramatically positioned summits in the White Mountains — the summit platform sits on the edge of a sheer cliff overlooking the entire Pemigewasset Wilderness cirque. Views east to the Bond Ridge, west to the Franconia Ridge across the valley, and directly down 1,000 feet to the Pemi River corridor below. The most photogenic summit on the loop."
+    },
+    {
+      "name": "Mount Bond",
+      "elevation_ft": 4698,
+      "is_4k_footer": true,
+      "views": "Broad summit plateau with panoramic views: the Bonds ridge and Bondcliff to the south, South Twin to the northwest, the Presidential Range visible to the northeast, and the Franconia Ridge to the west. The highest point on the Bond Ridge and the emotional high point of the eastern arc."
+    },
+    {
+      "name": "West Bond",
+      "elevation_ft": 4540,
+      "is_4k_footer": true,
+      "views": "The most remote 4K footer in the White Mountains, reached only by a 0.4-mile spur from Bond. Open rocky summit with intimate views of the Bond Ridge, the Twin Range, and the western Pemi Wilderness. Fewer visitors than any other 4K footer on the loop."
+    },
+    {
+      "name": "South Twin Mountain",
+      "elevation_ft": 4902,
+      "is_4k_footer": true,
+      "views": "Near-360-degree above-treeline views. Exceptional position at the northern apex of the loop — you can see both the Bond Ridge behind you and the Garfield Ridge and Franconia Ridge ahead. North Twin (4,761 ft) is visible 1 mile to the north as an optional add-on spur."
+    },
+    {
+      "name": "Galehead Mountain",
+      "elevation_ft": 4024,
+      "is_4k_footer": true,
+      "views": "Wooded summit accessible as a 0.4-mile spur from the Galehead Hut. Limited views. Often included for 4K footer completions but skipped by hikers prioritizing time and energy. The hut itself, just below, is the real destination."
+    },
+    {
+      "name": "Mount Garfield",
+      "elevation_ft": 4500,
+      "is_4k_footer": true,
+      "views": "Open rocky summit cone with a clear view west to the Franconia Ridge — a preview of the loop's grand finale from across the valley. Views north to the Galehead area and east to the Bond Ridge in the distance."
+    },
+    {
+      "name": "Mount Lafayette",
+      "elevation_ft": 5260,
+      "is_4k_footer": true,
+      "views": "The highest point of the Pemi Loop and the finest summit view on the route. The entire Pemigewasset Wilderness is laid out to the east — Bond Ridge, South Twin, Garfield, the river corridor. The northern Franconia Ridge descends to the north and the Presidential Range is visible on the northeastern horizon."
+    },
+    {
+      "name": "Mount Lincoln",
+      "elevation_ft": 5089,
+      "is_4k_footer": true,
+      "views": "Open ridge crest just south of Lafayette on the Franconia Ridge — continuous above-treeline walk between the two summits. Views into Franconia Notch to the west and the full Pemi cirque to the east."
+    },
+    {
+      "name": "Little Haystack Mountain",
+      "elevation_ft": 4760,
+      "is_4k_footer": true,
+      "views": "The final 4K summit of the loop and the top of the Falling Waters Trail descent. Open and rocky with views back north along the Franconia Ridge — a satisfying final summit after 22 miles."
+    }
+  ],
+  "amc_hut": "Galehead Hut",
+  "hazards": [
+    {
+      "type": "Wilderness remoteness — multi-day route with limited escape options",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "The Pemi Loop penetrates deep into the Pemigewasset Wilderness — the Bond Ridge and Galehead area are among the most remote terrain in the White Mountains, with exits miles from any road. An injury or weather emergency in the center of the loop, near Bond or South Twin, requires either a long carry out or a helicopter rescue. The route has no roads, no cell service in much of the interior, and limited trail signage in some sections. Multi-day hikers who are not self-sufficient — in gear, navigation, food, first aid, and judgment — create serious rescue scenarios. Overconfidence in fitness combined with inadequate planning is the most common failure mode."
+    },
+    {
+      "type": "Lightning and weather on Franconia Ridge above treeline",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["May", "June", "July", "August", "September"],
+      "description": "The Franconia Ridge (Lafayette, Lincoln, Little Haystack) is the highest and most weather-exposed section of the loop — 3 miles fully above treeline at 4,700-5,260 feet with no natural shelter. Afternoon thunderstorms are common from June through August. Unlike the Bond Ridge, which sits lower and has more forest cover in the approach, the Franconia Ridge is fully exposed and is the lightning focus of the entire loop. Counterclockwise hikers typically cross Franconia Ridge on day 2, making a pre-noon crossing dependent on camp timing and morning pace."
+    },
+    {
+      "type": "Bondcliff summit cliff edge",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "Bondcliff's summit sits immediately at the top of a dramatic cliff dropping hundreds of feet into the Pemi Wilderness. The hiking trail approaches the summit and leads directly across the cliff-top plateau. In good conditions this is simply a dramatic viewpoint requiring awareness; in wet, icy, foggy, or high-wind conditions, the cliff edge is a serious hazard — the rock is slippery when wet and the edge is abrupt. Hikers with dogs must maintain leash control at Bondcliff."
+    },
+    {
+      "type": "Ice on above-treeline sections and rocky trails",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"],
+      "description": "The Franconia Ridge and Bond Ridge above-treeline sections ice over from fall through late spring. The Falling Waters Trail descent off Franconia Ridge becomes treacherous when iced. The Garfield Ridge section and the approach to South Twin carry snow and ice well into May. Microspikes are required from mid-October onward for above-treeline travel. Winter Pemi Loop attempts are serious multi-day mountaineering expeditions requiring full winter gear, skills, and a willingness to accept that the Galehead Hut is closed from late September through early June."
+    }
+  ],
+  "seasons": {
+    "recommended": ["July", "August", "September"],
+    "viable_with_gear": ["June", "October"],
+    "avoid": ["November", "December", "January", "February", "March", "April", "May"],
+    "seasonal_notes": "July through September is the window for a non-technical Pemi Loop. The Galehead Hut is open full-service from June through late September with advance reservations — book months ahead for July and August weekends, which fill fast. September is arguably the finest month: weather windows are more stable, the hut is staffed but less crowded, and early foliage colors in the river corridor are excellent.\n\nJune: Variable — the Bond Ridge and Franconia Ridge typically clear of snow in mid-to-late June, but icy patches persist on north-facing slopes into early June. Mud season extends on the forested approach trails. The hut typically opens in mid-June — verify exact dates with AMC.\n\nOctober: The Galehead Hut closes in late September or early October (confirm annually). An October Pemi Loop without hut access means backcountry camping or a single-day effort in rapidly shortening daylight with cold overnight temperatures. Microspikes are mandatory from early October. This is a shoulder-season objective requiring careful planning — the views are exceptional but the margin for error shrinks significantly.\n\nNovember through May: The Pemi Loop in these months is a serious winter mountaineering expedition, not a hiking trip. The hut is closed, trail signs may be buried, and the Franconia Ridge and Bond Ridge in full winter carry serious avalanche and fall risk. Well-equipped, experienced mountaineers do complete winter Pemi Loops, but it requires expedition-level planning, gear, and skills."
+  },
+  "gear_tiers": {
+    "three_season": ["waterproof hiking boots with ankle support (mandatory for 31.5 miles of varied terrain)", "trekking poles (essential)", "backpack sized for overnight (50-65L) or ultralight daypack for single-day attempts", "sufficient food for full trip duration plus one extra day emergency", "water filter or purification (water available at Galehead Hut in season, Franconia Brook, and the East Branch — filter everything in the backcountry)", "hardshell jacket and pants (mandatory — Franconia Ridge weather can be severe)", "insulating mid-layer", "warm hat and gloves", "camp shelter (tent or hut reservation)", "headlamp with extra batteries (essential for pre-dawn starts on single-day attempts)", "map and/or downloaded GPS track — cell service is unreliable throughout the Wilderness"],
+    "shoulder_season": ["microspikes (required from mid-October onward)", "insulating puffy jacket", "warm hat and balaclava", "liner and insulating gloves", "gaiters for snow/mud", "extra food and hot thermos", "note: verify Galehead Hut open/closed status before departure — plan accordingly if closed"],
+    "winter": ["crampons (required)", "ice axe (for steep icy sections)", "insulated waterproof mountaineering boots", "multiple insulating layers", "expedition hat and mittens", "hardshell jacket and pants", "4-season tent rated for alpine conditions", "full emergency kit including emergency bivy", "GPS with downloaded route (trail markers buried)", "sufficient food for potential extra days due to weather delays", "note: Galehead Hut is closed — no emergency shelter on route"]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/pemi-loop",
+      "label": "AllTrails: Pemigewasset Wilderness Loop"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/galehead-hut/",
+      "label": "AMC Galehead Hut — Reservations, Season Dates, and Conditions"
+    },
+    {
+      "type": "weather-forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.5300&lat=44.1500",
+      "label": "NWS Forecast — Pemigewasset Wilderness area"
+    },
+    {
+      "type": "summit-conditions",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summit-forecast.aspx",
+      "label": "Mount Washington Observatory Higher Summits Forecast (covers Franconia Ridge)"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.fs.usda.gov/recarea/whitemountain/recreation/recarea/?recid=74929",
+      "label": "WMNF — Pemigewasset Wilderness (regulations, camping rules, permit info)"
+    },
+    {
+      "type": "trip-report",
+      "url": "https://www.hikingproject.com/trail/7019534/pemi-loop",
+      "label": "Hiking Project: Pemi Loop (route overview and recent trip reports)"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["Franconia Ridge Loop (Lafayette, Lincoln, Liberty, Flume via loop)", "Presidential Traverse (single-day or hut traverse)", "Any prior overnight in the AMC hut system", "Mt. Bond via Lincoln Woods and Bondcliff Trail (the Bond approach as a standalone day)"],
+    "leads_naturally_to": ["Winter Pemi Loop — the ultimate NH wilderness backpacking challenge for experienced mountaineers", "NH 48 4K footer completion — the Pemi Loop accounts for 9 of the 48 peaks", "Franconia Ridge to Kinsman traverse (extending south from Little Haystack)", "Isolation Traverse — similarly remote multi-day routes in the Carter-Moriah or Wild River area"],
+    "progression_notes": "The Pemi Loop is the multi-day capstone of the Pemigewasset Wilderness. It rewards hikers who have already done the individual components — the Franconia Ridge Loop, the Bondcliff approach from Lincoln Woods, and the Twin Range — because the loop integrates all three in a way that highlights how these ridgelines form a coherent wilderness. A first-time Pemi Looper benefits enormously from having done the Franconia Ridge Loop beforehand — the finish over Lafayette and Lincoln feels like returning to familiar territory at the end of a long journey, which is a psychologically important asset when you're tired on day 2. The Galehead Hut reservation is the single most important logistics step: without it, the route requires either a rigorous single-day effort or backcountry camping with all the gear weight that entails."
+  },
+  "response_hints": {
+    "beginner_framing": "The Pemi Loop is not for beginners — it's 31.5 miles with 9,000 feet of gain across remote wilderness terrain. But it's very achievable for someone who has done some of the individual pieces and is ready for a multi-day challenge. The key is to do it over two nights with the Galehead Hut on night 1 — that turns it into two manageable 15-ish mile days rather than one brutal push. Book the hut far in advance (months ahead for summer weekends). The loop isn't technically hard — it's not a scrambling or cliff-exposure route — it just requires sustained hiking, good gear, and a willingness to be in the Wilderness for two days.",
+    "expert_framing": "The Pemi Loop is the benchmark multi-day objective in the Whites. The counterclockwise direction (Bonds first) rewards patience — the Bond Ridge in the morning light on day 1, with Bondcliff's cliff-top view over the entire empty Wilderness, is one of the great experiences in northeastern hiking. The Franconia Ridge finish on day 2 over Lafayette and Lincoln, when legs are earned and tired, has a different quality than a fresh-legs day hike of the same terrain. Single-day Pemi Loop attempts are in the 10-16 hour range for fast hikers — the limiting factor is usually the Garfield Ridge section in the middle, which is long, forested, and mentally demands more than its modest elevation profile suggests.",
+    "safety_callout": "The Pemi Loop's remoteness is its main safety factor — the Bond Ridge and Galehead area are miles from any road, and a self-rescue from injury there is a serious operation. The most common failure mode is inadequate gear (especially rain gear and layers) combined with an aggressive pace that leaves no reserve for weather or injury. Before you go: confirm the Galehead Hut reservation, download the GPS track for the entire loop, carry a water filter, and have a weather contingency plan. If the forecast shows a major storm during your planned trip, reschedule — the Pemi Loop in sustained rain is miserable, and on Bondcliff and Franconia Ridge in a thunderstorm it is dangerous."
+  }
+}

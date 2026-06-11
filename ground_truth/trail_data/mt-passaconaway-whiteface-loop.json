@@ -1,0 +1,150 @@
+{
+  "id": "mt-passaconaway-whiteface-loop",
+  "name": "Mt. Passaconaway and Mt. Whiteface Loop via Blueberry Ledge and Dicey's Mill Trails",
+  "peaks": [
+    {
+      "name": "Mt. Whiteface",
+      "elevation_ft": 4020,
+      "is_4k_footer": true
+    },
+    {
+      "name": "Mt. Passaconaway",
+      "elevation_ft": 4043,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Sandwich Range",
+  "stats": {
+    "distance_rt_miles": 11.5,
+    "elevation_gain_ft": 3700,
+    "highest_point_ft": 4043,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 10.5,
+      "average": 7.5,
+      "experienced": 5.5
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 3,
+    "overall_label": "hard",
+    "notes": "The loop is the biggest physical day on the Sandwich Range: 11.5 miles and ~3,700 feet of gain. Most of the effort clusters at two points — the sustained 2,850 ft ascent of Blueberry Ledge Trail to Whiteface, and a secondary gain on the Rollins Trail col approach to Passaconaway. The Dicey's Mill descent is gentler and well-graded, but at 4+ miles it is a long, quiet return on already-tired legs. Technical demand matches the standalone Whiteface route: one steep cliff section on the Blueberry Ledge Trail (~3.2 miles from the trailhead) requires hands-on scrambling with genuine fall consequence. The rest is forested trail with no technical demands. Direction matters: the standard clockwise route (Blueberry Ledge up, Dicey's Mill down) sends hikers up the cliff crux rather than down it — a meaningful safety advantage. Fitness rating is upper-4 (3,700 ft of gain slightly exceeds the 3,500 ft threshold, but 11.5 miles is under the 12-mile threshold; this is a notch below the Isolation route in overall physical demand)."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "low",
+      "description": "No above-treeline terrain anywhere on this loop. Both summits (Whiteface at 4,020 ft and Passaconaway at 4,043 ft) are below the ~4,400 ft White Mountains treeline and are wooded. The open Blueberry Ledge section — approximately 0.4 miles of exposed rock slab — is the only terrain without tree cover. It carries lightning risk during afternoon summer thunderstorms, but exposure is brief, below treeline, and without the sustained wind hazard of a Presidential Ridge route. The Rollins Trail ridge traverse and the full Dicey's Mill descent are forested throughout.",
+      "mitigation": "Start early enough to clear the open Blueberry Ledge section well before noon in thunderstorm season. A standard mountain weather forecast is appropriate — no Observatory-level forecast required for this route."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "One crux, identical to the standalone Whiteface route: a steep cliff section approximately 3.2 miles from the trailhead where the Blueberry Ledge Trail transitions from forest to open slabs. Hikers use tree roots and rock holds to climb steeply angled slabs. A slip at the top of this section before reaching a stable stance could result in a sliding fall of 10–20 feet on exposed rock before vegetation arrests the fall — sufficient to cause significant injury. The Rollins Trail ridge and Dicey's Mill Trail have no fall-consequence terrain. The clockwise loop direction (ascending the crux rather than descending it) is the correct orientation for most parties.",
+      "mitigation": "Ascend the cliff section hands-and-feet; test each hold before committing weight. Avoid in icy conditions without crampons and ice axe — microspikes alone are inadequate on steep wet slab. Dogs and young children require active management at this section. The clockwise direction (Blueberry Ledge ascending) is strongly preferred over counterclockwise for this reason."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "The loop is a summer and fall objective. The Blueberry Ledge cliff crux ices severely in late fall and winter, requiring crampons and potentially ice axe. The Rollins Trail ridge in full winter, when iced, adds significant additional complexity between the summits. In winter, most parties break this into two separate trips: Passaconaway via Dicey's Mill as an out-and-back (its own excellent winter objective), and Whiteface via Blueberry Ledge with full winter gear. The full loop format is for experienced winter parties prepared for crampons-on-ledge and a long iced ridge traverse. Mud season (April) significantly affects the lower Dicey's Mill Trail — the trail follows the Wonalancet River drainage and the lowest sections become saturated after snowmelt. Important expectation note: both summits are completely wooded and viewless. All views on the loop come from the open Blueberry Ledge slabs (Whiteface approach) and from the Walden Trail viewpoint spurs (~0.25 miles past the Passaconaway summit marker). Do not rush through either — the summit markers themselves are anti-climactic without this context."
+  },
+  "tags": [
+    "4k-footer",
+    "loop",
+    "scrambling",
+    "fall-exposure-moderate",
+    "multi-peak",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "scrambling-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Blueberry Ledge cliff crux (~3.2 miles from the trailhead) is the only fall-consequence terrain on the loop. Ascending clockwise: hikers climb steeply angled slabs using tree roots and rock holds. A slip at the top before reaching a stable stance could produce a sliding fall of 10–20 feet on exposed rock before vegetation arrests the fall. Wet or icy rock dramatically increases risk. The clockwise loop direction puts this crux in the ascent — the correct and safer orientation. If descending via Blueberry Ledge (counterclockwise direction), this section becomes significantly more committing.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The Blueberry Ledge cliff section and open rock slabs ice severely in late fall and winter. In full winter conditions, the Rollins Trail ridge between the two summits can also be heavily iced or wind-packed, adding complexity to the loop traverse. Crampons are required on the ledge section — microspikes are insufficient on the steepest glassy slab. The full loop in winter requires substantially more gear and experience than either peak as a standalone Dicey's Mill out-and-back.",
+      "months_active": ["November", "December", "January", "February", "March", "April"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The open Blueberry Ledge slabs (~0.4 miles of exposed rock) are the only lightning-exposed terrain on the loop. Summer afternoon thunderstorms put hikers on these ledges at risk if they started late. The Rollins Trail ridge traverse and Dicey's Mill descent are fully forested and sheltered.",
+      "months_active": ["May", "June", "July", "August", "September"]
+    },
+    {
+      "type": "stream-crossing",
+      "hazard_category": "terrain-and-fall",
+      "description": "The lower Dicey's Mill Trail crosses the Wonalancet River and several tributaries. In spring snowmelt (May–early June) and after heavy rain events, crossings can be knee-deep with meaningful current — not dangerous but footwear-soaking and difficult without trekking poles. Summer crossings are typically step-across. Trekking poles help maintain balance in higher water.",
+      "months_active": ["March", "April", "May", "June"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with good grip — slab sections require sole friction",
+      "Trekking poles (stow for the scrambling crux; essential for the 4+ mile Dicey's Mill descent)",
+      "Rain jacket — Blueberry Ledge is exposed to afternoon weather",
+      "2–2.5 liters water (no reliable sources on the upper trail; lower Wonalancet crossings provide water but treat it)",
+      "Headlamp — this is a long day that can reach 10+ hours for beginners",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required on ledge approach when icy — October through early May)",
+      "Insulating mid-layer",
+      "Warmer gloves and hat"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Crampons — mandatory for the Blueberry Ledge cliff section on hard ice; microspikes insufficient",
+      "Ice axe — recommended for the cliff section in full winter conditions",
+      "Full winter insulation system",
+      "Reassess the loop format: most winter parties split into two Dicey's Mill out-and-backs (Passaconaway) and a separate Blueberry Ledge trip (Whiteface) rather than attempting the full Rollins ridge traverse on ice"
+    ]
+  },
+  "trailhead": {
+    "name": "Ferncroft Trailhead — Wonalancet, NH",
+    "lat": 43.91290,
+    "lon": -71.35826,
+    "parking": "Large dirt parking lot on Ferncroft Road, approximately 0.5 miles from NH Route 113A. Capacity ~20–30 cars. No fee. Portable toilet on site. The loop starts and ends here — Blueberry Ledge Trail is reached via a 0.3-mile road walk through private residential property; Dicey's Mill Trail is accessible directly from the parking area. Lot fills by mid-morning on summer and fall weekends. This trailhead serves the entire Sandwich Range Wilderness and is the same access point for the standalone Whiteface and Passaconaway routes.",
+    "access_road": "From NH Route 113A at Wonalancet Village (where the road makes a right-angle turn), turn north onto Ferncroft Road. Parking area is 0.5 miles on the right. Road can be rough in mud season.",
+    "nearest_town": "Tamworth, NH",
+    "amenities": ["Portable toilet (seasonal)", "No potable water"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "USFS White Mountain NF — Ferncroft Trailhead",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/ferncroft-trailhead",
+      "notes": "Parking, access, and current Sandwich Range Wilderness advisories"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mt. Whiteface and Passaconaway Loop",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-whiteface-and-passaconway-loop",
+      "notes": "Current conditions, user-reported trail state, downloadable GPS track"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-whiteface-blueberry-ledge",
+      "mt-isolation-glen-boulder"
+    ],
+    "leads_naturally_to": [
+      "franconia-ridge-loop",
+      "mt-bond-bondcliff-loop",
+      "mt-moosilauke-beaver-brook"
+    ],
+    "progression_notes": "The loop is the natural next step after completing the standalone Whiteface route — it adds a second 4K footer, 3.5 additional miles, and the full Rollins Trail ridge traverse. Hikers who have done standalone Whiteface know the crux and understand the ledge approach; this loop tests whether they can sustain that same technical confidence across a longer day. Completing both this loop and the Isolation route (complementary challenge profiles: technical/below-treeline vs. fitness/above-treeline weather exposure) signals readiness for the bigger Franconia and Pemi routes, which combine sustained distance, high gain, and above-treeline weather commitment."
+  },
+  "response_hints": {
+    "beginner_framing": "The Passaconaway-Whiteface loop is one of the best full-day hikes in the Sandwich Range — two 4,000-footers in a single loop from the same parking area. The route starts on the Blueberry Ledge Trail, building to a classic ledge scramble with sweeping Lakes Region views, then connects to Passaconaway via the forested Rollins Trail ridge before a long, peaceful descent down Dicey's Mill Trail back to the car. Two things to know before you go: first, the cliff section on Blueberry Ledge Trail (~3 miles in) requires hands-on scrambling — not technical climbing, but a genuine crux where footing matters. Second, neither summit has views — Whiteface's views come from the approach ledges, and Passaconaway's best views are from a short spur trail about 0.25 miles past the summit marker. Plan for a full day: 7–8 hours at a solid pace, with more time if you linger on the ledges (you should).",
+    "expert_framing": "The standard Sandwich Range big day — Blueberry Ledge up, Dicey's Mill down, Rollins ridge in between. The loop format is better than either peak standalone because the Rollins traverse adds a quiet, remote mid-ridge section that sees a fraction of the traffic the ledge approach gets. The Bowl watershed below is one of the few old-growth forests remaining in the White Mountains — worth a look on the Dicey's Mill side. Key practicalities: start early (ledge views are best in morning light; you want off the open rock before convective activity builds); carry trekking poles for the long Dicey's Mill descent; carry 2+ liters since the only water is the lower Wonalancet crossings. Winter: the full loop in crampons on an iced Rollins ridge is committing — most parties doing this December–March split into two Dicey's Mill out-and-backs. The Passaconaway-only Dicey's Mill approach is an excellent, quiet winter objective on its own.",
+    "safety_callout": "Primary hazard is fall risk at the Blueberry Ledge cliff crux (~3.2 miles from the trailhead), not weather exposure. This is a hands-on scrambling section with genuine sliding-fall consequence on wet or icy rock — move deliberately, test holds. The clockwise direction (ascending the crux rather than descending it) is the standard recommendation and the correct choice for most parties. Secondary: this is a long day — carry a headlamp in case the pace runs long."
+  }
+}

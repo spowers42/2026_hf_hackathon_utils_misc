@@ -1,0 +1,134 @@
+{
+  "id": "mt-madison-osgood-trail",
+  "name": "Mount Madison via Osgood Trail",
+  "region": "Northern Presidentials",
+  "summary": "Mount Madison (5,366 ft) is the northernmost and one of the finest 4,000-footers in the Presidential Range — uniquely positioned to take in both Mt. Adams and Mt. Washington at once on clear days, with a full panorama of the Great Gulf Wilderness, the Carter-Moriah ridge, and the view north into Gorham and Berlin. The Osgood Trail approach from the Great Gulf Trailhead is a quieter, more dramatic alternative to the heavily used Valley Way: a pleasant river-valley walk through the Great Gulf Wilderness leads to the Osgood Trail junction, which then climbs steeply through forest before emerging onto the open Osgood Ridge for an above-treeline Presidential rock-hop to the summit. The AMC Madison Spring Hut sits just 0.5 miles from the summit, making this one of the best hut-accessible 4K routes in the range. The Northern Presidentials carry the same serious weather exposure as Mt. Washington — Madison has claimed lives — and the open ridge should be treated with full respect.",
+  "tags": ["4k-footer", "out-and-back", "above-treeline-weather-exposure", "alpine-zone", "parking-fee", "hut-access", "ridge-walk", "winter-viable"],
+  "stats": {
+    "distance_rt_miles": 9.8,
+    "elevation_gain_ft": 3600,
+    "highest_point_ft": 5366,
+    "above_treeline_miles": 2.5,
+    "typical_time_hrs": {
+      "beginner": 9.5,
+      "average": 7.0,
+      "experienced": 5.5
+    }
+  },
+  "difficulty": {
+    "fitness": 5,
+    "technical": 2,
+    "overall_label": "very hard",
+    "notes": "The 3,600 feet of gain to a Northern Presidential summit — with 2.5 miles above treeline on Presidential-scale boulder fields — earns the fitness 5 rating. The trail is not technically demanding in the scrambling sense: the Great Gulf Trail approach is nearly flat on an old logging road, and the Osgood Trail is steep but non-technical hiking on rocky terrain. The above-treeline section becomes a boulder-hop requiring attentive foot placement with no shortcuts. What makes this 'very hard' is the combination of length, sustained gain, the energy cost of boulder-hopping above treeline, and the ever-present Northern Presidential weather risk. Comparably fit hikers report finding this noticeably less demanding than Mt. Adams but more demanding than Washington via Lion Head."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "high",
+      "description": "The Northern Presidentials receive some of the most extreme weather in the eastern United States. Madison sits just 1.5 miles northeast of Washington and experiences the same storm systems, often before they reach Washington's summit. The Osgood Ridge is fully exposed to weather from all directions with no natural windbreak for 1.2 miles each way. Fog, wind-driven rain, and sudden temperature drops can occur in any month. The AMC Madison Spring Hut (4,825 ft, 0.5 miles from the summit) provides a critical emergency shelter option — but reaching it from the summit in deteriorating conditions requires moving in the right direction in fog.",
+      "mitigation": "Check the Mount Washington Observatory Higher Summits Forecast before every trip — it covers the Northern Presidentials and is far more relevant than valley weather. Carry full insulating layers and a waterproof hardshell regardless of conditions at the trailhead. Set a turnaround time and honor it: the upper Great Gulf approach is long and a late return in bad weather is serious. Know the direction of the Madison Spring Hut from the summit before you start — in whiteout the hut is an emergency shelter option, but only if you know which way to walk."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "The Osgood Ridge above treeline involves sustained boulder-field travel where wet or icy rock is the primary hazard. The rocks are coated in lichen that becomes extremely slippery when wet — the trip report notes hikers finding even high-friction soles 'having none of that' on wet lichen. The sides of the Osgood Ridge drop away sharply in places, and a fall on the open upper ridge could result in a significant tumble over boulders. The trail is marked with cairns above treeline — in fog, losing the cairn line and wandering onto steeper ridge terrain is a genuine risk. The descent of the Osgood Ridge is the most demanding section from a fall-risk perspective.",
+      "mitigation": "Waterproof boots with high-friction soles. Take boulder-hopping slowly and test each foothold, especially on lichen-covered rock in wet conditions. Follow cairns above treeline carefully — don't shortcut between cairns in fog. Trekking poles help significantly on the rocky descents. Microspikes are required from October through May. If the rocks are wet and you are moving slowly on the ascent, plan for a slower, more demanding descent."
+    }
+  },
+  "trailhead": {
+    "name": "Great Gulf Wilderness Trailhead",
+    "lat": 44.3113,
+    "lon": -71.2204,
+    "parking": "WMNF parking lot on the west side of Route 16, accommodating 20-30 vehicles. WMNF Recreation Pass required ($5/day or America the Beautiful annual pass). The trailhead is signed with a large brown USFS trailhead sign and has a footbridge over the West Branch of the Peabody River immediately at the start. Lot fills on popular summer weekends — arrive before 7am. This trailhead also serves the Great Gulf Trail routes toward Washington.",
+    "access_road": "On Route 16 approximately 4.5 miles north of the AMC Pinkham Notch Visitor Center and about 1.5 miles south of the Dolly Copp Campground entrance. Look for the Great Gulf Wilderness Trailhead sign on the west side of Route 16. Route 16 is paved and plowed year-round.",
+    "nearest_town": "Gorham",
+    "amenities": ["vault toilet at trailhead", "footbridge over Peabody River at trailhead", "Osgood Tentsite at ~3.0 miles (primitive AT backcountry campsite, no fee)", "AMC Madison Spring Hut at 4,825 ft — 0.5 miles from Madison summit (full-service June through late September, reservations required; meals, water, and emergency shelter available; closed rest of year)"]
+  },
+  "route_description": "From the Great Gulf Wilderness Trailhead, cross the wooden footbridge over the West Branch of the Peabody River — a satisfying start to the day in the river corridor. Follow the Great Gulf Trail (blazed with blue) west into the Great Gulf Wilderness, climbing imperceptibly on the bed of an old logging road. The first 2.5 miles are genuinely easy: well-graded dirt trail through open mixed forest alongside the Peabody, with pleasant river views and minimal elevation change. This section is the calm before the storm.\n\nAt approximately 2.5 miles, turn right (north) at the signed Osgood Trail junction. The character of the hike changes immediately: the Osgood Trail pitches steeply uphill, and it stays steep for the next 1.2 miles through increasingly dense spruce-fir forest. The Osgood Tentsite (a primitive Appalachian Trail campsite with a composting privy) appears on the right at roughly 2.8-3.0 miles — a natural rest and water stop, and the last reliable water before the summit. From here, the trail continues up and the trees close in, giving way to stunted krummholz as the ridge angle steepens.\n\nAt approximately 4,000-4,200 feet, the trail breaks out above treeline onto the Osgood Ridge — the open northeast ridge of Madison. The landscape transforms immediately into classic Northern Presidential terrain: a broad rocky ridgeline marked by cairns, with lichen-covered boulders stretching ahead to the summit. The scale of the surroundings becomes apparent: Mt. Washington looms to the south across the Great Gulf, and the Carter-Moriah ridge appears to the east. Follow the cairns carefully, especially in fog — the ridge is broad enough that deviating from the marked line can put you on steeper, more exposed terrain.\n\nThe summit of Mount Madison (5,366 ft) is reached at approximately 4.9 miles. The small summit cairn sits on exposed rock with a full 360-degree view — arguably the finest vantage point in the Northern Presidentials for seeing both Adams and Washington simultaneously. On clear days the panorama extends to Maine, Vermont, and the Atlantic.\n\nTo reach the AMC Madison Spring Hut, continue 0.5 miles southwest from the summit on the Osgood Trail, dropping to the col between Madison and Adams at 4,825 ft. The hut is a practical option for day hikers to refill water, buy soup, or shelter from weather during the full-service season (June through late September). From the hut, the Valley Way Trail descends 3.8 miles to the Appalachia Trailhead on Route 2 as an alternative descent (car shuttle required).\n\nReturn via the Osgood Trail and Great Gulf Trail to the Great Gulf Trailhead. The descent of the Osgood Ridge's upper rocky section takes more time and care than the ascent — budget accordingly.",
+  "peaks": [
+    {
+      "name": "Mount Madison",
+      "elevation_ft": 5366,
+      "is_4k_footer": true,
+      "views": "One of the finest summit views in the Presidential Range and uniquely positioned to take in both Mt. Adams directly to the southwest and Mt. Washington to the south simultaneously — a perspective unavailable from any other peak. Panorama includes the full Great Gulf Wilderness below, the Carter-Moriah ridge to the east, the Wildcat-Carter line, and the Randolph valley and northern NH towns to the north and northeast. The Alpine Garden and Parapet rock outcrop below the hut are visible southwest. On exceptional days: Maine's mountains, Vermont's Green Mountains, and the Atlantic coast."
+    }
+  ],
+  "amc_hut": "Madison Spring Hut",
+  "hazards": [
+    {
+      "type": "Northern Presidential weather — extreme conditions year-round",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "Madison and the Northern Presidentials experience the same extreme weather systems as Mt. Washington — often worse in some conditions due to Madison's exposed northeastern position. Wind, fog, and temperature drops can transform a clear summer hike into a dangerous situation within 30 minutes. The summit and Osgood Ridge offer no shelter. The AMC Madison Spring Hut (0.5 miles from summit) is the only nearby structure — it is a genuine safety asset in season, but closed outside the June–late September full-service season and not usable as an emergency shelter in winter."
+    },
+    {
+      "type": "Lightning above treeline",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["May", "June", "July", "August", "September"],
+      "description": "The Osgood Ridge and Madison summit are fully exposed to lightning — there is no shelter between treeline and the summit or the hut. Afternoon thunderstorms are common from June through August and can develop faster than hikers can descend to treeline. Aim to be heading back below treeline by noon on any day with instability in the forecast. The hut provides shelter during the in-season, but reaching it from the exposed summit adds 0.5 miles of exposed hiking."
+    },
+    {
+      "type": "Icy rock and snow on Osgood Ridge — boulder field hazards",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"],
+      "description": "The Osgood Ridge boulder field ices over readily from fall through late spring. Lichen-covered rocks that are already slippery when wet become treacherous with rime ice or snow. Ice can form overnight on clear cold nights and persist all day in shaded sections. Microspikes are required from mid-October through May. In winter the Osgood Trail is a legitimate but serious mountaineering route — full winter gear including ice axe is required in consolidated snow and ice conditions."
+    },
+    {
+      "type": "Wet lichen on boulders — reduced traction above treeline",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["May", "June", "July", "August", "September", "October"],
+      "description": "The lichen-covered boulders of the Osgood Ridge become extremely slippery when wet — even high-friction trail running shoes can lose traction unexpectedly. The issue is compounded in fog, which deposits moisture on all surfaces. A slip on wet lichen on the boulder field can result in a fall and tumble over rough rocks. Don't attempt the upper ridge in rain or fog without accepting the significantly increased fall risk. The lateral steepness of the ridge adds consequence to slips that would be minor on flatter terrain."
+    }
+  ],
+  "seasons": {
+    "recommended": ["July", "August", "September"],
+    "viable_with_gear": ["October", "November", "December", "January", "February", "March", "April", "May", "June"],
+    "avoid": [],
+    "seasonal_notes": "July through September is the core season: reliable snow-free conditions, the Madison Spring Hut fully open for day and overnight use, and the best probability of clear summit views. Madison's above-treeline views are exceptional in autumn — late September through early October brings brilliant foliage in the valleys below the summit with open-sky panoramas. Microspikes should be in your pack from early October.\n\nWinter: The Osgood Trail in winter is a legitimate but demanding mountaineering objective requiring full winter gear — microspikes or crampons, ice axe (if icy conditions are present on the upper ridge), and full insulating layers. The Madison Spring Hut is closed and is NOT available as an emergency shelter in winter. All-in winter distances are approximately the same, but travel is much slower on snow-covered talus. Route-finding in snow requires care — the cairns are buried and the trail is not obvious. Plan for a short winter day with limited light.\n\nSpring: The Osgood Trail near the junction can be wet and muddy April through May. The upper ridge retains snow and ice well into May. Check the Mt. Washington Observatory avalanche and conditions reports before any spring visit above treeline."
+  },
+  "gear_tiers": {
+    "three_season": ["waterproof hiking boots with ankle support (required for boulder-hopping above treeline)", "trekking poles (strongly recommended for descent)", "3.0L water (fill at Osgood Tentsite — no reliable water above treeline)", "substantial food for 7-9.5 hour day", "insulating mid-layer", "hardshell wind and rain shell (mandatory for the exposed ridge)", "warm hat and gloves (summit wind can be very cold in any season)", "map or GPS with Northern Presi waypoints", "headlamp"],
+    "shoulder_season": ["microspikes (required from mid-October through May)", "insulating puffy jacket", "warm hat and balaclava", "liner and insulating gloves", "gaiters (for snow on upper ridge in spring/fall)", "extra food and warm fluids"],
+    "winter": ["crampons or aggressive microspikes (required for icy boulder fields)", "ice axe (required in consolidated snow or ice conditions)", "insulated waterproof boots", "hardshell jacket and pants", "balaclava and expedition hat", "liner and insulating gloves or mittens", "extra insulating layers", "hot thermos", "headlamp with fresh batteries", "emergency bivy or space blanket", "know that Madison Spring Hut is CLOSED in winter — plan accordingly"]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-madison-via-great-gulf-and-osgood-trail",
+      "label": "AllTrails: Mount Madison via Great Gulf and Osgood Trail"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/madison-spring-hut/",
+      "label": "AMC Madison Spring Hut — Season Dates, Reservations, and Conditions"
+    },
+    {
+      "type": "summit-conditions",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summit-forecast.aspx",
+      "label": "Mount Washington Observatory — Higher Summits Forecast (Northern Presidentials)"
+    },
+    {
+      "type": "weather-forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.2757&lat=44.3260",
+      "label": "NWS Forecast — Mt. Madison summit area"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/great-gulf-wilderness-trailhead",
+      "label": "WMNF — Great Gulf Wilderness Trailhead"
+    },
+    {
+      "type": "trip-report",
+      "url": "https://www.proteanwanderer.com/2019/10/31/trip-report-mt-madison/",
+      "label": "Protean Wanderer: Mt. Madison via Great Gulf and Osgood Trail (trip report with conditions)"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["Mount Washington via Lion Head Trail", "Carter Dome via 19 Mile Brook and Carter-Moriah Trail", "Franconia Ridge Loop (Lafayette, Lincoln, Liberty)", "Mt. Jefferson via Caps Ridge Trail"],
+    "leads_naturally_to": ["Mount Adams via Air Line Trail or King Ravine (next step in Northern Presidential difficulty)", "Madison + Adams in one day (summit Madison via Osgood, descend to hut, continue to Adams via Air Line or Star Lake Trail, descend Valley Way)", "Full Presidential Traverse — Madison to Washington multi-day via Gulfside Trail", "Hut-to-hut Northern Presi traverse (Madison Spring Hut to Lakes of the Clouds, 6.8 miles via Gulfside Trail)"],
+    "progression_notes": "The Osgood Trail to Madison is the gentler introduction to the Northern Presidentials — easier terrain than Adams via King Ravine, less summit weather drama than Washington, and the Madison Spring Hut as a unique reward at 0.5 miles from the summit. Hikers who complete Madison comfortably via Osgood are ready to tackle Adams, the Northern Presidentials' more technically demanding neighbor. The Madison-Adams day (up Osgood, traverse to Adams via the col, descend Valley Way) is one of the great full-day Northern Presidential objectives. For those interested in hut stays, Madison Spring Hut is the ideal entry point into the AMC hut system — its position above treeline with sunset views of Adams makes it one of the most dramatic hut experiences in the Whites."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Madison via the Osgood Trail is not a beginner hike — the nearly 10-mile round trip with 3,600 feet of gain and 2.5 miles above treeline makes it a serious full day. That said, it's achievable for a fit hiker who has done a few hard 4K footers and knows how to prepare for Presidential weather. The first 2.5 miles on the Great Gulf Trail are surprisingly easy, which is a nice way to warm up before the Osgood Trail's steep climbing begins. The big advantage here is the Madison Spring Hut — only 0.5 miles from the summit in season, it's a place to fill water, buy soup, and shelter briefly if conditions are marginal. Start early (dawn) to be at the summit by mid-morning before weather builds.",
+    "expert_framing": "The Osgood approach is the best way to visit Madison that most hikers haven't done — the Great Gulf approach gives you the river valley and Great Gulf Wilderness character before the Osgood Ridge opens up, rather than the straightforward forested slog of the Valley Way. Madison's summit view of Adams and Washington together is something you can only get here. The Madison-Adams combo (up Osgood, traverse the col, hit Adams, descend Valley Way) is one of the finest full-day Northern Presidential objectives. Stay at the hut overnight if you haven't — sunsets from the Parapet with the Great Gulf below are extraordinary.",
+    "safety_callout": "The Northern Presidentials are not a step down from Washington in terms of weather danger — they carry the same risks and have claimed lives under the same conditions. Check the Higher Summits Forecast from the Mt. Washington Observatory before every trip. The key go/no-go factors are summit winds and precipitation — the Osgood Ridge in 50+ mph wind with rain or ice is genuinely dangerous regardless of your experience level. Know where the Madison Spring Hut is relative to the summit before you start (0.5 miles southwest, downhill toward the Adams-Madison col) — in a whiteout it is the closest shelter if you are in trouble, but only if you are heading the right direction. In winter, the hut is closed and this shelter option disappears entirely."
+  }
+}

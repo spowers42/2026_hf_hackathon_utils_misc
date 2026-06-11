@@ -1,0 +1,135 @@
+{
+  "id": "garfield-trail-mt-garfield",
+  "name": "Mount Garfield via Garfield Trail",
+  "region": "Pemigewasset Wilderness",
+  "summary": "Mount Garfield (4,500 ft) is one of the most rewarding open summits in the White Mountains for the effort required — a long but consistently gradual climb on a former fire tower access road delivers a completely exposed rocky summit with a full 360-degree panorama of the Pemigewasset Wilderness, Franconia Ridge, the Twin Range, and the Presidential Range. The Garfield Trail is almost entirely forested until the dramatic final pitch, making it an excellent choice when higher Franconia Ridge peaks are experiencing severe weather. A NH 48 peak and the northernmost peak of the Franconia Range.",
+  "tags": ["4k-footer", "out-and-back", "above-treeline-weather-exposure", "alpine-zone", "dog-friendly", "parking-fee", "winter-viable", "snowshoe-route"],
+  "stats": {
+    "distance_rt_miles": 9.6,
+    "elevation_gain_ft": 3000,
+    "highest_point_ft": 4500,
+    "above_treeline_miles": 0.2,
+    "typical_time_hrs": {
+      "beginner": 8.0,
+      "average": 6.0,
+      "experienced": 5.0
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 1,
+    "overall_label": "hard",
+    "notes": "The length and total gain put this squarely in hard territory, but the technical difficulty is the lowest of any trail at this distance in the White Mountains. The Garfield Trail follows a former fire tower access road that is graded, wide, and consistent — essentially a very long walk in the woods. Only the final 0.2 miles is steep and rocky, with some scrambling to reach the open summit. The approach grade is so steady that the summit arrives as a genuine surprise."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "moderate",
+      "description": "The summit is fully open and exposed — a rocky clearing at 4,500 ft with no shelter. Garfield's summit sits at the north end of the Franconia Range and receives the same storm systems that hit Lafayette and Lincoln, but with less sustained exposure. The open summit can be cold, windy, and foggy when the valley seems benign. The 4.8-mile forested approach makes this one of the better options when Franconia Ridge conditions are severe but the woods feel manageable.",
+      "mitigation": "Check the Mt. Washington Observatory forecast and Franconia Ridge summit conditions. Pack full insulating layers and a rain shell regardless of valley conditions. If the summit is in clouds on arrival, conditions can deteriorate quickly — descend the same way you came if winds pick up."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Garfield Trail is one of the most technically benign approaches to any NH 4,000-footer. The old road bed is wide and well-graded throughout the lower 4.8 miles. The final 0.2 miles is steep and rocky with some scrambling, but no cliff exposure or significant fall hazard. Stream crossings in the lower section can be slippery in high water. Ice on the final steep approach and summit is the main shoulder-season hazard.",
+      "mitigation": "Trekking poles recommended for descent. Extra caution on the steep final pitch in wet or icy conditions. In spring high water, use the available bridge over the South Branch of the Gale River rather than rock-hopping."
+    }
+  },
+  "trailhead": {
+    "name": "Garfield Trailhead (Gale River Loop Road)",
+    "lat": 44.229,
+    "lon": -71.633,
+    "parking": "WMNF parking lot at the end of Gale River Loop Road (FR92). WMNF Recreation Pass required ($5/day or America the Beautiful annual pass). Winter note: Gale River Loop Road is gated from Route 3 in winter — the gate adds 1.2 miles each way, making the total winter round trip 12.0 miles. Park at the Route 3 pullout near the gate in winter. Summer/fall lot fills on popular weekends.",
+    "access_road": "From I-93 Exit 35, take Route 3 north for 4.8 miles and turn right onto Gale River Loop Road (FR92). Follow FR92 to the trailhead parking lot at the end of the road (~1 mile from Route 3). FR92 is an unpaved forest road, passable in summer and fall with any vehicle. Closed by gate in winter — park at Route 3 and walk.",
+    "nearest_town": "Bethlehem",
+    "amenities": ["vault toilet at trailhead", "small parking lot with trail kiosk", "no facilities at summit"]
+  },
+  "route_description": "From the Garfield Trailhead parking lot, the Garfield Trail heads south into the forest immediately climbing at a gentle grade. The trail follows the bed of an old fire tower access road — wide, well-graded, and easy to follow — for the vast majority of the route. This makes the first 4.8 miles deceptively comfortable: steady elevation gain through birch and spruce forest, with the only navigational interest being the stream crossings of the South Branch of the Gale River in the lower section. A bridge is available upstream from the first crossing — follow the small path along the brook a few hundred feet to avoid getting wet. As the trail climbs, the forest transitions from hardwood to spruce-fir, and the old road grade narrows.\n\nAt approximately 4.8 miles, the trail intersects the Garfield Ridge Trail (Appalachian Trail). The Garfield Ridge Campsite (tent platforms, caretaker in summer) is just west of this junction — a natural turnaround or rest point. Turn right briefly onto the Garfield Ridge Trail, then bear left onto the final 0.2-mile approach to the summit. This section is steep and rocky with hands-on scrambling in places — the only technical terrain on the entire route. The summit of Mt. Garfield opens suddenly onto a rocky clearing at 4,500 ft with an outstanding 360-degree panorama: the full Franconia Ridge (Lafayette, Lincoln, Liberty, Flume) to the south and southwest; the Twin Range (Galehead, South Twin, North Twin) to the west; the Pemigewasset Wilderness stretching east toward Carrigain and the Bonds; and the Presidential Range on the northern horizon. Return via the same route.",
+  "peaks": [
+    {
+      "name": "Mount Garfield",
+      "elevation_ft": 4500,
+      "is_4k_footer": true,
+      "views": "Fully open rocky summit with a complete 360-degree panorama. Outstanding views of the Pemigewasset Wilderness interior, the full Franconia Ridge (Lafayette, Lincoln, Liberty, Flume) to the south, the Twin Range and Galehead to the west, Mt. Carrigain and the Bonds to the east, and the Presidential Range to the north. One of the finest summit panoramas in the White Mountains for the distance required."
+    }
+  ],
+  "amc_hut": null,
+  "hazards": [
+    {
+      "type": "Open summit weather — wind and cold",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "The open summit at 4,500 ft is fully exposed to Franconia Range weather. The forested approach gives no indication of summit conditions — hikers have arrived at the summit in shorts to find 40 mph winds and temperatures 20°F colder than the parking lot. Clear valley days can mean foggy, gusty summit conditions with no shelter."
+    },
+    {
+      "type": "Ice on final summit approach",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"],
+      "description": "The steep rocky final 0.2 miles to the summit ices over readily from fall through spring. The exposed summit rocks also ice with rime. On a trail that is otherwise non-technical, this short section becomes the single significant hazard in shoulder season. Microspikes are required from mid-October through May."
+    },
+    {
+      "type": "Muddy lower trail — spring conditions",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["March", "April", "May"],
+      "description": "The old road bed that forms the Garfield Trail retains moisture aggressively in spring snowmelt and early rain. The lower miles can be deeply muddy, wet, and degraded from April through mid-May. Waterproof boots are essential and even these will be tested. Some hikers skip Garfield entirely in mud season due to trail damage concerns."
+    },
+    {
+      "type": "Stream crossings — high water in spring",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["April", "May", "June"],
+      "description": "The South Branch of the Gale River and its tributaries cross the trail multiple times in the lower section. In spring snowmelt and after heavy rain, the main crossing can run knee-deep and fast. A bridge is available upstream from the first stepping-stone crossing — use it whenever water looks high. Bare-foot fording was required by one trip report in an exceptionally high water April."
+    },
+    {
+      "type": "Winter road walk — extended distance",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["November", "December", "January", "February", "March"],
+      "description": "Gale River Loop Road (FR92) is gated at Route 3 in winter, requiring a 1.2-mile road walk each way before even reaching the actual Garfield Trailhead. This adds 2.4 miles and roughly 45-60 minutes to the winter round trip (total ~12 miles). The road walk itself is flat and easy but surprises hikers unfamiliar with WMNF winter road closures — plan for the extra distance and adjust your turnaround time accordingly."
+    }
+  ],
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "December", "January", "February", "March", "April", "May"],
+    "avoid": [],
+    "seasonal_notes": "Garfield is excellent in fall — the lower hardwood forest lights up in October and the summit views over the Pemi are stunning with peak foliage. Summer is prime season: the long forested approach is protected from heat, and the open summit provides a refreshing breeze. Winter adds the 1.2-mile road walk and significantly extends the day (plan for 12 miles total); the trail itself is manageable with microspikes or crampons, and the summit views in winter are arguably the finest in the range with no foliage obstruction. Avoid mud season (late April through mid-May) if possible — the old road surface retains water heavily and the trail takes a beating. Spring hikers should use the bridge at the stream crossings without fail. The trail is fully sheltered except for the final 0.2 miles, making it one of the better options when Franconia Ridge (Lafayette, Lincoln) is experiencing severe weather — the summit of Garfield is lower and slightly more sheltered than the full Franconia Ridge."
+  },
+  "gear_tiers": {
+    "three_season": ["waterproof hiking boots", "trekking poles", "2.5L water", "snacks and lunch", "insulating mid-layer", "wind and rain shell", "map or GPS", "headlamp"],
+    "shoulder_season": ["microspikes (mandatory mid-October through May)", "waterproof gaiters (spring mud season)", "insulating fleece or puffy", "hardshell wind and rain jacket", "hat and gloves", "extra food"],
+    "winter": ["crampons or aggressive microspikes", "insulated waterproof boots", "hardshell jacket and pants", "balaclava and warm hat", "liner and insulating gloves", "snowshoes (for deep snow on road walk and lower trail)", "extra insulating layers", "hot thermos", "headlamp (for extended day due to road walk)"]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-garfield-trail",
+      "label": "AllTrails: Mount Garfield Trail"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/garfield-trailhead",
+      "label": "WMNF — Garfield Trailhead"
+    },
+    {
+      "type": "weather-forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.6386&lat=44.1868",
+      "label": "NWS Forecast — Mt. Garfield / Franconia area"
+    },
+    {
+      "type": "summit-conditions",
+      "url": "https://www.mountwashington.org/experience-the-weather/current-conditions/",
+      "label": "Mt. Washington Observatory — Summit Conditions (Franconia Range proxy)"
+    },
+    {
+      "type": "trip-report",
+      "url": "https://chasingadvntr.com/mt-garfield-nh/",
+      "label": "Trip report: Mt. Garfield via Garfield Trail (including spring bridge crossing)"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["Hancock Loop (North & South Hancock)", "Mt. Osceola via East Pond Trail", "Welch-Dickey Loop"],
+    "leads_naturally_to": ["Garfield + Galehead loop via Garfield Ridge Trail and Gale River Trail", "South Twin Mountain via Garfield Ridge Trail and Twin Brookside Trail", "Franconia Ridge Loop (Lafayette, Lincoln, Liberty)"],
+    "progression_notes": "Garfield is often called the 'easiest hard hike' in the NH 48 — the long gradual approach makes it accessible to hikers who haven't built the leg strength for sustained steep climbing, but the distance and gain keep it from being a beginner peak. After Garfield, hikers are typically ready for the Franconia Ridge Loop or longer Pemi objectives. The Garfield Trail also makes an excellent approach leg for multi-peak Pemi days: combine with Galehead via the Garfield Ridge Trail (shuttle required) for a superb two-peak outing."
+  },
+  "response_hints": {
+    "beginner_framing": "Garfield is one of the best NH 48 peaks for hikers still building fitness. The trail follows an old road bed for almost five miles — the grade is steady and manageable, with no steep sections until the very last 0.2 miles. At nearly 10 miles round trip, it's a full day, so start early and carry enough food and water (2.5 liters minimum). The summit payoff is outstanding: a completely open 360-degree panorama that feels far more dramatic than the gentle approach would suggest. Dogs are welcome. In winter, know that the road adds 1.2 miles each way — plan for a 12-mile day.",
+    "expert_framing": "Garfield is deceptively satisfying — the technical simplicity of the approach makes it feel like a sure thing, and the summit delivers one of the best Pemi views in the range. It's a natural launch point for Pemi multi-peak combos: continue west on the Garfield Ridge Trail to Galehead Mountain (3.4 miles from summit) for a point-to-point with a Gale River Trail exit. Fall foliage timing here is excellent — the lower hardwood forest is spectacular in October and the open summit gives full context for the whole range. In winter the extra road walk is mildly annoying but the reward (summit views with zero other hikers) is worth it.",
+    "safety_callout": "The summit is the only exposed section on the whole hike — don't let the gentle forested approach make you complacent about layers. Conditions at 4,500 feet can be dramatically different from the parking lot, even on a clear summer day. Pack a warm layer and rain shell no matter what. In shoulder season, the final 0.2-mile rocky approach ices over while the lower 4.8 miles of road bed still looks like a summer trail — microspikes should be in your pack from mid-October. Spring hikers: use the bridge at the Gale River crossing and be prepared for seriously muddy conditions; some trail damage results from post-snowmelt hiking and the road surface retains water for weeks."
+  }
+}

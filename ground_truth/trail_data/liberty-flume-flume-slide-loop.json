@@ -1,0 +1,130 @@
+{
+  "id": "liberty-flume-flume-slide-loop",
+  "name": "Mount Liberty & Mount Flume via Flume Slide Loop",
+  "region": "Franconia Ridge",
+  "summary": "The Flume Slide Trail is considered the second-most difficult trail in the White Mountains — the AMC places only Huntington Ravine above it. The upper 0.5 miles of the slide consists of polished, nearly vertical ledge that is almost always wet from seep springs, with no practical retreat once committed. This loop ascends Flume Slide to Mt. Flume (4,328 ft), traverses the southern Franconia Ridge to Mt. Liberty (4,459 ft), and descends the Liberty Spring Trail. Both summits deliver open rocky perches above Franconia Notch with full ridge views. Not recommended for beginners or in wet conditions.",
+  "tags": ["4k-footer", "loop", "multi-peak", "scrambling", "fall-exposure-high", "above-treeline-weather-exposure", "alpine-zone", "ridge-walk", "parking-fee", "winter-viable"],
+  "stats": {
+    "distance_rt_miles": 9.8,
+    "elevation_gain_ft": 3700,
+    "highest_point_ft": 4459,
+    "above_treeline_miles": 0.5,
+    "typical_time_hrs": {
+      "beginner": 9.0,
+      "average": 7.0,
+      "experienced": 5.5
+    }
+  },
+  "difficulty": {
+    "fitness": 5,
+    "technical": 3,
+    "overall_label": "very hard",
+    "notes": "The Flume Slide's upper half requires sustained scrambling on polished, near-vertical ledge with serious fall exposure — not a difficulty that more time or fitness overcomes. AMC explicitly advises against ascending in wet conditions and discourages descending in any conditions. The rest of the loop is challenging but straightforward: steep but well-maintained trail with some rough footing and stone staircases on the Liberty Spring descent."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "high",
+      "description": "Mt. Flume's summit is a narrow exposed rock strip above sheer cliffs, and Mt. Liberty's rocky open summit sits directly on the Franconia Ridge. The 1.2-mile ridge traverse between the two peaks is partially exposed. Both summits receive the full Franconia Ridge weather — high winds and rapid weather changes are common and serious.",
+      "mitigation": "Check the Mt. Washington Observatory forecast and Cannon Mountain summit wind. Carry full wind and rain layers regardless of valley conditions. The ridge traverse is above treeline — retreat to the Liberty Spring Trail if conditions deteriorate, not back down the slide."
+    },
+    "fall_risk": {
+      "rating": "high",
+      "description": "The upper 0.5 miles of Flume Slide Trail is polished, near-vertical ledge with potential 30+ foot drops. Seep springs keep the rock almost perpetually wet and slippery. One hiker slid 10 feet on what she described as an 'easy' section before being stopped by a dirt landing — and that was on a summer day. The AMC rates this as the second-hardest trail in the White Mountains, behind only Huntington Ravine.",
+      "mitigation": "Ascend only — never descend Flume Slide. Do not ascend in wet weather or if storms are possible. Take your time on every ledge; treat it like a scramble, not a steep trail. Use bypass paths through the trees when ledge seems unmanageable. If at any point retreat seems safer than continuing, the wooded bypass paths lead back down — but recognize that once above the slide proper, retreat is very difficult."
+    }
+  },
+  "trailhead": {
+    "name": "Liberty Spring Trailhead (Whitehouse Bridge area)",
+    "lat": 44.1137,
+    "lon": -71.6874,
+    "parking": "Parking on Route 3 in Franconia Notch State Park. State park fee applies. Alternative: The Basin parking lot 0.5 mi north (off I-93), then walk the Franconia Notch Bike Path south 0.4 mi to the trailhead. Both lots fill early on weekends and fall foliage season.",
+    "access_road": "Route 3 in Franconia Notch State Park. The Basin lot is accessible directly off I-93 northbound (no fee at The Basin in off-peak season). Liberty Spring Trailhead is 0.5 mi south on Route 3.",
+    "nearest_town": "Lincoln",
+    "amenities": ["Franconia Notch Bike Path (connects to trailhead)", "Flume Gorge Visitor Center restrooms ~2 mi south on Route 3", "Cannon Mountain facilities nearby"]
+  },
+  "route_description": "From the Liberty Spring Trailhead (or via bike path from The Basin), follow Liberty Spring Trail (also the Appalachian Trail) north/east. At 0.6 miles, Flume Slide Trail branches sharply right. Follow Flume Slide Trail for ~2.5 miles: the first 2 miles are gradual with at least 6 brook crossings on level terrain. At ~2.5 miles, after crossing a branch of Flume Brook, slide debris signals the start of the technical section. The trail climbs increasingly steep rocky terrain before hitting the crux: 0.5 miles of near-vertical polished ledge where hands-on scrambling is mandatory. Bypass paths through the forest parallel the slide at this section. Above the slide the trail steepens further before reaching the narrow summit ledge of Mt. Flume (4,328 ft). Follow Franconia Ridge Trail north 1.2 miles through the col to Mt. Liberty (4,459 ft) — several ups and downs, partially above treeline. Descend Liberty Spring Trail 3.1 miles to the bike path and back to the trailhead. Do not descend via Flume Slide.",
+  "peaks": [
+    {
+      "name": "Mount Flume",
+      "elevation_ft": 4328,
+      "is_4k_footer": true,
+      "views": "Narrow west-facing rocky ledge perched above a sheer cliff. Dramatic close-up views of Franconia Notch, the cliffs of Mt. Liberty, the full Franconia Ridge, and Mt. Garfield. One of the most striking summit perches in the Whites despite its modest elevation."
+    },
+    {
+      "name": "Mount Liberty",
+      "elevation_ft": 4459,
+      "is_4k_footer": true,
+      "views": "Open rocky summit on the Appalachian Trail with panoramic views: Cannon Mountain and Franconia Notch to the west, the full Franconia Ridge (Flume, Lincoln, Lafayette) to the north, Pemigewasset Wilderness to the east, and the southern Whites to the south."
+    }
+  ],
+  "amc_hut": null,
+  "hazards": [
+    {
+      "type": "Polished ledge on Flume Slide — fall hazard",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "The upper 0.5 miles of Flume Slide consists of near-vertical polished rock kept perpetually wet by seep springs. Falls of 30+ feet are possible. The AMC rates this the second-hardest trail in the White Mountains and explicitly discourages descending it in any conditions. Ascending in wet weather dramatically increases fall risk."
+    },
+    {
+      "type": "Ice on the slide",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"],
+      "description": "The permanently wet slide ledge ices heavily from fall through spring, creating conditions that require crampons and ice axe skills beyond what most hikers possess. Even microspikes may be insufficient on the steepest sections. In full winter conditions this route is considered an advanced mountaineering objective."
+    },
+    {
+      "type": "Summit ridge weather — Franconia Ridge",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "Both summits and the connecting ridge are exposed to Franconia Ridge weather — sustained high winds, rapid temperature drops, and whiteout conditions are possible in any month. The ridge sits at 4,000+ feet with no shelter between summits."
+    },
+    {
+      "type": "Brook crossings — high water",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["April", "May", "June"],
+      "description": "Flume Slide Trail crosses Flume Brook and multiple tributaries 6+ times on the lower approach. In spring snowmelt and after heavy rain these crossings can be thigh-deep and swift. High water conditions also increase the danger on the already-wet slide above."
+    }
+  ],
+  "seasons": {
+    "recommended": ["July", "August", "September"],
+    "viable_with_gear": ["October", "November", "December", "January", "February", "March", "April", "May", "June"],
+    "avoid": [],
+    "seasonal_notes": "Summer (July–September) in dry conditions is the only truly safe window for Flume Slide. Even then, the ledge is often damp from seep springs — check recent trip reports before committing. June is viable but brook crossings can be challenging and the slide is frequently wet from snowmelt. Fall is beautiful on the ridge but shoulder-season ice arrives early — October mornings can bring ice on the slide that won't be visible from below. Winter conditions (October through May) demand full crampons, ice axe, and mountaineering experience; this is not a beginner winter hike. The Liberty Spring Trail (without Flume Slide) is a much safer winter option for Liberty alone. The Franconia Notch Bike Path connects parking areas and makes the approach flexible year-round."
+  },
+  "gear_tiers": {
+    "three_season": ["waterproof hiking boots with stiff soles for ledge grip", "trekking poles (stow before the slide)", "gloves for the ledge scramble", "layers and wind shell", "2.5L water", "snacks", "map and compass", "headlamp", "first aid kit"],
+    "shoulder_season": ["microspikes (mandatory October and May)", "insulating mid-layer", "hardshell wind and rain jacket", "hat and liner gloves", "extra food for longer day", "trekking poles and optional ice axe (late October onward)"],
+    "winter": ["crampons (mandatory — microspikes likely insufficient on slide ledge)", "ice axe", "insulated waterproof boots", "hardshell jacket and pants", "balaclava and warm hat", "insulating gloves and liner gloves", "beacon/probe/shovel recommended", "extra insulation layers"]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/flume-slide-trail-to-liberty-spring-trail-loop",
+      "label": "AllTrails: Flume Slide to Liberty Spring Loop"
+    },
+    {
+      "type": "weather-forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.6425&lat=44.1310",
+      "label": "NWS Forecast — Franconia Ridge area"
+    },
+    {
+      "type": "summit-conditions",
+      "url": "https://www.mountwashington.org/experience-the-weather/current-conditions/",
+      "label": "Mt. Washington Observatory — Summit Conditions (Franconia Ridge proxy)"
+    },
+    {
+      "type": "trip-report",
+      "url": "https://shehikesmountains.com/2021/07/13/mt-liberty-mt-flume-4459-ft-nh/",
+      "label": "Trip report: Liberty & Flume via Flume Slide (with fall account)"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["Franconia Ridge Loop via Falling Waters and Greenleaf Trail", "Mt. Garfield via Garfield Trail", "North and South Kinsman via Lonesome Lake"],
+    "leads_naturally_to": ["Franconia Ridge full loop (add Lafayette and Lincoln)", "Pemigewasset Wilderness multi-day loop", "Bondcliff and Bond via Lincoln Woods"],
+    "progression_notes": "Fliberty (as it's affectionately called) sits on the southern end of the Franconia Ridge — it pairs naturally with the Franconia Ridge Loop which covers the northern peaks (Lincoln, Lafayette). Experienced hikers often combine all four Franconia Range 4K footers in one long loop via the Falling Waters and Greenleaf trails, though that's a major undertaking at 14+ miles. For those not ready for the slide, the Liberty Spring Trail alone is an excellent approach to both peaks without the technical hazard."
+  },
+  "response_hints": {
+    "beginner_framing": "This loop is not suitable for beginners, and the Flume Slide specifically should not be attempted by anyone without scrambling experience and comfort with exposed ledge. If you want to hike Liberty and Flume as a beginner, consider the Liberty Spring Trail as an out-and-back — it's challenging but safe, with outstanding summit views on both peaks. Save the Flume Slide for after you've done several technical hikes and understand ledge terrain.",
+    "expert_framing": "Flume Slide is a genuine scrambling objective — the most technically committing trail approach in this guide. The polished ledge on the slide is always wet and rewards precise footwork and route-finding over brute strength. The summit of Flume is one of the best perches in the Franconia Ridge, and the 1.2-mile ridge traverse to Liberty is a pleasant bonus. Timing matters: early starts beat crowds on the slide, and dry stretches in late summer give the best conditions. Always check recent trip reports — the slide's condition varies significantly day to day.",
+    "safety_callout": "The AMC explicitly discourages descending Flume Slide in any conditions and advises against ascending in wet weather — follow this guidance. The upper ledge is polished by centuries of runoff and nearly impossible to grip when wet. If it has rained recently, has been overcast, or you see standing water below the slide, consider the Liberty Spring Trail approach instead. Once above the crux ledge section you are committed — the only safe exit is forward to the summit, not back down. In shoulder seasons, bring crampons even if conditions look dry from the parking lot."
+  }
+}

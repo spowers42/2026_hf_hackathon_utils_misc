@@ -1,0 +1,124 @@
+{
+  "id": "tower-trail-oak-hill",
+  "name": "Tower Trail at Oak Hill (Oak Hill City Forest)",
+  "region": "Merrimack Region",
+  "summary": "Oak Hill City Forest in East Concord is one of the most accessible and popular local hikes in central New Hampshire — a 3.8-mile loop through oak-dominated forest to a historic 65-foot fire tower on the 970-foot summit. The tower (originally built in 1928, last raised in 1971) offers panoramic views from its upper platform including Mt. Kearsarge, Ragged Mountain, and on clear days the distant White Mountains. The trail network has over 7 miles of paths; the Tower Trail is the most direct route to the summit. An excellent entry-level hike for families, new hikers, or off-season fitness walking.",
+  "tags": ["loop", "dog-friendly", "winter-viable", "snowshoe-route"],
+  "stats": {
+    "distance_rt_miles": 3.8,
+    "elevation_gain_ft": 570,
+    "highest_point_ft": 970,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 2.0,
+      "average": 1.5,
+      "experienced": 1.0
+    }
+  },
+  "difficulty": {
+    "fitness": 1,
+    "technical": 1,
+    "overall_label": "easy",
+    "notes": "Few rocky sections and consistently low gradient make this one of the most manageable hikes in New Hampshire. Trail surface is packed earth and roots, well-maintained, with modest steady climbing. Suitable for young children, seniors, and beginners building fitness for harder objectives. The only non-trivial element is climbing the fire tower stairs — 65 feet, open steel structure, requiring some comfort with heights."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "none",
+      "description": "Fully forested throughout. The summit is wooded and the fire tower provides the only open exposure, which is a brief fixed-structure climb rather than sustained alpine terrain. No above-treeline weather risk at any point on the route.",
+      "mitigation": "Standard layers and rain jacket. No specialized weather preparation required beyond typical day-hike practice."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "Trail terrain poses minimal fall risk — gentle grades, few rocks, no cliff exposure. The fire tower is the primary fall hazard: the stairs climb 65 feet on an open steel frame to a locked hut. Young children should be supervised on the tower stairs and the lower platforms. The upper platform provides good railings but requires careful footing.",
+      "mitigation": "Keep children in hand on the tower stairs. Descent can feel steeper than the ascent when on open steel grating. Winter ice on tower steps creates slipping hazard — use the handrails or skip the tower ascent in icy conditions."
+    }
+  },
+  "trailhead": {
+    "name": "Oak Hill Park Trailhead (Shaker Road)",
+    "lat": 43.27445,
+    "lon": -71.52871,
+    "parking": "Free gravel parking area on Shaker Road, approximately 10-12 vehicles. No fee, no pass required. A second trailhead on Tower Road in Loudon (tower side) provides access from the north — useful for a point-to-point approach. The Shaker Road entrance is the more commonly used and better-signed starting point.",
+    "access_road": "From NH Route 132 in northeast Concord, turn onto Shaker Road and drive approximately 2.4 miles northeast. Watch for a trail sign and small parking area on the right. Roads are paved and accessible year-round.",
+    "nearest_town": "Concord",
+    "amenities": ["no facilities at trailhead", "trail map posted at trailhead kiosk", "picnic table at summit near fire tower"]
+  },
+  "route_description": "From the Shaker Road parking area, follow the yellow-blazed Tower Trail northeast into Oak Hill City Forest. The trail climbs gradually through a forest of oaks, maples, and birches typical of central NH lowland woods. At approximately 0.2 miles, bear left as the Lower Trail branches right (the Lower Trail rejoins the loop near the trailhead on return). Continue on Tower Trail, crossing the Upper Trail at ~0.4 miles, then climb more steadily through mixed woods to the summit of Oak Hill at approximately 1.3 miles. The summit (970 ft) has a 65-foot steel fire tower — first built in 1928 and last extended to current height in 1971. Climb the open stairs to the upper platform (just below the locked hut) for panoramic views: Mt. Kearsarge and Ragged Mountain to the west, the Lakes Region to the north, and the distant White Mountains on clear days. A picnic table sits at the base of the tower. Descend via the return loop, bearing right at junctions, to complete the circuit back to the parking area.\n\nRoute variants: The Oak Hill Loop (4.7 mi, 760 ft gain) extends the outing to include Vista Way — the best viewpoint in the park with northerly views to Mt. Kearsarge. The Knowlton Loop (3.3 mi, 560 ft) is the shortest option for experienced hikers focused only on the tower. Both routes use the same Shaker Road trailhead.",
+  "peaks": [
+    {
+      "name": "Oak Hill",
+      "elevation_ft": 970,
+      "is_4k_footer": false,
+      "views": "Summit is fully wooded — all views require climbing the 65-foot fire tower. From the upper platform: panoramic views of central NH including Mt. Kearsarge, Ragged Mountain, the Lakes Region, and (on clear days) the distant Presidential Range and White Mountains to the north. Rewarding given the minimal effort to reach them."
+    }
+  ],
+  "amc_hut": null,
+  "hazards": [
+    {
+      "type": "Fire tower fall hazard — open steel stairs",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "The 65-foot open-steel fire tower has stairs with open grating — heights are real, and the fall exposure increases with each landing. Children require hand supervision. The hut at the top is locked; climbing is possible to the platform just below. The tower feels more exposed than its 65 feet in practice. Ice on the steel grating in winter makes the stairs genuinely slippery."
+    },
+    {
+      "type": "Ticks — oak forest throughout hiking season",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"],
+      "description": "Oak Hill's mixed oak-maple forest at low elevation in central NH is classic deer tick habitat. Blacklegged (deer) tick activity is significant from spring through late fall. The low, brushy vegetation along trail edges creates frequent contact points. This is a higher tick exposure environment than most alpine White Mountains trails."
+    },
+    {
+      "type": "Poison ivy on outer trail loops",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["May", "June", "July", "August", "September", "October"],
+      "description": "Poison ivy grows along portions of the outer trail loops in the Oak Hill network, particularly on brushier sections. Hikers who wander off trail or use the Luti Loop extension have reported significant exposure. The Tower Trail's main path is typically well-cleared but brush contact while passing can still cause reaction."
+    },
+    {
+      "type": "Winter ice on trail and tower stairs",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["November", "December", "January", "February", "March"],
+      "description": "The Tower Trail's packed-earth path becomes icy in cold weather, particularly in the shaded lower sections. The fire tower steel grating can ice over completely in freeze-thaw cycles, making the steps very slippery even with boots. Microspikes are recommended for mid-winter visits, and the tower ascent should be skipped in icy conditions."
+    }
+  ],
+  "seasons": {
+    "recommended": ["April", "May", "June", "July", "August", "September", "October", "November"],
+    "viable_with_gear": ["December", "January", "February", "March"],
+    "avoid": [],
+    "seasonal_notes": "Oak Hill is a genuine four-season hike. Spring is beautiful for trilliums and wildflowers in the forest understory; fall foliage through the hardwood canopy is excellent in October. The tower provides views that cut through any leafed-out canopy. Summer midweek visits are quiet; weekends see Concord families with dogs and children. Winter brings snowshoe conditions on the gentle terrain — the gradual Tower Trail is an ideal beginner snowshoe route. Tick prevention (long pants, repellent, post-hike tick checks) is important spring through fall. The trail is particularly popular for after-work exercise and off-season conditioning runs."
+  },
+  "gear_tiers": {
+    "three_season": ["trail shoes or light hiking boots", "tick repellent (DEET or permethrin-treated pants)", "water bottle", "layers", "sun protection"],
+    "shoulder_season": ["waterproof trail shoes", "insulating mid-layer", "hat and gloves", "light waterproofs"],
+    "winter": ["microspikes (for icy trail and tower stairs)", "insulated waterproof boots", "warm hat and gloves", "insulating mid-layer", "snowshoes (optional for deep snow)"]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/oak-hill-fire-tower-trail",
+      "label": "AllTrails: Oak Hill Tower Trail"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.concordnh.gov/1033/Hiking-Trails",
+      "label": "City of Concord NH — Hiking Trails (Oak Hill City Forest)"
+    },
+    {
+      "type": "topo-map",
+      "url": "https://www.concordnh.gov/DocumentCenter/View/9221/Map-12-Oak-Hill-Trails",
+      "label": "Oak Hill & Knowlton Forest Trail Map (City of Concord PDF)"
+    },
+    {
+      "type": "trip-report",
+      "url": "https://www.trailspotting.com/2021/09/oak-hill-tower-trail.html",
+      "label": "Trailspotting: Oak Hill, Knowlton Forest — route options and notes"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["neighborhood walks", "Concord area parks and greenways", "Marjory Swope Park (Concord)"],
+    "leads_naturally_to": ["Mt. Major via major trail (Alton NH, 1,784 ft)", "Mt. Kearsarge via Winslow Trail (2,937 ft)", "Welch-Dickey Loop (White Mountains, moderate)", "Mt. Willard via Crawford Path (Crawford Notch, easy)"],
+    "progression_notes": "Oak Hill is the ideal first technical hike for central NH residents — short, non-threatening, and rewarding enough (fire tower views) to build the hiking habit. The tower climb gives beginners a first taste of exposed heights in a controlled structure. After Oak Hill, hikers are typically ready for longer, hillier local objectives like Mt. Major or Kearsarge, or the easier White Mountains trailheads with full-day commitments."
+  },
+  "response_hints": {
+    "beginner_framing": "This is one of the best first hikes in New Hampshire. At 3.8 miles with only 570 feet of gain, it's very manageable even for first-time hikers — and the fire tower at the top is genuinely rewarding, with views you'd expect from a much harder peak. The trail is well-marked and easy to follow. The only thing to be aware of: ticks. Wear long pants, use repellent, and do a thorough tick check after — this oak forest has significant deer tick populations from spring through fall.",
+    "expert_framing": "Oak Hill is a training loop more than a destination hike — the Tower Trail makes an excellent early-morning run or off-season conditioning route when you don't want a full White Mountains day. The 4.7-mile Oak Hill Loop variant adds the Vista Way viewpoint and is the better route if you're spending any real time here. Combine with Marjory Swope Park nearby for a longer outing. The fire tower is worth a stop for the views.",
+    "safety_callout": "Two things to keep in mind: ticks and the fire tower. This is a high tick-exposure environment from April through November — wear treated clothing, check thoroughly after the hike, and know the symptoms of Lyme disease. For the fire tower: kids love it, but supervise them closely on the open steel stairs. The grating gets slippery when wet or icy — if conditions are icy, skip the tower climb entirely and enjoy the forested summit instead."
+  }
+}

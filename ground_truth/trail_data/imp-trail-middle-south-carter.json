@@ -1,0 +1,136 @@
+{
+  "id": "imp-trail-middle-south-carter",
+  "name": "Middle & South Carter via Imp Trail Loop",
+  "region": "Carter Range",
+  "summary": "A satisfying Carter Range loop that earns its views at the Imp Face — a clifftop overlook with one of the best unobstructed views of Mt. Washington and the Northern Presidentials in the range — before traversing north to North Carter and south along the Carter-Moriah Trail (AT) to tag Middle and South Carter. All three summits are NH 48 peaks. Both target summits are fully wooded with no views, and neither has signs — GPS is essential to confirm you've actually reached them.",
+  "tags": ["4k-footer", "loop", "multi-peak", "dog-friendly", "winter-viable", "snowshoe-route"],
+  "stats": {
+    "distance_rt_miles": 11.0,
+    "elevation_gain_ft": 3900,
+    "highest_point_ft": 4610,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 9.5,
+      "average": 7.5,
+      "experienced": 6.0
+    }
+  },
+  "difficulty": {
+    "fitness": 5,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "The Imp Trail climbs steeply almost immediately from the trailhead and never really relents. A fixed ladder assists one particularly rocky section near the Imp Face. The ridge section along the Carter-Moriah Trail is comparatively gentle, but the full loop distance and cumulative elevation keep this solidly in hard territory. All three summits are forested with no technical terrain."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "low",
+      "description": "Fully forested route with no sustained above-treeline exposure. The Imp Face cliff is a brief open viewpoint and the North Carter approach nears but does not exceed treeline. The Carter-Moriah ridge is forested but can be icy and wind-exposed in shoulder season.",
+      "mitigation": "Standard layers and rain gear. No specialized weather preparation beyond normal NH hiking practice. Monitor weather for fog and precipitation — the wooded Carter-Moriah ridge is navigated by trail alone, and visibility matters more than it might seem when hunting for unmarked wooded summits."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Imp Face cliff overlook has brief exposed ledge at the viewpoint — don't wander near the edge. The rest of the loop is steep, rocky, rooted NH trail with no technical hazard. Ice on the steep Imp Trail is the main seasonal concern.",
+      "mitigation": "Stay back from the cliff edge at Imp Face. Trekking poles recommended on the steep Imp Trail sections, particularly on descent of 19 Mile Brook Trail. Microspikes required on the Imp Trail from roughly October through May."
+    }
+  },
+  "trailhead": {
+    "name": "Imp North Trailhead",
+    "lat": 44.354,
+    "lon": -71.199,
+    "parking": "Free roadside gravel pullout on Route 16, 3 miles south of Gorham. The Imp North Trailhead has the largest pullout and is the preferred starting point. The Imp South Trailhead pullout is 0.3 miles south on Route 16. Nineteen Mile Brook Trailhead (loop exit point) is 1.5 miles south — most hikers park at 19 Mile Brook and road-walk north to the Imp North TH to start, completing a car-free loop. No WMNF Recreation Pass required at these roadside pullouts.",
+    "access_road": "Route 16 (Pinkham Notch road), 3 miles south of Gorham center. No special road conditions — Route 16 is paved and plowed year-round.",
+    "nearest_town": "Gorham",
+    "amenities": ["no facilities at Imp trailhead", "AMC Pinkham Notch Visitor Center with restrooms 5 miles south on Route 16"]
+  },
+  "route_description": "Park at the Nineteen Mile Brook Trailhead on Route 16 and road-walk 1.5 miles north to the Imp North Trailhead (or park at Imp North and arrange a shuttle). The Imp Trail climbs steeply from the trailhead with typical White Mountain root-and-rock terrain, passing a fixed ladder on one rocky section. At ~2.2 miles, reach the Imp Face cliff overlook — one of the best Presidential views in the Carter Range. Linger here; views of Mt. Washington, Adams, and Madison are outstanding. Continue on the Imp Trail 0.9 miles past Imp Face (10+ small stream crossings in this section — last reliable water before the dry ridge). At the North Carter Trail junction, turn left (north) and climb 0.7 miles to the Carter-Moriah Trail (AT). A short detour 0.3 miles north on the AT reaches North Carter summit (4,530 ft), which has a viewpoint into the Wild River Wilderness. Return south on the Carter-Moriah Trail, passing over the ridge of Mt. Lethe (4,584 ft, not an NH 48 due to insufficient prominence). Middle Carter (4,610 ft) is 1.0 miles south of the North Carter junction — large cairn pile, no sign, GPS confirm. South Carter (4,430 ft) is 1.3 miles further south — wooded, no sign, GPS confirm. Continue south 0.7 miles to Zeta Pass (junction with Carter Dome Trail). Turn right (west) on Carter Dome Trail and descend 1.9 miles to Nineteen Mile Brook Trail. Follow Nineteen Mile Brook Trail 3.8 miles back to Route 16 and your car.",
+  "peaks": [
+    {
+      "name": "North Carter Mountain",
+      "elevation_ft": 4530,
+      "is_4k_footer": true,
+      "views": "Brief viewpoint on approach from the south with a wide panorama of the Wild River Wilderness and the Baldface-Royce Range to the east. Summit itself is forested. Often bagged as a bonus on this loop."
+    },
+    {
+      "name": "Middle Carter Mountain",
+      "elevation_ft": 4610,
+      "is_4k_footer": true,
+      "views": "Fully wooded summit. Marked only by a large cairn pile with no official sign. No views. Use GPS to confirm you are at the actual summit — the trail passes over it without obvious indication."
+    },
+    {
+      "name": "South Carter Mountain",
+      "elevation_ft": 4430,
+      "is_4k_footer": true,
+      "views": "Wooded summit with a small partial clearing. No sign or cairn — GPS confirmation required. A pleasant ridge traverse from Middle Carter leads here in about 30-45 minutes of easy hiking."
+    }
+  ],
+  "amc_hut": null,
+  "hazards": [
+    {
+      "type": "Unmarked wooded summits — navigation",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "Neither Middle Carter nor South Carter have trail signs or reliable cairns at their summits. In clear weather this is manageable with a downloaded map and GPS; in fog or rain, hikers have passed both summits without realizing they reached them. The AT/Carter-Moriah Trail continues past each summit without obvious pause."
+    },
+    {
+      "type": "Ice on Imp Trail — steep approach",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"],
+      "description": "The Imp Trail climbs steeply with little respite, and ices over readily from fall through spring. The upper 0.9 miles between Imp Face and the North Carter Trail junction has 10+ stream crossings that freeze in cold weather. Microspikes are mandatory for this section — fall potential is significant on the steep rocky terrain."
+    },
+    {
+      "type": "Dry ridge — carry adequate water",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["June", "July", "August", "September", "October"],
+      "description": "The Carter-Moriah Trail ridge above the North Carter Trail junction is bone dry with no reliable water sources from North Carter to Zeta Pass (a stretch of ~4 miles). Fill up at the streams below the North Carter Trail junction before ascending the ridge."
+    },
+    {
+      "type": "Imp Face cliff edge",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "description": "The Imp Face is an actual cliff — the profile is what gives the formation its name when viewed from Route 16 below. The clifftop viewpoint has exposed ledge with significant drop-off. Stay back from the edge, especially with children or dogs, and in icy conditions."
+    }
+  ],
+  "seasons": {
+    "recommended": ["June", "July", "August", "September"],
+    "viable_with_gear": ["October", "November", "December", "January", "February", "March", "April", "May"],
+    "avoid": [],
+    "seasonal_notes": "Summer through fall is the prime season. The route is spectacular in fall foliage — the Imp Face view of the Presidentials against autumn color is among the best in the range. The streams between Imp Face and the North Carter Trail junction dry up somewhat in late summer but typically flow through October. Winter is excellent for experienced hikers: the Imp Trail is a classic snowshoe/crampon objective and the Carter-Moriah ridge feels remote in winter solitude. Mud season (late April through mid-May) is passable but messy. The 19 Mile Brook Trail section of the descent is one of the faster and more gentle descents in the Carter Range — a good way to end the loop."
+  },
+  "gear_tiers": {
+    "three_season": ["waterproof hiking boots", "trekking poles", "2.5L water (fill before ascending the dry ridge)", "snacks", "layers and rain shell", "downloaded GPS map (essential for locating wooded summits)", "headlamp"],
+    "shoulder_season": ["microspikes (mandatory on icy Imp Trail sections)", "insulating mid-layer", "wind shell", "hat and gloves", "extra food for longer day"],
+    "winter": ["crampons or aggressive microspikes", "insulated waterproof boots", "snowshoes (for deep snow on Imp Trail and ridge)", "hardshell jacket and pants", "balaclava and warm hat", "insulating gloves and liner gloves", "extra insulation layers", "hot thermos"]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/imp-face-middle-carter-and-south-carter-mountain",
+      "label": "AllTrails: Imp Face, Middle Carter and South Carter"
+    },
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/middle-carter-via-imp-north-carter-and-carter-moriah-trail",
+      "label": "AllTrails: Middle Carter via Imp, North Carter, and Carter-Moriah"
+    },
+    {
+      "type": "weather-forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.1790&lat=44.2744",
+      "label": "NWS Forecast — Pinkham Notch area"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/imp-south-trailhead",
+      "label": "WMNF — Imp South Trailhead"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["Mt. Moriah via Carter-Moriah Trail", "Wildcat D via Wildcat Ridge Trail", "Mt. Hale via Hale Brook Trail"],
+    "leads_naturally_to": ["Carter Dome via Nineteen Mile Brook Trail extension", "Full Carter-Moriah traverse (add Moriah to the north)", "Wild River area objectives (Mt. Meader, Baldface)"],
+    "progression_notes": "This loop is the most efficient way to bag three Carter Range 4K footers in a single day. After this route, hikers often return for Carter Dome (the most prominent Carter peak) via the Nineteen Mile Brook Trail, or extend to Mt. Moriah by traversing the full Carter-Moriah ridge north. The viewless nature of Middle and South Carter makes this a summit-count objective — the Imp Face is the payoff view."
+  },
+  "response_hints": {
+    "beginner_framing": "This loop has a lot to offer: outstanding views from the Imp Face, three NH 48 peaks, and a diverse circuit through the Carter Range. That said, at 11 miles with nearly 4,000 feet of gain, it's a full day. Be ready for a steep climb from the start — the Imp Trail never really flattens out until you hit the ridge. Carry at least 2.5 liters of water and fill up at the streams below the North Carter Trail junction; the ridge above is completely dry for 4+ miles. Download a GPS map before you go — Middle and South Carter summits have no signs and are easy to walk right past.",
+    "expert_framing": "The Carter-Moriah ridge is one of the quieter NH 48 corridors — you can do three peaks on a Saturday and see almost no one above the North Carter Trail junction. The Imp Face is the real highlight and deserves a lunch stop. If you want to extend, the Carter Dome Trail junction at Zeta Pass puts Carter Dome within reach (add ~3 miles RT) — or continue north past North Carter to Mt. Moriah for a full ridge traverse with car shuttle. Fall foliage timing here is excellent — the Imp Face faces west toward the Presidentials and catches afternoon light beautifully.",
+    "safety_callout": "Middle Carter and South Carter have no trail signs and can be genuinely difficult to identify in fog or when moving fast. Download the route to a GPS app and mark both summits before you leave the trailhead — do not rely on finding an obvious marker at either peak. The other critical note: fill water at the streams between Imp Face and the North Carter Trail junction (last reliable water for 4+ miles of dry ridge). In shoulder season, the Imp Trail's steep grade ices over quickly — microspikes are non-negotiable from October onward."
+  }
+}

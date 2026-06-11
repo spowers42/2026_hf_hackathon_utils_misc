@@ -1,0 +1,180 @@
+{
+  "id": "mt-jefferson-caps-ridge",
+  "name": "Mt. Jefferson via Caps Ridge Trail",
+  "peaks": [
+    {
+      "name": "Mt. Jefferson",
+      "elevation_ft": 5712,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Northern Presidentials",
+  "stats": {
+    "distance_rt_miles": 5.0,
+    "elevation_gain_ft": 2701,
+    "highest_point_ft": 5712,
+    "above_treeline_miles": 2.5,
+    "typical_time_hrs": {
+      "beginner": 6.5,
+      "average": 5.0,
+      "experienced": 4.0
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 3,
+    "overall_label": "hard",
+    "notes": "Fitness demand is moderate-high: 2,701 ft of gain over 5 miles round trip, at an average rate exceeding 1,000 ft/mile — one of the steeper gain rates in the Whites. The high trailhead elevation (3,008 ft) keeps total round-trip distance short, limiting cardiovascular endurance demands relative to other Northern Presidential routes. The technical challenge is concentrated on 'the Caps' — three successive rocky outcrops requiring Class 2 scrambling with occasional hand use. The upper boulder field from the Cornice junction to the summit requires careful footing but is less committing than the Caps themselves. These are separate demands: a fit hiker with poor scrambling confidence will find the Caps more limiting than the distance or gain."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "severe",
+      "description": "Approximately 2.5 miles of the round trip are above the standard 4,400 ft treeline. The practical weather-exposed zone begins even lower — around 4,000 ft — because the Caps Ridge is a narrow, wind-blasted spine where trees cannot grow to full height. Jefferson is at the heart of the Northern Presidentials and experiences weather in the same league as Mt. Washington: wind speeds routinely exceed 50 mph on the summit, and conditions can change from clear to whiteout in under an hour. The summit (5,712 ft) is fully exposed on all sides, and there is no shelter within 2+ miles of the summit. Jefferson Notch Road is on the western side of the range; prevailing weather approaches from the west and northwest, often hitting Jefferson first among the Northern Peaks.",
+      "mitigation": "Check the Mt. Washington Observatory Higher Summits Forecast the morning of the hike — conditions at Jefferson closely track the Observatory forecast. Start early to reach the summit and descend the Caps before afternoon thunderstorms develop (typically early-to-mid afternoon in summer). Carry full rain gear, a warm insulating layer, hat, and gloves regardless of trailhead conditions. The Cornice Trail junction (~1.75 mi) is the last reasonable turnaround point before committing to the open summit cone."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "The three Caps are the primary fall hazard: Class 2 rocky outcrops requiring hands and feet, with drops of several to tens of feet if a hiker slips on the wrong side. Wet rock on the Caps dramatically increases risk — the granite slabs can become nearly frictionless. The upper boulder field from Cornice junction to the summit involves less-exposed Class 2 rock-hopping where a slip is more likely to result in a sprained ankle than a serious fall. The trail descends the same way it ascends, meaning the Caps must be navigated in both directions.",
+      "mitigation": "Stiff-soled boots with ankle support provide better purchase on slabby rock than trail runners. Trekking poles can be stowed for the Caps scrambling sections where two hands on rock is preferable. Do not attempt the Caps in rain or if they look wet — turn around at the Link junction (1.1 mi) if conditions are deteriorating. Move deliberately; the consequence of a slip on the Caps is higher on descent than ascent."
+    }
+  },
+  "seasons": {
+    "recommended": ["July", "August", "September"],
+    "viable_with_gear": ["October"],
+    "avoid": ["November", "December", "January", "February", "March", "April", "May", "June"],
+    "seasonal_notes": "Jefferson Notch Road is gated and closed from approximately November through late June — the typical opening date ranges from mid-June to late June depending on snowpack, making the Caps Ridge Trailhead inaccessible by car for most of the year. Do not plan this hike before confirming Jefferson Notch Road is open (check WMNF Forest Roads Status page). In practice, the recommended window is July through September when both the road and the trail are reliably snow/ice free. October is possible but the Caps become icy quickly and Jefferson Notch Road may close before the usual hiking season ends. Winter ascent of Caps Ridge from Jefferson Notch requires a multi-mile ski or snowshoe approach on the closed road in addition to the full technical winter mountaineering requirements of any Northern Presidential summit — it is rarely done."
+  },
+  "tags": [
+    "above-treeline-weather-exposure",
+    "fall-exposure-moderate",
+    "scrambling",
+    "4k-footer",
+    "out-and-back",
+    "parking-fee",
+    "dog-friendly"
+  ],
+  "hazards": [
+    {
+      "type": "scrambling-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The three Caps are Class 2 rocky outcrops on the exposed ridge, each requiring scrambling with hands and feet. Slabs and ledges can be slick on wet days. Drops off the sides of the Caps range from several to tens of feet. The trail crosses all three Caps in both directions. Wet granite on the Caps is the most dangerous single condition on this route.",
+      "months_active": ["July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "weather-exposure",
+      "hazard_category": "weather-and-environment",
+      "description": "Approximately 2.5 miles of the round trip are above treeline on a fully exposed Presidential ridge, with effective weather exposure beginning around 4,000 ft on the wind-blasted Caps Ridge spine. Jefferson is among the most weather-exposed summits in the Northeast. Winds routinely exceed 50 mph, and whiteout conditions can develop rapidly from clear skies.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The Caps themselves and the full summit cone are completely exposed with no shelter. Afternoon convective storms are common in July and August. The Caps sit mid-ridge with no rapid descent options once a storm develops; reaching the Link junction (1.1 mi) is the fastest way to get below treeline.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The Caps become treacherous with ice coating. Jefferson Notch Road usually keeps the trailhead inaccessible until most seasonal ice has melted, but early-season attempts (immediately after road opening) may encounter icy rock on the Caps and summit. October brings the first seasonal ice; the Caps can ice up with a single overnight freeze.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May", "June"]
+    },
+    {
+      "type": "hypothermia-risk",
+      "hazard_category": "weather-and-environment",
+      "description": "The summit and exposed ridge are frequently cold and wind-driven even on pleasant trailhead days. Wind chill on the Caps and summit cone regularly brings effective temperatures 20–30°F below ambient. Jefferson Notch Road sits at 3,008 ft — the trailhead itself can be cold; the summit 2,700 ft higher is dramatically colder.",
+      "months_active": ["September", "October", "November", "December", "January", "February", "March", "April", "May", "June"]
+    },
+    {
+      "type": "navigation",
+      "hazard_category": "weather-and-environment",
+      "description": "Above treeline, the trail is marked by cairns and faded yellow paint blazes on rock. The blazes are noted to be very difficult to see as paint flakes off over time. In fog or cloud, the Caps themselves can be confusing — multiple rock knobs look similar. On the summit cone, the actual high point of Jefferson is easy to miss (hikers frequently walk past it to the large cairn at the trail junction). In a whiteout, route-finding from Jefferson summit back to Caps Ridge requires careful navigation.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with ankle support and good sole grip (essential for the Caps slabs)",
+      "Trekking poles (stow for Caps scrambling, valuable on descent)",
+      "Rain shell and warm insulating layer (conditions change rapidly at summit)",
+      "Warm hat and gloves (wind chill at 5,700 ft is significant even in summer)",
+      "Headlamp",
+      "Map and compass or GPS with downloaded topo (AMC Map 1, Presidential Range)",
+      "2–3 liters water minimum — rocks at summit retain heat and radiate it; bring extra in summer",
+      "Sun protection (lip balm, sunscreen — sustained UV exposure above treeline)"
+    ],
+    "shoulder_season": [
+      "All three-season gear plus:",
+      "Microspikes (Caps can ice with a single overnight freeze in October)",
+      "Insulated mid-layer",
+      "Waterproof insulated gloves",
+      "Balaclava",
+      "Confirm Jefferson Notch Road is open before departure"
+    ],
+    "winter": [
+      "NOTE: Jefferson Notch Road is closed in winter — the Caps Ridge Trailhead is inaccessible without a multi-mile ski/snowshoe approach on the gated road",
+      "If approaching via the closed road: skis or snowshoes for the approach, technical crampons and ice axe for the Caps and summit cone",
+      "Full 4-season mountaineering clothing system",
+      "Wind-resistant insulated gloves with overmitts",
+      "Goggles",
+      "Emergency bivy"
+    ]
+  },
+  "trailhead": {
+    "name": "Caps Ridge Trailhead (Jefferson Notch)",
+    "lat": 44.296482,
+    "lon": -71.353677,
+    "parking": "Small lot for approximately 24–36 cars. WMNF Recreation Pass required ($3/day, $5/week, or annual pass). Jefferson Notch Road is seasonal and gated — typically opens late June; confirm road status before planning. Lot fills on summer weekends.",
+    "access_road": "Jefferson Notch Road (seasonal gravel). Easiest access from the south via Base Station Road (off NH Route 302), then Jefferson Notch Road 3.2 miles to the lot on the right (east) side. Road is narrow — keep speed low.",
+    "nearest_town": "Twin Mountain / Carroll, NH (approximately 8 miles south via Base Station Road and NH 302)",
+    "amenities": ["No restrooms", "No potable water", "Trailhead sign"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "Caps Ridge Trailhead — USFS White Mountain National Forest",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/caps-ridge-trailhead",
+      "notes": "Surface when user asks about parking, fees, or trailhead access; also link the forest roads status page if user is asking about road opening"
+    },
+    {
+      "type": "official-trail-page",
+      "label": "WMNF Forest Roads Status — Jefferson Notch Road",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/alerts/forest-roads-status",
+      "notes": "Surface proactively whenever user plans this hike — Jefferson Notch Road closure is the top planning consideration for this trail"
+    },
+    {
+      "type": "alltrails",
+      "label": "Caps Ridge Trail — AllTrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/caps-ridge-trail--2",
+      "notes": "Surface for recent user conditions and reviews; 2,295+ reviews make this a reliable conditions resource"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "Surface every time a user asks about conditions or plans this hike — mandatory check before any Northern Presidential summit day"
+    },
+    {
+      "type": "map-download",
+      "label": "AMC White Mountains Map — Presidential Range (Map 1)",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/",
+      "notes": "Surface when user asks about navigation or maps; AMC Map 1 covers Caps Ridge and all Northern Presidential trails"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "franconia-ridge-loop",
+      "mt-eisenhower-loop"
+    ],
+    "leads_naturally_to": [
+      "mt-adams-airline",
+      "mt-adams-short-line-king-ravine"
+    ],
+    "progression_notes": "Caps Ridge is the entry-level Northern Presidential summit route — the shortest and lowest-commitment way onto the Northern Peaks. Its position in a progression ladder is that of a first Northern Presidential: a hiker who has done above-treeline scrambling on Franconia Ridge or Mt. Eisenhower is well-prepared for Caps Ridge. The route does not require the all-day commitment or technical severity of other Northern Presidential approaches, making it a logical bridge before attempting Mt. Adams via the Airline or the King Ravine loop. The RMC specifically notes it as 'the shortest ascent on the Northern Peaks.' Note that the trailhead's seasonal road access limits this trail to the July–October window in practice, whereas the Airline approach to Adams from Appalachia is accessible all season."
+  },
+  "response_hints": {
+    "beginner_framing": "This is the most accessible way to bag your first Northern Presidential, and it genuinely earns its reputation — the high trailhead at 3,008 ft takes a big bite out of the work. But don't let the short mileage fool you: it averages over 1,000 feet of gain per mile, and the three rocky outcrops called the Caps require real hands-and-feet scrambling. If you've done Franconia Ridge and are comfortable moving over open rocky terrain in mountain weather, you're ready for this. The Jefferson Notch Road doesn't open until late June, so check its status before planning — arriving to find the gate closed is a common frustration.",
+    "expert_framing": "Caps Ridge from Jefferson Notch: 2.55 mi one-way, 2,701 ft, 3,008 ft start. Road opens late June — confirm before scheduling. Trail junction with the Link at 1.1 mi is the last bail point before the Caps begin. Three Caps are Class 2 slabs with drop-off on both sides; wet conditions are a hard turnaround. Cornice junction at ~1.75 mi. Summit cone boulder-hop to the top; actual high point is easy to walk past (look for the small cairn left of the big trail junction cairn). Common extensions: Cornice loop (~3.5 mi loop variant from summit), or continue north on Gulfside to Adams for a partial traverse (car shuttle at Appalachia or Valley Way trailhead). No AMC hut on route; Gray Knob RMC (~1.5 mi northwest of summit) is the closest shelter.",
+    "safety_callout": "Two distinct hazards. Fall risk: the Caps are Class 2 slabs that become dangerous on wet rock — do not attempt in rain. Weather exposure: the full upper ridge of a Northern Presidential at 5,712 ft, with ~2.5 miles above treeline and no shelter within 2+ miles of the summit. Check the Observatory Higher Summits Forecast without exception. Also critical: confirm Jefferson Notch Road is open before you drive — the gate closes the trailhead for roughly 8 months of the year."
+  }
+}

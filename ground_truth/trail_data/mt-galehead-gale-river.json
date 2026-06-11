@@ -1,0 +1,158 @@
+{
+  "id": "mt-galehead-gale-river",
+  "name": "Mt. Galehead via Gale River Trail",
+  "peaks": [
+    {
+      "name": "Mt. Galehead",
+      "elevation_ft": 4024,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Pemigewasset Wilderness",
+  "stats": {
+    "distance_rt_miles": 10.8,
+    "elevation_gain_ft": 2500,
+    "highest_point_ft": 4024,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 9.5,
+      "average": 7.0,
+      "experienced": 5.0
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 1,
+    "overall_label": "hard",
+    "notes": "Galehead is the Pemi Wilderness's most straightforward 4K footer — no scrambling, no above-treeline exposure, no cliff sections — but the effort is real. The route is 10.8 miles round trip with 2,500 feet of gain, and the character of the climb is front-loaded: the lower 3 miles along the North Branch Gale River are gradual and pleasant, but the trail steepens significantly in the final 1.5 miles before the Garfield Ridge junction. The AMC rates the approach to the hut as strenuous. The Frost Trail from the hut to the summit adds another 0.8 miles and 244 feet on already-tired legs. Remoteness amplifies the commitment: the hut is 4.6 miles from the trailhead, and a slow or injured hiker faces a very long return. Technical demand is the lowest of the NH 4K footers — the trail is a well-maintained forest path with no hands-required sections. The physical challenge here is pure distance and accumulated fatigue."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "low",
+      "description": "The route is entirely below the ~4,400 ft treeline. Both the hut (3,780 ft) and the summit (4,024 ft) are forested. However, the upper Gale River valley funnels wind, and the col between South Twin and Garfield Ridge — where the hut sits — is exposed to valley drafts from both directions. At 3,780–4,024 ft with 4+ miles of travel to reach the exit, a party caught by afternoon thunderstorms or unexpected cold rain faces a long wet return. The trail is sheltered in trees but the commitment is substantial. This is not a Presidential-level weather concern, but the remoteness makes it more consequential than a similar-distance trail closer to the road.",
+      "mitigation": "Check a standard mountain forecast before departure. Carry full rain gear regardless of morning conditions. The AMC Galehead Hut (4.6 mi from trailhead, full-service June–mid October) provides shelter and weather information from on-site staff during the operating season — a meaningful resource on this route."
+    },
+    "fall_risk": {
+      "rating": "none",
+      "description": "No cliff-consequence terrain anywhere on this route. The Gale River Trail is a well-maintained forested path; the steep upper section has rock steps and roots but no exposed edges or drop-offs. The Frost Trail from hut to summit is a rougher forest path but has no fall-consequence terrain. A slip anywhere on this route results in a stumble on trail, not a dangerous fall.",
+      "mitigation": "Standard hiking footwear. Trekking poles helpful on the steep upper sections and on descent. Microspikes in icy shoulder-season conditions."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "The Gale River Trail is hikeable through shoulder season with appropriate gear. The upper steep section accumulates ice in late fall and winter; microspikes are typically needed November through April. Mud season (April) affects the lower river-paralleling sections significantly. In winter, the route to the hut is a legitimate snowshoe or ski objective for experienced winter hikers — AMC Galehead Hut does NOT operate as an emergency shelter in winter, so winter parties must be fully self-sufficient. Stream crossings in the lower section are straightforward in summer but can be tricky in early spring snowmelt. The full-service hut season runs June–mid October; outside that window, no services are available. Important: Galehead Mountain's summit is completely wooded and viewless. The most rewarding views on this route come from the area near Galehead Hut, looking across to South Twin Mountain — linger at the hut, not the summit marker. Hikers seeking views can add the Twinway trail 0.8 miles to South Twin's open summit (an additional 700 ft of gain)."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "hut-access",
+    "dog-friendly",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "stream-crossing",
+      "hazard_category": "terrain-and-fall",
+      "description": "The lower Gale River Trail parallels and crosses the North Branch of the Gale River multiple times. In spring snowmelt (April–late May) and after significant rain events, crossings can be knee-deep with meaningful current. The crossings are not dangerous in typical summer conditions — stepping stones or narrow widths allow dry crossings — but early-season hikers should expect wet feet and use trekking poles for balance. Trail shoes versus boots matters here in wet conditions.",
+      "months_active": ["March", "April", "May", "June"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The steep upper section of the Gale River Trail and the Frost Trail to the summit accumulate ice and compacted snow from November through April. The trail runs through dense forest at this point — there are no fall-consequence sections — but the steep, rooted terrain is significantly harder to negotiate on ice without traction devices.",
+      "months_active": ["November", "December", "January", "February", "March", "April"]
+    },
+    {
+      "type": "hypothermia-risk",
+      "hazard_category": "weather-and-environment",
+      "description": "The route's 4.6-mile one-way distance to the hut means a party caught in cold rain without adequate layers faces a long, wet return through the Pemigewasset Wilderness. At 3,780–4,024 ft, air temperature drops and wind increases noticeably compared to the trailhead. The hut provides shelter during the operating season (June–mid October), but outside that window the structure is closed and the route is fully committed from the trailhead.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "navigation",
+      "hazard_category": "weather-and-environment",
+      "description": "The Gale River Trail junction with the Garfield Ridge Trail and the subsequent 0.5-mile segment to the hut involve several trail intersections. At the hut, the Twinway heads to South Twin (east) and the Garfield Ridge Trail continues west — parties headed to Galehead Mountain summit must identify and follow the Frost Trail spur, which is less obvious than the main trails. In poor visibility or low light, extra navigation attention is needed. The Pemigewasset Wilderness is remote enough that getting lost here carries meaningful consequence.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots or sturdy trail runners with good traction",
+      "Trekking poles (helpful for the steep upper section and long descent)",
+      "Full rain gear — the route is long and the upper valley can catch afternoon weather",
+      "2 liters water minimum (river water available on lower trail for filtering; hut water available during season)",
+      "Headlamp — 10.8-mile days can run long",
+      "Extra food for the distance",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required on the steep upper section when icy — November through April)",
+      "Insulating mid-layer and warmer gloves and hat",
+      "Extra water (hut may not be staffed in early shoulder season)"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Microspikes or crampons for iced upper sections",
+      "Snowshoes for post-storm conditions on the lower trail",
+      "Full winter insulation system",
+      "Emergency bivouac gear — Galehead Hut is CLOSED in winter and cannot be used as an emergency shelter",
+      "Winter parties must be fully self-sufficient — no staff, no services, no shelter at the hut"
+    ]
+  },
+  "trailhead": {
+    "name": "Gale River Trailhead — Bethlehem, NH",
+    "lat": 44.232664,
+    "lon": -71.610925,
+    "parking": "Roadside parking area on Gale River Loop Road (FR 92). No fee. No restrooms. No potable water. Moderate capacity — fills on busy summer weekends. AMC Hiker Shuttle stops at this trailhead during the full-service hut season (early June–mid October; weekdays daily, weekends only from mid-September–mid October). Reservations for the shuttle are strongly recommended.",
+    "access_road": "From NH Route 3 between Franconia Notch and Twin Mountain (the town of Bethlehem), turn onto Gale River Loop Road (FR 92). The trailhead parking area is approximately 1.5 miles in on the right. The road is unpaved but suitable for standard passenger vehicles in summer and fall. Check road conditions in mud season and winter.",
+    "nearest_town": "Twin Mountain (Carroll), NH",
+    "amenities": ["No restrooms", "No potable water", "AMC Hiker Shuttle stop (seasonal)"]
+  },
+  "amc_hut": "Galehead Hut — 3,780 ft, 4.6 miles from trailhead via Gale River Trail. Full-service June–mid October (reservations required for overnight stays; day visitors welcome for water refills and snack purchases 10am–5pm). Closed and not available as emergency shelter in winter. On-site staff can provide weather updates and trail advice during season. Dogs allowed on the approach trails but NOT permitted to stay overnight at the hut.",
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "USFS White Mountain NF — Gale River Trailhead",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/gale-river-trailhead",
+      "notes": "Parking, access road, and current Pemigewasset Ranger District advisories"
+    },
+    {
+      "type": "official-trail-page",
+      "label": "AMC Galehead Hut",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/galehead-hut/",
+      "notes": "Hut reservations, operating dates, services, and getting-there directions"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mt. Galehead via Gale River Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/galehead-mountain-via-gale-river-trail",
+      "notes": "Current conditions, user-reported trail state, GPS track"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory — Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "Galehead is below the Observatory forecast zone but this is the best available regional mountain weather resource for the Pemi area"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-waumbek-starr-king",
+      "mt-tecumseh"
+    ],
+    "leads_naturally_to": [
+      "mt-garfield",
+      "south-twin-north-twin",
+      "mt-bond-bondcliff-loop"
+    ],
+    "progression_notes": "Galehead via Gale River Trail is the gentlest introduction to Pemigewasset Wilderness hiking — a long, forested approach with no technical demands, anchored by the AMC hut as a mid-route landmark. The AMC hut makes this an excellent overnight destination for hikers building toward longer Pemi objectives, and a day-hike to the summit teaches the commitment required for the more remote Pemi peaks. Completing this route alongside a shorter but technically richer route (Whiteface, Isolation) builds the well-rounded skill profile — distance fitness plus weather and terrain judgment — needed for the Bond-Bondcliff loop or the Pemi Loop."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Galehead is one of New Hampshire's more forgiving 4,000-footers in terms of terrain — no scrambling, no exposed ridges, just a well-maintained forest trail with a significant but manageable climb. The real challenge is the distance: 10.8 miles round trip means this is a full-day commitment requiring solid cardiovascular fitness even though the trail itself isn't technically demanding. The big payoff is AMC Galehead Hut at the 4.6-mile mark — during the operating season (June–mid October), you can refill water, buy snacks, and chat with the hut staff before continuing to the summit. Fair warning: Galehead's summit is completely wooded with no views. The views on this route come from the hut area looking east toward South Twin Mountain — take a break and enjoy them there.",
+    "expert_framing": "Galehead via Gale River is the most direct tick on the 4K list from this corner of the Pemi, and pairing it with South Twin (Twinway from the hut, 0.8 mi extra each way with 700 ft gain) is the obvious move — two 4K footers for roughly the same approach cost. The lower Gale River section is pleasant valley hiking; the upper steep push before the Garfield Ridge junction is the one section that warrants attention, especially in mud season. The hut changes the logistics significantly: water is available on-site during season, and the staff can give you the real trail and weather picture. In winter the hut is shut — know that going in, and plan accordingly since the approach commits you to 4.6 miles of self-sufficiency. The Frost Trail to the summit is rough but brief; the summit itself is anti-climactic. The hut porch looking toward South Twin is the better place to spend time.",
+    "safety_callout": "No fall-consequence terrain and no above-treeline weather exposure — the primary hazards on this route are distance commitment and stream crossings. At 4.6 miles to the hut one way, a slow or injured party faces a very long return. Carry full rain gear (the upper valley catches afternoon weather), plan your turnaround time conservatively, and note that outside the June–mid October hut season there is no shelter or assistance anywhere on this route. Winter visitors should know Galehead Hut is completely closed and cannot be used as emergency shelter."
+  }
+}

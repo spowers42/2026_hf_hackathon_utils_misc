@@ -1,0 +1,138 @@
+{
+  "id": "mt-whiteface-blueberry-ledge",
+  "name": "Mt. Whiteface via Blueberry Ledge Trail",
+  "peaks": [
+    {
+      "name": "Mt. Whiteface",
+      "elevation_ft": 4020,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Sandwich Range",
+  "stats": {
+    "distance_rt_miles": 7.8,
+    "elevation_gain_ft": 2850,
+    "highest_point_ft": 4020,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 8.0,
+      "average": 6.0,
+      "experienced": 4.5
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 3,
+    "overall_label": "hard",
+    "notes": "Fitness challenge is substantial: 2,850 ft of gain over 7.8 miles, with the steepest terrain concentrated in the upper mile. The lower section is a moderate forested approach; the upper ~0.4 miles through the Blueberry Ledges involves sustained scrambling with hands required to climb a steep cliff section and navigate the ledge system. Technical demand is genuine: there is one steep cliff section (at the transition from the upper trail to the ledges) where hikers use trees and rock holds to ascend — a misstep here on wet or icy rock could result in a sliding fall of 10–20 feet on steep slabs before vegetation arrests the fall. This is not Huntington Ravine, but it is real fall consequence for a sloppy ascent. The false summit ledges are open and well-positioned, but the true summit of Whiteface is wooded and viewless — all the views come on the approach."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "low",
+      "description": "The route is entirely below the ~4,400 ft treeline and the summit (4,020 ft) is wooded. However, the open Blueberry Ledges section — approximately 0.4 miles of exposed rock — provides no shelter from lightning. Hikers on the ledges are exposed for the time it takes to traverse and descend the slab system. The exposure is brief and below treeline, so it does not carry the sustained weather commitment of an above-treeline Presidential route, but the lightning hazard on open rock is real during summer afternoon thunderstorms.",
+      "mitigation": "Start early enough to be off the open ledges before noon in thunderstorm season. Check the forecast for afternoon convective activity. The descent off the ledges back into forest is approximately 15–20 minutes, which is not a quick bailout if storms develop."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "One distinct crux: a steep cliff section near the top of the Blueberry Ledge Trail (approximately 3.2 miles from the trailhead) where hikers use tree roots and rock handles to ascend steeply angled slabs. A slip at the top of this section before reaching a stable stance could result in a sliding fall of 10–20 feet down steep rock before vegetation arrests the fall — sufficient to cause significant injury. The remainder of the ledge section is steep but more forgiving. All fall risk on this route is concentrated in this one section; the rest of the trail has none. Icy conditions dramatically elevate the risk here.",
+      "mitigation": "Hands and feet — treat this section as a true scramble, not a walk. Test footing before committing weight to each move. Descend this section especially carefully; it is harder going down. Avoid in icy conditions without crampons and an ice axe; microspikes alone are inadequate on steep wet slab. Dogs and young children should be carefully managed on this section."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "The Blueberry Ledge cliff section becomes a serious technical obstacle when iced — multiple sources cite it as requiring crampons and ice axe in winter, not just microspikes. The Sandwich Range is remote enough that a winter rescue from the upper trail is a significant undertaking. The trail is viable in shoulder season (May, November) with microspikes when conditions are merely wet and muddy rather than fully iced. Summer and fall are the ideal seasons. Mud season (April) affects the lower forested approach significantly. An important expectation note: the true summit of Mt. Whiteface is wooded and viewless — all the spectacular views of the Lakes Region, The Bowl, and Mts. Chocorua, Paugus, and Passaconaway come from the open ledges on the approach, not from the summit itself. Do not rush through the ledges chasing the summit marker."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "scrambling",
+    "fall-exposure-moderate",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "scrambling-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The crux of the Blueberry Ledge Trail is a steep cliff section approximately 3.2 miles from the trailhead where the trail transitions from the upper forested approach to the open ledge system. Hikers climb steeply angled slabs using tree roots and rock holds. A slip at the top of this move, or on the steepest slab just above it, could send a hiker sliding 10–20 feet on exposed rock before vegetation arrests the fall. This section is dramatically more dangerous when wet or iced — multiple experienced hikers describe it as the single most committing section of any Sandwich Range 4K footer. The remaining ~0.4 miles of ledge scrambling above this point is steep but has lower consequence.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The Blueberry Ledge cliff section and the open rock slabs above it ice severely in late fall and winter. The combination of steep angle, hard ice, and the drop below the crux move creates conditions requiring crampons and potentially an ice axe. Microspikes are insufficient on the steepest, glassiest sections. The Sandwich Range's southern exposure and lower elevation mean freeze-thaw cycles create wet ice frequently in November and March–April.",
+      "months_active": ["November", "December", "January", "February", "March", "April"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The open Blueberry Ledges section (~0.4 miles of exposed rock slab) is the only lightning-exposed terrain on the route. Hikers traversing or lingering on the ledges during afternoon thunderstorms are exposed on open rock with limited shelter options. The false summit ledge overlook is a popular rest spot that is also fully open to the sky.",
+      "months_active": ["May", "June", "July", "August", "September"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with good grip — slab sections require sole friction",
+      "Trekking poles (stow for the scrambling section; helpful on lower trail and descent)",
+      "Rain jacket — ledge section is exposed to afternoon weather",
+      "1.5–2 liters water (no sources on trail)",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required on ledge approach when icy — November through April)",
+      "Insulating mid-layer",
+      "Warmer gloves and hat"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Crampons — the cliff crux is not safely descended with microspikes on hard ice",
+      "Ice axe — recommended for the cliff section in full winter conditions",
+      "Full winter insulation system",
+      "Consider the Dicey's Mill Trail approach as an alternative winter route that avoids the cliff section"
+    ]
+  },
+  "trailhead": {
+    "name": "Ferncroft Trailhead — Wonalancet, NH",
+    "lat": 43.91290,
+    "lon": -71.35826,
+    "parking": "Large dirt parking lot on Ferncroft Road, approximately 0.5 miles from NH Route 113A. Capacity ~20–30 cars. No fee. Portable toilet on site. Trailhead requires a 0.3-mile road walk from the lot through private residential property to reach the Blueberry Ledge Trail junction; hikers must stay on the road and respect private landowners. Lot fills on summer and fall weekends by mid-morning.",
+    "access_road": "From NH Route 113A at Wonalancet Village (where the road makes a right-angle turn), turn north onto Ferncroft Road. Parking area is 0.5 miles on the right (FSR 337 turns right at this point). Road can be rough in mud season.",
+    "nearest_town": "Tamworth, NH",
+    "amenities": ["Portable toilet (seasonal)", "No potable water"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "USFS White Mountain NF — Ferncroft Trailhead",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/ferncroft-trailhead",
+      "notes": "Parking, access, and current Sandwich Range Wilderness advisories"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mt. Whiteface via Blueberry Ledge Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/blueberry-ledge-trail",
+      "notes": "Current conditions, user-reported trail state, downloadable GPS track"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "welch-dickey-loop",
+      "mt-tecumseh",
+      "mt-waumbek-starr-king"
+    ],
+    "leads_naturally_to": [
+      "mt-flume-liberty-loop",
+      "mt-garfield",
+      "mt-washington-lions-head"
+    ],
+    "progression_notes": "Blueberry Ledge is the first trail in the NH 4K footer progression that introduces genuine scrambling with fall consequence. The crux cliff section is a meaningful technical step beyond Tecumseh's rock steps or Waumbek's smooth forested path. Hikers who complete this route successfully — and especially those who manage the cliff section comfortably in good conditions — have demonstrated the scrambling confidence needed for the more committing ledge and slab work on Franconia Ridge or the upper Washington routes. It is an important calibration point: if the cliff section feels like a close call in dry conditions, trails with more sustained technical terrain (Caps Ridge, Lion's Head winter) are not the next step."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Whiteface via Blueberry Ledge is a beautiful hike with a genuine challenge built in. For most of the route you're on a well-maintained forested trail working steadily uphill through the Sandwich Range Wilderness. Then, about 3 miles in, the trail gives you something different: a series of open rock ledges with sweeping views of the Lakes Region and surrounding peaks. The catch is that one section of those ledges involves a real scramble — you'll use your hands, tree roots, and rock holds to climb a steep cliff face. It's not technical climbing, but it requires care and confidence. In good conditions, most hikers manage it fine. In wet or icy conditions, it becomes genuinely dangerous. Fair warning: the actual summit of Whiteface is wooded — all the views are on the ledge section below it, so take your time there.",
+    "expert_framing": "Blueberry Ledge is the Sandwich Range's most interesting direct route — the ledge system is quality, the views of The Bowl and the eastern Sandwich peaks are some of the best in that area. The cliff crux is the one move worth noting: it's not long but it's committing, and it's a hard descent move on anything other than dry rock. Dogs and novice partners need active management here. Winter adds crampons/axe as mandatory — microspikes won't hold on the slab under the cliff. Dicey's Mill is the cold-weather alternative if the cliff section is fully glazed. Worth combining with Passaconaway for a full Sandwich Range loop if you have the legs for it.",
+    "safety_callout": "Primary hazard is fall risk at the cliff crux section, not weather exposure. The steep cliff section ~3.2 miles in has genuine sliding-fall consequence on wet or icy rock — this is not a steps-and-stumble section, it is a hands-on scramble where a slip matters. Treat it as technical terrain and move deliberately. Secondary: lightning on the open ledges in afternoon summer thunderstorms — start early."
+  }
+}

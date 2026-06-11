@@ -1,0 +1,163 @@
+{
+  "id": "mt-jackson-webster-loop",
+  "name": "Mt. Jackson & Mt. Webster Loop via Webster-Jackson Trail",
+  "peaks": [
+    {
+      "name": "Mt. Webster",
+      "elevation_ft": 3910,
+      "is_4k_footer": false
+    },
+    {
+      "name": "Mt. Jackson",
+      "elevation_ft": 4052,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Presidential Range",
+  "stats": {
+    "distance_rt_miles": 6.5,
+    "elevation_gain_ft": 2500,
+    "highest_point_ft": 4052,
+    "above_treeline_miles": 0.5,
+    "typical_time_hrs": {
+      "beginner": 6.5,
+      "average": 5.0,
+      "experienced": 3.75
+    }
+  },
+  "difficulty": {
+    "fitness": 3,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "This 6.5-mile loop visits Mt. Webster (3,910 ft) and Mt. Jackson (4,052 ft) using both branches of the Webster-Jackson Trail and the Webster Cliff Trail (Appalachian Trail) connecting the two summits. It is a classic Crawford Notch circuit described by bmhatfield as 'a classic loop (6.5 miles, 2,500 feet, 4:30)' that delivers some of the best views in the Southern Presidentials with a moderate total distance. The preferred direction begins on the Webster Branch, which climbs steadily through hardwood and conifer forest. The terrain on the Webster Branch alternates between forested switchbacks and open rocky sections as it gains the upper ridge. Mt. Webster's summit at 3,910 ft is not a 4,000-footer but it delivers one of the most dramatic views in Crawford Notch — the summit and its approach along the Webster Cliff Trail sit directly above the sheer rock walls of the Webster Cliffs, with vertical drop-offs into the notch below. The Webster Cliff Trail (AT) is the defining terrain feature of this loop: it traverses the rim of the Webster Cliffs south to north, with open cliff-edge walking that puts Crawford Notch directly below. The cliff faces on the south side of the notch are some of the most dramatic vertical terrain in the White Mountains, and the trail runs close to the edge in several places. This section requires full attention on footing and should not be rushed. The Webster Cliff Trail continues north and moderates before reaching Mt. Jackson's open rocky summit cap at 4,052 ft — one of the finest summit viewpoints in the Southern Presidentials, with panoramic views over Crawford Notch, north toward the Presidential Ridge, and east toward the Wild River valley. From Jackson, the Jackson Branch descends via the same alternating-steep-and-flat character described by bmhatfield ('somewhat deceptive, as there are several rather flat sections that alternate with much steeper ones'), returning to the Webster-Jackson Trailhead on Route 302. The loop can also be done in reverse (up Jackson Branch, down Webster Branch), which defers the cliff-edge terrain to the descent — the Webster-first direction is preferred because the cliff-edge section is more safely navigated when legs are fresh and you are descending into the notch view rather than exiting it."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "low",
+      "description": "Mt. Webster (3,910 ft) and Mt. Jackson (4,052 ft) are on the Southern Presidential Ridge. Both summits have open rocky terrain above or near treeline, and the Webster Cliff Trail traverses open cliff-rim terrain totaling approximately 0.5 miles of above-treeline walking across the loop. Webster's summit and cliffs and Jackson's rocky knob are fully exposed to wind and rain when weather moves through Crawford Notch. Although the summits are lower than Mt. Pierce or Moosilauke, they sit on the Presidential Ridge and are subject to Presidential-quality weather: rapidly developing thunderstorms, fast-moving cold fronts, and wind conditions significantly stronger than the valley. The weather exposure rating is 'low' (not 'moderate') primarily because the total above-treeline commitment is shorter than routes like the Jackson-Pierce loop or Franconia Ridge, and the individual summit areas allow quick retreat into tree cover.",
+      "mitigation": "Check the Mt. Washington Observatory Higher Summits Forecast before departure — the forecast covers the Southern Presidential ridge including Jackson and Webster. Plan to be off the open cliff rim and summits before early afternoon in thunderstorm season (June–August). The Webster Cliffs section and Jackson's summit cap offer no shelter from wind or lightning. If fog, heavy rain, or wind develops while on the cliff rim, move deliberately and avoid being near cliff edges when footing is wet. Carry full wind-and-rain shell and an extra warm layer — summit temperatures are regularly 15–20°F colder than the Crawford Notch valley."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "The Webster Cliff Trail traverses the top rim of the Webster Cliffs, which rise dramatically above Crawford Notch. The trail runs close to the edge in several places, with significant vertical drops into the notch below. This is not fixed-aid terrain — no iron rungs, no ladders — but the cliff-edge character creates genuine fall consequence if footing is lost or a hiker moves off-trail toward the rim. The exposure is lateral (you are walking close to a cliff edge) rather than vertical (you are not climbing a cliff face), but the consequence of a slip near the edge is serious. The cliffs are most hazardous in wet conditions, when the exposed rock along the rim becomes slippery, and in winter/shoulder season when ice forms on the cliff-top ledge. Trip reports consistently flag the Webster Cliffs section as the most attention-demanding terrain on the loop.",
+      "mitigation": "Stay on the marked trail on the Webster Cliff Trail — do not approach the cliff rim except at established viewpoints. On wet days the exposed rock along the cliff rim is genuinely slippery; trekking poles and deliberate foot placement are important here. In icy conditions (shoulder season, winter) the cliff-edge sections require microspikes and complete attention. The Webster Cliffs are most safely experienced in dry, clear conditions. If traversing the cliff rim in poor visibility (fog, cloud), use extra caution at the cliff edge and do not rush."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "The Webster-Jackson loop is a three-season classic with outstanding views from the Webster Cliffs in any clear weather. Late September and early October are exceptional — Crawford Notch fills with fall color visible from above on the cliff rim, and both summits offer views across brilliant foliage. The Webster Cliffs viewpoints are among the best foliage observation points in the entire White Mountains. Summer thunderstorm season (June–August) applies the usual Presidential Ridge caution: early start, off summits before noon, full rain kit. The loop is viable in November and May with microspikes for the cliff-edge sections and upper trail, where ice forms even when the lower trail is mud. In full winter the Webster Cliff Trail is a serious undertaking: cliff-edge terrain with ice and wind demands crampons, careful route-finding, and full Presidential-quality cold-weather kit. The Webster Branch and Jackson Branch below treeline are fine for snowshoes; crampons are required as soon as the cliff-rim section is reached. The clifftops can be extremely icy in winter — hoarfrost and rime build up on the exposed rim rocks, creating conditions where a slip near the edge is genuinely dangerous. Winter hikers should have experience on exposed cliff terrain before attempting the cliff rim in icy conditions."
+  },
+  "tags": [
+    "4k-footer",
+    "loop",
+    "multi-peak",
+    "above-treeline-weather-exposure",
+    "alpine-zone",
+    "ridge-walk",
+    "fall-exposure-moderate",
+    "scrambling",
+    "parking-fee",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "webster-cliff-rim-exposure",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Webster Cliff Trail traverses the top rim of the Webster Cliffs above Crawford Notch, with significant vertical drop-offs into the notch in multiple locations. The trail passes within a short distance of the cliff edge at several viewpoints and traversing sections. The Webster Cliffs are among the most dramatic vertical terrain in Crawford Notch — the clifftop trail feels exposed in a way that standard mountain footpaths do not. A slip on wet or icy rock near the cliff rim carries serious fall consequence. The hazard is greatest in wet conditions, when the summit rock becomes slippery, and in shoulder and winter season when ice accumulates on the cliff-top rock.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "ice-on-cliff-rim-and-summit-terrain",
+      "hazard_category": "weather-and-environment",
+      "description": "The exposed cliff rim of the Webster Cliffs and the rocky summit cap of Mt. Jackson are particularly prone to rime ice and freezing rain from mid-October through May. Ice on cliff-edge terrain is significantly more dangerous than ice on open slopes — there is no safe fall line, and slipping near a cliff edge in icy conditions can result in a fatal fall. The rime ice often forms on rocks that appear clear from a distance; trekking poles and microspikes are both required from October through May on the cliff rim section.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "presidential-ridge-weather-and-wind",
+      "hazard_category": "weather-and-environment",
+      "description": "Both summits sit on the Southern Presidential Ridge and are subject to fast-moving weather systems that affect the entire range. Wind conditions on the open summits and cliff rim can be significantly stronger than in the Crawford Notch valley below. Thunderstorms in the June–August season can develop rapidly over the ridge; both the cliff-rim section and Mt. Jackson's open rocky summit are lightning exposure points. Temperature drops and fog arrival are rapid — summit conditions can change from clear to completely socked in within 20–30 minutes.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "steep-sections-on-jackson-branch",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Jackson Branch of the Webster-Jackson Trail has a deceptive character: several flat sections alternate with unexpectedly steep pitches, particularly in the middle and upper sections of the trail. The steep sections are rocky and rooted, and in wet conditions the rocks and roots are slippery. The steep pitches on descent require careful foot placement — fatigued legs on an unexpected steep section late in the day have produced ankle injuries. The terrain does not involve cliff-consequence drops, but a stumble on the steeper sections could cause a rolling fall.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with ankle support and good grip — the rocky cliff rim of the Webster Cliffs and Mt. Jackson's rocky summit cap both reward real boot traction over trail runners",
+      "Full wind-and-rain shell (required) — both summits and the cliff rim are exposed and cold even in summer",
+      "Warm insulating layer (fleece or light down) for summit and cliff-rim sections",
+      "Trekking poles (highly recommended for the Webster Branch steep sections and Jackson Branch descent; must be used cautiously on the cliff rim — do not pole-vault near edges)",
+      "1.5–2 liters water (no reliable water source on the upper route; small stream crossings possible in lower sections)",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes required from October through May on the Webster Cliff rim and summit areas — ice on cliff-edge rocks is the critical hazard this season",
+      "Insulated gloves and warm hat for cold-wind summit and cliff-rim conditions",
+      "Gaiters for snow or mud in lower trail sections"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Full crampons required for the Webster Cliff rim section in icy conditions — microspikes are insufficient when the cliff-edge rock is fully iced and wind is high",
+      "Ice axe or whippet for self-arrest capability on steep icy sections",
+      "Snowshoes for lower trail approach; transition to crampons before reaching the cliff rim",
+      "Full expedition insulation for the open summit and cliff rim — Presidential Range wind and cold are extreme in winter",
+      "Balaclava and windproof expedition gloves",
+      "Goggles for summit conditions in high wind"
+    ]
+  },
+  "trailhead": {
+    "name": "Webster-Jackson Trailhead (AT Crossing), Route 302",
+    "lat": 44.2136,
+    "lon": -71.4057,
+    "parking": "Small parking pullout at the AT/Webster-Jackson Trailhead on Route 302, approximately 0.2 miles south of the AMC Highland Center / Crawford Notch Depot. WMNF recreational pass ($5/day or America the Beautiful annual pass) required. This pullout has limited capacity (10–15 cars); overflow parking is available at the AMC Highland Center 0.2 miles north, which has a larger lot. The two trailheads (Webster-Jackson AT crossing and Crawford Path start at the Highland Center) are close enough that the Highland Center lot is the practical primary option on busy days.",
+    "access_road": "From I-93 North, take Exit 35 (Twin Mountain / Route 3), follow Route 3 north to Route 302 east, continue east on Route 302 through Bretton Woods and into Crawford Notch. The Webster-Jackson Trailhead pullout is on the right (south) side of Route 302 approximately 0.2 miles south of the AMC Highland Center, at the Appalachian Trail crossing. Signed. GPS: 'Webster-Jackson Trail, Crawford Notch NH' or use coordinates. The AMC Highland Center is a useful landmark: it is on the left (north) side of Route 302 at the height of land.",
+    "nearest_town": "Bartlett, NH (south) or Twin Mountain, NH (north/west)",
+    "amenities": ["WMNF pass required", "Restrooms and water at AMC Highland Center 0.2 mi north (seasonal)", "No facilities at the Webster-Jackson Trailhead pullout itself"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "WMNF Crawford Notch trails",
+      "url": "https://www.fs.usda.gov/recarea/whitemountain/recarea/?recid=74596"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mt. Webster and Mt. Jackson Loop",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-webster-and-mount-jackson-loop"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory — Higher Summits Forecast",
+      "url": "https://mountwashington.org/weather/higher-summits-forecast/"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "NWS Point Forecast — Mt. Pierce (Southern Presidential ridge proxy)",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=44.2206&lon=-71.3701&site=gyx&smap=1&unit=0&lg=en&FcstType=text"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-moosilauke-glencliff",
+      "wildcat-d-wildcat-ridge"
+    ],
+    "leads_naturally_to": [
+      "mt-jackson-pierce-webster-jackson",
+      "mt-eisenhower-edmands-path"
+    ],
+    "progression_notes": "The Jackson-Webster loop occupies a unique niche in the Southern Presidential progression: shorter than the Jackson-Pierce loop (6.5 vs 8.3 miles) but with more fall exposure from the Webster Cliff rim. It is an excellent choice for hikers who want Presidential Ridge views and above-treeline terrain in a single, moderately long day, without committing to the extended ridge time of the Pierce connection. The defining new skill this route introduces is cliff-edge terrain navigation — staying on-trail near vertical drops requires a different quality of attention than standard steep mountain hiking, and the Webster Cliffs are one of the best places in the Southern Whites to develop that awareness in a well-maintained, well-marked environment. Mt. Webster at 3,910 ft is below the NH 4K footer threshold but its clifftop views into Crawford Notch are among the most dramatic in the range — hikers who approach the 48-peak list purely for the 4K footer count sometimes skip Webster, but it is a genuinely outstanding summit. Hikers who complete this loop are well-prepared for the Jackson-Pierce extension (adding Pierce extends the day by 1.8 miles and 150 feet), and for any other above-treeline Presidential objective."
+  },
+  "response_hints": {
+    "beginner_framing": "The Webster-Jackson loop is a 6.5-mile circuit that bags two peaks in Crawford Notch: Mt. Jackson (4,052 ft, a NH 4,000-footer) and Mt. Webster (3,910 ft — not on the NH 48 list, but one of the most spectacular non-4K summits in the region). The defining feature of this loop is the Webster Cliff Trail, the Appalachian Trail section connecting the two summits, which traverses the rim of the Webster Cliffs — dramatic vertical walls above Crawford Notch that give you some of the most striking views in the Southern White Mountains. The loop starts on the Webster Branch, climbs through forest to Mt. Webster's summit and cliff rim, continues on the AT to Mt. Jackson's open rocky knob, and descends via the Jackson Branch back to Route 302. The two trailheads (one for each branch) are 0.2 miles apart on Route 302 near the AMC Highland Center, so no car shuttle is needed. Important: the Webster Cliff Trail section is not technical, but you're walking along the top of significant cliffs. Stay on the trail, especially in wet weather when the cliff-rim rocks are slippery. Carry full rain and wind protection — both summits are open to the weather — and plan to summit before early afternoon in thunderstorm season.",
+    "expert_framing": "The Jackson-Webster loop is 6.5 miles / 2,500 ft / fitness 3 — the shorter of the two standard Webster-Jackson Trailhead circuits (vs Jackson-Pierce at 8.3 mi). Fall risk is 'moderate' specifically because the Webster Cliff Trail traverses the top rim of the Webster Cliffs above Crawford Notch — lateral cliff exposure that requires deliberate footing and is genuinely hazardous in ice or wet-rock conditions. This contrasts with the Jackson-Pierce loop, where fall risk is 'low' (no cliff-edge terrain despite similar above-treeline character). Above-treeline: ~0.5 miles across the cliff rim and both summit areas. Weather exposure is 'low' (shorter above-treeline commitment than the Jackson-Pierce loop, both summits lower). Mt. Webster at 3,910 ft is not a 4K footer but its clifftop views into Crawford Notch are exceptional — one of the better viewpoint-to-effort values in the Southern Whites. No Mizpah Hut on this route; the hut is north of Jackson and this loop goes south toward Webster. In winter the cliff rim is a serious objective: rime ice on cliff-edge rocks combined with wind makes crampons mandatory, and the consequence of a slip near the rim is high.",
+    "safety_callout": "The primary risk on this route is the Webster Cliff Trail section — the trail traverses the top rim of significant cliffs above Crawford Notch. The cliffs are not a technical climbing feature, but the trail runs close to the edge at multiple points and a fall over the rim would be fatal. Stay on the marked trail and do not approach the cliff edge at non-established viewpoints. In wet conditions the cliff-top rocks are slippery: trekking poles, careful footwork, and dry-grip gloves are appropriate. In shoulder season or winter when ice forms on the cliff rim, this section is among the most serious terrain on any approach-route to the Southern Presidentials — full crampons (not microspikes) should be used when the rim rock is iced. Secondary: Presidential Ridge weather applies to both summits — carry full rain and wind protection regardless of the valley forecast, check the Mt. Washington Observatory Higher Summits Forecast, and plan to be off the cliff rim and summits before afternoon storm potential develops."
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "hancock-loop",
+  "name": "Hancock Loop (North & South Hancock)",
+  "region": "Pemigewasset Wilderness",
+  "summary": "A classic double-peak loop in the heart of the Pemi Wilderness, bagging North Hancock (4,420 ft) and South Hancock (4,319 ft) in one efficient circuit. Once the most remote peaks in the White Mountains before the Kancamagus Highway arrived, these two heavily forested summits reward persistence with small but satisfying outlook clearings. The flat Hancock Notch approach is a bait-and-switch — the Hancock Loop itself is steep, loose, and relentless.",
+  "tags": ["4k-footer", "loop", "multi-peak", "dog-friendly", "parking-fee", "winter-viable", "snowshoe-route"],
+  "stats": {
+    "distance_rt_miles": 9.8,
+    "elevation_gain_ft": 2600,
+    "highest_point_ft": 4420,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 7.5,
+      "average": 5.5,
+      "experienced": 4.5
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "The first 1.8 miles on Hancock Notch Trail are flat and deceptively easy. The Hancock Loop itself delivers steep, loose-rock climbing with poor footing — described by many as more demanding than the stats suggest. The descent from North Hancock is particularly rough: 0.5 miles of very steep terrain with loose rocks requiring careful footwork and trekking poles."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "none",
+      "description": "Fully forested summits with no sustained above-treeline exposure. The small outlook clearings at each summit are brief and not significant weather hazards. Route is sheltered by forest throughout.",
+      "mitigation": "Standard layers and rain gear are sufficient. No special weather preparation beyond normal NH hiking practice."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The steep descent from North Hancock (the first 0.5 mi below the summit) involves loose rocks on a sustained steep grade, requiring hikers to use hands and trees for balance. Not a technical fall hazard but slips here could result in injury.",
+      "mitigation": "Trekking poles are strongly recommended and particularly valuable on the descent. Slow down on loose rock sections. Wet conditions make this descent significantly more dangerous."
+    }
+  },
+  "trailhead": {
+    "name": "Hancock Overlook Parking Area",
+    "lat": 44.0431,
+    "lon": -71.5133,
+    "parking": "Medium-sized gravel lot at the famous hairpin turn on Kancamagus Highway. WMNF Recreation Pass required ($5/day or America the Beautiful annual pass). Fills before 8am on fall weekends and summer holidays — arrive early or expect to park on the highway shoulder.",
+    "access_road": "Kancamagus Highway (Route 112), 10.5 miles east of I-93 Exit 32 (North Woodstock/Lincoln). The trailhead is across the highway from the overlook lot — watch for fast traffic when crossing.",
+    "nearest_town": "Lincoln",
+    "amenities": ["no facilities at trailhead", "nearest restrooms in Lincoln at WMNF Visitor Center"]
+  },
+  "route_description": "From the Hancock Overlook lot, cross the Kancamagus Highway carefully (traffic moves fast on the curve) and pick up the Hancock Notch Trail on the north side. The first 1.8 mi is flat and gentle through hardwood forest with a few brook crossings. At a junction, turn left; after 0.7 mi continue right onto the final approach toward the Hancock Loop Trail junction (1.1 mi). At the Hancock Loop Trail split, right leads to South Hancock, left to North Hancock. Most hikers go counterclockwise (left, North Hancock first) or clockwise (right, South Hancock first — reportedly the better ascent direction). Both summits are 0.7 mi from the split via steep, rocky trail. The ridge traverse between the two summits is 1.4 mi and pleasant. Descent from whichever peak you finish on returns 2.3 mi to the Hancock Notch junction (first 0.5 mi very steep and loose), then 1.8 mi back to the parking lot.",
+  "peaks": [
+    {
+      "name": "Mount Hancock (North Peak)",
+      "elevation_ft": 4420,
+      "is_4k_footer": true,
+      "views": "Small rocky ledge outlook with north-facing views toward Mount Garfield, the Twin Range, and deeper into the Pemi Wilderness. Wooded summit — views are through a clearing, not a true open summit."
+    },
+    {
+      "name": "South Hancock",
+      "elevation_ft": 4319,
+      "is_4k_footer": true,
+      "views": "Small clearing with south-facing views. Similar character to North Hancock — wooded summit with a partial outlook. Spend a few minutes here before the traverse to North."
+    }
+  ],
+  "amc_hut": null,
+  "hazards": [
+    {
+      "type": "Steep loose-rock descent",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"],
+      "description": "The upper 0.5 miles of the Hancock Loop descent (from North Hancock or South Hancock depending on direction) involves very steep terrain with loose rocks and poor footing. Multiple trip reports note hikers needing to cling to trees. Falls here can result in significant injury."
+    },
+    {
+      "type": "Ice on steep summit approaches",
+      "hazard_category": "terrain-and-fall",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"],
+      "description": "The steep Hancock Loop pitches ice over readily in cold weather. The combination of steep grade and ice makes microspikes or crampons essential from October through May. Ice lingers on north-facing slopes well into spring."
+    },
+    {
+      "type": "Brook crossings — high water",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["April", "May", "June"],
+      "description": "Several brook crossings on the Hancock Notch Trail section can run high during spring snowmelt and after heavy rain. Crossings are typically straightforward but can become challenging or impassable in flood conditions."
+    },
+    {
+      "type": "Parking lot and highway crossing",
+      "hazard_category": "weather-and-environment",
+      "months_active": ["June", "July", "August", "September", "October"],
+      "description": "The Kancamagus Highway hairpin turn moves fast traffic around a blind curve. Crossing to the trailhead requires care. In peak fall foliage season, the lot overflows onto the highway shoulder, creating a congested and dangerous roadside environment."
+    }
+  ],
+  "seasons": {
+    "recommended": ["June", "July", "August", "September"],
+    "viable_with_gear": ["October", "November", "December", "January", "February", "March", "April", "May"],
+    "avoid": [],
+    "seasonal_notes": "Fall is extremely popular due to the Hancock Overlook's reputation as a foliage viewpoint — arrive before 7am on October weekends to guarantee parking. The flat Hancock Notch approach section gets extremely muddy in spring mud season (late April through mid-May); waterproof boots are essential. Winter is excellent — the long flat approach on Hancock Notch Trail is a natural snowshoe route, and the steep loop sections are manageable with microspikes or crampons. Both peaks are wooded so there is no above-treeline weather exposure in any season."
+  },
+  "gear_tiers": {
+    "three_season": ["waterproof hiking boots", "trekking poles (strongly recommended for steep descent)", "2L water", "snacks", "layers", "rain jacket", "map or GPS", "headlamp"],
+    "shoulder_season": ["waterproof hiking boots", "microspikes (October and May)", "insulating mid-layer", "wind shell", "hat and gloves", "extra food"],
+    "winter": ["crampons or aggressive microspikes", "insulated waterproof boots", "hardshell jacket and pants", "warm hat and balaclava", "liner and insulating gloves", "snowshoes (for flat Hancock Notch approach in deep snow)", "extra insulating layers"]
+  },
+  "links": [
+    {
+      "type": "alltrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/hancock-trail",
+      "label": "AllTrails: Hancock Loop Trail"
+    },
+    {
+      "type": "weather-forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lon=-71.4963&lat=44.0501",
+      "label": "NWS Forecast — Mt. Hancock area"
+    },
+    {
+      "type": "official-trail-page",
+      "url": "https://www.fs.usda.gov/recarea/whitemountain/recreation/recarea/?recid=74791",
+      "label": "WMNF — Pemigewasset Wilderness"
+    },
+    {
+      "type": "trip-report",
+      "url": "https://nicholethenomad.com/hiking-blog/north-hancock-and-south-hancock",
+      "label": "Trip report: North & South Hancock via Hancock Loop"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": ["Mt. Tecumseh", "Mt. Osceola via East Pond Trail", "Mt. Hale via Hale Brook Trail"],
+    "leads_naturally_to": ["Mt. Carrigain via Signal Ridge", "Bondcliff and Bond via Lincoln Woods", "Galehead and South Twin via Gale River Trail"],
+    "progression_notes": "Hancock is a solid mid-tier NH 48 peak — longer than beginner footers but fully wooded and non-technical. The flat Hancock Notch approach makes it accessible to hikers who haven't yet built leg strength for continuous steep climbing. After Hancock, hikers are ready for longer Pemi Wilderness objectives or more sustained climbs like Carrigain."
+  },
+  "response_hints": {
+    "beginner_framing": "Hancock is a good next step after shorter 4K footers — the distance is real (nearly 10 miles) but the wooded summits and flat start make it less intimidating than exposed peaks. The challenge comes from the steep Hancock Loop pitches, not from weather or technical terrain. Trekking poles are your best friend on the descent. Arrive early — the parking lot fills fast, especially in fall.",
+    "expert_framing": "Both summits are wooded with small outlook clearings — honest views-per-effort is lower than most Pemi peaks, but the two-peak loop efficiency makes it a solid box-checking day. Winter is the best time: the long flat Hancock Notch approach makes for a great snowshoe objective, and the steep loop sections are more enjoyable in consolidated snow than in the loose-rock mud season. Pack light and move fast in fall to beat the crowds.",
+    "safety_callout": "The steep descent from the summits has loose rock and very poor footing — multiple trip reports mention needing hands and trees just to stay upright. Trekking poles are not optional here. In wet conditions, this descent becomes genuinely dangerous. Plan to descend slowly and carefully. The Kancamagus highway crossing at the trailhead is a secondary hazard — traffic moves fast around the hairpin curve."
+  }
+}

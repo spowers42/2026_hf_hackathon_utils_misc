@@ -1,0 +1,166 @@
+{
+  "id": "mt-tom-ethan-pond-willey-range",
+  "name": "Mt. Tom / Mt. Field / Mt. Willey via Ethan Pond Trail & Willey Range Trail",
+  "peaks": [
+    {
+      "name": "Mt. Willey",
+      "elevation_ft": 4285,
+      "is_4k_footer": true
+    },
+    {
+      "name": "Mt. Field",
+      "elevation_ft": 4340,
+      "is_4k_footer": true
+    },
+    {
+      "name": "Mt. Tom",
+      "elevation_ft": 4051,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Crawford Notch",
+  "stats": {
+    "distance_rt_miles": 9.0,
+    "elevation_gain_ft": 3550,
+    "highest_point_ft": 4340,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 9.0,
+      "average": 7.5,
+      "experienced": 6.0
+    }
+  },
+  "difficulty": {
+    "fitness": 5,
+    "technical": 3,
+    "overall_label": "very hard",
+    "notes": "This route bags all three Willey Range 4K footers — Mt. Willey (4,285 ft), Mt. Field (4,340 ft), and Mt. Tom (4,051 ft) — in a single out-and-back from the Willey House Station trailhead on Route 302 in Crawford Notch. The hike begins on the Ethan Pond Trail, which initially follows the grade of the old Crawford Notch railroad before rising through mixed forest. After approximately 1.6 miles the Willey Range Trail branches left (north) and immediately begins the serious climbing. The Willey Range Trail is listed on the Terrifying 25 as an elective route; the primary reason is a 1.1-mile section gaining 1,650 feet of elevation via eleven wooden ladders built into a near-vertical rock face. These ladders are not merely aids — they are structural necessities on terrain that would otherwise require rock climbing technique. Between ladders the trail traverses extremely steep and rough terrain demanding careful foot placement and frequent use of hands for balance. Above the ladder section the trail moderates as it reaches Mt. Willey's summit, where the historic 1826 Willey Slide scar creates open viewpoints over Crawford Notch. The ridge walk from Willey to Field is scenic but involves undulating terrain through dense fir forest; Mt. Field delivers additional open views. From Field the route descends slightly to the A-Z Trail junction and then follows a short spur (Mt. Tom Spur, 0.1 miles) to the wooded summit of Mt. Tom. All three summits are well below natural treeline (approximately 4,400 feet) — summit views exist because of natural ledge outcrops, the historic slide scar, and minor ski-area-era clearing, not sustained alpine terrain. The return trip retraces the route and requires descending all 11 ladders, which is the most technically demanding and time-consuming portion of the descent. A car shuttle to the Avalon Trailhead (AMC Highland Center area, approximately 3 miles north on Route 302) creates a one-way traverse of approximately 8.5 miles that eliminates the ladder descent and is strongly recommended for first-timers or anyone whose party includes uncertain members."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "none",
+      "description": "None of the Willey Range peaks naturally exceed treeline at approximately 4,400 feet. Mt. Field (4,340 ft) comes closest but remains in mature forest near its summit. Mt. Willey's open viewpoints are created by the historic 1826 landslide scar, not alpine terrain. There is no sustained above-treeline walking on this route — above_treeline_miles is 0.0. Weather exposure at the open ledge viewpoints is real (lightning risk, wind, rain) but is point exposure at cliff edges, not the committed above-treeline exposure found on the Presidential Range or Franconia Ridge. The primary weather risk on this route is thermal and electrical at the open ledge viewpoints during summer afternoon thunderstorm season.",
+      "mitigation": "Plan to reach Mt. Willey's summit viewpoints before noon during thunderstorm season (June–August). The open ledge on the Willey Slide scar is the most exposed point on the route. Monitor forecasts at weather.gov for the Crawford Notch region. The biggest weather risk is being caught on or near the ladders in heavy rain, which makes the wooden rungs extremely slick; check forecasts specifically for afternoon precipitation and turn back if storms develop while on the mountain."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "The Willey Range Trail is on the Terrifying 25 because of its eleven wooden ladders on a 1,650-foot/1.1-mile near-vertical rock face. The ladders assist hikers up terrain that would otherwise require technical climbing; between ladders the trail is extremely steep and rough, requiring hands for balance in multiple sections. Ladder rungs can be loose, partially rotted, or missing. Trip reports document multiple near-falls on descent, including a detailed account of 'three times my boots slipped off the rocks, like ice' in rain — the commenter attributed their safety to their backpack catching on rocks behind them. The descent of the ladders is substantially more dangerous than the ascent: foot placement on rungs below eye-level demands more care, and downward-facing falls carry greater consequence. This terrain does not involve the 30+ foot gorge-adjacent drops of the Beaver Brook Trail's iron rung section, but a fall while descending the ladder section on steep rock could result in serious injury. The technical difficulty is moderate (not high) because the ladders provide structure and handholds — the route does not require unassisted rock climbing — but wet or icy conditions elevate consequence significantly.",
+      "mitigation": "Descend the ladder section slowly and methodically; take one rung at a time with full weight on each foot before moving the next. Stow trekking poles while on the ladders — they cannot be used on the rungs and create a hazard if carried loose. Test each rung before committing weight, particularly on older sections where wood may be deteriorated. In wet conditions, dry-grip gloves can significantly reduce the risk of losing handholds. If rain starts during the ascent, continue to the summit only if you can reach it and descend before the rungs become fully saturated. The shuttle option (car at the Avalon Trailhead) eliminates the ladder descent entirely and is highly recommended for first-timers."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "The Willey Range trio is a rewarding three-season objective with the primary caveat being the ladder section, which changes character significantly in wet, cold, or icy conditions. Late June through early October is the prime window — the ladder section is at its most manageable when dry, and the views from the Willey Slide scar and Field's summit ledge are excellent throughout summer and fall. October offers outstanding foliage views from the open sections on Willey's south side and across Crawford Notch. The ladders are an active concern in any shoulder-season conditions: November and May can see ice, frost, or snow on the wooden rungs that transforms an already demanding section into genuinely hazardous terrain. In full winter (December through April) the ladder section is extremely serious — ice-covered wooden rungs on a near-vertical rock face demand crampons and technical competence, and descending iced ladders requires confidence working at height in cold conditions. Winter ascents of this route are done, but they require significant experience and are not appropriate for hikers first encountering the ladder section. The Ethan Pond Trail approach section is straightforward in winter with snowshoes; the difficulty begins where the Willey Range Trail branches off and starts climbing. Spring (April–May) brings mud in the lower section and persistent ice and snow on the ladder section well into May — conditions on the rock face often lag the valley by 3–4 weeks."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "multi-peak",
+    "scrambling",
+    "fall-exposure-moderate",
+    "parking-fee",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "willey-range-eleven-ladder-section",
+      "hazard_category": "terrain-and-fall",
+      "description": "Eleven wooden ladders are built into a near-vertical rock face on the Willey Range Trail, assisting passage through a 1.1-mile section that gains 1,650 feet of elevation. The ladders range from short three-rung assists to extended multi-rung structures. Ladder condition varies — rungs can be loose, partially rotted, or missing in sections. The sections of trail between ladders are extremely steep and rough, requiring hands for balance and offering real consequence if footing is lost. Descent of this section is substantially harder than ascent: trekking poles must be stowed, foot placement is blind until weight is committed to a rung, and downward momentum is difficult to arrest on the steep terrain between ladders. The Willey Range Trail is on the Terrifying 25 (elective) specifically because of this section.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "wet-rock-and-ladder-rung-slickness",
+      "hazard_category": "terrain-and-fall",
+      "description": "In wet conditions the wooden ladder rungs and bare rock between ladders become extremely slippery. A detailed trip report documents boots losing traction entirely on wet rock in this section in rain — the hiker narrowly avoided a fall three times and attributed safety to their backpack catching on rocks. Rain, recent heavy dew, or morning moisture from fog can make the rungs treacherous hours after precipitation ends. This hazard is most active in summer thunderstorm season when afternoon showers can move in quickly after a dry morning start, and in the mud/rain season of May and early June.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "ice-on-ladders-and-steep-terrain",
+      "hazard_category": "weather-and-environment",
+      "description": "From mid-October through May the wooden ladder rungs and surrounding rock on the Willey Range Trail can be coated with ice from freezing rain, hoarfrost, snowmelt, or persistent snow. Ascending or descending iced ladders without crampons and deliberate technique is extremely dangerous — this section transforms from a demanding scramble to genuinely technical terrain requiring front-pointing and careful placement. Conditions can deteriorate rapidly: a clear morning summit can return to iced-over ladder terrain by afternoon in shoulder season. The ladder section typically holds ice significantly longer in spring than the lower trail, lagging valley conditions by 3–4 weeks.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "lightning-at-willey-slide-and-field-ledge",
+      "hazard_category": "weather-and-environment",
+      "description": "Mt. Willey's summit area includes open rock ledge viewpoints created by the historic 1826 Willey Slide, and Mt. Field has exposed summit ledge as well. Although both peaks are below natural treeline, the open rock positions are exposed to lightning during summer afternoon thunderstorms. Crawford Notch acts as a weather funnel, and thunderstorms building over the valleys in the early afternoon can arrive at the summit viewpoints quickly. June through August afternoon thunderstorm season is the primary risk window, but unstable weather can produce lightning in any season.",
+      "months_active": ["June", "July", "August", "September"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Solid mid-cut hiking boots with ankle support and reliable grip on wet wood and steep rock — this is not a trail runner route given the ladder section and rough terrain between rungs",
+      "Trekking poles for the Ethan Pond Trail approach and ridge sections — must be stowed or carried one-handed on the ladders; retractable poles that collapse quickly are preferred",
+      "Rain shell and extra insulating layer (summit viewpoints and the long ridge are exposed to wind and rain even in summer)",
+      "2+ liters water (no reliable water on the upper mountain above the Willey Range Trail junction; small streams near the Ethan Pond Trail lower section)",
+      "Dry-grip gloves (lightweight; dramatically reduce risk of losing grip on wet ladder rungs and rock)",
+      "Headlamp (this is a long day — late starts and slow ladder sections create late-finish risk)",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required from mid-October through May on the ladder section and upper steep terrain; standard microspikes work well on the wooden rungs when not fully iced)",
+      "Insulated gloves rather than dry-grip liner gloves — cold hands lose grip rapidly on metal and wood hardware",
+      "Gaiters for snow or mud in the lower sections (Ethan Pond Trail approach can be very muddy in spring)"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Full crampons required for the ladder section — microspikes are insufficient on fully iced vertical wooden rungs; front-pointing technique needed on the steepest sections",
+      "Ice axe or whippet for self-arrest capability on the steep terrain between ladders",
+      "Snowshoes for the Ethan Pond Trail lower approach (switch to crampons at the Willey Range Trail junction or when terrain demands it)",
+      "Insulated expedition gloves — bare or thin-gloved hands on iced ladder rungs in cold temperatures are a genuine frostbite and grip risk",
+      "Helmet if planning to descent the ladder section in icy conditions (falling ice from climbers above is a hazard in parties)",
+      "Pre-arranged car shuttle to the Avalon Trailhead strongly recommended — eliminating ladder descent in winter significantly reduces risk"
+    ]
+  },
+  "trailhead": {
+    "name": "Ethan Pond Trailhead / Willey House Station, Route 302",
+    "lat": 44.1672,
+    "lon": -71.3882,
+    "parking": "Small WMNF parking area at the Willey House Station site on Route 302 (west side of road). WMNF recreational pass ($5/day or America the Beautiful annual pass) required. Lot fills on peak summer and fall weekends — arrive early. Crawford Notch State Park — parking enforcement is active.",
+    "access_road": "From I-93 North, take Exit 35 (Twin Mountain / Route 3). Follow Route 3 north then east through Twin Mountain, then south on Route 302 through Crawford Notch. The Willey House Station parking area is on the right (west side of Route 302) approximately 2 miles south of the AMC Highland Center / Crawford Depot. GPS: search 'Ethan Pond Trail, Crawford Notch NH' or use coordinates. The AMC Highland Center / Avalon Trailhead is 3 miles north on Route 302 — this is the alternative end point for a car shuttle traverse.",
+    "nearest_town": "Bartlett, NH (south) or Twin Mountain, NH (north)",
+    "amenities": ["WMNF pass required", "No restroom at this trailhead (facilities at AMC Highland Center 3 mi north on Route 302)"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "WMNF Crawford Notch Trails",
+      "url": "https://www.fs.usda.gov/recarea/whitemountain/recarea/?recid=74596"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mt. Willey / Field / Tom via Ethan Pond Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-willey-mount-field-and-mount-tom-via-ethan-pond-trail"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "NWS Forecast — Crawford Notch",
+      "url": "https://forecast.weather.gov/MapClick.php?CityName=Crawford+Notch&state=NH&site=GYX&textField1=44.2168&textField2=-71.4050"
+    },
+    {
+      "type": "trip-report",
+      "label": "Trip report — Hiking Up with the Pup (Willey, ladder conditions)",
+      "url": "https://hikingupwiththepup.com/hike-review-mt-willey-via-ethan-pond-trail/"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-moosilauke-glencliff",
+      "wildcat-d-wildcat-ridge"
+    ],
+    "leads_naturally_to": [
+      "mt-field-mt-tom-avalon-az-trail",
+      "zealand-falls-hut-ethan-pond-trail"
+    ],
+    "progression_notes": "This is one of the most demanding non-Presidential, non-above-treeline routes in the White Mountains. The 11-ladder section is a category unto itself — it introduces vertical-terrain technique (stowing poles, testing rungs, descending with slow deliberate commitment) that is unlike any other movement skill in standard mountain hiking. The route is appropriate for hikers who have done 3,000+ foot gain days and have solid comfort on steep, rough terrain, but should not be the first introduction to either multi-peak objectives or technical NH hiking. Hikers coming off the Glencliff Trail (sustained steep climbing, no fixed aids) and Wildcat D (cliff-side rock steps, exposed scrambling) have the right preparation base — both build toward the confidence needed for the Willey Range ladder section. The key skill this route adds is comfort on fixed vertical aids under pack weight, particularly on descent. On completion, the Willey Range traverse (as a shuttle, north to Avalon TH or south to Willey TH) is the natural next level, as is any of the other multi-peak Crawford Notch objectives."
+  },
+  "response_hints": {
+    "beginner_framing": "This is a challenging, full-day hike that bags three White Mountains 4,000-footers — Mt. Willey, Mt. Field, and Mt. Tom — from a single trailhead in Crawford Notch. The hike starts on the Ethan Pond Trail, which follows an old railroad grade and rises gradually through the forest. After about 1.6 miles you reach the Willey Range Trail junction, where the real climbing begins. The defining feature of this route is a section of eleven wooden ladders built into an extremely steep rock face — this section gains over 1,600 feet in just over a mile. The ladders are well-constructed and have been maintained over the years, but they require you to stow your trekking poles and use your hands, and they're far more challenging to descend than to climb up. Above the ladders you reach Mt. Willey's summit area, where the historic 1826 Willey Slide scar creates spectacular open views over Crawford Notch. The ridge walk continues to Mt. Field and then Mt. Tom, with more views along the way. Total round trip is approximately 9 miles with 3,550 feet of elevation gain. Important note: the return trip requires descending all 11 ladders, which is slower and more technical than the ascent. If you want to avoid the ladder descent, you can arrange a car shuttle to the AMC Highland Center (Avalon Trailhead), about 3 miles north on Route 302, and do this as a one-way 8.5-mile traverse instead.",
+    "expert_framing": "The Willey Range Trail is on the Terrifying 25 (elective) for the 11-ladder, 1,650-ft/1.1-mi crux section below the Willey summit. The ladder section is genuinely technical — wooden rungs (condition variable, some loose or deteriorated), near-vertical terrain between aids, and a descent that demands methodical movement and grip discipline. In wet conditions the wooden rungs approach the friction coefficient of ice; at least one trip report documents three near-falls on the descent in rain. The above_treeline_miles is 0.0 — all three summits are below natural treeline, though Willey's slide scar and Field's summit ledge provide good exposure. Full crampons required in winter for the ladder section; microspikes insufficient on fully iced vertical rungs. The 9-mile RT / 3,550 ft / fitness-5 rating makes this the physically hardest non-Pemi, non-Presidential traversal in the southern Crawford Notch area. Shuttle to the Avalon TH eliminates ladder descent and converts to 8.5-mile one-way traverse — strong recommendation for first-timers or any party with uncertain members. Willey-Field-Tom in a day is a solid three-peak outing; linking to Avalon and/or Zealand via the hut network is possible for strong parties starting early.",
+    "safety_callout": "The defining risk on this route is the descent of the 11-ladder section in wet, cold, or fatigued conditions. Ascending is demanding; descending is harder. If rain moves in while you are above the ladders, the rungs and surrounding rock become extremely slippery and the risk of a fall increases substantially. The most conservative decision is to check the forecast specifically for afternoon precipitation before starting, and plan to reach the ladder section on the return before any rain arrives. Dry-grip gloves significantly improve rung purchase in any conditions. Always stow trekking poles completely before stepping onto the ladders — do not carry them loosely in your hands. Test each rung before committing your full weight, particularly on older sections. If any member of your party is hesitant about the ladder section on the ascent, strongly consider the car-shuttle option (park a second car at the Avalon Trailhead, 3 miles north on Route 302) so you can do a one-way traverse that eliminates the ladder descent. This is not a trail to rush the descent — take your time on every rung."
+  }
+}

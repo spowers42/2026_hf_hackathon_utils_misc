@@ -1,0 +1,153 @@
+{
+  "id": "mt-moriah-carter-moriah",
+  "name": "Mt. Moriah via Carter-Moriah Trail",
+  "peaks": [
+    {
+      "name": "Mt. Moriah",
+      "elevation_ft": 4049,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Carter Range",
+  "stats": {
+    "distance_rt_miles": 9.0,
+    "elevation_gain_ft": 3268,
+    "highest_point_ft": 4049,
+    "above_treeline_miles": 0.3,
+    "typical_time_hrs": {
+      "beginner": 8.5,
+      "average": 6.0,
+      "experienced": 4.5
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "Mt. Moriah is one of the most rewarding 4K footers in the Carter Range: 9 miles round trip, 3,268 feet of gain, and a fully open rock summit with 360° views of the Presidential Range, the Carters, the Mahoosuc Range, and the Baldfaces. The first two miles from the Bangor Street trailhead are forested and moderately rolling, reaching Mt. Surprise (2,194 ft) where the first open views appear and the trail transitions from forest duff to rock ledge. From Mt. Surprise onward the trail climbs more steeply on open rock slab and rooted terrain, with several distinct rock face sections in the upper three miles where footing demands careful attention. The summit is open bare rock with stunted krummholz at the edges, sits on the Appalachian Trail, and delivers the best views of the Presidential Range from the Carter side. The primary technical challenge is the steep, smooth rock on the upper trail — not cliff-consequence scrambling, but genuinely dangerous when wet or icy. Multiple sources and experienced hikers consistently emphasize: do not hike Moriah in the rain or immediately after rain, and treat icy slabs with full respect. The trail is part of the Appalachian Trail from the summit southward through the Carter-Moriah range."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "low",
+      "description": "The summit of Mt. Moriah sits on bare open rock at 4,049 ft with unobstructed 360° exposure. The Presidential Range is directly adjacent to the west and generates the same severe convective weather patterns that produce dangerous above-treeline conditions on Washington and the Northern Presidentials. Mt. Moriah's open summit receives the same afternoon thunderstorm and wind events — lightning on the bare rock slabs is a serious risk in summer. The summit and upper ridge are fully exposed for approximately 0.3 miles. Though lower in elevation than the Presidential alpine zone, the open character and direct weather exposure means weather management discipline similar to above-treeline Presidential routes applies on the final approach and summit.",
+      "mitigation": "Check the Mt. Washington Observatory Higher Summits Forecast before departure — it covers this region. Start early enough to be off the open summit by early afternoon in thunderstorm season. The open summit and upper ledge section are roughly 0.3 miles; retreat into tree cover is achievable in 5–10 minutes from the summit. At the first sign of thunder, descend immediately."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Carter-Moriah Trail's upper section has multiple rock face and slab sections that are steep enough to cause a significant sliding fall if footing is lost. The rock is described by 4000footers.com as 'very slippery when wet, or icy — very dangerous.' These are not vertical cliff drops, but the sustained angle of the smooth rock means a slip on wet slab can send a hiker sliding and tumbling for a meaningful distance before stopping. This hazard is concentrated in the last two miles below the summit where the trail traverses steep open ledge. In dry summer and fall conditions the rock provides adequate grip with appropriate footwear; in wet conditions these sections become a genuine hazard that has turned back and injured hikers.",
+      "mitigation": "Hiking boots with Vibram or similar high-friction soles are mandatory — trail runners with adequate grip are acceptable in dry conditions but marginal on wet rock. Trekking poles provide meaningful stability on descent. Avoid this route in rain or within 24 hours of significant rain when slabs are wet. In icy conditions, microspikes are required on the upper slab sections. Test each step on steep wet rock before committing full weight."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "Moriah is a strong three-season hike with a wide weather window, but the rock slab character of the upper trail creates a hard weather dependency: do not attempt in rain or immediately after rain. The slabs are genuinely dangerous when wet, and this constraint eliminates marginal-forecast days that would be acceptable on a pure-forest route. Fall is the prime season — clear dry days in September and October deliver exceptional views of fall foliage on the surrounding ranges, and the Presidential Range panorama from the open summit is outstanding. Mt. Surprise provides an early reward at 2.0 miles that makes even a turnaround day worthwhile. The summit ices in late fall (typically November) and the upper slabs become crampons-required terrain; microspikes are adequate for the lower trail but insufficient on the steepest iced slabs. In full winter, the open summit is exposed to Presidential-level wind and cold — appropriate gear is an expedition-weight insulation system, not just a fleece. The route is a popular winter objective for experienced hikers given the accessible residential trailhead and spectacular winter views. Spring (April–May) has significant ice on the upper slabs and mud on the lower trail. Note: the Bangor Street trailhead is in a residential neighborhood — parking courtesy is emphasized by the Town of Gorham and multiple trail organizations. Do not park in front of private driveways or in spaces marked for residents."
+  },
+  "tags": [
+    "4k-footer",
+    "out-and-back",
+    "above-treeline-weather-exposure",
+    "ridge-walk",
+    "dog-friendly",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "wet-slippery-slabs",
+      "hazard_category": "terrain-and-fall",
+      "description": "The upper Carter-Moriah Trail (roughly the final 2.5 miles below the summit) traverses steep open rock slab and multiple rock face sections. The rock is smooth and provides excellent dry grip but becomes extremely slippery when wet — 4000footers.com explicitly warns 'very slippery when wet, or icy — very dangerous.' A slip on the steep wet rock can result in a sliding fall before stopping; the angle is steep enough that momentum builds quickly. This hazard is the defining characteristic of the Carter-Moriah route and distinguishes it from pure forest climbs. The rock faces are navigable with appropriate footwear in dry conditions but require full respect in wet weather.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The upper slab sections of the Carter-Moriah Trail accumulate ice from late October through April. The steep smooth rock that is challenging when wet becomes significantly more dangerous when iced — a slip on iced slabs can send a hiker sliding well before stopping. Microspikes are required on the upper trail in icy conditions; however, on the steepest sections microspikes alone may be insufficient and crampons provide better security. The open summit in winter is fully exposed to Presidential Range wind and cold — the bare rock summit has no wind shelter whatsoever. Wind chill on the summit in winter can be extreme.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The open rock summit of Mt. Moriah (0.3 miles of exposed bare rock slabs at the top) is fully exposed to lightning during afternoon summer thunderstorms. The Presidential Range directly to the west is the primary driver of convective activity in this region — the same weather systems that create dangerous conditions on Mt. Washington and the Northern Presidentials affect Moriah's open summit. At 4,049 ft on bare open rock with no tree shelter, a hiker caught by a fast-moving afternoon thunderstorm is exposed. The summit is the highest point on an open ridge for a considerable distance.",
+      "months_active": ["May", "June", "July", "August", "September"]
+    },
+    {
+      "type": "limited-parking-residential-area",
+      "hazard_category": "weather-and-environment",
+      "description": "The Carter-Moriah Trailhead on Bangor Street is in a quiet residential neighborhood with very limited parking. There is no dedicated parking lot at the trailhead — hikers park on the edge of the road near private property. The Town of Gorham and multiple trail organizations emphasize that inconsiderate parking creates serious community relations problems and can result in restricted access. If the roadside spots are full, the alternative is the parking lot at the end of Promenade Street (~0.8 miles away, with a road walk through town including a suspension bridge crossing before reaching the trailhead). Arriving by 7–8am on weekends is strongly recommended.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with high-friction (Vibram or equivalent) soles — the steep rock slabs require reliable grip; worn soles are a serious hazard on this route",
+      "Trekking poles (highly recommended for descent of steep slab sections)",
+      "Rain jacket and full rain gear — do not attempt in wet conditions; carry layers for the open summit",
+      "2 liters water (no water sources on trail; the residential trailhead has no potable water)",
+      "Extra insulating layer for the summit — the open rock can be 20–30°F cooler and windier than the trailhead",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required on the upper slab sections when icy — October through May)",
+      "Full insulating system — the open summit in shoulder season is cold and wind-exposed",
+      "Gaiters for wet/muddy lower trail (spring)",
+      "Warmer gloves and hat"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Crampons — the steepest iced slabs on the upper trail exceed what microspikes handle safely",
+      "Full winter insulation system including a parka-weight outer layer — the bare summit has zero wind shelter and Presidential-level wind exposure",
+      "Balaclava and expedition-weight gloves for the summit",
+      "Goggles if wind is predicted",
+      "Communicate plans and expected return time — the trail is in a residential area but the upper mountain is remote and serious in winter"
+    ]
+  },
+  "trailhead": {
+    "name": "Carter-Moriah Trailhead — Bangor Street, Gorham, NH",
+    "lat": 44.3831971,
+    "lon": -71.1685414,
+    "parking": "Very limited roadside parking at the end of Bangor Street, along the edge of private residential property. No WMNF recreational pass required. No dedicated parking lot. Capacity: approximately 6–10 vehicles in marked roadside spaces. This is a residential street — parking inconsiderately in front of driveways or in resident-only spaces can jeopardize continued public access. Arrive by 7–8am on summer and fall weekends. Alternative parking: Promenade Street lot (~0.8 miles from the trailhead), reached from downtown Gorham; walk along the road and cross the suspension bridge over the Androscoggin River to reach Bangor Street. No restrooms at either location. No potable water.",
+    "access_road": "From US Route 2 in Gorham, head east 0.5 miles. Just after crossing the bridge and railroad tracks, turn right onto Bangor Street. Follow Bangor Street approximately 0.5 miles to the end; limited roadside parking is on the left. GPS destination: 'Carter-Moriah Trailhead, Gorham NH.' Note: do not confuse with the Stony Brook Trailhead on Route 16 (~2 miles south of Gorham), which provides a different approach to the same summit.",
+    "nearest_town": "Gorham, NH",
+    "amenities": ["No restrooms", "No potable water"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "USFS White Mountain NF — Carter/Moriah Trailhead",
+      "url": "https://www.fs.usda.gov/r09/whitemountain/recreation/carter-moriah-trailhead",
+      "notes": "Official trailhead page — directions, facility info, Androscoggin Ranger District advisories"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mount Moriah via Carter-Moriah Trail",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-moriah-via-carter-moriah-trail",
+      "notes": "Current conditions, user-reported trail state, GPS track, parking notes"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory — Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "Primary weather resource — Mt. Moriah is adjacent to the Presidential weather zone; this forecast captures the weather patterns that affect Moriah's open summit"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-isolation-glen-boulder",
+      "mt-waumbek-starr-king"
+    ],
+    "leads_naturally_to": [
+      "carter-dome-19-mile-brook",
+      "wildcat-mountain-wildcat-ridge",
+      "middle-south-carter-imp-loop"
+    ],
+    "progression_notes": "Mt. Moriah is the natural gateway to the Carter Range. It introduces a new kind of White Mountains terrain — open rock slab on a below-treeline peak — that sits between the forested climbs of Galehead and Waumbek and the full alpine exposure of the Presidentials. The key prerequisite is not technical ability but slab-weather awareness: hikers must internalize the 'no wet slabs' rule before attempting Moriah, and that judgment carries directly into Carter Dome and the Wildcat Ridge routes that follow. Completing Moriah alongside an above-treeline Presidential route (Eisenhower, Pierce via Crawford Path) builds a well-rounded profile: one route teaches slab footwork, the other teaches above-treeline weather discipline. The two together prepare hikers for the more demanding Carter Dome approach and the Wildcat Ridge traverse, both of which combine sustained ledge terrain with exposed ridge sections."
+  },
+  "response_hints": {
+    "beginner_framing": "Mt. Moriah is one of the great view hikes of the NH 4K footer list — a 9-mile round trip that rewards you with a fully open rock summit and 360° views of the Presidential Range, the Carter Range, and the Mahoosuc peaks. The hike starts in the residential neighborhood of Gorham on Bangor Street (no parking pass needed), follows a forested trail for the first two miles to Mt. Surprise (another open ledge with views), then continues up increasingly rocky terrain to the summit. The big thing to know: the upper trail has steep, smooth rock faces that are VERY slippery when wet. This is not a hike for rainy days — seriously. Plan for a clear dry day, wear boots with good traction, and bring trekking poles for the descent. In good conditions it's a wonderful hike; in wet conditions it's a genuinely dangerous one.",
+    "expert_framing": "Moriah is among the best single-summit day hikes in the Carter Range — excellent views for the effort, a residential trailhead with no pass required, and route character that's more interesting than a standard forest slog. The rock face sections on the upper trail reward hikers who move efficiently and confidently on ledge; they punish hikers who don't read the conditions. The 'no wet slabs' rule is absolute here — this is one of the few non-technical NH 4K routes where conditions genuinely determine go/no-go. The Presidential panorama from the open summit is outstanding, especially in fall and winter. Winter objective: excellent for fit parties with crampons and full cold-weather kit. The Bangor Street trailhead location makes this one of the most convenient Gorham-area peaks — short drive from North Conway, staging for back-to-back Carter Range peaks. Carter Dome (via 19 Mile Brook Trail) pairs well as a second-day objective to tag multiple Carter Range 4Ks from the Gorham base.",
+    "safety_callout": "The defining hazard on this route is the steep smooth rock on the upper Carter-Moriah Trail — it is extremely slippery when wet and multiple sources explicitly warn against hiking in rainy or wet post-rain conditions. This is not a 'bring a rain jacket and push through' situation: wet slabs can cause a serious sliding fall. Check the weather forecast rigorously before departing, and if conditions are marginal, postpone. Secondary: the open rock summit is exposed to Presidential-level lightning and wind — treat afternoon thunderstorms the same as you would on a Presidential route and start early enough to be off the open summit before noon in summer. In any season, boots with proper friction soles are mandatory, not optional."
+  }
+}

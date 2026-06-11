@@ -1,0 +1,163 @@
+{
+  "id": "mt-jackson-pierce-webster-jackson",
+  "name": "Mt. Jackson & Mt. Pierce Loop via Webster-Jackson Trail & Crawford Path",
+  "peaks": [
+    {
+      "name": "Mt. Jackson",
+      "elevation_ft": 4052,
+      "is_4k_footer": true
+    },
+    {
+      "name": "Mt. Pierce",
+      "elevation_ft": 4310,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Presidential Range",
+  "stats": {
+    "distance_rt_miles": 8.3,
+    "elevation_gain_ft": 2650,
+    "highest_point_ft": 4310,
+    "above_treeline_miles": 0.6,
+    "typical_time_hrs": {
+      "beginner": 7.5,
+      "average": 6.0,
+      "experienced": 4.5
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "This loop bags two Southern Presidential 4K footers — Mt. Jackson (4,052 ft) and Mt. Pierce (4,310 ft, also called Mt. Clinton) — in a single 8.3-mile circuit from the combined Crawford Path / Webster-Jackson Trailheads at the north end of Crawford Notch. The two trailheads are approximately 0.2 miles apart on Route 302, so no car shuttle is required. The preferred loop direction begins on the Jackson Branch of the Webster-Jackson Trail, which climbs south and west from Route 302 through mixed hardwood and conifer forest. The trail is not uniformly steep: bmhatfield describes it as 'somewhat deceptive, as there are several rather flat sections that alternate with much steeper ones.' The Jackson Branch covers 2.6 miles and approximately 2,150 feet of gain to reach Mt. Jackson's open rocky summit cap, which delivers outstanding 360-degree views over Crawford Notch, the Southern Presidential ridge, and the Wild River valley to the east. Jackson's summit is a compact rocky knob above treeline — one of the best views-to-effort ratios in the Southern Presidentials. From Jackson the route follows the Webster Cliff Trail northward (this section is the Appalachian Trail) through krummholz and open ridge terrain toward Mizpah Spring Hut. The AMC's Mizpah Spring Hut sits on a col between Jackson and Pierce at approximately 3,800 feet — full-service accommodation available from late spring through Columbus Day. From the hut area the Webster Cliff Trail climbs steeply through a rough section to reach Mt. Pierce's broad open summit. Pierce is a roomy, open rocky plateau at 4,310 feet with sweeping views north toward Mt. Washington and the Northern Presidentials. The Crawford Path descends gently and evenly from Pierce back to the Crawford Notch Depot trailhead — the Crawford Path is the oldest continuously maintained hiking trail in the United States, and the section from Pierce to the trailhead is a steady but never severe descent. The loop can also be done in reverse (up Crawford Path first), which gives a gentler ascent with all technical terrain on the descent via the Jackson Branch."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "moderate",
+      "description": "Both Mt. Jackson and Mt. Pierce have open summits above or at natural treeline (~4,200–4,400 ft in the Presidential Range) and sit on the same Southern Presidential Ridge that extends north toward Mt. Washington. The Crawford Path section from Pierce descends through alpine and subalpine terrain with significant wind exposure on Pierce's broad summit plateau. Mt. Jackson's compact rocky summit is equally exposed. Approximately 0.6 miles of this loop is above treeline across both summits and the connecting ridge sections, with Pierce carrying the more sustained exposure due to its wider open plateau. Weather on the Presidential Ridge moves fast and can deteriorate without warning; the summits of Jackson and Pierce are subject to the same storm systems that affect Mt. Washington and can receive substantially stronger winds and colder temperatures than the valley below Crawford Notch. The presence of Mizpah Spring Hut on the route provides an emergency refuge option that is not available on many comparable routes.",
+      "mitigation": "Check the Mt. Washington Observatory Higher Summits Forecast before departure — it covers the Southern Presidential ridge including Jackson and Pierce. Plan to summit both peaks before early afternoon in thunderstorm season (June–August). The wide open summit of Pierce offers no shelter in wind and driving rain; carry full wind-and-rain protection even on clear mornings. If weather closes in above treeline on Pierce, the Crawford Path descent provides the most direct route back to the road. Mizpah Spring Hut is a genuine emergency resource: if caught by rapidly deteriorating conditions on the ridge between Jackson and Pierce, the hut provides weather shelter year-round (limited in winter). Carry layers appropriate for temperatures 15–25°F colder than the trailhead with 30–40 mph gusts, which are typical summit conditions even in fair-weather months."
+    },
+    "fall_risk": {
+      "rating": "low",
+      "description": "The Jackson Branch of the Webster-Jackson Trail and the Crawford Path are both well-maintained, non-technical trails without fixed aids, cliff-consequence drops, or required scrambling. The most technical terrain is the rocky summit cap of Mt. Jackson, which involves some stepping on large flat rock slabs at the top — straightforward in dry conditions but worth care on wet or icy rock given the exposed position. The section of the Webster Cliff Trail between Mizpah Hut and the summit of Pierce is described as 'steep and rough' (bmhatfield) — the roughest single section of the loop — but it does not involve vertical drops or hands-required moves. The Crawford Path descent from Pierce is the easiest terrain on the loop: good footing and a gradual to moderate grade throughout. There are no waterfall gorges, iron rungs, wooden ladders, or cliff-adjacent traverses on this route.",
+      "mitigation": "Standard hiking boots with ankle support and grip are sufficient for three-season conditions. Trekking poles are helpful on the steep rough section between Mizpah Hut and Pierce and on the steeper sections of the Jackson Branch descent. On Mt. Jackson's rocky summit cap, step deliberately on the flat rock slabs — they are slippery when wet. In shoulder season or after overnight freezing, the summit cap rocks and the steep section below Pierce can carry rime ice that increases slipping risk; microspikes are appropriate from late October through early May."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September", "October"],
+    "viable_with_gear": ["November", "May"],
+    "avoid": ["December", "January", "February", "March", "April"],
+    "seasonal_notes": "This is one of the most accessible two-peak Presidential day hikes, with a wide recommended season and a relatively short approach to open-summit terrain. Jackson's open rocky knob and Pierce's wide plateau are outstanding from June through October. Late September and early October bring exceptional foliage views from both summits, with Crawford Notch's forests turning color below and the Presidential Ridge golden above — among the most scenic days of the hiking year in this area. Mizpah Spring Hut is open from late May (exact dates vary annually) through Columbus Day weekend and can be used for lunch, water, or emergency shelter during the season. The Crawford Path's even footing and the Jackson Branch's steady character make this a viable October hike through the first significant snowfall. Shoulder season (November and May) brings ice and snow to the upper sections, especially on Jackson's rocky summit cap and the steep approach to Pierce from Mizpah Hut; microspikes are required. In full winter this is a serious Presidential Ridge objective: the open summits of Jackson and Pierce are exposed to the same extreme wind and cold that characterizes all Presidential Range winter hiking, and the Crawford Path section can be a wind-scoured, icy descent demanding crampons and precise footwork. Winter hikers should carry a full expedition kit and treat this as a committed above-treeline objective despite the relatively modest summit elevations. The Jackson Branch is a reasonable winter approach with snowshoes below treeline; crampons are required above."
+  },
+  "tags": [
+    "4k-footer",
+    "loop",
+    "multi-peak",
+    "above-treeline-weather-exposure",
+    "alpine-zone",
+    "ridge-walk",
+    "hut-access",
+    "parking-fee",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "presidential-ridge-weather-and-wind",
+      "hazard_category": "weather-and-environment",
+      "description": "Mt. Jackson and Mt. Pierce sit on the Southern Presidential Ridge — the same mountain chain that includes Mt. Washington, the site of the highest recorded surface wind speed in the world at that time. Though the Southern Presidentials are lower than Washington, they are exposed to the same storm systems and orographic weather generation. Fast-moving fronts, sudden fog, high winds, and temperature drops can occur within minutes of apparent clear weather at the trailhead. The broad summit plateau of Mt. Pierce is particularly exposed to west and northwest winds with no natural windbreak. June through August thunderstorms can develop rapidly over the ridge in the afternoon.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "ice-and-snow-on-upper-trail-and-summits",
+      "hazard_category": "weather-and-environment",
+      "description": "From mid-October through May the upper sections of the Webster-Jackson Trail, the Webster Cliff Trail, and the Crawford Path near Pierce can carry significant ice and snow. Jackson's rocky summit cap is particularly prone to ice as it sits exposed above treeline — rime ice commonly develops on the rocks even in moderate above-freezing conditions when mist or rain passes through. The Crawford Path descent from Pierce can become a long sheet of ice in hard-freeze conditions. Shoulder season conditions frequently lag valley temperatures by 2–3 weeks on these summit areas.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "steep-rough-section-mizpah-to-pierce-summit",
+      "hazard_category": "terrain-and-fall",
+      "description": "The section of the Webster Cliff Trail between Mizpah Spring Hut and the summit of Mt. Pierce is described as 'steep and rough' — the most technically demanding terrain on the loop. This section involves large rocks, roots, and uneven footing on a sustained steep pitch. In wet conditions the rock is slippery and trekking poles are essential. In icy conditions (late fall through spring), this section can require microspikes or crampons, and ice on the steep rocky footing creates a genuine fall risk.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "lightning-at-pierce-and-jackson-summit-areas",
+      "hazard_category": "weather-and-environment",
+      "description": "Both summits are on an exposed ridge above treeline and are lightning targets during afternoon thunderstorm season. Mt. Pierce's wide open plateau offers no protection if lightning is developing. The typical window for Presidential Ridge thunderstorms is late morning through mid-afternoon from June through August. The only shelter on the ridge is Mizpah Spring Hut, which should be used as a retreat point if lightning is visible or thunder audible while on either summit. Plan to be off both summits and descending into the trees by noon if afternoon storm potential exists.",
+      "months_active": ["June", "July", "August", "September"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Solid hiking boots with ankle support — the steep rough section between Mizpah Hut and Pierce and the Jackson Branch's alternating steep sections reward real boot grip over trail runners",
+      "Full wind-and-rain shell (required, not optional) — Presidential Ridge summits are cold and windy even on clear summer days, and both peaks are open to the weather",
+      "Warm insulating layer for summits (fleece or light down) — summit temperatures routinely run 15–20°F colder than the trailhead with strong winds",
+      "Trekking poles (highly recommended for the rough Mizpah-to-Pierce section and the Jackson Branch descent)",
+      "2 liters water minimum (Mizpah Spring Hut is the only reliable water source on the upper route; hut available late May–Columbus Day only)",
+      "Map or downloaded GPS track (Presidential Ridge fog is rapid and dense; trail junctions need confirmation in low visibility)",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes (required on Jackson summit cap and Crawford Path descent from Pierce in icy conditions — carry from October through May)",
+      "Insulated gloves and warm hat — open summits in November or May wind are dramatically colder than trail conditions below",
+      "Gaiters for snow or mud in the lower approach sections (May mud and early November snow both common)"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Full crampons (required for the open summit terrain and icy Crawford Path descent; microspikes insufficient in hard-freeze or high-wind conditions)",
+      "Ice axe or whippet for self-arrest on steeper icy sections",
+      "Snowshoes for the lower approach (switch to crampons as terrain demands above treeline)",
+      "Full expedition insulation system — Presidential Ridge wind chill in winter is extreme; treat this as equivalent to full winter Presidential conditions",
+      "Balaclava and windproof expedition gloves — the open summit plateaus funnel north and northwest winds with no break",
+      "Emergency bivy or survival blanket — no hut access in winter (Mizpah Hut is closed)"
+    ]
+  },
+  "trailhead": {
+    "name": "Crawford Notch Depot / Webster-Jackson Trailhead, Route 302",
+    "lat": 44.2193,
+    "lon": -71.4131,
+    "parking": "Primary parking at the AMC Highland Center (Crawford Notch Depot), Route 302, Crawford Notch NH — WMNF recreational pass ($5/day or America the Beautiful annual pass) required. AMC Highland Center parking is large (60+ spaces) and managed. The Webster-Jackson Trailhead (AT crossing) is 0.2 miles south on Route 302 with a smaller pullout. For the loop, park at the AMC Highland Center; the Crawford Path begins here and the Webster-Jackson Trailhead is a 5-minute road walk south. Can also park at the Webster-Jackson Trailhead pullout for a slightly different loop start.",
+    "access_road": "From I-93 North, take Exit 35 (Twin Mountain / Route 3), follow Route 3 north to Route 302 east through Twin Mountain, then continue east on Route 302 through Bretton Woods and into Crawford Notch. The AMC Highland Center is on the left (north) side of Route 302 at the height of land in Crawford Notch, approximately 20 miles east of Twin Mountain. GPS: 'AMC Highland Center, Crawford Notch NH' or 'Crawford Notch Depot, Route 302 NH.' Trailhead is well-signed. From North Conway: Route 302 west approximately 20 miles into Crawford Notch.",
+    "nearest_town": "Bartlett, NH (south) or Twin Mountain, NH (north/west)",
+    "amenities": ["Restrooms at AMC Highland Center", "Water at AMC Highland Center", "WMNF pass required", "AMC Highland Center store and cafe (seasonal)"]
+  },
+  "amc_hut": "Mizpah Spring Hut",
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "WMNF Crawford Notch trails",
+      "url": "https://www.fs.usda.gov/recarea/whitemountain/recarea/?recid=74596"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mt. Jackson and Mt. Pierce Loop",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-jackson-and-mount-pierce-loop"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory — Higher Summits Forecast",
+      "url": "https://mountwashington.org/weather/higher-summits-forecast/"
+    },
+    {
+      "type": "summit-conditions",
+      "label": "NWS Point Forecast — Mt. Pierce",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=44.2206&lon=-71.3701&site=gyx&smap=1&unit=0&lg=en&FcstType=text"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-tom-ethan-pond-willey-range",
+      "mt-moosilauke-glencliff"
+    ],
+    "leads_naturally_to": [
+      "mt-eisenhower-edmands-path",
+      "mt-jackson-mt-webster-loop"
+    ],
+    "progression_notes": "The Jackson-Pierce loop is the best entry point to Presidential Ridge hiking for hikers who have done demanding but non-Presidential routes. The Crawford Path approach to Pierce is one of the gentler ways to access an above-treeline summit in the White Mountains — good footing, no fixed aids, a steady rather than brutal gradient — which makes this a natural introduction to the open-ridge experience and the weather patterns of the Presidential Range. The key skill this route builds is Presidential weather judgment: reading the forecast, making a genuine go/no-go decision at treeline, knowing how quickly conditions change on the open ridge, and calibrating effort to ensure descent before afternoon storms. Jackson's open summit cap delivers genuine Presidential views including the line of the ridge north toward Washington — it sets the visual and mental frame for more ambitious Presidential objectives. Hikers who complete this loop have the fitness and weather-reading experience to attempt Mt. Eisenhower via Edmands Path (a gentler but longer ridge walk with more sustained above-treeline time) or the Jackson-Webster loop (which uses the full Webster-Jackson Trail circuit and adds Mt. Webster's outstanding views into Crawford Notch). The Pierce-Jackson-Eisenhower traverse (with car shuttle to Edmands Path TH) is the natural three-peak step up from this route."
+  },
+  "response_hints": {
+    "beginner_framing": "This 8.3-mile loop bags two White Mountains 4,000-footers — Mt. Jackson and Mt. Pierce — and is one of the best introductions to Presidential Range hiking in the southern Whites. You'll start by climbing the Jackson Branch of the Webster-Jackson Trail, a 2.6-mile route that alternates between gradual forest sections and steeper pitches. Mt. Jackson's summit is a compact rocky knob with some of the best views per elevation-foot in the region — 360° panoramas over Crawford Notch, the ridge north toward Mt. Washington, and the Wild River valley to the east. From Jackson you follow the Appalachian Trail north to Mizpah Spring Hut, an AMC full-service hut on the ridge where you can resupply on water and take a break (open late May through Columbus Day). Then a steep rough section leads up to Mt. Pierce's broad open summit at 4,310 feet. The Crawford Path, the oldest continuously maintained hiking trail in the US, brings you back down to the trailhead. Key thing to know: both summits are above treeline and on the Presidential Ridge — these peaks are subject to the same fast-moving weather systems that make Mt. Washington famous. Check the Mt. Washington Observatory Higher Summits Forecast before you go, carry full rain and wind protection, and plan to be off the summits before early afternoon in thunderstorm season.",
+    "expert_framing": "The Jackson-Pierce loop is 8.3 miles / 2,650 ft / fitness 4 — the standard two-peak introduction to the Southern Presidentials for hikers already comfortable on demanding NH terrain. Technical rating is 2: no fixed aids, no cliff-consequence, the roughest section is the 'steep and rough' (bmhatfield) pitch between Mizpah Hut and Pierce. Weather exposure is the defining character: ~0.6 miles above treeline across both summit areas and the connecting ridge, on the Presidential chain, with the same weather patterns that make this range notorious. Jackson's summit cap is a compact rocky knob fully above treeline with outstanding views but very limited wind shelter; Pierce is a wide open plateau. Both are lightning targets in summer thunderstorm season — classic pre-noon summit timing applies. Mizpah Spring Hut (open late May–Columbus Day) is a genuine emergency resource and useful water stop. Loop works well in either direction; Crawford Path up / Jackson Branch down is slightly gentler on the approach. The Jackson-Webster loop (6.5 mi, 2,500 ft) is the same trailhead but avoids Pierce in favor of Mt. Webster — excellent views into Crawford Notch but Mt. Webster is not a 4K footer. Connecting east to Eisenhower via the Crawford Path makes a solid three-peak objective for strong hikers.",
+    "safety_callout": "The primary risk on this route is weather on the Presidential Ridge — the same fast-moving systems that affect Mt. Washington affect Jackson and Pierce. Both summits are open to the weather with limited retreat options once you are above treeline. Check the Mt. Washington Observatory Higher Summits Forecast specifically (not just the valley forecast) before leaving the trailhead. If the summit forecast calls for sustained winds above 40 mph, heavy rain, dense fog, or lightning risk, consider a different objective for the day — this loop has no tree shelter between Mizpah Hut and the summits. The section between Mizpah Hut and Pierce is the steepest and roughest terrain on the route — wet rock here is genuinely slippery. In shoulder season (late October through May), Jackson's rocky summit cap ices before you expect it to and the Crawford Path descent from Pierce can become a sheet of ice; microspikes are required gear from October through May. Mizpah Spring Hut is an emergency resource on the ridge during the hut season — if caught in rapidly deteriorating weather between the two summits, head to the hut rather than continuing to either summit."
+  }
+}

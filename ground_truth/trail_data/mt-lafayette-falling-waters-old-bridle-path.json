@@ -1,0 +1,210 @@
+{
+  "id": "mt-lafayette-falling-waters-old-bridle-path",
+  "name": "Mt. Lafayette via Falling Waters Trail and Old Bridle Path Loop",
+  "peaks": [
+    {
+      "name": "Mt. Lafayette",
+      "elevation_ft": 5260,
+      "is_4k_footer": true
+    },
+    {
+      "name": "Mt. Lincoln",
+      "elevation_ft": 5089,
+      "is_4k_footer": true
+    },
+    {
+      "name": "Little Haystack Mountain",
+      "elevation_ft": 4760,
+      "is_4k_footer": false,
+      "notes": "Little Haystack is not on the AMC NH 4000-Footer List due to insufficient topographic prominence above its connecting ridge with Mt. Lincoln (<200 ft). It is nonetheless the first summit reached on the ascent and has outstanding views. Elevation variously reported as 4,760 or 4,780 ft depending on source."
+    }
+  ],
+  "region": "Franconia Range",
+  "stats": {
+    "distance_rt_miles": 8.9,
+    "elevation_gain_ft": 3900,
+    "highest_point_ft": 5260,
+    "above_treeline_miles": 2.0,
+    "typical_time_hrs": {
+      "beginner": 8.5,
+      "average": 6.5,
+      "experienced": 5.0
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 2,
+    "overall_label": "hard",
+    "notes": "The fitness demand is high: 3,900 ft of gain over 8.9 miles as a loop, with no significant flat recovery sections. The Falling Waters Trail side climbs steeply — approximately 3,000 ft in 3.2 miles with a particularly steep and rugged section above Cloudland Falls (~1.3 miles from the start). The Franconia Ridge Trail adds another 500 ft of cumulative gain over 1.6 miles across an undulating ridge. The descent via the Greenleaf Trail drops 1,040 ft in 1.1 miles, then the Old Bridle Path descends 2,460 ft over 3.1 miles — a long, thigh-burning descent. The technical rating is 2 rather than 3 because there is no sustained Class 2+ scrambling comparable to the Caps or King Ravine; the upper Falling Waters Trail is steep and rocky with occasional hands-on-rocks moments, and the ridge walk is uneven but not committing. The overall 'hard' label is at the upper end of that category — this is one of the most physically demanding 'hard' hikes in the system, appropriate for hikers with solid above-treeline experience and good fitness."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "severe",
+      "description": "The Franconia Ridge Trail from Little Haystack (4,760 ft) to Mt. Lafayette (5,260 ft) is part of the Appalachian Trail and is fully above treeline for the entire 1.6-mile traverse. This is one of the longest continuous above-treeline AT ridge walks in the White Mountains, fully exposed to wind from both sides of the ridge. At its highest point (Lafayette, 5,260 ft), this is a serious mountain weather environment: rapid deterioration, high winds, sustained temperatures 20-30°F below trailhead conditions, and lightning risk on the exposed spine. The upper Greenleaf Trail from Lafayette to the AMC Greenleaf Hut (1.1 miles) adds additional above-treeline exposure during the descent. The Greenleaf Hut is directly on the descent route and functions as excellent mid-trip shelter, but reaching it from the summit still requires 1.1 miles of above-treeline travel. No shelter exists on the ridge itself between Little Haystack and Lafayette.",
+      "mitigation": "Check the Mt. Washington Observatory Higher Summits Forecast before departing — while this is not the Presidential Range, mountain weather across the Whites is closely correlated and conditions at Lafayette often match the Observatory forecast. Start early to complete the ridge walk and reach the Greenleaf Hut before afternoon thunderstorms develop. Carry full rain gear and insulation. If weather is threatening, the Greenleaf Hut is the single best shelter option in the area — surface it proactively for any hiker who describes deteriorating conditions on the ridge. In summer, aim to be off the exposed ridge by 1 p.m."
+    },
+    "fall_risk": {
+      "rating": "moderate",
+      "description": "Three distinct fall-risk sections: (1) Cloudland Falls and the waterfall corridor on the Falling Waters Trail — the trail passes directly alongside and above a series of major cascades, and the rocks near the falls are frequently wet and slippery. Shining Rock, a popular viewpoint at mile 2.8 of the Falling Waters Trail (0.1-mile spur), is a near-vertical ledge with outstanding views but is notoriously slippery when wet — several fall incidents have occurred here. (2) The upper Falling Waters Trail above Cloudland Falls — steep and rocky Class 2 terrain with some exposed ledge moves, gaining 2,100 ft in 1.6 miles. Falls here risk tumbling on steep rocky ground. (3) The Greenleaf Trail descent from Lafayette — 1.1 miles, 1,040 ft of descent, over steep rocky terrain that is unforgiving on tired legs; descent fall risk is heightened late in the day when fatigue sets in.",
+      "mitigation": "Do not step onto Shining Rock if the ledge is wet — the views are not worth the risk. Stiff-soled boots with ankle support provide better purchase on the wet rock near the falls than trail runners. Trekking poles are especially valuable on the Greenleaf Trail descent and the lower Old Bridle Path. Allow extra time on the descent; most accidents on this loop occur on the way down when legs are tired. Move deliberately through the waterfall corridor."
+    }
+  },
+  "seasons": {
+    "recommended": ["June", "July", "August", "September"],
+    "viable_with_gear": ["May", "October"],
+    "avoid": ["November", "December", "January", "February", "March", "April"],
+    "seasonal_notes": "The recommended season aligns with the AMC Greenleaf Hut's open period (late May to mid-October), which provides the key mid-route shelter option on the descent. Outside this window the hut is closed. The upper Falling Waters Trail and the ridge hold ice into May and pick it up again by mid-October; microspikes are strongly recommended from mid-October onward. Spring runoff (May) makes the waterfall sections slippery and brook crossings difficult. The ridge walk is also a serious winter objective: the Franconia Ridge is fully exposed, the upper Old Bridle Path and Falling Waters Trail can be severely iced, and windchill on the ridge is extreme. Winter ascent requires crampons, ice axe, and full mountaineering clothing and is a significant undertaking. Summer weekends (July-August) see very high traffic on this loop — arrive before 7 a.m. to avoid parking issues and a crowded ridge walk."
+  },
+  "tags": [
+    "above-treeline-weather-exposure",
+    "fall-exposure-moderate",
+    "waterfalls",
+    "scrambling",
+    "4k-footer",
+    "loop-route",
+    "ridge-walk",
+    "appalachian-trail",
+    "amc-hut-nearby",
+    "parking-fee"
+  ],
+  "hazards": [
+    {
+      "type": "waterfall-proximity-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The Falling Waters Trail passes Swiftwater Falls (~0.5 mi), Cloudland Falls (~1.2 mi — the largest, a dramatic 80-ft cascade), and Stairs Falls along its lower section. The trail runs immediately alongside and above these cascades, with drops of 20-80 ft directly adjacent to the trail. Rocks near the falls are perpetually wet and mossy. Shining Rock, a viewpoint ledge reached via a 0.1-mile spur at mile 2.8, is a particular hazard: a polished granite slab with steep drop-offs that becomes nearly frictionless when wet. Several visitors have fallen from Shining Rock; do not step onto the slab in wet conditions.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "scrambling-fall-risk",
+      "hazard_category": "terrain-and-fall",
+      "description": "The upper Falling Waters Trail above Cloudland Falls gains ~2,100 ft in ~1.6 miles over steep, rocky Class 2 terrain with exposed ledge sections and some moves requiring hands on rock. This section is less technical than King Ravine or the Caps, but on wet rock the ledge steps become slippery. Tired hikers late in the day are at higher risk — this section is steeper on descent than it appears, and many hikers who found it manageable on the way up discover it challenging going down. The descent via Greenleaf Trail from Lafayette (1,040 ft in 1.1 mi) is also Class 2 rocky, requiring careful footing on loose stones.",
+      "months_active": ["May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "weather-exposure",
+      "hazard_category": "weather-and-environment",
+      "description": "Approximately 2 miles of this loop are fully above treeline: the Franconia Ridge Trail from Little Haystack to Lafayette (1.6 miles) plus the upper Greenleaf Trail from Lafayette summit to just below the Greenleaf Hut. The ridge is fully exposed to wind from both the Franconia Notch side (west) and the Pemigewasset Wilderness side (east). Lafayette at 5,260 ft experiences conditions comparable to Eisenhower or Monroe, with wind speeds regularly exceeding 50 mph and rapid weather deterioration. The extended ridge time amplifies the risk — a hiker moving at average pace spends 45-60 minutes on the exposed ridge between Little Haystack and Lafayette.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "lightning",
+      "hazard_category": "weather-and-environment",
+      "description": "The Franconia Ridge Trail is one of the highest-risk lightning exposures of any standard White Mountains day hike. The fully open 1.6-mile ridge between Little Haystack and Lafayette places hikers on the highest ground with no shelter for the entire traverse. Afternoon convective storms build rapidly in July and August and are notoriously difficult to predict. There is no rapid descent route from the midpoint of the ridge — once a hiker passes Little Haystack, the fastest escape is to continue north to Lafayette then descend via Greenleaf and Old Bridle Path, or to turn around back over Little Haystack. The exposed Greenleaf Trail adds additional time above treeline after the summit.",
+      "months_active": ["May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "hypothermia-risk",
+      "hazard_category": "weather-and-environment",
+      "description": "The Franconia Ridge is exposed on both flanks and wind-driven even on clear summer days. Wind chill on the ridge regularly produces effective temperatures 20-30°F below the air temperature at the trailhead (1,760 ft). Hikers who start on a warm morning frequently underestimate summit conditions. The Greenleaf Hut at the base of the Greenleaf Trail descent is warm and staffed (in season) and is an important hypothermia-prevention resource for hikers caught in deteriorating conditions on the ridge.",
+      "months_active": ["September", "October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "ice-and-snow",
+      "hazard_category": "weather-and-environment",
+      "description": "The upper Falling Waters Trail, the Franconia Ridge, and the upper Greenleaf Trail hold ice into May and develop seasonal ice in October. Shining Rock and the waterfall corridor are particularly prone to ice in spring and fall. The Franconia Ridge is wind-scoured in winter, alternating between icy rock and deep snow drifts. Crampons and ice axe are required for winter travel on the ridge.",
+      "months_active": ["October", "November", "December", "January", "February", "March", "April", "May"]
+    },
+    {
+      "type": "overuse-and-crowding",
+      "hazard_category": "weather-and-environment",
+      "description": "The Franconia Ridge Loop is one of the most hiked routes in New England, with the Lafayette Place trailhead parking frequently filled to capacity by 8-9 a.m. on summer weekends. Crowding on the narrow Franconia Ridge Trail can slow movement and create passing hazards on steep or exposed sections. Overflow parking along I-93 or at nearby lots adds road-walking time. If parking fills, hikers have been known to make poor route decisions (starting late, rushing) that increase exposure risk.",
+      "months_active": ["June", "July", "August", "September"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Hiking boots with ankle support and good sole grip — especially important near the waterfalls and on the Greenleaf Trail descent",
+      "Trekking poles (stow for any scrambling sections; critically helpful on the long Greenleaf + Old Bridle descent for tired legs)",
+      "Rain shell and insulating mid-layer — required regardless of forecast",
+      "Warm hat and gloves (ridge is significantly colder than the trailhead)",
+      "Headlamp",
+      "Map and compass or GPS with AMC Franconia Ridge topo downloaded (AMC Map 2: Franconia-Pemigewasset)",
+      "2.5-3 liters water — no reliable water sources on the ridge; Cloudland Falls area has water but requires treatment; Old Bridle Path has a brook source in the lower section",
+      "Sun protection (substantial UV exposure on the exposed ridge)",
+      "Food for a full-day hike — this is a 5-8+ hour outing"
+    ],
+    "shoulder_season": [
+      "All three-season gear plus:",
+      "Microspikes (ridge and upper Falling Waters hold ice in May and October)",
+      "Crampons if significant ice on ridge is reported",
+      "Insulated mid-layer",
+      "Waterproof insulated gloves",
+      "Balaclava",
+      "Extra insulation — ridge windchill severe in shoulder months"
+    ],
+    "winter": [
+      "All shoulder-season gear plus:",
+      "Technical crampons (mandatory for ridge and upper Falling Waters Trail)",
+      "Ice axe (recommended for self-arrest on steep icy sections)",
+      "Full 4-season insulated shell and pants",
+      "Wind-resistant gloves with overmitts",
+      "Goggles",
+      "NOTE: Greenleaf Hut is closed in winter — do not plan on it for shelter",
+      "Know: the AT along the ridge is among the windiest terrain in the Whites in winter; whiteout conditions are common"
+    ]
+  },
+  "trailhead": {
+    "name": "Lafayette Place Campground Trailhead (Franconia Notch State Park)",
+    "lat": 44.1415,
+    "lon": -71.6840,
+    "parking": "Large day-use trailhead parking area within Franconia Notch State Park, accessible from I-93. No WMNF Recreation Pass required — this is a NH State Park. Parking fee policy set by NH Division of Parks and Recreation; verify current fees at nhstateparks.org as fees can change seasonally. Both northbound and southbound I-93 exits provide access; a pedestrian tunnel under I-93 connects the east and west parking areas. Lot fills completely by 8-9 a.m. on summer and fall weekends — arrive before 7 a.m. or plan for overflow along I-93. Old Bridle Path departs from the west side of I-93; Falling Waters Trail from the east side (or vice versa — both trailheads are in the same general area, connected by the foot tunnel).",
+    "access_road": "I-93, Franconia Notch State Park, between exits 34A and 34B. Southbound: take Exit 34B for Lafayette Place Campground. Northbound: take the first exit after The Basin (look for 'Trailhead Parking 1/4 mile' sign). Both sides connect via a foot tunnel under the highway.",
+    "nearest_town": "Lincoln, NH (approximately 6 miles south on I-93) / Franconia, NH (approximately 3 miles north)",
+    "amenities": ["Restrooms at campground (seasonal)", "Foot tunnel connecting both sides of I-93", "Trailhead kiosk with map", "No potable water at trailhead parking"]
+  },
+  "amc_hut": {
+    "name": "AMC Greenleaf Hut",
+    "distance_miles_from_route": 0.0,
+    "services": "Full-service AMC hut at 4,220 ft, directly on the descent route. The Greenleaf Trail from Lafayette summit meets the Old Bridle Path at the hut — 1.1 miles below the summit and 3.1 miles above the trailhead. Capacity 48 in bunk rooms; serves dinner and breakfast. Eagle Lake is a short walk from the hut. Open late May through mid-October. In season, the hut sells snacks and drinks to day hikers (hut croo discretion). Reservations required for overnight stays. The hut functions as the primary weather bailout point for this loop — if conditions deteriorate on the ridge, reaching the hut means 1.1 miles of above-treeline travel from Lafayette, then sheltered descent on Old Bridle Path.",
+    "link": "https://www.outdoors.org/destinations/new-hampshire/greenleaf-hut/"
+  },
+  "links": [
+    {
+      "type": "official-trail-page",
+      "label": "Franconia Notch State Park — NH State Parks",
+      "url": "https://www.nhstateparks.org/find-parks-trails/franconia-notch-state-park",
+      "notes": "Surface when user asks about parking, fees, trailhead access, or state park information; this is an NH State Park (not WMNF) so parking fees and regulations differ"
+    },
+    {
+      "type": "alltrails",
+      "label": "Mt. Lafayette and Franconia Ridge Trail Loop — AllTrails",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-lafayette-and-franconia-ridge-trail-loop",
+      "notes": "Surface for current conditions and trip reports; 19,000+ reviews make this the most comprehensive conditions resource for this trail in New England — conditions updates are posted frequently"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mt. Washington Observatory Higher Summits Forecast",
+      "url": "https://www.mountwashington.org/experience-the-weather/higher-summits-forecast/",
+      "notes": "Surface every time a user mentions conditions or plans this hike — the higher summits forecast covers Lafayette conditions; surface before any above-treeline hiking"
+    },
+    {
+      "type": "amc-hut-reservation",
+      "label": "AMC Greenleaf Hut Reservations",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/greenleaf-hut/",
+      "notes": "Surface when user plans an overnight or asks about the hut; hut is directly on the descent route and is a key shelter option; mention that day hikers can sometimes purchase snacks/drinks"
+    },
+    {
+      "type": "map-download",
+      "label": "AMC White Mountains Map — Franconia-Pemigewasset (Map 2)",
+      "url": "https://www.outdoors.org/destinations/new-hampshire/",
+      "notes": "Surface when user asks about maps; AMC Map 2 covers the full Franconia Ridge Loop, Old Bridle Path, and adjacent trails"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "mt-moosilauke-gorge-brook",
+      "mt-tecumseh-ski-area"
+    ],
+    "leads_naturally_to": [
+      "mt-eisenhower-edmands-path",
+      "mt-jefferson-caps-ridge",
+      "pemi-loop"
+    ],
+    "progression_notes": "The Franconia Ridge Loop is the benchmark 'step-up' hike in the White Mountains for hikers moving from moderate day hikes toward the Presidential Range and multi-peak objectives. It introduces: (1) sustained above-treeline ridge exposure for 1.6 miles on an open spine with serious weather risk; (2) a 3,900 ft fitness demand over 9 miles; and (3) the experience of a loop with meaningful navigational choices and an AMC hut mid-route. After completing this loop comfortably, hikers are well-prepared for the Presidential introductory routes (Eisenhower via Edmands Path, Jefferson via Caps Ridge). The Pemi Loop — the most demanding multi-day objective in the White Mountains — includes this ridge as one of its day-segments; completing the Franconia Ridge Loop as a day hike is often the first step toward the Pemi. Lincoln (5,089 ft) and Little Haystack (4,760 ft) are bagged as part of this loop, making it one of the most efficient 4K footer routes in the system (two peaks in one day). Note: the loop is commonly done in both directions; the Falling Waters up / Old Bridle down direction (this fact sheet) is generally preferred because it places the waterfalls on the ascent when energy is high and the Greenleaf Hut on the descent when hikers benefit most from a rest stop."
+  },
+  "response_hints": {
+    "beginner_framing": "This is the iconic White Mountains loop — the one almost everyone has heard of. It's spectacular: three waterfalls on the way up, one of the finest ridge walks in the Northeast, and an AMC hut where you can get a snack on the way down. It's also a serious hike. Almost 4,000 feet of gain over 9 miles, with the steepest climbing on the Falling Waters Trail side, means your legs will know they worked. The ridge between Little Haystack and Lafayette is fully above treeline for over a mile and a half — bring rain gear and something warm no matter what the weather looks like at the parking lot. Summer weekends fill the parking lot by 8-9 a.m., so plan to arrive early. The payoff — the views from the ridge on a clear day — is among the best in New England.",
+    "expert_framing": "Lafayette Place → Falling Waters Trail (3.2 mi / ~3,000 ft) → Little Haystack (4,760 ft) → Franconia Ridge Trail/AT north: Lincoln (5,089 ft, 0.7 mi) → Lafayette (5,260 ft, 0.9 mi) → Greenleaf Trail south (1.1 mi / 1,040 ft descent) → Greenleaf Hut (4,220 ft) → Old Bridle Path (3.1 mi / 2,460 ft descent) → parking. 8.9 mi / 3,900 ft, loop. Key technical sections: (1) upper Falling Waters above Cloudland Falls — steep rocky Class 2, slick when wet; (2) Shining Rock spur at mile 2.8 on Falling Waters — polished granite ledge, skip if wet; (3) Greenleaf Trail descent — steep, loose rock, thigh-burner on tired legs. Above treeline: full 1.6-mile AT ridge + upper 0.4 mi Greenleaf Trail ≈ 2.0 mi. Greenleaf Hut open late May to mid-October — good snack/water stop, confirm if open for day hikers before relying on it. Both directions work; this direction keeps waterfalls on ascent and hut on descent. Winter: ridge is severely exposed, crampons + ice axe mandatory, hut closed.",
+    "safety_callout": "Two distinct hazards. Weather exposure: the Franconia Ridge Trail is 1.6 miles of fully open AT ridge at 4,760-5,260 ft — this is the most exposure-heavy ridge walk of any standard NH day loop, and afternoon lightning strikes are a documented risk; start early and be off the ridge by early afternoon. Fall risk: Shining Rock (viewpoint ledge at mile 2.8 of Falling Waters Trail) is a polished granite slab that becomes dangerously slippery when wet — skip it if conditions are not dry; Cloudland Falls corridor has wet, mossy rocks immediately adjacent to significant drops; Greenleaf Trail descent is steep and punishing on fatigued legs. Check the Observatory Higher Summits Forecast without exception before this hike."
+  }
+}

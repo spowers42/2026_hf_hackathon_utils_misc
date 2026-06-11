@@ -1,0 +1,167 @@
+{
+  "id": "tripyramid-north-slide-loop",
+  "name": "Mt. Tripyramid Loop via North Slide",
+  "peaks": [
+    {
+      "name": "North Tripyramid",
+      "elevation_ft": 4180,
+      "is_4k_footer": true
+    },
+    {
+      "name": "Middle Tripyramid",
+      "elevation_ft": 4140,
+      "is_4k_footer": true
+    }
+  ],
+  "region": "Sandwich Range",
+  "stats": {
+    "distance_rt_miles": 11.0,
+    "elevation_gain_ft": 3000,
+    "highest_point_ft": 4180,
+    "above_treeline_miles": 0.0,
+    "typical_time_hrs": {
+      "beginner": 9.0,
+      "average": 7.0,
+      "experienced": 5.5
+    }
+  },
+  "difficulty": {
+    "fitness": 4,
+    "technical": 3,
+    "overall_label": "hard",
+    "notes": "The Mt. Tripyramid Loop is defined by its North Slide — a 0.5-mile ascent of open exposed bedrock slabs climbing 1,200 feet at roughly 40% average grade, making it one of the steepest trails in the White Mountain National Forest. This is a genuinely technical route that requires hikers to use their hands for balance and upward movement throughout the steeper slab sections, yet it is an entirely different experience from typical smooth ledge trails: the rock has texture and holds, faint yellow blazes guide the way (center or left — the right side grows moss and turns slippery), and the views from mid-slide are among the finest in the Whites, sweeping from Moosilauke across the Pemigewasset Wilderness to Mt. Washington. At the top of the slide a large cairn marks the re-entry to forest; 0.1 miles beyond is the largely viewless North Tripyramid summit (4,180 ft). The Mt. Tripyramid Trail then follows the ridge south to Middle Tripyramid (4,140 ft, some views) and continues to South Tripyramid (not a 4K footer; insufficient prominence). The South Slide descent is a fundamentally different experience: loose gravel, eroded gullies, and broken-off ledge chunks instead of bedrock slab, easier in grade but requiring careful footwork and space between hikers to prevent rockfall injuries. The flat Livermore Trail — a wide gravel logging road — accounts for 7+ miles of the route total (3.6 miles in, 3.8 miles out), providing a long, nearly effortless approach that feels anticlimactic given the drama of the slides. The loop must be hiked clockwise — up the North Slide, down the South Slide. Reversing direction and descending the North Slide is substantially more difficult and is not recommended by any hiking authority: the steep angle, smooth slab, and lack of good footing for downward movement make a descent significantly more hazardous than the ascent. The North Slide is listed on the Terrifying 25, an independent hiking community designation for the White Mountains' most challenging and committing routes."
+  },
+  "exposure": {
+    "weather": {
+      "rating": "none",
+      "description": "Both North and Middle Tripyramid summits are below the natural treeline (~4,400 ft). The slide scars open up significant views but are terrain cleared by historic avalanche, not natural alpine zone. There is no extended above-treeline weather exposure on this route. The open slide sections during ascent and descent create brief exposure to wind and precipitation, but no extended ridge travel above treeline.",
+      "mitigation": "Standard rain gear is sufficient. The primary weather concern is afternoon thunderstorms in summer — the open North Slide creates exposure mid-climb, and the timing of arrival at the slide matters. Begin the hike early to complete the North Slide well before noon. If weather moves in before reaching the slide, the Scaur Ridge + Pine Bend Brook Trail (12.1 mi, 3,000 ft) is the recommended dry-conditions alternative that avoids all slide terrain."
+    },
+    "fall_risk": {
+      "rating": "high",
+      "description": "The North Slide climbs 1,200 feet in 0.5 miles on open exposed bedrock slabs at roughly 40% grade. Hands are required for balance and upward movement throughout the steeper sections. While there is no sheer cliff face on the slide, a slip on wet or mossy slab could result in an uncontrolled slide over a very significant distance of steep rock before reaching the base. The right side of the slide is known to grow moss and becomes extremely slippery even in dry conditions — route-finding to stay center-left is critical. Wet rock, frost, or any icy condition makes the North Slide genuinely dangerous and it must not be attempted. Descent of the North Slide is explicitly not recommended: the angle, smooth slab surface, and absence of good footholds for downward movement make reversing the route substantially more hazardous. The South Slide descent, while easier, consists of loose unstable gravel that easily dislodges, posing rockfall hazard to other hikers below.",
+      "mitigation": "The loop must be hiked clockwise — up the North Slide, down the South Slide. Never reverse this direction. Stow trekking poles before the slab section; they are a hindrance, not a help, on the steeper slab. Sticky rubber trail footwear handles smooth slab better than hard Vibram lug soles. Avoid the North Slide completely in any wet, frost-covered, or icy condition — use the Scaur Ridge + Pine Bend Brook Trail (12.1 mi, 3,000 ft, 7:30 book time) as the recommended safe alternative. On the South Slide, maintain distance between party members to avoid rockfall injuries from dislodged gravel. The North Slide is on the Terrifying 25."
+    }
+  },
+  "seasons": {
+    "recommended": ["July", "August", "September", "October"],
+    "viable_with_gear": ["June", "November"],
+    "avoid": ["December", "January", "February", "March", "April", "May"],
+    "seasonal_notes": "The North Slide is a dry-conditions-only route. Snow and ice can linger on the exposed bedrock into early June; a mid-July start is conservative and safe. July and August offer reliable dry conditions and the best visibility for the celebrated panoramic views from the slide. October is excellent — dry rock, foliage, fewer hikers. Avoid November onward: early-season ice on smooth slab is hard to detect and can be fatal. June requires careful conditions check; do not attempt the North Slide if overnight temperatures have been near freezing or if any precipitation has occurred recently. Winter ascent of the North Slide is a serious mountaineering undertaking requiring crampons and ice axe — not appropriate for snowshoers or casual winter hikers; use the Pine Bend Brook or Scaur Ridge approach instead. The South Slide's loose gravel drains quickly but is muddy in early spring."
+  },
+  "tags": [
+    "4k-footer",
+    "loop",
+    "multi-peak",
+    "scrambling",
+    "fall-exposure-high",
+    "technical-route",
+    "parking-fee",
+    "winter-viable"
+  ],
+  "hazards": [
+    {
+      "type": "steep-exposed-slab-north-slide",
+      "hazard_category": "terrain-and-fall",
+      "description": "The North Slide ascends 1,200 feet in 0.5 miles on open bedrock slabs at roughly 40% grade — one of the steepest maintained trails in the White Mountain National Forest. Hands required throughout the upper section. Faint yellow blazes on rock; route-finding is real. The right side of the slide is mossy and slippery even in dry conditions; stay center or left. An uncontrolled slip could result in sliding a significant vertical distance on hard rock before reaching the base.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "wet-or-icy-slab-extremely-dangerous",
+      "hazard_category": "terrain-and-fall",
+      "description": "Even a light rain or morning frost transforms the North Slide from a challenging scramble to a genuinely dangerous situation. All parties must avoid the North Slide when rock is wet, frost-covered, or icy. Snow and ice can linger on the exposed slab into June. This is not a conservative caution — multiple trip reports and official guidance explicitly state the slide must be dry.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "October", "November", "December"]
+    },
+    {
+      "type": "descent-of-north-slide-not-recommended",
+      "hazard_category": "terrain-and-fall",
+      "description": "Descending the North Slide is substantially more difficult and hazardous than ascending it. The steep angle, smooth slab surface, and limited footholds for downward movement mean that parties who summit via the North Slide and then attempt to descend it face significantly elevated fall risk. The loop must be completed clockwise. If conditions prevent reaching the South Slide descent, the safer exit is the Pine Bend Brook Trail or Scaur Ridge Trail, not reversal down the North Slide.",
+      "months_active": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    },
+    {
+      "type": "loose-gravel-rockfall-south-slide",
+      "hazard_category": "terrain-and-fall",
+      "description": "The South Slide consists of loose gravel, fine debris, and fragmented ledge chunks. Hikers above easily dislodge rocks onto parties below. Maintain substantial distance between hikers while descending. The grade is not as steep as the North Slide but loose footing and erosion gullies demand careful foot placement.",
+      "months_active": ["April", "May", "June", "July", "August", "September", "October", "November"]
+    },
+    {
+      "type": "afternoon-thunderstorms-on-open-slide",
+      "hazard_category": "weather-and-environment",
+      "description": "The open North Slide scar provides no shelter during lightning. The long flat Livermore Trail approach can create a false sense of available time — start early to complete the North Slide well before noon during the summer convective storm season.",
+      "months_active": ["June", "July", "August", "September"]
+    }
+  ],
+  "gear_tiers": {
+    "three_season": [
+      "Sticky-soled trail shoes or approach shoes — smooth bedrock slab responds better to sticky rubber (such as Five Ten Stealth or similar) than hard Vibram lug soles; lug boots can feel insecure on polished granite at steep angles",
+      "Trekking poles stowable in pack — must be retracted and secured before the North Slide slab section; poles are a hindrance on steep slab and cannot be used for hand placements",
+      "2+ liters water — the long flat Livermore Trail approach has no reliable water sources; carry all water from the trailhead",
+      "Rain gear — brief open sections on both slides; afternoon thunderstorms common June–August",
+      "Navigation device — yellow blazes on the North Slide are faint; map/GPS recommended",
+      "Standard 10 essentials"
+    ],
+    "shoulder_season": [
+      "All three-season gear",
+      "Microspikes — mandatory for the South Slide gravel and icy sections on the Livermore Trail in shoulder season",
+      "Insulating mid-layer",
+      "Gaiters for early spring mud on the Livermore Trail",
+      "Do not attempt the North Slide in shoulder season unless confident the rock is fully dry and frost-free — conditions check is critical"
+    ],
+    "winter": [
+      "All shoulder-season gear",
+      "Full crampons and ice axe — required for any serious winter or icy attempt of the North Slide; microspikes are insufficient on the steep icy bedrock slab",
+      "Avalanche awareness — slide paths are active terrain",
+      "Full cold-weather layering system",
+      "Strongly consider using the Scaur Ridge Trail + Pine Bend Brook Trail (12.1 mi) as the winter route to the Tripyramid summits instead of the North Slide",
+      "Headlamp — short winter daylight and a long approach can result in a descent in the dark"
+    ]
+  },
+  "trailhead": {
+    "name": "Livermore Road Trailhead, Waterville Valley",
+    "lat": 43.9657,
+    "lon": -71.5136,
+    "parking": "Large dirt/gravel parking area at the end of Tripoli Road at the Livermore Road gate, Waterville Valley. WMNF fee station on site (America the Beautiful Pass accepted). Seasonal restrooms. Lot accommodates 30+ vehicles. The trailhead is at the gate to Livermore Road — the trail follows the gated gravel logging road north.",
+    "access_road": "From I-93 Exit 28 (Campton/Waterville Valley), follow Route 49 east approximately 10.5 miles toward Waterville Valley. Turn left onto Tripoli Road (signed for Waterville Valley). Bear right at the fork past the Waterville Valley Ski Area entrance; continue to the end of Tripoli Road at the Livermore Trailhead parking area. GPS: 43.9657, -71.5136. Road is paved to the parking area and typically passable year-round.",
+    "nearest_town": "Waterville Valley, NH",
+    "amenities": ["WMNF fee station (America the Beautiful Pass accepted)", "Seasonal restrooms at parking area", "Large parking lot (30+ vehicles)", "Trail register at Livermore Road gate"]
+  },
+  "amc_hut": null,
+  "links": [
+    {
+      "type": "trip-report",
+      "label": "SectionHiker — Mt. Tripyramid via North Slide detailed trip report",
+      "url": "https://sectionhiker.com/hiking-mount-tripyramid-via-the-north-slide-new-hampshire/"
+    },
+    {
+      "type": "alltrails",
+      "label": "AllTrails — Mt. Tripyramid Loop via North and South Slides",
+      "url": "https://www.alltrails.com/trail/us/new-hampshire/mount-tripyramid-trail"
+    },
+    {
+      "type": "weather-forecast",
+      "label": "Mountain Forecast — Mt. Tripyramid",
+      "url": "https://www.mountain-forecast.com/peaks/Mount-Tripyramid/forecasts/1180"
+    },
+    {
+      "type": "official-trail-page",
+      "label": "WMNF — Sandwich Range Wilderness trail information",
+      "url": "https://www.fs.usda.gov/recarea/whitemountain/recarea/?recid=74869"
+    }
+  ],
+  "progression": {
+    "good_next_step_after": [
+      "north-middle-tripyramid-sabbaday-brook",
+      "cannon-mountain-kinsman-ridge"
+    ],
+    "leads_naturally_to": [
+      "north-south-kinsman-lonesome-lake",
+      "mt-whiteface-ferncroft"
+    ],
+    "progression_notes": "The North Slide is the defining feature here — hikers who have done the Sabbaday Brook approach to the Tripyramids (which avoids the slide entirely) or Cannon Mountain's moderate-rated cliff ledge section are ready for the North Slide in terms of fitness and exposure tolerance, but should recognize it is a meaningful step up in technical commitment and fall consequence. This is not a route to discover a fear of exposure. The slide is genuinely exciting and the views are spectacular; it rewards confident, experienced hikers with one of the most memorable days in the White Mountains. The Sandwich Range (Whiteface, Passaconaway, Chocorua) offers comparable remoteness and difficulty for hikers who want to continue in this region. The Kinsmans, while in a different region, offer a similar combination of long approach and technical exposed terrain at higher fitness demand."
+  },
+  "response_hints": {
+    "beginner_framing": "This hike includes the North Slide — half a mile of steep open rock where you use your hands to climb. There's nothing like a ladder or ropes; it's just rock at a steep angle, and you go up it like you're climbing stairs, except the stairs are the rock face itself. It's one of the most exciting things you can do in the White Mountains, and the views from the middle of the slide are stunning — but it's also genuinely dangerous if the rock is wet, or if someone attempts to go back down the same way they came up. The key things to know: only do this in completely dry conditions, hike the loop clockwise (up the North Slide, down the other side), and stow your hiking poles before the slide section. If you've never done exposed rocky scrambling before, this is not the place to start — try Cannon Mountain's ledge section first.",
+    "expert_framing": "Classic Sandwich Range loop: 11.0 mi, 3,000 ft, fitness-4, technical-3, hard. North Slide is 1,200 ft / 0.5 mi of exposed bedrock slab — stay center-left (right is mossy and slippery even dry), stow poles, dry conditions only. Faint blazes; route-finding is real. Views from mid-slide are among the best in the range. North Tripyramid summit is viewless; Middle Tripyramid has views. South Slide is loose gravel — not technical but rockfall risk for trailing members. Long flat Livermore Trail approach (3.6 mi in, 3.8 mi out) means your effort is front-loaded at the slide. Above-treeline: 0.0 mi (slide scars below natural treeline). AMC hut: none. Scaur Ridge + Pine Bend Brook (12.1 mi, 3,000 ft, 7:30) is the clean alternative if conditions are marginal. Terrifying 25 peak.",
+    "safety_callout": "The North Slide must be dry — no exceptions. Wet, frosty, or icy conditions make this route dangerous; check conditions before departure and turn back if the rock is wet. Hike the loop clockwise: up the North Slide, down the South Slide. Descending the North Slide is not recommended — it is substantially more hazardous than ascending. Stow trekking poles for the slab section. If conditions prevent safe passage, the Scaur Ridge + Pine Bend Brook Trail is the recommended alternative. The North Slide is on the Terrifying 25."
+  }
+}
