@@ -4,8 +4,8 @@
     {
       "query_type": "trail-lookup",
       "experience_level": "beginner",
-      "trail_sample": 1,
-      "count": 1,
+      "trail_sample": 2,
+      "count": 5,
       "notes": "Vary the framing across examples: one asking about the trail generally, one asking about difficulty for a first-timer, one asking about the best season to go"
     }
   ]
