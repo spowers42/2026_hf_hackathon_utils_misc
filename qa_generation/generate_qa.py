@@ -56,6 +56,35 @@ import jsonschema
 import requests
 
 # ---------------------------------------------------------------------------
+# Cached resources for performance
+# ---------------------------------------------------------------------------
+
+_VLLM_SESSION: requests.Session | None = None
+
+def _get_vllm_session() -> requests.Session:
+    global _VLLM_SESSION
+    if _VLLM_SESSION is None:
+        _VLLM_SESSION = requests.Session()
+    return _VLLM_SESSION
+
+
+_VALIDATOR: jsonschema.Draft7Validator | None = None
+
+def _get_validator(schema: dict) -> jsonschema.Draft7Validator:
+    global _VALIDATOR
+    if _VALIDATOR is None:
+        _VALIDATOR = jsonschema.Draft7Validator(schema)
+    return _VALIDATOR
+
+
+_TRAIL_CACHE: dict[str, str] = {}
+
+def _trail_json(trail_id: str, sheet: dict) -> str:
+    if trail_id not in _TRAIL_CACHE:
+        _TRAIL_CACHE[trail_id] = json.dumps(sheet, indent=2)
+    return _TRAIL_CACHE[trail_id]
+
+# ---------------------------------------------------------------------------
 # Logging
 # ---------------------------------------------------------------------------
 
@@ -71,7 +100,7 @@ log = logging.getLogger("generate_qa")
 # ---------------------------------------------------------------------------
 
 SCRIPT_DIR     = Path(__file__).parent
-TRAILS_DIR     = SCRIPT_DIR / "trails"
+TRAILS_DIR     = SCRIPT_DIR.parent / "ground_truth" / "trail_data"
 QA_PROMPT_FILE = SCRIPT_DIR / "QA_GENERATION_PROMPT.md"
 QA_SCHEMA_FILE = SCRIPT_DIR / "qa_schema.json"
 OUTPUT_DIR     = SCRIPT_DIR / "output" / "qa_pairs"
@@ -98,6 +127,29 @@ ANTHROPIC_MESSAGES_URL     = "https://api.anthropic.com/v1/messages"
 ANTHROPIC_BATCH_CREATE_URL = "https://api.anthropic.com/v1/messages/batches"
 ANTHROPIC_API_VERSION      = "2023-06-01"
 ANTHROPIC_BETA_HEADER      = "message-batches-2024-09-24"
+
+# ---------------------------------------------------------------------------
+# Anthropic pricing  (per million tokens, USD)
+# ---------------------------------------------------------------------------
+# Keys are matched as prefixes against the model name.
+CLAUDE_PRICING: dict[str, tuple[float, float]] = {
+    "claude-haiku-4-5":          (0.80,  4.00),
+    "claude-haiku-3-5":          (0.80,  4.00),
+    "claude-sonnet-4":           (3.00, 15.00),
+    "claude-sonnet-3-5":         (3.00, 15.00),
+    "claude-opus-4":             (15.00, 75.00),
+    "claude-opus-3-5":           (15.00, 75.00),
+}
+
+
+def claude_cost(model: str, input_tokens: int, output_tokens: int) -> float:
+    """Return estimated USD cost for a single request."""
+    inp_price, out_price = 15.00, 75.00  # fallback: opus pricing
+    for prefix, (i, o) in CLAUDE_PRICING.items():
+        if model.startswith(prefix):
+            inp_price, out_price = i, o
+            break
+    return (input_tokens * inp_price + output_tokens * out_price) / 1_000_000
 
 # ---------------------------------------------------------------------------
 # Batch file config schema (comment block)
@@ -260,7 +312,7 @@ def build_messages(system_prompt: str, request: dict,
     if trail_sheets:
         lines.append("\n## Trail fact sheets for this batch\n")
         for tid, sheet in trail_sheets.items():
-            lines.append(f"### {tid}\n```json\n{json.dumps(sheet, indent=2)}\n```\n")
+            lines.append(f"### {tid}\n```json\n{_trail_json(tid, sheet)}\n```\n")
 
     return [
         {"role": "system", "content": system_prompt},
@@ -303,7 +355,7 @@ def extract_json_array(text: str) -> list[Any] | None:
 
 
 def validate_record(record: Any, schema: dict) -> list[str]:
-    return [e.message for e in jsonschema.Draft7Validator(schema).iter_errors(record)]
+    return [e.message for e in _get_validator(schema).iter_errors(record)]
 
 
 def write_qa_record(record: dict, output_dir: Path) -> Path:
@@ -316,10 +368,11 @@ def write_qa_record(record: dict, output_dir: Path) -> Path:
 
 
 def write_failed(label: str, request_ctx: dict, raw: str | None,
-                 errors: list[str]) -> None:
-    FAILED_DIR.mkdir(parents=True, exist_ok=True)
+                 errors: list[str],
+                 failed_dir: Path = FAILED_DIR) -> None:
+    failed_dir.mkdir(parents=True, exist_ok=True)
     ts = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
-    path = FAILED_DIR / f"failed_{label}_{ts}.json"
+    path = failed_dir / f"failed_{label}_{ts}.json"
     path.write_text(json.dumps({
         "label": label, "request_ctx": request_ctx,
         "errors": errors, "raw_response": raw,
@@ -329,17 +382,22 @@ def write_failed(label: str, request_ctx: dict, raw: str | None,
 
 
 def process_raw_response(raw: str, label: str, request_ctx: dict,
-                         qa_schema: dict) -> tuple[int, int]:
+                         qa_schema: dict,
+                         output_dir: Path = OUTPUT_DIR,
+                         failed_dir: Path = FAILED_DIR) -> tuple[int, int]:
     """Parse, validate, and save records from one raw model response.
     Returns (saved_count, failed_count)."""
     records = extract_json_array(raw)
     if records is None:
         log.error("[%s] Could not extract JSON array", label)
-        write_failed(label, request_ctx, raw, ["JSON extraction failed"])
+        write_failed(label, request_ctx, raw, ["JSON extraction failed"],
+                     failed_dir=failed_dir)
         return 0, 1
     if not isinstance(records, list):
         log.error("[%s] Parsed JSON is not a list", label)
-        write_failed(label, request_ctx, raw, [f"Expected list, got {type(records).__name__}"])
+        write_failed(label, request_ctx, raw,
+                     [f"Expected list, got {type(records).__name__}"],
+                     failed_dir=failed_dir)
         return 0, 1
 
     saved = failed = 0
@@ -347,10 +405,11 @@ def process_raw_response(raw: str, label: str, request_ctx: dict,
         errors = validate_record(rec, qa_schema)
         if errors:
             log.warning("[%s] Record failed validation: %s", label, errors[0])
-            write_failed(label, request_ctx, raw, errors)
+            write_failed(label, request_ctx, raw, errors,
+                         failed_dir=failed_dir)
             failed += 1
         else:
-            p = write_qa_record(rec, OUTPUT_DIR)
+            p = write_qa_record(rec, output_dir)
             log.info("[%s] Saved: %s", label, p.name)
             saved += 1
     return saved, failed
@@ -365,10 +424,11 @@ def call_vllm(messages: list[dict], vllm_url: str, model: str,
               retry_attempts: int, retry_delay: int, timeout: int) -> str | None:
     payload = {"model": model, "messages": messages,
                "max_tokens": max_tokens, "temperature": temperature}
+    session = _get_vllm_session()
     for attempt in range(1, retry_attempts + 1):
         try:
-            resp = requests.post(vllm_url, json=payload, timeout=timeout,
-                                 headers={"Content-Type": "application/json"})
+            resp = session.post(vllm_url, json=payload, timeout=timeout,
+                                headers={"Content-Type": "application/json"})
             resp.raise_for_status()
             return resp.json()["choices"][0]["message"]["content"]
         except requests.exceptions.Timeout:
@@ -406,7 +466,8 @@ def _anthropic_headers(api_key: str, batch: bool = False) -> dict:
 def call_claude_sync(messages: list[dict], api_key: str, model: str,
                      max_tokens: int, temperature: float,
                      retry_attempts: int, retry_delay: int,
-                     timeout: int) -> str | None:
+                     timeout: int) -> tuple[str, dict] | None:
+    """Returns (response_text, usage_dict) on success, None on failure."""
     # Anthropic API: system is a top-level field, not a message role
     system = next((m["content"] for m in messages if m["role"] == "system"), "")
     user_messages = [m for m in messages if m["role"] != "system"]
@@ -427,7 +488,7 @@ def call_claude_sync(messages: list[dict], api_key: str, model: str,
             )
             resp.raise_for_status()
             data = resp.json()
-            return data["content"][0]["text"]
+            return data["content"][0]["text"], data.get("usage", {})
         except requests.exceptions.Timeout:
             log.warning("Claude sync timeout (attempt %d/%d)", attempt, retry_attempts)
         except requests.exceptions.HTTPError as e:
@@ -545,6 +606,9 @@ def retrieve_claude_batch_results(
     api_key: str,
     qa_schema: dict,
     request_ctx_map: dict[str, dict],
+    output_dir: Path = OUTPUT_DIR,
+    failed_dir: Path = FAILED_DIR,
+    model: str = "unknown",
 ) -> tuple[int, int]:
     """
     Stream results from a completed batch.
@@ -562,6 +626,7 @@ def retrieve_claude_batch_results(
         return 0, 0
 
     total_saved = total_failed = 0
+    total_input_tokens = total_output_tokens = 0
 
     for line in resp.iter_lines():
         if not line:
@@ -577,8 +642,14 @@ def retrieve_claude_batch_results(
         request_ctx = request_ctx_map.get(custom_id, {})
 
         if result_type == "succeeded":
-            raw = result["result"]["message"]["content"][0]["text"]
-            saved, failed = process_raw_response(raw, custom_id, request_ctx, qa_schema)
+            msg = result["result"]["message"]
+            raw = msg["content"][0]["text"]
+            usage = msg.get("usage", {})
+            total_input_tokens += usage.get("input_tokens", 0)
+            total_output_tokens += usage.get("output_tokens", 0)
+            saved, failed = process_raw_response(raw, custom_id, request_ctx, qa_schema,
+                                                 output_dir=output_dir,
+                                                 failed_dir=failed_dir)
             total_saved += saved
             total_failed += failed
         elif result_type == "errored":
@@ -586,13 +657,18 @@ def retrieve_claude_batch_results(
             log.error("[%s] API error: %s — %s",
                       custom_id, err.get("type"), err.get("message"))
             write_failed(custom_id, request_ctx, None,
-                         [f"API error: {err.get('type')}: {err.get('message')}"])
+                         [f"API error: {err.get('type')}: {err.get('message')}"],
+                         failed_dir=failed_dir)
             total_failed += 1
         else:
             log.warning("[%s] Unexpected result type: %s", custom_id, result_type)
             total_failed += 1
 
-    return total_saved, total_failed
+    cost = claude_cost(model, total_input_tokens, total_output_tokens)
+    log.info("Batch %s usage: %d in / %d out — cost: $%.4f",
+             batch_id, total_input_tokens, total_output_tokens, cost)
+    print(f"  Cost: ${cost:.4f}")
+    return total_saved, total_failed, cost
 
 
 # ===========================================================================
@@ -641,7 +717,9 @@ def build_request_list(
 # Top-level runners
 # ===========================================================================
 
-def run_vllm(request_list, qa_schema, args):
+def run_vllm(request_list, qa_schema, args,
+             output_dir: Path = OUTPUT_DIR,
+             failed_dir: Path = FAILED_DIR):
     total_saved = total_failed = 0
     for custom_id, messages, request_ctx in request_list:
         raw = call_vllm(
@@ -655,20 +733,26 @@ def run_vllm(request_list, qa_schema, args):
             timeout=args.timeout,
         )
         if raw is None:
-            write_failed(custom_id, request_ctx, None, ["No response from vLLM"])
+            write_failed(custom_id, request_ctx, None, ["No response from vLLM"],
+                         failed_dir=failed_dir)
             total_failed += 1
         else:
-            s, f = process_raw_response(raw, custom_id, request_ctx, qa_schema)
+            s, f = process_raw_response(raw, custom_id, request_ctx, qa_schema,
+                                        output_dir=output_dir,
+                                        failed_dir=failed_dir)
             total_saved += s
             total_failed += f
-    return total_saved, total_failed
+    return total_saved, total_failed, 0.0
 
 
-def run_claude_sync(request_list, qa_schema, args):
+def run_claude_sync(request_list, qa_schema, args,
+                    output_dir: Path = OUTPUT_DIR,
+                    failed_dir: Path = FAILED_DIR):
     api_key = _require_api_key()
     total_saved = total_failed = 0
+    total_input_tokens = total_output_tokens = 0
     for custom_id, messages, request_ctx in request_list:
-        raw = call_claude_sync(
+        result = call_claude_sync(
             messages=messages,
             api_key=api_key,
             model=args.claude_model,
@@ -678,17 +762,31 @@ def run_claude_sync(request_list, qa_schema, args):
             retry_delay=args.retry_delay,
             timeout=args.timeout,
         )
-        if raw is None:
-            write_failed(custom_id, request_ctx, None, ["No response from Claude sync"])
+        if result is None:
+            write_failed(custom_id, request_ctx, None,
+                         ["No response from Claude sync"],
+                         failed_dir=failed_dir)
             total_failed += 1
         else:
-            s, f = process_raw_response(raw, custom_id, request_ctx, qa_schema)
+            raw, usage = result
+            total_input_tokens += usage.get("input_tokens", 0)
+            total_output_tokens += usage.get("output_tokens", 0)
+            s, f = process_raw_response(raw, custom_id, request_ctx, qa_schema,
+                                        output_dir=output_dir,
+                                        failed_dir=failed_dir)
             total_saved += s
             total_failed += f
-    return total_saved, total_failed
+
+    cost = claude_cost(args.claude_model, total_input_tokens, total_output_tokens)
+    log.info("Claude sync usage: %d in / %d out — cost: $%.4f",
+             total_input_tokens, total_output_tokens, cost)
+    print(f"  Cost: ${cost:.4f}")
+    return total_saved, total_failed, cost
 
 
-def run_claude_batch(request_list, qa_schema, batch_stem, args):
+def run_claude_batch(request_list, qa_schema, batch_stem, args,
+                     output_dir: Path = OUTPUT_DIR,
+                     failed_dir: Path = FAILED_DIR):
     api_key = _require_api_key()
 
     # Build Anthropic batch payload
@@ -723,7 +821,7 @@ def run_claude_batch(request_list, qa_schema, batch_stem, args):
 
     if args.no_wait:
         log.info("--no-wait set — exiting without polling. Use --retrieve-batch to collect results.")
-        return 0, 0
+        return 0, 0, 0.0
 
     # Poll
     final_status = poll_claude_batch(
@@ -731,13 +829,17 @@ def run_claude_batch(request_list, qa_schema, batch_stem, args):
     )
     if final_status != "succeeded":
         log.error("Batch ended with status: %s", final_status)
-        return 0, len(request_list)
+        return 0, len(request_list), 0.0
 
     # Retrieve
-    return retrieve_claude_batch_results(batch_id, api_key, qa_schema, request_ctx_map)
+    return retrieve_claude_batch_results(batch_id, api_key, qa_schema, request_ctx_map,
+                                         output_dir=output_dir, failed_dir=failed_dir,
+                                         model=args.claude_model)
 
 
-def run_retrieve_batch(batch_id: str, qa_schema: dict, args) -> None:
+def run_retrieve_batch(batch_id: str, qa_schema: dict, args,
+                       output_dir: Path = OUTPUT_DIR,
+                       failed_dir: Path = FAILED_DIR) -> None:
     """Retrieve and process results for a previously submitted batch."""
     api_key = _require_api_key()
 
@@ -769,10 +871,12 @@ def run_retrieve_batch(batch_id: str, qa_schema: dict, args) -> None:
             log.error("Batch ended with status: %s", final)
             sys.exit(1)
 
-    saved, failed = retrieve_claude_batch_results(
-        batch_id, api_key, qa_schema, request_ctx_map
+    saved, failed, cost = retrieve_claude_batch_results(
+        batch_id, api_key, qa_schema, request_ctx_map,
+        output_dir=output_dir, failed_dir=failed_dir,
+        model=args.claude_model,
     )
-    log.info("Retrieve complete — %d saved, %d failed", saved, failed)
+    log.info("Retrieve complete — %d saved, %d failed, cost $%.4f", saved, failed, cost)
 
     # Clean up pending metadata
     if meta_path.exists() and saved > 0:
@@ -844,7 +948,7 @@ Environment variables:
     # Backend selection
     p.add_argument(
         "--backend",
-        choices=["claude-batch", "claude-sync", "vllm"],
+        choices=["claude-batch", "claude-sync", "vllm", "llamacpp"],
         default=DEFAULT_BACKEND,
         help=f"Which API to use for generation (default: {DEFAULT_BACKEND})",
     )
@@ -889,8 +993,8 @@ Environment variables:
                    help=f"Retry attempts on transient errors (default: {DEFAULT_RETRY_ATTEMPTS})")
     p.add_argument("--retry-delay", type=int, default=DEFAULT_RETRY_DELAY,
                    help=f"Seconds between retries (default: {DEFAULT_RETRY_DELAY})")
-    p.add_argument("--timeout", type=int, default=300,
-                   help="HTTP request timeout in seconds (default: 300)")
+    p.add_argument("--timeout", type=int, default=600,
+                   help="HTTP request timeout in seconds (default: 600)")
     p.add_argument("--output-dir", default=str(OUTPUT_DIR),
                    help=f"Directory for saved QA records (default: {OUTPUT_DIR})")
     p.add_argument("--seed", type=int, default=None,
@@ -914,9 +1018,8 @@ def main() -> None:
     if args.verbose:
         logging.getLogger().setLevel(logging.DEBUG)
 
-    global OUTPUT_DIR, FAILED_DIR
-    OUTPUT_DIR = Path(args.output_dir)
-    FAILED_DIR = OUTPUT_DIR.parent / "failed"
+    output_dir = Path(args.output_dir)
+    failed_dir = output_dir.parent / "failed"
 
     # ── --list-batches ────────────────────────────────────────────────────
     if args.list_batches:
@@ -941,7 +1044,8 @@ def main() -> None:
     # ── --retrieve-batch ─────────────────────────────────────────────────
     if args.retrieve_batch:
         qa_schema = load_qa_schema()
-        run_retrieve_batch(args.retrieve_batch, qa_schema, args)
+        run_retrieve_batch(args.retrieve_batch, qa_schema, args,
+                           output_dir=output_dir, failed_dir=failed_dir)
         return
 
     # ── --batch ───────────────────────────────────────────────────────────
@@ -964,7 +1068,7 @@ def main() -> None:
     log.info("Backend       : %s", args.backend)
     log.info("Trail index   : %d trails", len(trail_index))
     log.info("Random seed   : %d  (--seed %d to reproduce)", seed, seed)
-    log.info("Output dir    : %s", OUTPUT_DIR)
+    log.info("Output dir    : %s", output_dir)
 
     # Resolve all requests up front (trail sampling happens here)
     request_list, batch_stem = build_request_list(batch_path, qa_prompt, trail_index, rng)
@@ -978,15 +1082,20 @@ def main() -> None:
 
     start = time.time()
 
-    if args.backend == "vllm":
-        saved, failed = run_vllm(request_list, qa_schema, args)
+    if args.backend in ("vllm", "llamacpp"):
+        saved, failed, cost = run_vllm(request_list, qa_schema, args,
+                                       output_dir=output_dir, failed_dir=failed_dir)
     elif args.backend == "claude-sync":
-        saved, failed = run_claude_sync(request_list, qa_schema, args)
+        saved, failed, cost = run_claude_sync(request_list, qa_schema, args,
+                                              output_dir=output_dir, failed_dir=failed_dir)
     else:  # claude-batch (default)
-        saved, failed = run_claude_batch(request_list, qa_schema, batch_stem, args)
+        saved, failed, cost = run_claude_batch(request_list, qa_schema, batch_stem, args,
+                                               output_dir=output_dir, failed_dir=failed_dir)
 
     elapsed = time.time() - start
     log.info("Done in %.1fs — %d saved, %d failed", elapsed, saved, failed)
+    cost_str = f"  Cost: ${cost:.4f}" if cost else ""
+    print(f"Run time: {elapsed:.1f}s  |  Saved: {saved}  Failed: {failed}{cost_str}")
 
 
 if __name__ == "__main__":
