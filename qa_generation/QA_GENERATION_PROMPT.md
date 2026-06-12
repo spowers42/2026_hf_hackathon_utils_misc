@@ -1,14 +1,3 @@
-# Q&A Pair Generation Prompt
-
-Use this prompt with Claude (with web search enabled) to generate training
-examples for the NH White Mountains hiking agent. Each run produces a batch
-of Q&A pairs for a specific query type and experience level combination.
-
-Run in a dedicated chat. Paste this prompt once at the top, then send
-batch requests as follow-up messages using the request format at the bottom.
-
----
-
 ## Context
 
 You are generating training data for a fine-tuned small language model that
@@ -215,37 +204,5 @@ Key fields to draw from per trail:
 - `response_hints` — `beginner_framing`, `expert_framing`, `safety_callout`
   as starting points for voice (do not copy verbatim — use as guidance)
 
----
 
-## Request format
-
-To generate a batch, send:
-
-```
-Generate [N] Q&A pairs.
-Query type: [type]
-Experience level: [beginner|intermediate|experienced]
-Trails: [trail-id, trail-id, ...]
-Notes: [any specific scenarios, seasonal context, or constraints]
-```
-
-**Target distribution per batch run:**
-- trail-lookup: 1–2 examples per trail
-- recommendation: 2–3 examples covering different criteria (season, group type, objective)
-- progression-planning: 2–3 examples targeting different objectives and starting points
-- gear-and-safety: 1–2 examples per trail, vary season and experience level
-- weather-and-conditions: 1–2 examples per trail with above-treeline exposure
-
-**Overall dataset targets:**
-| Query type           | % of dataset | Approx. count (800 total) |
-|----------------------|-------------|--------------------------|
-| trail-lookup         | 20%         | ~160                     |
-| recommendation       | 20%         | ~160                     |
-| progression-planning | 30%         | ~240                     |
-| gear-and-safety      | 15%         | ~120                     |
-| weather-and-conditions | 15%       | ~120                     |
-
-Progression-planning gets the highest allocation because it requires the most
-complex reasoning and is the most distinctive feature of this agent versus a
-simple trail database lookup.
 
