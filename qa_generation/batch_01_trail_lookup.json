@@ -4,23 +4,23 @@
     {
       "query_type": "trail-lookup",
       "experience_level": "beginner",
-      "trail_sample": 2,
-      "count": 3,
+      "trail_sample": 20,
+      "count": 50,
       "notes": "Vary the framing across examples: one asking about the trail generally, one asking about difficulty for a first-timer, one asking about the best season to go"
     },
     {
       "query_type": "trail-lookup",
       "experience_level": "intermediate",
-      "trail_sample": 2,
-      "count": 3,
+      "trail_sample": 20,
+      "count": 50,
       "notes": "Vary: one about route character and what makes it distinctive, one comparing route variants, one about shoulder season conditions"
     },
     {
       "query_type": "trail-lookup",
       "experience_level": "experienced",
-      "trail_sample": 2,
+      "trail_sample": 20,
       "trail_filters": { "tags": ["4k-footer"] },
-      "count": 2,
+      "count": 60,
       "notes": "Terse peer-to-peer tone. Focus on what the experienced hiker actually wants to know: route variants, extensions, technical interest, winter viability"
     }
   ]

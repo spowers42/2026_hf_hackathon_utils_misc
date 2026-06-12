@@ -1,0 +1,46 @@
+version: "3"
+
+vars:
+  MODEL_DIR: "{{.MODEL_DIR | default \"models\"}}"
+  HF_REPO: "{{.HF_REPO | default \"unsloth/Llama-3.3-70B-Instruct-GGUF\"}}"
+  HF_FILE: "{{.HF_FILE | default \"Q4_K_S\"}}"
+  TOOLBOX_NAME: llama-rocm-7.2.4
+  TOOLBOX_IMAGE: docker.io/kyuz0/amd-strix-halo-toolboxes:rocm-7.2.4
+
+tasks:
+  setup-toolbox:
+    desc: Create the ROCm toolbox if it doesn't exist
+    status:
+      - toolbox list | grep -q {{.TOOLBOX_NAME}}
+    cmds:
+      - toolbox create {{.TOOLBOX_NAME}} --image {{.TOOLBOX_IMAGE}} -- --device /dev/dri --device /dev/kfd --group-add video --group-add render --group-add sudo --security-opt seccomp=unconfined
+
+  download:
+    desc: Download the GGUF model from HuggingFace using hf
+    cmds:
+      - mkdir -p {{.MODEL_DIR}}
+      - hf download {{.HF_REPO}} --include "*{{.HF_FILE}}*" --local-dir {{.MODEL_DIR}}
+    preconditions:
+      - sh: test -n "$HF_TOKEN"
+        msg: "HF_TOKEN is not set — required for gated models"
+
+  server:
+    desc: Run llama.cpp server inside the ROCm toolbox on port 8000
+    deps: [setup-toolbox]
+    cmds:
+      - toolbox run -c {{.TOOLBOX_NAME}} llama-server -hf {{.HF_REPO}}:{{.HF_FILE}} --host 0.0.0.0 --port 8000 -c 32768 --n-gpu-layers -1
+
+  qa-local:
+    desc: Run all batch files against the local llama.cpp server
+    dir: qa_generation
+    cmds:
+      - ./run_all_batches.sh local
+
+  qa-claude:
+    desc: Run all batch files via Claude Batch API
+    dir: qa_generation
+    cmds:
+      - ./run_all_batches.sh claude
+    preconditions:
+      - sh: test -n "$ANTHROPIC_API_KEY"
+        msg: "ANTHROPIC_API_KEY is not set"

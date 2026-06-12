@@ -4,26 +4,42 @@
     {
       "query_type": "progression-planning",
       "experience_level": "beginner",
-      "trail_sample": 4,
+      "trail_sample": 30,
       "trail_filters": { "tags": ["4k-footer"] },
-      "count": 3,
+      "count": 80,
       "notes": "Vary the starting point and framing: runner with no hiking background, family wanting to do Washington together, someone who did a few easy hikes last summer. Always include a logical ordered progression toward Washington."
     },
     {
       "query_type": "progression-planning",
       "experience_level": "intermediate",
-      "trail_sample": 4,
+      "trail_sample": 30,
       "trail_filters": { "tags": ["4k-footer"] },
-      "count": 3,
+      "count": 80,
       "notes": "Hiker has done some 4K footers already. Vary objectives: working toward Washington winter route, completing the full 48, planning a Presidential traverse day"
     },
     {
       "query_type": "progression-planning",
       "experience_level": "beginner",
-      "trail_sample": 3,
+      "trail_sample": 25,
       "trail_filters": { "max_fitness": 3 },
-      "count": 2,
+      "count": 45,
       "notes": "Build-up hikes only — no 4K footers required. Hiker wants to work up to their first 4K footer, not Washington specifically. Use easier trails as the scaffolding."
+    },
+        {
+      "query_type": "progression-planning",
+      "experience_level": "experienced",
+      "trail_sample": 15,
+      "trail_filters": { "tags": ["4k-footer"] },
+      "count": 15,
+      "notes": "Experienced hiker with lots of experience, looking to either do extreme in a day like winter presidential traverse, or preparing for big expeditions out west or alaska.  "
+    },
+    {
+      "query_type": "progression-planning",
+      "experience_level": "intermediate",
+      "trail_sample": 30,
+      "trail_filters": { "tags": ["4k-footer", "scrambling"] },
+      "count": 30,
+      "notes": "Hiker has done some 4K footers already. Vary objectives: working towards bigger days requiring scrambling, looking to do trip out west requiring scrambling and 3rd or 4th class terrain."
     }
   ]
 }

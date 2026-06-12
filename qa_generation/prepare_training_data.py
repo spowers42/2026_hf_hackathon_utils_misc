@@ -21,6 +21,7 @@ Usage:
 import argparse
 import json
 import logging
+import random
 import sys
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -116,7 +117,6 @@ def stratified_split(
     Split records into train/eval, stratified by query_type so all five
     query types are represented in the eval set proportionally.
     """
-    import random
     rng = random.Random(seed)
 
     by_type: dict[str, list[dict]] = defaultdict(list)

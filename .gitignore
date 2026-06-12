@@ -1,0 +1,4 @@
+models/
+qa_generation/output/
+qa_generation/__pycache__/
+**/.env.*
