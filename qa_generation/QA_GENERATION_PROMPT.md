@@ -183,6 +183,58 @@ Return a JSON array of objects, 1 object per Question answer pair. Each object m
 For multi-turn examples, extend `messages` with additional user/assistant
 pairs after the first assistant turn.
 
+### ✅ Good — raw JSON array, no preamble
+
+```json
+[
+  {
+    "id": "mt-washington_trail-lookup_beginner_001",
+    "meta": {
+      "query_type": "trail-lookup",
+      "experience_level": "beginner",
+      "trail_refs": ["mt-washington"],
+      "hazard_types_present": ["weather-and-environment", "terrain-and-fall"],
+      "includes_links": true,
+      "reviewed": false,
+      "review_notes": ""
+    },
+    "messages": [
+      {"role": "system", "content": "You are a knowledgeable..."},
+      {"role": "user", "content": "What's it like to hike Mt Washington?"},
+      {"role": "assistant", "content": "Mt Washington is a serious hike..."}
+    ]
+  }
+]
+```
+
+### ❌ Bad — preamble / markdown fences
+
+    Here are the Q&A pairs you requested:
+    
+    ```json
+    [
+      {
+        "id": "mt-washington_trail-lookup_beginner_001",
+        ...
+      }
+    ]
+    ```
+    
+    I hope this helps!
+
+### ❌ Bad — explanation after the array
+
+    [
+      {
+        "id": "mt-washington_trail-lookup_beginner_001",
+        ...
+      }
+    ]
+    This gives you 1 pair covering the beginner trail-lookup case.
+
+Both bad examples above would fail extraction because the parser expects
+only the raw JSON array — nothing before, nothing after, no fences.
+
 Return only the JSON array. No preamble, explanation, or markdown fences.
 
 ---
