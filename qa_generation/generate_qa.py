@@ -122,6 +122,7 @@ DEFAULT_RETRY_ATTEMPTS = 3
 DEFAULT_RETRY_DELAY    = 5      # seconds between retries on transient errors
 DEFAULT_POLL_INTERVAL  = 30     # seconds between batch status polls
 DEFAULT_POLL_TIMEOUT   = 7200   # 2 hours before giving up on a batch
+MAX_SHORTFALL_RETRIES  = 3      # extra API calls when model returns fewer than count
 
 ANTHROPIC_MESSAGES_URL     = "https://api.anthropic.com/v1/messages"
 ANTHROPIC_BATCH_CREATE_URL = "https://api.anthropic.com/v1/messages/batches"
@@ -296,13 +297,19 @@ def select_trails(request: dict, trail_index: dict[str, dict],
 # ===========================================================================
 
 def build_messages(system_prompt: str, request: dict,
-                   trail_sheets: dict[str, dict]) -> list[dict]:
-    """Return the [system, user] messages list for one generation request."""
+                   trail_sheets: dict[str, dict],
+                   remaining: int | None = None) -> list[dict]:
+    """Return the [system, user] messages list for one generation request.
+
+    If *remaining* is set (shortfall retry), the prompt asks for that many
+    extra pairs instead of the original count.
+    """
     selected_ids = list(trail_sheets.keys())
     trails_line = ", ".join(selected_ids) if selected_ids else "any appropriate trails"
+    target = remaining if remaining is not None else request.get("count", 3)
 
     lines = [
-        f"Generate {request.get('count', 3)} Q&A pairs.",
+        f"Generate exactly {target} Q&A pairs. Return ONLY a JSON array of {target} objects — no preamble, no markdown fences.",
         f"Query type: {request['query_type']}",
         f"Experience level: {request['experience_level']}",
         f"Trails: {trails_line}",
@@ -313,6 +320,9 @@ def build_messages(system_prompt: str, request: dict,
         lines.append("\n## Trail fact sheets for this batch\n")
         for tid, sheet in trail_sheets.items():
             lines.append(f"### {tid}\n```json\n{_trail_json(tid, sheet)}\n```\n")
+
+    if remaining is not None:
+        lines.append(f"\nNote: You previously generated some pairs for this batch. Generate {target} additional pairs that are distinct from the ones already produced.")
 
     return [
         {"role": "system", "content": system_prompt},
@@ -731,63 +741,112 @@ def build_request_list(
 
 def run_vllm(request_list, qa_schema, args,
              output_dir: Path = OUTPUT_DIR,
-             failed_dir: Path = FAILED_DIR):
+             failed_dir: Path = FAILED_DIR,
+             trail_index: dict | None = None,
+             rng: random.Random | None = None):
     total_saved = total_failed = 0
     for custom_id, messages, request_ctx in request_list:
-        raw = call_vllm(
-            messages=messages,
-            vllm_url=args.vllm_url,
-            model=args.vllm_model,
-            max_tokens=args.max_tokens,
-            temperature=args.temperature,
-            retry_attempts=args.retries,
-            retry_delay=args.retry_delay,
-            timeout=args.timeout,
-        )
-        if raw is None:
-            write_failed(custom_id, request_ctx, None, ["No response from vLLM"],
-                         failed_dir=failed_dir)
-            total_failed += 1
-        else:
+        target = request_ctx.get("count", 3)
+        saved_this = 0
+
+        for attempt in range(MAX_SHORTFALL_RETRIES + 1):
+            remaining = max(target - saved_this, 1)
+            if attempt > 0:
+                # Re-resolve trail sheets and build a shortfall prompt
+                if trail_index and rng:
+                    sheets = select_trails(request_ctx, trail_index, rng)
+                    messages = build_messages(
+                        next(m["content"] for m in messages if m["role"] == "system"),
+                        request_ctx, sheets, remaining=remaining,
+                    )
+                else:
+                    break
+
+            raw = call_vllm(
+                messages=messages,
+                vllm_url=args.vllm_url,
+                model=args.vllm_model,
+                max_tokens=args.max_tokens,
+                temperature=args.temperature,
+                retry_attempts=args.retries,
+                retry_delay=args.retry_delay,
+                timeout=args.timeout,
+            )
+            if raw is None:
+                if attempt == 0:
+                    write_failed(custom_id, request_ctx, None, ["No response from vLLM"],
+                                 failed_dir=failed_dir)
+                    total_failed += 1
+                break
+
             s, f = process_raw_response(raw, custom_id, request_ctx, qa_schema,
                                         output_dir=output_dir,
                                         failed_dir=failed_dir)
-            total_saved += s
+            saved_this += s
             total_failed += f
+
+            if saved_this >= target:
+                break
+
+        total_saved += saved_this
     return total_saved, total_failed, 0.0
 
 
 def run_claude_sync(request_list, qa_schema, args,
                     output_dir: Path = OUTPUT_DIR,
-                    failed_dir: Path = FAILED_DIR):
+                    failed_dir: Path = FAILED_DIR,
+                    trail_index: dict | None = None,
+                    rng: random.Random | None = None):
     api_key = _require_api_key()
     total_saved = total_failed = 0
     total_input_tokens = total_output_tokens = 0
     for custom_id, messages, request_ctx in request_list:
-        result = call_claude_sync(
-            messages=messages,
-            api_key=api_key,
-            model=args.claude_model,
-            max_tokens=args.max_tokens,
-            temperature=args.temperature,
-            retry_attempts=args.retries,
-            retry_delay=args.retry_delay,
-            timeout=args.timeout,
-        )
-        if result is None:
-            write_failed(custom_id, request_ctx, None,
-                         ["No response from Claude sync"],
-                         failed_dir=failed_dir)
-            total_failed += 1
-        else:
+        target = request_ctx.get("count", 3)
+        saved_this = 0
+
+        for attempt in range(MAX_SHORTFALL_RETRIES + 1):
+            remaining = max(target - saved_this, 1)
+            if attempt > 0:
+                if trail_index and rng:
+                    sheets = select_trails(request_ctx, trail_index, rng)
+                    messages = build_messages(
+                        next(m["content"] for m in messages if m["role"] == "system"),
+                        request_ctx, sheets, remaining=remaining,
+                    )
+                else:
+                    break
+
+            result = call_claude_sync(
+                messages=messages,
+                api_key=api_key,
+                model=args.claude_model,
+                max_tokens=args.max_tokens,
+                temperature=args.temperature,
+                retry_attempts=args.retries,
+                retry_delay=args.retry_delay,
+                timeout=args.timeout,
+            )
+            if result is None:
+                if attempt == 0:
+                    write_failed(custom_id, request_ctx, None,
+                                 ["No response from Claude sync"],
+                                 failed_dir=failed_dir)
+                    total_failed += 1
+                break
+
             raw, usage = result
             total_input_tokens += usage.get("input_tokens", 0)
             total_output_tokens += usage.get("output_tokens", 0)
             s, f = process_raw_response(raw, custom_id, request_ctx, qa_schema,
                                         output_dir=output_dir,
                                         failed_dir=failed_dir)
-            total_saved += s
+            saved_this += s
             total_failed += f
+
+            if saved_this >= target:
+                break
+
+        total_saved += saved_this
 
     cost = claude_cost(args.claude_model, total_input_tokens, total_output_tokens)
     log.info("Claude sync usage: %d in / %d out — cost: $%.4f",
@@ -1108,10 +1167,12 @@ def main() -> None:
 
     if args.backend in ("vllm", "llamacpp"):
         saved, failed, cost = run_vllm(request_list, qa_schema, args,
-                                       output_dir=output_dir, failed_dir=failed_dir)
+                                       output_dir=output_dir, failed_dir=failed_dir,
+                                       trail_index=trail_index, rng=rng)
     elif args.backend == "claude-sync":
         saved, failed, cost = run_claude_sync(request_list, qa_schema, args,
-                                              output_dir=output_dir, failed_dir=failed_dir)
+                                              output_dir=output_dir, failed_dir=failed_dir,
+                                              trail_index=trail_index, rng=rng)
     else:  # claude-batch (default)
         saved, failed, cost = run_claude_batch(request_list, qa_schema, batch_stem, args,
                                                output_dir=output_dir, failed_dir=failed_dir)

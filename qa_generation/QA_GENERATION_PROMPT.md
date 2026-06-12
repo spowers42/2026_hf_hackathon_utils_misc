@@ -169,7 +169,7 @@ means a tumbling fall — trekking poles significantly reduce this risk."
 
 ## Output format
 
-Return a JSON array of objects. Each object must match this structure:
+Return a JSON array of objects, 1 object per Question answer pair. Each object must match this structure:
 
 ```json
 {
