@@ -301,8 +301,8 @@ def build_messages(system_prompt: str, request: dict,
                    remaining: int | None = None) -> list[dict]:
     """Return the [system, user] messages list for one generation request.
 
-    If *remaining* is set (shortfall retry), the prompt asks for that many
-    extra pairs instead of the original count.
+    If *remaining* is set, the prompt asks for that many pairs;
+    otherwise it uses ``request["count"]``.
     """
     selected_ids = list(trail_sheets.keys())
     trails_line = ", ".join(selected_ids) if selected_ids else "any appropriate trails"
@@ -320,9 +320,6 @@ def build_messages(system_prompt: str, request: dict,
         lines.append("\n## Trail fact sheets for this batch\n")
         for tid, sheet in trail_sheets.items():
             lines.append(f"### {tid}\n```json\n{_trail_json(tid, sheet)}\n```\n")
-
-    if remaining is not None:
-        lines.append(f"\nNote: You previously generated some pairs for this batch. Generate {target} additional pairs that are distinct from the ones already produced.")
 
     return [
         {"role": "system", "content": system_prompt},
@@ -394,7 +391,8 @@ def write_failed(label: str, request_ctx: dict, raw: str | None,
 def process_raw_response(raw: str, label: str, request_ctx: dict,
                          qa_schema: dict,
                          output_dir: Path = OUTPUT_DIR,
-                         failed_dir: Path = FAILED_DIR) -> tuple[int, int]:
+                         failed_dir: Path = FAILED_DIR,
+                         system_prompt: str | None = None) -> tuple[int, int]:
     """Parse, validate, and save records from one raw model response.
     Returns (saved_count, failed_count)."""
     records = extract_json_array(raw)
@@ -414,15 +412,35 @@ def process_raw_response(raw: str, label: str, request_ctx: dict,
     for rec in records:
         errors = validate_record(rec, qa_schema)
         if errors:
-            log.warning("[%s] Record failed validation: %s", label, errors[0])
-            write_failed(label, request_ctx, raw, errors,
-                         failed_dir=failed_dir)
-            failed += 1
+            # Auto-fix: if record is missing the system message, inject it
+            if system_prompt and _is_missing_system_msg(rec):
+                rec.setdefault("messages", []).insert(
+                    0, {"role": "system", "content": system_prompt}
+                )
+                errors = validate_record(rec, qa_schema)
+            if errors:
+                log.warning("[%s] Record failed validation: %s", label, errors[0])
+                write_failed(label, request_ctx, raw, errors,
+                             failed_dir=failed_dir)
+                failed += 1
+            else:
+                p = write_qa_record(rec, output_dir)
+                log.info("[%s] Saved (auto-fixed system msg): %s", label, p.name)
+                saved += 1
         else:
             p = write_qa_record(rec, output_dir)
             log.info("[%s] Saved: %s", label, p.name)
             saved += 1
     return saved, failed
+
+
+def _is_missing_system_msg(rec: Any) -> bool:
+    msgs = rec.get("messages", [])
+    return (
+        len(msgs) >= 2
+        and msgs[0].get("role") == "user"
+        and msgs[1].get("role") == "assistant"
+    )
 
 
 # ===========================================================================
@@ -631,7 +649,8 @@ def retrieve_claude_batch_results(
     output_dir: Path = OUTPUT_DIR,
     failed_dir: Path = FAILED_DIR,
     model: str = "unknown",
-) -> tuple[int, int]:
+    system_prompt: str | None = None,
+) -> tuple[int, int, float]:
     """
     Stream results from a completed batch.
     request_ctx_map maps custom_id → original request dict (for failure records).
@@ -645,7 +664,7 @@ def retrieve_claude_batch_results(
         resp.raise_for_status()
     except requests.exceptions.RequestException as e:
         log.error("Failed to retrieve batch results: %s", e)
-        return 0, 0
+        return 0, 0, 0
 
     total_saved = total_failed = 0
     total_input_tokens = total_output_tokens = 0
@@ -671,7 +690,8 @@ def retrieve_claude_batch_results(
             total_output_tokens += usage.get("output_tokens", 0)
             saved, failed = process_raw_response(raw, custom_id, request_ctx, qa_schema,
                                                  output_dir=output_dir,
-                                                 failed_dir=failed_dir)
+                                                 failed_dir=failed_dir,
+                                                 system_prompt=system_prompt)
             total_saved += saved
             total_failed += failed
         elif result_type == "errored":
@@ -739,6 +759,15 @@ def build_request_list(
 # Top-level runners
 # ===========================================================================
 
+CHUNK_SIZE = 5
+
+
+def _chunk_count(target: int) -> list[int]:
+    """Split *target* into CHUNK_SIZE-sized pieces.  Last piece may be smaller."""
+    full, rem = divmod(target, CHUNK_SIZE)
+    return [CHUNK_SIZE] * full + ([rem] if rem else [])
+
+
 def run_vllm(request_list, qa_schema, args,
              output_dir: Path = OUTPUT_DIR,
              failed_dir: Path = FAILED_DIR,
@@ -748,22 +777,23 @@ def run_vllm(request_list, qa_schema, args,
     for custom_id, messages, request_ctx in request_list:
         target = request_ctx.get("count", 3)
         saved_this = 0
+        sys_prompt = next(
+            (m["content"] for m in messages if m["role"] == "system"), None
+        )
 
-        for attempt in range(MAX_SHORTFALL_RETRIES + 1):
-            remaining = max(target - saved_this, 1)
-            if attempt > 0:
-                # Re-resolve trail sheets and build a shortfall prompt
-                if trail_index and rng:
-                    sheets = select_trails(request_ctx, trail_index, rng)
-                    messages = build_messages(
-                        next(m["content"] for m in messages if m["role"] == "system"),
-                        request_ctx, sheets, remaining=remaining,
-                    )
-                else:
-                    break
+        for chunk_size in _chunk_count(target):
+            if trail_index and rng:
+                sheets = select_trails(request_ctx, trail_index, rng)
+                msgs = build_messages(
+                    sys_prompt, request_ctx, sheets, remaining=chunk_size,
+                )
+            else:
+                log.error("[%s] No trail_index/rng — cannot chunk build messages", custom_id)
+                total_failed += chunk_size
+                continue
 
             raw = call_vllm(
-                messages=messages,
+                messages=msgs,
                 vllm_url=args.vllm_url,
                 model=args.vllm_model,
                 max_tokens=args.max_tokens,
@@ -773,20 +803,17 @@ def run_vllm(request_list, qa_schema, args,
                 timeout=args.timeout,
             )
             if raw is None:
-                if attempt == 0:
-                    write_failed(custom_id, request_ctx, None, ["No response from vLLM"],
-                                 failed_dir=failed_dir)
-                    total_failed += 1
-                break
+                log.warning("[%s] chunk of %d — no response, counted as failed",
+                            custom_id, chunk_size)
+                total_failed += chunk_size
+                continue
 
             s, f = process_raw_response(raw, custom_id, request_ctx, qa_schema,
                                         output_dir=output_dir,
-                                        failed_dir=failed_dir)
+                                        failed_dir=failed_dir,
+                                        system_prompt=sys_prompt)
             saved_this += s
             total_failed += f
-
-            if saved_this >= target:
-                break
 
         total_saved += saved_this
     return total_saved, total_failed, 0.0
@@ -803,21 +830,24 @@ def run_claude_sync(request_list, qa_schema, args,
     for custom_id, messages, request_ctx in request_list:
         target = request_ctx.get("count", 3)
         saved_this = 0
+        sys_prompt = next(
+            (m["content"] for m in messages if m["role"] == "system"), None
+        )
 
-        for attempt in range(MAX_SHORTFALL_RETRIES + 1):
-            remaining = max(target - saved_this, 1)
-            if attempt > 0:
-                if trail_index and rng:
-                    sheets = select_trails(request_ctx, trail_index, rng)
-                    messages = build_messages(
-                        next(m["content"] for m in messages if m["role"] == "system"),
-                        request_ctx, sheets, remaining=remaining,
-                    )
-                else:
-                    break
+        for chunk_size in _chunk_count(target):
+            if trail_index and rng:
+                sheets = select_trails(request_ctx, trail_index, rng)
+                msgs = build_messages(
+                    sys_prompt, request_ctx, sheets, remaining=chunk_size,
+                )
+            else:
+                log.error("[%s] No trail_index/rng — cannot chunk build messages",
+                          custom_id)
+                total_failed += chunk_size
+                continue
 
             result = call_claude_sync(
-                messages=messages,
+                messages=msgs,
                 api_key=api_key,
                 model=args.claude_model,
                 max_tokens=args.max_tokens,
@@ -827,24 +857,20 @@ def run_claude_sync(request_list, qa_schema, args,
                 timeout=args.timeout,
             )
             if result is None:
-                if attempt == 0:
-                    write_failed(custom_id, request_ctx, None,
-                                 ["No response from Claude sync"],
-                                 failed_dir=failed_dir)
-                    total_failed += 1
-                break
+                log.warning("[%s] chunk of %d — no response, counted as failed",
+                            custom_id, chunk_size)
+                total_failed += chunk_size
+                continue
 
             raw, usage = result
             total_input_tokens += usage.get("input_tokens", 0)
             total_output_tokens += usage.get("output_tokens", 0)
             s, f = process_raw_response(raw, custom_id, request_ctx, qa_schema,
                                         output_dir=output_dir,
-                                        failed_dir=failed_dir)
+                                        failed_dir=failed_dir,
+                                        system_prompt=sys_prompt)
             saved_this += s
             total_failed += f
-
-            if saved_this >= target:
-                break
 
         total_saved += saved_this
 
@@ -857,29 +883,44 @@ def run_claude_sync(request_list, qa_schema, args,
 
 def run_claude_batch(request_list, qa_schema, batch_stem, args,
                      output_dir: Path = OUTPUT_DIR,
-                     failed_dir: Path = FAILED_DIR):
+                     failed_dir: Path = FAILED_DIR,
+                     trail_index: dict | None = None,
+                     rng: random.Random | None = None):
     api_key = _require_api_key()
 
-    # Build Anthropic batch payload
+    # Build Anthropic batch payload (chunked: CHUNK_SIZE pairs per request)
     requests_payload = []
     request_ctx_map = {}
-    system = next(
+    sys_prompt = next(
         (m["content"] for _, msgs, _ in request_list
          for m in msgs if m["role"] == "system"), ""
     )
     for custom_id, messages, request_ctx in request_list:
-        user_messages = [m for m in messages if m["role"] != "system"]
-        requests_payload.append({
-            "custom_id": custom_id,
-            "params": {
-                "model": args.claude_model,
-                "max_tokens": args.max_tokens,
-                "temperature": args.temperature,
-                "system": system,
-                "messages": user_messages,
-            },
-        })
-        request_ctx_map[custom_id] = request_ctx
+        target = request_ctx.get("count", 3)
+        chunk_idx = 0
+        for chunk_size in _chunk_count(target):
+            chunk_idx += 1
+            cid = f"{custom_id}_chunk{chunk_idx}"
+            if trail_index and rng:
+                sheets = select_trails(request_ctx, trail_index, rng)
+                msgs = build_messages(
+                    sys_prompt, request_ctx, sheets, remaining=chunk_size,
+                )
+            else:
+                log.error("[%s] No trail_index/rng — using pre-built messages", cid)
+                msgs = messages
+            user_messages = [m for m in msgs if m["role"] != "system"]
+            requests_payload.append({
+                "custom_id": cid,
+                "params": {
+                    "model": args.claude_model,
+                    "max_tokens": args.max_tokens,
+                    "temperature": args.temperature,
+                    "system": sys_prompt,
+                    "messages": user_messages,
+                },
+            })
+            request_ctx_map[cid] = request_ctx
 
     # Submit
     batch_id = submit_claude_batch(requests_payload, api_key, batch_stem)
@@ -900,6 +941,8 @@ def run_claude_batch(request_list, qa_schema, batch_stem, args,
     )
     if final_status != "succeeded":
         log.error("Batch ended with status: %s", final_status)
+        if not final_status:
+            final_status = "None"
         _update_pending_meta(batch_id, status=final_status, finished_at=datetime.now().isoformat())
         return 0, len(request_list), 0.0
 
@@ -951,6 +994,8 @@ def run_retrieve_batch(batch_id: str, qa_schema: dict, args,
         final = poll_claude_batch(batch_id, api_key, args.poll_interval, args.poll_timeout)
         if final != "succeeded":
             log.error("Batch ended with status: %s", final)
+            if not final:
+                final = "None"
             _update_pending_meta(batch_id, status=final, finished_at=datetime.now().isoformat())
             sys.exit(1)
 
@@ -1175,7 +1220,8 @@ def main() -> None:
                                               trail_index=trail_index, rng=rng)
     else:  # claude-batch (default)
         saved, failed, cost = run_claude_batch(request_list, qa_schema, batch_stem, args,
-                                               output_dir=output_dir, failed_dir=failed_dir)
+                                               output_dir=output_dir, failed_dir=failed_dir,
+                                               trail_index=trail_index, rng=rng)
 
     elapsed = time.time() - start
     log.info("Done in %.1fs — %d saved, %d failed", elapsed, saved, failed)

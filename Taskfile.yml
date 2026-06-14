@@ -44,3 +44,18 @@ tasks:
     preconditions:
       - sh: test -n "$ANTHROPIC_API_KEY"
         msg: "ANTHROPIC_API_KEY is not set"
+
+  prepare-dataset:
+    desc: Convert generated Q&A JSON files into an HF dataset for Unsloth SFT
+    dir: qa_generation
+    vars:
+      MODEL: '{{.MODEL | default "unsloth/Llama-3.2-3B-Instruct"}}'
+      EVAL_SPLIT: '{{.EVAL_SPLIT | default "0.1"}}'
+      SEED: '{{.SEED | default "42"}}'
+    cmds:
+      - >
+        python prepare_training_data.py
+        --model {{.MODEL}}
+        --eval-split {{.EVAL_SPLIT}}
+        --seed {{.SEED}}
+        {{if .DRY_RUN}}--dry-run{{end}}
