@@ -37,15 +37,14 @@ SCRIPT_DIR = Path(__file__).parent
 DEFAULT_INPUT_DIR  = SCRIPT_DIR / "output" / "qa_pairs"
 DEFAULT_OUTPUT_DIR = SCRIPT_DIR / "output" / "hf_dataset"
 
-# Unsloth-quantized model IDs for the three candidate base models.
-# These are used only to apply the correct chat template for the text column.
-MODEL_CHAT_TEMPLATES = {
-    "unsloth/Llama-3.2-3B-Instruct":  "llama-3.2",
-    "unsloth/Llama-3.2-1B-Instruct":  "llama-3.2",
-    "unsloth/Phi-4-mini-Instruct":     "phi-4",
-    "unsloth/gemma-3-4b-it":           "gemma-3",
-    "unsloth/gemma-3-1b-it":           "gemma-3",
-    # Add others as needed
+# Supported base models. The tokenizer's built-in chat template is used
+# (no unsloth dependency — this script runs outside the training environment).
+SUPPORTED_MODELS = {
+    "unsloth/Llama-3.2-3B-Instruct",
+    "unsloth/Llama-3.2-1B-Instruct",
+    "unsloth/Phi-4-mini-Instruct",
+    "unsloth/gemma-3-4b-it",
+    "unsloth/gemma-3-1b-it",
 }
 DEFAULT_MODEL = "unsloth/Llama-3.2-3B-Instruct"
 
@@ -191,7 +190,7 @@ Examples:
     p.add_argument("--output-dir", default=str(DEFAULT_OUTPUT_DIR),
                    help=f"Where to write the HF dataset (default: {DEFAULT_OUTPUT_DIR})")
     p.add_argument("--model", default=DEFAULT_MODEL,
-                   choices=list(MODEL_CHAT_TEMPLATES.keys()),
+                   choices=sorted(SUPPORTED_MODELS),
                    help=f"Base model to apply chat template for (default: {DEFAULT_MODEL})")
     p.add_argument("--eval-split", type=float, default=0.1,
                    help="Fraction of data to reserve for eval (default: 0.1)")
@@ -222,20 +221,8 @@ Examples:
 
     # ── 2. Load tokenizer ─────────────────────────────────────────────────
     log.info("Loading tokenizer for %s …", args.model)
-    try:
-        from unsloth.chat_templates import get_chat_template
-        from transformers import AutoTokenizer
-        tokenizer = AutoTokenizer.from_pretrained(args.model)
-        chat_template_name = MODEL_CHAT_TEMPLATES[args.model]
-        tokenizer = get_chat_template(tokenizer, chat_template=chat_template_name)
-        log.info("Chat template applied: %s", chat_template_name)
-    except ImportError:
-        log.error(
-            "unsloth is not installed. Install it in your training environment "
-            "(Colab/Kaggle) and run this script there, or install with:\n"
-            "  pip install unsloth"
-        )
-        sys.exit(1)
+    from transformers import AutoTokenizer
+    tokenizer = AutoTokenizer.from_pretrained(args.model)
 
     # ── 3. Split ──────────────────────────────────────────────────────────
     train_records, eval_records = stratified_split(records, args.eval_split, args.seed)

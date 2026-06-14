@@ -25,8 +25,8 @@ BATCHES=(
   "$SCRIPT_DIR/batch_01_trail_lookup.json"
   "$SCRIPT_DIR/batch_02_progression.json"
   "$SCRIPT_DIR/batch_03_gear_safety.json"
- # "$SCRIPT_DIR/batch_04_recommendation.json"
- # "$SCRIPT_DIR/batch_05_weather.json"
+  "$SCRIPT_DIR/batch_04_recommendation.json"
+  "$SCRIPT_DIR/batch_05_weather.json"
 )
 
 overall_start=$(date +%s)
